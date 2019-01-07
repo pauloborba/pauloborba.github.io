@@ -1,0 +1,28 @@
+{
+  "name": "zuix-html-pwa",
+  "version": "1.0.1",
+  "description": "Progressive Web App template with zero build steps.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server --cors ./"
+  },
+  "keywords": [
+    "zuix",
+    "html",
+    "pwa",
+    "simple",
+    "webapp"
+  ],
+  "author": "G-Labs",
+  "contributors": [],
+  "license": "MIT",
+  "homepage": "https://github.com/zuixjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zuixjs/zuix-html-pwa"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}

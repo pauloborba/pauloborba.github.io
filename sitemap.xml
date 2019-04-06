@@ -1,0 +1,1760 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/post/my-article-name/</loc>
+      <lastmod>2019-01-08T20:14:56-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2018analyzing_conflict_predictors_in_open-source_java_projects_from_github_and_travis_ci/</loc>
+      <lastmod>2018-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2018detecting_overly_strong_preconditions_in_refactoring_engines/</loc>
+      <lastmod>2018-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2018understanding_semi-structured_merge_conflict_characteristics_in_open-source_java_projects/</loc>
+      <lastmod>2018-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2017an_idiom_to_represent_data_types_in_alloy/</loc>
+      <lastmod>2017-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2017empirical_assessment_of_two_approaches_for_specifying_software_product_line_use_case_scenarios/</loc>
+      <lastmod>2017-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</loc>
+      <lastmod>2017-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge/</loc>
+      <lastmod>2017-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/post/</loc>
+      <lastmod>2018-10-14T02:15:45+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2017products_go_green__worst-case_energy_consumption_in_software_product_lines/</loc>
+      <lastmod>2017-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/</loc>
+      <lastmod>2018-10-14T02:15:45+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/talk/</loc>
+      <lastmod>2018-10-14T02:15:45+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2017should_we_replace_our_merge_tools/</loc>
+      <lastmod>2017-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2016assessing_idioms_for_a_flexible_feature_binding_time/</loc>
+      <lastmod>2016-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2016assessing_fine-grained_feature_dependencies/</loc>
+      <lastmod>2016-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2016coevolution_of_variability_models_and_related_software_artifacts/</loc>
+      <lastmod>2016-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2016partially_safe_evolution_of_software_product_lines/</loc>
+      <lastmod>2016-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2016programming_the_universe__the_first_commandment_of_software_engineering_for_all_varieties_of_information_systems/</loc>
+      <lastmod>2016-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2016safe_evolution_of_software_product_lines__feature_extraction_scenarios/</loc>
+      <lastmod>2016-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2015a_product_line_of_theories_for_reasoning_about_safe_evolution_of_product_lines/</loc>
+      <lastmod>2015-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2015assessing_semistructured_merge_in_version_control_systems__a_replicated_experiment/</loc>
+      <lastmod>2015-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2015improving_performance_and_maintainability_of_objectcloning_with_lazy_clones__an_empirical_evaluation/</loc>
+      <lastmod>2015-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2015safe_evolution_of_product_populations_and_multi_product_lines/</loc>
+      <lastmod>2015-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2015safe_evolution_templates_for_software_product_lines/</loc>
+      <lastmod>2015-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2014a_toolset_for_checking_spl_refinements/</loc>
+      <lastmod>2014-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2014controlled_experiments_comparing_black-box_testing_strategies_for_software_product_lines/</loc>
+      <lastmod>2014-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2014evaluating_scenario-based_spl_requirements_approaches__the_case_for_modularity_stability_and_expressiveness/</loc>
+      <lastmod>2014-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2014feature_maintenance_with_emergent_interfaces/</loc>
+      <lastmod>2014-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2014flexible_feature_binding_with_aspectj-based_idioms/</loc>
+      <lastmod>2014-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2014making_refactoring_safer_through_impact_analysis/</loc>
+      <lastmod>2014-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2014spllift-_statically_analyzing_software_product_lines_in_minutes_instead_of_years/</loc>
+      <lastmod>2014-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2014semistructured_merge_on_git__an_assessment/</loc>
+      <lastmod>2014-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2013a_model-driven_approach_to_specifying_and_monitoring_controlled_experiments_in_software_engineering/</loc>
+      <lastmod>2013-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2013a_design_rule_language_for_aspect-oriented_programming/</loc>
+      <lastmod>2013-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2013aspectj-based_idioms_for_flexible_feature_binding/</loc>
+      <lastmod>2013-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2013coevolution_of_variability_models_and_related_artifacts__a_case_study_from_the_linux_kernel/</loc>
+      <lastmod>2013-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2013improving_modular_reasoning_on_preprocessor-based_systems/</loc>
+      <lastmod>2013-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2013intraprocedural_dataflow_analysis_for_software_product_lines/</loc>
+      <lastmod>2013-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2013modular_aspect-oriented_design_rule_enforcement_with_xpidrs/</loc>
+      <lastmod>2013-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2013spllift__statically_analyzing_software_product_lines_in_minutes_instead_of_years/</loc>
+      <lastmod>2013-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2013spllift__transparent_and_efficient_reuse_of_ifds-based_static_program_analyses_for_software_product_lines/</loc>
+      <lastmod>2013-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2013safe_composition_of_configuration_knowledge-based_software_product_lines/</loc>
+      <lastmod>2013-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2013the_crosscutting_impact_of_the_aosd_brazilian_research_community/</loc>
+      <lastmod>2013-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2012a_theory_of_software_product_line_refinement/</loc>
+      <lastmod>2012-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2012comparing_two_black-box_testing_strategies_for_software_product_lines/</loc>
+      <lastmod>2012-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2012emergo__a_tool_for_improving_maintainability_of_preprocessor-based_product_lines/</loc>
+      <lastmod>2012-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2012intraprocedural_dataflow_analysis_for_software_product_lines/</loc>
+      <lastmod>2012-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2012investigating_the_safe_evolution_of_software_product_lines/</loc>
+      <lastmod>2012-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2012making_software_product_line_evolution_safer/</loc>
+      <lastmod>2012-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2012modularity_analysis_of_use_case_implementations/</loc>
+      <lastmod>2012-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2012on_the_impact_of_feature_dependencies_when_maintaining_preprocessor-based_software_product_lines/</loc>
+      <lastmod>2012-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2012special_issue_with_selected_papers_from_the_23rd_brazilian_symposium_on_software_engineering/</loc>
+      <lastmod>2012-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2012towards_a_better_understanding_of_feature_dependencies_in_preprocessor-based_systems/</loc>
+      <lastmod>2012-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2011a_tool_for_improving_maintainabiliy_of_preprocessor-based_product_lines/</loc>
+      <lastmod>2011-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2011assessing_idioms_for_implementing_features_with_flexible_binding_times/</loc>
+      <lastmod>2011-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2011automatically_checking_feature_model_refactorings/</loc>
+      <lastmod>2011-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2011integrating_product_line_refactoring_and_derivation_tools__challenges_and_potential_solutions/</loc>
+      <lastmod>2011-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2011investigating_the_safe_evolution_of_software_product_lines/</loc>
+      <lastmod>2011-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2011on_the_impact_of_feature_dependencies_when_maintaining_preprocessor-based_software_product_lines/</loc>
+      <lastmod>2011-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2011pbl_no_ensino_de_testes_de_software__uma_experi%C3%AAncia_pr%C3%A1tica/</loc>
+      <lastmod>2011-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2011safe_composition_of_configuration_knowledge-based_software_product_lines/</loc>
+      <lastmod>2011-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2011synchronizing_model_and_program_refactoring/</loc>
+      <lastmod>2011-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</loc>
+      <lastmod>2011-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2011using_pbl_to_develop_software_test_engineers/</loc>
+      <lastmod>2011-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2010a_theory_of_software_product_line_refinement/</loc>
+      <lastmod>2010-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2010assessment_of_product_derivation_tools_in_the_evolution_of_software_product_lines__an_empirical_study/</loc>
+      <lastmod>2010-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2010emergent_feature_modularization/</loc>
+      <lastmod>2010-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2010estudo_comparativo_de_ferramentas_de_deriva%C3%A7%C3%A3o_dirigidas_por_modelos__resultados_preliminares/</loc>
+      <lastmod>2010-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2010modularity_analysis_of_use_case_implementations/</loc>
+      <lastmod>2010-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2010synchronizing_model_and_program_refactoring/</loc>
+      <lastmod>2010-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2010target__a_model_based_product_line_testing_tool/</loc>
+      <lastmod>2010-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2010towards_feature_modularization/</loc>
+      <lastmod>2010-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2009a_complete_set_of_object_modeling_laws_for_alloy/</loc>
+      <lastmod>2009-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2009a_design_rule_language_for_aspect-oriented_programming/</loc>
+      <lastmod>2009-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2009does_aspectj_provide_modularity_when_implementing_features_with_flexible_binding_times/</loc>
+      <lastmod>2009-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2009estimating_manual_test_execution_effort_and_capacity_based_on_execution_points/</loc>
+      <lastmod>2009-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2009hephaestus__a_tool_for_managing_spl_variabilities/</loc>
+      <lastmod>2009-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2009improving_guidance_when_restructuring_variabilities_in_software_product_lines/</loc>
+      <lastmod>2009-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2009modeling_scenario_variability_as_crosscutting_mechanisms/</loc>
+      <lastmod>2009-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2009modularity_analysis_of_use_case_implementations/</loc>
+      <lastmod>2009-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2009modularizing_variabilities_with_caesarj_collaboration_interfaces/</loc>
+      <lastmod>2009-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2008a_framework_for_establishing_formal_conformance_between_object_models_and_object-oriented_programs/</loc>
+      <lastmod>2008-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2008a_complete_and_minimal_set_of_algebraic_laws_for_feature_models/</loc>
+      <lastmod>2008-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2008a_decision_model_for_implementing_product_lines_variabilities/</loc>
+      <lastmod>2008-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2008algebraic_laws_for_feature_models/</loc>
+      <lastmod>2008-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2008automated_test_execution_effort_estimation_based_on_functional_test_specifications/</loc>
+      <lastmod>2008-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2008flip__managing_software_product_line_extraction_and_reaction_with_aspects/</loc>
+      <lastmod>2008-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2008flip__product_line_derivationtool/</loc>
+      <lastmod>2008-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2008formal_model-driven_program_refactoring/</loc>
+      <lastmod>2008-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2008jml_and_aspects__the_benefits_of_instrumenting_jml_features_with_aspectj/</loc>
+      <lastmod>2008-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2008manualtest__improving_collection_of_manual_test_execution_data_in_empirical_studies/</loc>
+      <lastmod>2008-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2008on_the_benefits_of_variability_management_as_crosscutting/</loc>
+      <lastmod>2008-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2008recommending_refactorings_when_restructuring_variabilities_in_software_product_lines/</loc>
+      <lastmod>2008-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2008supporting_software_product_lines_development__flip_-_product_line_derivation_tool/</loc>
+      <lastmod>2008-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2008using_process_simulation_to_assess_the_test_design_effort_reduction_of_a_model-based_testing_approach/</loc>
+      <lastmod>2008-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2007a_static_semantics_for_alloy_and_its_impact_in_refactorings/</loc>
+      <lastmod>2007-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2007ajats_-_aspectj_transformation_system__tool_support_for_aspect-oriented_development_and_refactoring/</loc>
+      <lastmod>2007-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2007ajats__aspectj_transformation_system/</loc>
+      <lastmod>2007-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2007an_estimation_model_for_test_execution_effort/</loc>
+      <lastmod>2007-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2007analyzing_class_and_crosscutting_modularity_with_design_structure_matrixes/</loc>
+      <lastmod>2007-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2007brazil_test_center_research_group/</loc>
+      <lastmod>2007-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2007concurrency_control_modularization_with_aspect-oriented_programming/</loc>
+      <lastmod>2007-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2007empirical_studies_of_test_execution_effort_estimation_based_on_test_characteristics_and_risk_factors/</loc>
+      <lastmod>2007-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2007extracting_and_evolving_code_in_product_lines_with_aspect-oriented_programming/</loc>
+      <lastmod>2007-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2007formally_introducing_alloy_idioms/</loc>
+      <lastmod>2007-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2007mapping_features_to_aspects__a_model-based_generative_approach/</loc>
+      <lastmod>2007-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2007on_the_design_of_an_end-to-end_aosd_testbed_for_software_stability/</loc>
+      <lastmod>2007-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2007on_the_contributions_of_an_end-to-end_aosd_testbed/</loc>
+      <lastmod>2007-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2007on_the_impact_of_aspectual_decompositions_on_design_stability__an_empirical_study/</loc>
+      <lastmod>2007-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2007on_the_modularity_of_aspect-oriented_and_other_techniques_for_implementing_product_lines_variabilities/</loc>
+      <lastmod>2007-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2007product_line_variability_refactoring_tool/</loc>
+      <lastmod>2007-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2007semantic_dependencies_and_modularity_of_aspect-oriented_software/</loc>
+      <lastmod>2007-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2007sizing_system_tests_for_estimating_test_execution_effort/</loc>
+      <lastmod>2007-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2007specifying_design_rules_in_aspect-oriented_systems/</loc>
+      <lastmod>2007-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2007test_effort_estimation_models_based_on_test_specifications/</loc>
+      <lastmod>2007-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2007towards_reusable_and_modular_aspect-oriented_concurrency_control/</loc>
+      <lastmod>2007-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2007using_design_structure_matrices_to_assess_modularity_in_aspect-oriented_software_product_lines/</loc>
+      <lastmod>2007-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2006a_formal_framework_for_establishing_conformance_between_object_models_and_object-oriented_programs/</loc>
+      <lastmod>2006-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2006a_theory_for_feature_models_in_alloy/</loc>
+      <lastmod>2006-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2006a_verification_approach_for_crosscutting_features_based_on_extension_join_points/</loc>
+      <lastmod>2006-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2006an_approach_to_invariant-based_program_refactoring/</loc>
+      <lastmod>2006-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2006an_approach_to_invariant-based_program_refactoring_double_entry/</loc>
+      <lastmod>2006-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2006beyond_code__handling_variability_in_art_artifacts_in_mobile_game_product_lines/</loc>
+      <lastmod>2006-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2006contextos_de_primeira_classe_em_transforma%C3%A7%C3%B5es_de_programas/</loc>
+      <lastmod>2006-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2006declaring_static_crosscutting_dependencies_in_aspectj/</loc>
+      <lastmod>2006-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2006distribution_and_persistence_as_aspects/</loc>
+      <lastmod>2006-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2006from_conditional_compilation_to_aspects__a_case_study_in_software_product_lines_migration/</loc>
+      <lastmod>2006-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2006implementing_framework_crosscutting_extensions_with_ejps_and_aspectj/</loc>
+      <lastmod>2006-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2006improving_extensibility_of_object-oriented_frameworks_with_aspect-oriented_programming/</loc>
+      <lastmod>2006-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2006refactoring_product_lines/</loc>
+      <lastmod>2006-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2006sound_object_model_refactorings/</loc>
+      <lastmod>2006-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2006suporte_a_refatora%C3%A7%C3%B5es_em_um_sistema_de_transforma%C3%A7%C3%A3o_de_prop%C3%B3sito_geral/</loc>
+      <lastmod>2006-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2005a_model-driven_approach_to_formal_refactoring/</loc>
+      <lastmod>2005-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2005a_rigorous_approach_for_proving_model_refactorings/</loc>
+      <lastmod>2005-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2005an_abstract_equivalence_notion_for_object_models/</loc>
+      <lastmod>2005-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2005comparative_analysis_of_porting_strategies_in_mobile_device_games/</loc>
+      <lastmod>2005-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2005deriving_refactorings_for_aspectj/</loc>
+      <lastmod>2005-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2005extracting_and_evolving_mobile_games_product_lines/</loc>
+      <lastmod>2005-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2005formal_refactoring_for_uml_class_diagrams/</loc>
+      <lastmod>2005-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2005formal_refactorings_for_object_models/</loc>
+      <lastmod>2005-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2005gera%C3%A7%C3%A3o_de_sistemas_de_transforma%C3%A7%C3%A3o/</loc>
+      <lastmod>2005-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2005implementing_modular_and_reusable_aspect-oriented_concurrency_control_with_aspectj/</loc>
+      <lastmod>2005-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2005portando_jogos_em_j2me__desafios_estudo_de_caso_e_diretrizes/</loc>
+      <lastmod>2005-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2005proving_aspect-oriented_programming_laws/</loc>
+      <lastmod>2005-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2005type-safe_refactorings_for_alloy/</loc>
+      <lastmod>2005-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2005um_sistema_de_tipos_para_uma_linguagem_de_transforma%C3%A7%C3%A3o/</loc>
+      <lastmod>2005-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2004a_general-purpose_transformation_system_for_java/</loc>
+      <lastmod>2004-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2004a_uml_class_diagram_analyzer/</loc>
+      <lastmod>2004-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2004algebraic_reasoning_for_object-oriented_programming/</loc>
+      <lastmod>2004-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2004an_abstract_equivalence_notion_for_object_models/</loc>
+      <lastmod>2004-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2004an_incremental_aspect-oriented_product_line_method_for_j2me_game_development/</loc>
+      <lastmod>2004-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2004aspecth__uma_extens%C3%A3o_orientada_a_aspectos_de_haskell/</loc>
+      <lastmod>2004-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2004aspecth__uma_extens%C3%A3o_orientada_a_aspectos_de_haskell_double_entry/</loc>
+      <lastmod>2004-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2004basic_laws_of_object_modeling/</loc>
+      <lastmod>2004-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2004deriving_refactorings_for_aspectj/</loc>
+      <lastmod>2004-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2004desenvolvimento_de_software_orientado_a_aspectos_utilizando_rup_e_aspectj/</loc>
+      <lastmod>2004-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2004portando_jogos_em_j2me__desafios_estudo_de_caso_e_diretrizes/</loc>
+      <lastmod>2004-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2004refactoring_alloy_specifications/</loc>
+      <lastmod>2004-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2004separation_of_crosscutting_concerns_from_requirements_to_design__adapting_the_use_case_driven_approach/</loc>
+      <lastmod>2004-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2004towards_progressive_and_non-progressive_implementation_approaches_evaluation/</loc>
+      <lastmod>2004-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2004using_aspects_to_make_adaptive_object-models_adaptable/</loc>
+      <lastmod>2004-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2004using_programming_laws_to_modularize_concurrency_in_a_replicated_database_application/</loc>
+      <lastmod>2004-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2003a_refinement_algebra_for_object-oriented_programming/</loc>
+      <lastmod>2003-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2003adappe__an_architectural_pattern_for_structuring_adaptive_applications_with_aspects/</loc>
+      <lastmod>2003-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2003aspect-oriented_implementation_method__progressive_or_non-progressive_approach/</loc>
+      <lastmod>2003-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2003developing_adaptive_j2me_applications_using_aspectj/</loc>
+      <lastmod>2003-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2003developing_adaptive_j2me_applications_using_aspectj_double_entry/</loc>
+      <lastmod>2003-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2003refactoring_alloy_specifications/</loc>
+      <lastmod>2003-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2003using_aspects_to_structure_small_devices_adaptive_applications/</loc>
+      <lastmod>2003-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2002a_rup-based_software_process_supporting_progressive_implementation/</loc>
+      <lastmod>2002-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2002aspectj_programa%C3%A7%C3%A3o_orientada_a_aspectos_em_java/</loc>
+      <lastmod>2002-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2002concurrency_control_with_java_and_relational_databases/</loc>
+      <lastmod>2002-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2002implementing_distribution_and_persistence_aspects_with_aspectj/</loc>
+      <lastmod>2002-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2002implementing_distribution_and_persistence_aspects_with_aspectj_double_entry/</loc>
+      <lastmod>2002-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2002integrating_code_generation_and_refactoring/</loc>
+      <lastmod>2002-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2002mechanical_abstraction_of_csp-z_processes/</loc>
+      <lastmod>2002-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2002pip__progressive_implementation_pattern/</loc>
+      <lastmod>2002-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2002pada__a_pattern_for_distribution_aspects/</loc>
+      <lastmod>2002-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2002padr%C3%B5es_de_projeto_para_estrutura%C3%A7%C3%A3o_de_aplica%C3%A7%C3%B5es_distribu%C3%ADdas_enterprise_javabeans/</loc>
+      <lastmod>2002-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2002progressive_implementation_with_aspect-oriented_programming/</loc>
+      <lastmod>2002-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2002testes_e_gera%C3%A7%C3%A3o_de_c%C3%B3digo_de_sistemas_web/</loc>
+      <lastmod>2002-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2002uma_linguagem_para_testes_de_aceita%C3%A7%C3%A3o_de_sistemas_web/</loc>
+      <lastmod>2002-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2002web_systems_acceptance_tests_and_code_generation/</loc>
+      <lastmod>2002-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2001a_language_for_specifying_java_transformations/</loc>
+      <lastmod>2001-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2001an_implementation_method_for_distributed_object-oriented_applications/</loc>
+      <lastmod>2001-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2001concurrency_manager/</loc>
+      <lastmod>2001-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2001controle_de_concorr%C3%AAncia_com_java_e_bancos_de_dados_relacionais/</loc>
+      <lastmod>2001-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2001distributed_adapters_pattern__a_design_pattern_for_object-oriented_distributed_applications/</loc>
+      <lastmod>2001-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2001jats__a_java_transformation_system/</loc>
+      <lastmod>2001-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2001pdc__persistent_data_collections_pattern/</loc>
+      <lastmod>2001-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2001progressive_implementation_of_aspects/</loc>
+      <lastmod>2001-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2001web_handlers/</loc>
+      <lastmod>2001-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2000a_design_pattern_for_distributed_applications/</loc>
+      <lastmod>2000-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2000basic_laws_of_rool__an_object-oriented_language/</loc>
+      <lastmod>2000-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2000basic_laws_of_rool__an_object-oriented_language_double_entry/</loc>
+      <lastmod>2000-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2000structuring_mechanisms_for_an_object-oriented_formal_specification_language/</loc>
+      <lastmod>2000-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/1999integrando_java_com_bancos_de_dados_relacionais/</loc>
+      <lastmod>1999-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/1999progressive_implementation_of_distributed_java_applications/</loc>
+      <lastmod>1999-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/1998design_of_an_object-oriented_formal_specification_language/</loc>
+      <lastmod>1998-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/1998systematic_development_of_concurrent_object-oriented_programs/</loc>
+      <lastmod>1998-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/1998where_are_the_laws_of_objet-oriented_programming/</loc>
+      <lastmod>1998-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/1997a_system_for_translating_executable_vdm_specifications_into_lazy_ml/</loc>
+      <lastmod>1997-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/1997parameterized_packages_and_java/</loc>
+      <lastmod>1997-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/1996a_refinement_theory_for_concurrent_object_oriented_languages/</loc>
+      <lastmod>1996-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/1996states_as_specifications/</loc>
+      <lastmod>1996-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/1994an_operational_semantics_for_foops/</loc>
+      <lastmod>1994-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/1993from_vdm_specifications_to_functional_prototypes/</loc>
+      <lastmod>1993-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/1992prototyping_action_semantics_using_functional_languages/</loc>
+      <lastmod>1992-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/1991from_model_based_specifications_to_functional_prototypes/</loc>
+      <lastmod>1991-01-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/1990tradu%C3%A7%C3%A3o_de_tipos_de_especifica%C3%A7%C3%A3o_para_prot%C3%B3tipo/</loc>
+      <lastmod>1990-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/1989nota%C3%A7%C3%A3o_vdm_execut%C3%A1vel_em_standard_ml/</loc>
+      <lastmod>1989-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/1989prot%C3%B3tipos_funcionais_a_partir_de_especifica%C3%A7%C3%B5es_formais_em_vdm/</loc>
+      <lastmod>1989-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/1987acesso_a_um_banco_de_dados_atrav%C3%A9s_de_linguagem_natural/</loc>
+      <lastmod>1987-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication_types/1/</loc>
+      <lastmod>2018-01-01T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication_types/2/</loc>
+      <lastmod>2018-01-01T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/</loc>
+      <lastmod>2018-10-01T00:16:12+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication_types/</loc>
+      <lastmod>2018-01-01T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>

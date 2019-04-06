@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Paulo Borba</title>
+    <link>https://pauloborba.github.io/home/</link>
+    <description>Recent content in Homes on Paulo Borba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://pauloborba.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://pauloborba.github.io/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://pauloborba.github.io/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pauloborba.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/home/about/</guid>
+      <description>I am Professor of Software Engineering at the Informatics Center of the Federal University of Pernambuco, Brazil, where I lead the Software Productivity Group.
+I investigate and develop tools and techniques for improving software development quality and productivity levels without compromising human life quality factors.
+My main research interests are in the following topics and their integration: continuous integration and testing, code integration conflicts, advanced merging tools, software modularity, software product lines, and refactoring.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://pauloborba.github.io/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://pauloborba.github.io/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pauloborba.github.io/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://pauloborba.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>https://pauloborba.github.io/home/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pauloborba.github.io/home/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://pauloborba.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/home/publications/</guid>
+      <description>Here I list only my latest publications. The full publication list is available here. You can also check my publication lists at DBLP, Google Scholar, and Microsoft Academic.</description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>https://pauloborba.github.io/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://pauloborba.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latest Posts</title>
+      <link>https://pauloborba.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://pauloborba.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Section</title>
+      <link>https://pauloborba.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+    </item>
+    
+    <item>
+      <title>Service</title>
+      <link>https://pauloborba.github.io/home/teaching0/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/home/teaching0/</guid>
+      <description>http://www.cs.utexas.edu/users/dsb/SPLC/</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://pauloborba.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://pauloborba.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

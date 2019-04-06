@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Paulo Borba</title>
+    <link>https://pauloborba.github.io/post/</link>
+    <description>Recent content in Posts on Paulo Borba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://pauloborba.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Article Name</title>
+      <link>https://pauloborba.github.io/post/my-article-name/</link>
+      <pubDate>Tue, 08 Jan 2019 20:14:56 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/post/my-article-name/</guid>
+      <description>I do not like rankings. Academic Rankings Considered Harmful! clearly summarises ideas I believe in: &amp;ldquo;An academic decision is typically a multi-objective optimization problem, in which the objective function is highly personal. A unidimensional ranking provides a seductively easy objective function to optimize. Yet such decision making ignores the complex interplay between individual preferences and programs&amp;rsquo; unique patterns of strengths and weaknesses. Decision making by ranking is decision making by lazy minds, I believe&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

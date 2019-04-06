@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paulo Borba on Paulo Borba</title>
+    <link>https://pauloborba.github.io/</link>
+    <description>Recent content in Paulo Borba on Paulo Borba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0300</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My Article Name</title>
+      <link>https://pauloborba.github.io/post/my-article-name/</link>
+      <pubDate>Tue, 08 Jan 2019 20:14:56 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/post/my-article-name/</guid>
+      <description>&lt;p&gt;I do not like rankings. &lt;a href=&#34;http://cacm.acm.org/magazines/2016/9/206263-academic-rankings-considered-harmful/fulltext#.V735Hbwc1Ck.twitter&#34; target=&#34;_blank&#34;&gt;Academic Rankings Considered Harmful!&lt;/a&gt;  clearly summarises ideas I believe in: &amp;ldquo;An academic decision is typically a multi-objective optimization problem, in which the objective function is highly personal. A unidimensional ranking provides a seductively easy objective function to optimize. Yet such decision making ignores the complex interplay between individual preferences and programs&amp;rsquo; unique patterns of strengths and weaknesses. Decision making by ranking is decision making by lazy minds, I believe&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;I especially like its summary: &amp;ldquo;Academic rankings are harmful, I believe. We have a responsibility to better inform the public, by ceasing to play the ranking games and by providing the public with relevant information&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analyzing Conflict Predictors in Open-Source Java Projects from GitHub and Travis CI</title>
+      <link>https://pauloborba.github.io/publication/2018analyzing_conflict_predictors_in_open-source_java_projects_from_github_and_travis_ci/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2018analyzing_conflict_predictors_in_open-source_java_projects_from_github_and_travis_ci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Overly Strong Preconditions in Refactoring Engines</title>
+      <link>https://pauloborba.github.io/publication/2018detecting_overly_strong_preconditions_in_refactoring_engines/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2018detecting_overly_strong_preconditions_in_refactoring_engines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding semi-structured merge conflict characteristics in open-source Java projects</title>
+      <link>https://pauloborba.github.io/publication/2018understanding_semi-structured_merge_conflict_characteristics_in_open-source_java_projects/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2018understanding_semi-structured_merge_conflict_characteristics_in_open-source_java_projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An idiom to represent data types in Alloy</title>
+      <link>https://pauloborba.github.io/publication/2017an_idiom_to_represent_data_types_in_alloy/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2017an_idiom_to_represent_data_types_in_alloy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical assessment of two approaches for specifying software product line use case scenarios</title>
+      <link>https://pauloborba.github.io/publication/2017empirical_assessment_of_two_approaches_for_specifying_software_product_line_use_case_scenarios/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2017empirical_assessment_of_two_approaches_for_specifying_software_product_line_use_case_scenarios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating and Improving Semistructured Merge</title>
+      <link>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating and improving semistructured merge</title>
+      <link>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Products go Green: Worst-Case Energy Consumption in Software Product Lines</title>
+      <link>https://pauloborba.github.io/publication/2017products_go_green__worst-case_energy_consumption_in_software_product_lines/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2017products_go_green__worst-case_energy_consumption_in_software_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Should We Replace Our Merge Tools?</title>
+      <link>https://pauloborba.github.io/publication/2017should_we_replace_our_merge_tools/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2017should_we_replace_our_merge_tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing Idioms for a Flexible Feature Binding Time</title>
+      <link>https://pauloborba.github.io/publication/2016assessing_idioms_for_a_flexible_feature_binding_time/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2016assessing_idioms_for_a_flexible_feature_binding_time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing fine-grained feature dependencies</title>
+      <link>https://pauloborba.github.io/publication/2016assessing_fine-grained_feature_dependencies/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2016assessing_fine-grained_feature_dependencies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coevolution of variability models and related software artifacts</title>
+      <link>https://pauloborba.github.io/publication/2016coevolution_of_variability_models_and_related_software_artifacts/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2016coevolution_of_variability_models_and_related_software_artifacts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partially Safe Evolution of Software Product Lines</title>
+      <link>https://pauloborba.github.io/publication/2016partially_safe_evolution_of_software_product_lines/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2016partially_safe_evolution_of_software_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming the Universe: The First Commandment of Software Engineering for all Varieties of Information Systems</title>
+      <link>https://pauloborba.github.io/publication/2016programming_the_universe__the_first_commandment_of_software_engineering_for_all_varieties_of_information_systems/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2016programming_the_universe__the_first_commandment_of_software_engineering_for_all_varieties_of_information_systems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

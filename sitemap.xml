@@ -4,8 +4,8 @@
     
     <url>
     
-      <loc>https://pauloborba.github.io/post/my-article-name/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <loc>https://pauloborba.github.io/post/academic-rankings/</loc>
+      <lastmod>2019-04-09T21:52:57-03:00</lastmod>
     </url>
     
   
@@ -1753,6 +1753,15 @@
     <url>
     
       <loc>https://pauloborba.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/tags/academic-assessment/</loc>
+      <lastmod>2019-04-09T21:52:57-03:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Paulo Borba</title>
@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0300</lastBuildDate>
     
 	<atom:link href="https://pauloborba.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Improving the prediction of files changed by programming tasks</title>
+      <link>https://pauloborba.github.io/publication/2019improving_the_prediction_of_files_changed_by_programming_tasks/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2019improving_the_prediction_of_files_changed_by_programming_tasks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semistructured Merge in JavaScript Systems</title>
+      <link>https://pauloborba.github.io/publication/2019semistructured_merge_in_javascript_systems/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2019semistructured_merge_in_javascript_systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Structure on Software Merging: Semistructured versus Structured Merge</title>
+      <link>https://pauloborba.github.io/publication/2019the_impact_of_structure_on_software_merging__semistructured_versus_structured_merge/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2019the_impact_of_structure_on_software_merging__semistructured_versus_structured_merge/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analyzing Conflict Predictors in Open-Source Java Projects from GitHub and Travis CI</title>
@@ -23,10 +50,10 @@
     
     <item>
       <title>Evaluating and Improving Semistructured Merge</title>
-      <link>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</link>
+      <link>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
       
-      <guid>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</guid>
+      <guid>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge/</guid>
       <description></description>
     </item>
     
@@ -121,20 +148,20 @@
     </item>
     
     <item>
-      <title>SPLLIFT- Statically analyzing software product lines in minutes instead of years</title>
-      <link>https://pauloborba.github.io/publication/2014spllift-_statically_analyzing_software_product_lines_in_minutes_instead_of_years/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 -0300</pubDate>
-      
-      <guid>https://pauloborba.github.io/publication/2014spllift-_statically_analyzing_software_product_lines_in_minutes_instead_of_years/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Semistructured Merge on Git: An Assessment</title>
       <link>https://pauloborba.github.io/publication/2014semistructured_merge_on_git__an_assessment/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0300</pubDate>
       
       <guid>https://pauloborba.github.io/publication/2014semistructured_merge_on_git__an_assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPLLIFT- Statically analyzing software product lines in minutes instead of years</title>
+      <link>https://pauloborba.github.io/publication/2014spllift-_statically_analyzing_software_product_lines_in_minutes_instead_of_years/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2014spllift-_statically_analyzing_software_product_lines_in_minutes_instead_of_years/</guid>
       <description></description>
     </item>
     
@@ -661,20 +688,20 @@
     </item>
     
     <item>
-      <title>On The Design of an End-to-End AOSD Testbed for Software Stability</title>
-      <link>https://pauloborba.github.io/publication/2007on_the_design_of_an_end-to-end_aosd_testbed_for_software_stability/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 -0300</pubDate>
-      
-      <guid>https://pauloborba.github.io/publication/2007on_the_design_of_an_end-to-end_aosd_testbed_for_software_stability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>On the Contributions of an End-to-End AOSD Testbed</title>
       <link>https://pauloborba.github.io/publication/2007on_the_contributions_of_an_end-to-end_aosd_testbed/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 -0300</pubDate>
       
       <guid>https://pauloborba.github.io/publication/2007on_the_contributions_of_an_end-to-end_aosd_testbed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On The Design of an End-to-End AOSD Testbed for Software Stability</title>
+      <link>https://pauloborba.github.io/publication/2007on_the_design_of_an_end-to-end_aosd_testbed_for_software_stability/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2007on_the_design_of_an_end-to-end_aosd_testbed_for_software_stability/</guid>
       <description></description>
     </item>
     
@@ -1210,15 +1237,6 @@
     </item>
     
     <item>
-      <title>PIP: Progressive Implementation Pattern</title>
-      <link>https://pauloborba.github.io/publication/2002pip__progressive_implementation_pattern/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 -0200</pubDate>
-      
-      <guid>https://pauloborba.github.io/publication/2002pip__progressive_implementation_pattern/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>PaDA: A Pattern for Distribution Aspects</title>
       <link>https://pauloborba.github.io/publication/2002pada__a_pattern_for_distribution_aspects/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 -0200</pubDate>
@@ -1233,6 +1251,15 @@
       <pubDate>Tue, 01 Jan 2002 00:00:00 -0200</pubDate>
       
       <guid>https://pauloborba.github.io/publication/2002padr%C3%B5es_de_projeto_para_estrutura%C3%A7%C3%A3o_de_aplica%C3%A7%C3%B5es_distribu%C3%ADdas_enterprise_javabeans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PIP: Progressive Implementation Pattern</title>
+      <link>https://pauloborba.github.io/publication/2002pip__progressive_implementation_pattern/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 -0200</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2002pip__progressive_implementation_pattern/</guid>
       <description></description>
     </item>
     

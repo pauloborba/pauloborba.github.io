@@ -1,5 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/tags/academic-assessment/</loc>
+      <lastmod>2019-04-09T21:52:57-03:00</lastmod>
+    </url>
+    
   
     
     <url>
@@ -12,8 +19,96 @@
     
     <url>
     
+      <loc>https://pauloborba.github.io/</loc>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/tags/</loc>
+      <lastmod>2019-04-09T21:52:57-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication_types/1/</loc>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication_types/2/</loc>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2019improving_the_prediction_of_files_changed_by_programming_tasks/</loc>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2019partially_safe_evolution_of_software_product_lines/</loc>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication_types/</loc>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/</loc>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2019semistructured_merge_in_javascript_systems/</loc>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2019the_impact_of_structure_on_software_merging__semistructured_versus_structured_merge/</loc>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2019using_acceptance_tests_to_predict_files_changed_by_programming_tasks/</loc>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://pauloborba.github.io/publication/2018analyzing_conflict_predictors_in_open-source_java_projects_from_github_and_travis_ci/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -21,7 +116,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2018detecting_overly_strong_preconditions_in_refactoring_engines/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -29,7 +124,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2018understanding_semi-structured_merge_conflict_characteristics_in_open-source_java_projects/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -37,7 +132,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2017an_idiom_to_represent_data_types_in_alloy/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -45,15 +140,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2017empirical_assessment_of_two_approaches_for_specifying_software_product_line_use_case_scenarios/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -61,7 +148,15 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</loc>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -77,15 +172,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2017products_go_green__worst-case_energy_consumption_in_software_product_lines/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://pauloborba.github.io/publication/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -108,15 +195,15 @@
     
     <url>
     
-      <loc>https://pauloborba.github.io/publication/2016assessing_idioms_for_a_flexible_feature_binding_time/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <loc>https://pauloborba.github.io/publication/2016assessing_fine-grained_feature_dependencies/</loc>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://pauloborba.github.io/publication/2016assessing_fine-grained_feature_dependencies/</loc>
+      <loc>https://pauloborba.github.io/publication/2016assessing_idioms_for_a_flexible_feature_binding_time/</loc>
       <lastmod>2019-04-06T12:46:29-03:00</lastmod>
     </url>
     
@@ -141,7 +228,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2016programming_the_universe__the_first_commandment_of_software_engineering_for_all_varieties_of_information_systems/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -189,7 +276,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2015safe_evolution_templates_for_software_product_lines/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -197,7 +284,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2014a_toolset_for_checking_spl_refinements/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -205,7 +292,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2014controlled_experiments_comparing_black-box_testing_strategies_for_software_product_lines/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -244,14 +331,6 @@
     
     <url>
     
-      <loc>https://pauloborba.github.io/publication/2014spllift-_statically_analyzing_software_product_lines_in_minutes_instead_of_years/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://pauloborba.github.io/publication/2014semistructured_merge_on_git__an_assessment/</loc>
       <lastmod>2019-04-06T12:46:29-03:00</lastmod>
     </url>
@@ -260,7 +339,7 @@
     
     <url>
     
-      <loc>https://pauloborba.github.io/publication/2013a_model-driven_approach_to_specifying_and_monitoring_controlled_experiments_in_software_engineering/</loc>
+      <loc>https://pauloborba.github.io/publication/2014spllift-_statically_analyzing_software_product_lines_in_minutes_instead_of_years/</loc>
       <lastmod>2019-04-06T12:46:29-03:00</lastmod>
     </url>
     
@@ -270,6 +349,14 @@
     
       <loc>https://pauloborba.github.io/publication/2013a_design_rule_language_for_aspect-oriented_programming/</loc>
       <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2013a_model-driven_approach_to_specifying_and_monitoring_controlled_experiments_in_software_engineering/</loc>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -301,7 +388,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2013intraprocedural_dataflow_analysis_for_software_product_lines/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -309,22 +396,6 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2013modular_aspect-oriented_design_rule_enforcement_with_xpidrs/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://pauloborba.github.io/publication/2013spllift__statically_analyzing_software_product_lines_in_minutes_instead_of_years/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://pauloborba.github.io/publication/2013spllift__transparent_and_efficient_reuse_of_ifds-based_static_program_analyses_for_software_product_lines/</loc>
       <lastmod>2019-04-06T12:46:29-03:00</lastmod>
     </url>
     
@@ -340,8 +411,24 @@
     
     <url>
     
-      <loc>https://pauloborba.github.io/publication/2013the_crosscutting_impact_of_the_aosd_brazilian_research_community/</loc>
+      <loc>https://pauloborba.github.io/publication/2013spllift__transparent_and_efficient_reuse_of_ifds-based_static_program_analyses_for_software_product_lines/</loc>
       <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2013spllift__statically_analyzing_software_product_lines_in_minutes_instead_of_years/</loc>
+      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2013the_crosscutting_impact_of_the_aosd_brazilian_research_community/</loc>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -381,7 +468,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2012investigating_the_safe_evolution_of_software_product_lines/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -461,7 +548,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2011investigating_the_safe_evolution_of_software_product_lines/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -501,7 +588,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -525,7 +612,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2010assessment_of_product_derivation_tools_in_the_evolution_of_software_product_lines__an_empirical_study/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -652,14 +739,6 @@
     
     <url>
     
-      <loc>https://pauloborba.github.io/publication/2008a_framework_for_establishing_formal_conformance_between_object_models_and_object-oriented_programs/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://pauloborba.github.io/publication/2008a_complete_and_minimal_set_of_algebraic_laws_for_feature_models/</loc>
       <lastmod>2019-04-06T12:46:29-03:00</lastmod>
     </url>
@@ -669,6 +748,14 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2008a_decision_model_for_implementing_product_lines_variabilities/</loc>
+      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2008a_framework_for_establishing_formal_conformance_between_object_models_and_object-oriented_programs/</loc>
       <lastmod>2019-04-06T12:46:29-03:00</lastmod>
     </url>
     
@@ -805,7 +892,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2007brazil_test_center_research_group/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -829,7 +916,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2007extracting_and_evolving_code_in_product_lines_with_aspect-oriented_programming/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -852,7 +939,7 @@
     
     <url>
     
-      <loc>https://pauloborba.github.io/publication/2007on_the_design_of_an_end-to-end_aosd_testbed_for_software_stability/</loc>
+      <loc>https://pauloborba.github.io/publication/2007on_the_contributions_of_an_end-to-end_aosd_testbed/</loc>
       <lastmod>2019-04-06T12:46:29-03:00</lastmod>
     </url>
     
@@ -860,7 +947,7 @@
     
     <url>
     
-      <loc>https://pauloborba.github.io/publication/2007on_the_contributions_of_an_end-to-end_aosd_testbed/</loc>
+      <loc>https://pauloborba.github.io/publication/2007on_the_design_of_an_end-to-end_aosd_testbed_for_software_stability/</loc>
       <lastmod>2019-04-06T12:46:29-03:00</lastmod>
     </url>
     
@@ -877,7 +964,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2007on_the_modularity_of_aspect-oriented_and_other_techniques_for_implementing_product_lines_variabilities/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -933,7 +1020,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2007using_design_structure_matrices_to_assess_modularity_in_aspect-oriented_software_product_lines/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -1021,7 +1108,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2006implementing_framework_crosscutting_extensions_with_ejps_and_aspectj/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -1085,7 +1172,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2005comparative_analysis_of_porting_strategies_in_mobile_device_games/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -1101,7 +1188,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2005extracting_and_evolving_mobile_games_product_lines/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -1141,7 +1228,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2005portando_jogos_em_j2me__desafios_estudo_de_caso_e_diretrizes/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -1253,7 +1340,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2004portando_jogos_em_j2me__desafios_estudo_de_caso_e_diretrizes/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -1397,7 +1484,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2002integrating_code_generation_and_refactoring/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -1405,14 +1492,6 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2002mechanical_abstraction_of_csp-z_processes/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://pauloborba.github.io/publication/2002pip__progressive_implementation_pattern/</loc>
       <lastmod>2019-04-06T12:46:29-03:00</lastmod>
     </url>
     
@@ -1430,6 +1509,14 @@
     
       <loc>https://pauloborba.github.io/publication/2002padr%C3%B5es_de_projeto_para_estrutura%C3%A7%C3%A3o_de_aplica%C3%A7%C3%B5es_distribu%C3%ADdas_enterprise_javabeans/</loc>
       <lastmod>2002-01-01T00:00:00-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pauloborba.github.io/publication/2002pip__progressive_implementation_pattern/</loc>
+      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
     </url>
     
   
@@ -1533,7 +1620,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/2001web_handlers/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -1581,7 +1668,7 @@
     <url>
     
       <loc>https://pauloborba.github.io/publication/1999progressive_implementation_of_distributed_java_applications/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
+      <lastmod>2019-11-03T20:12:45-03:00</lastmod>
     </url>
     
   
@@ -1708,61 +1795,7 @@
     
     <url>
     
-      <loc>https://pauloborba.github.io/publication_types/1/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://pauloborba.github.io/publication_types/2/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://pauloborba.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://pauloborba.github.io/</loc>
-      <lastmod>2018-10-01T00:16:12+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://pauloborba.github.io/publication_types/</loc>
-      <lastmod>2019-04-06T12:46:29-03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://pauloborba.github.io/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://pauloborba.github.io/tags/academic-assessment/</loc>
-      <lastmod>2019-04-09T21:52:57-03:00</lastmod>
-      <priority>0</priority>
     </url>
     
   

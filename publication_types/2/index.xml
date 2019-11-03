@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Paulo Borba</title>
@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0300</lastBuildDate>
     
 	<atom:link href="https://pauloborba.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Partially safe evolution of software product lines</title>
+      <link>https://pauloborba.github.io/publication/2019partially_safe_evolution_of_software_product_lines/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2019partially_safe_evolution_of_software_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using acceptance tests to predict files changed by programming tasks</title>
+      <link>https://pauloborba.github.io/publication/2019using_acceptance_tests_to_predict_files_changed_by_programming_tasks/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2019using_acceptance_tests_to_predict_files_changed_by_programming_tasks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Detecting Overly Strong Preconditions in Refactoring Engines</title>
@@ -50,19 +68,10 @@
     
     <item>
       <title>Evaluating and improving semistructured merge</title>
-      <link>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge/</link>
+      <link>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
       
-      <guid>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Assessing Idioms for a Flexible Feature Binding Time</title>
-      <link>https://pauloborba.github.io/publication/2016assessing_idioms_for_a_flexible_feature_binding_time/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0300</pubDate>
-      
-      <guid>https://pauloborba.github.io/publication/2016assessing_idioms_for_a_flexible_feature_binding_time/</guid>
+      <guid>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</guid>
       <description></description>
     </item>
     
@@ -72,6 +81,15 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0300</pubDate>
       
       <guid>https://pauloborba.github.io/publication/2016assessing_fine-grained_feature_dependencies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing Idioms for a Flexible Feature Binding Time</title>
+      <link>https://pauloborba.github.io/publication/2016assessing_idioms_for_a_flexible_feature_binding_time/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2016assessing_idioms_for_a_flexible_feature_binding_time/</guid>
       <description></description>
     </item>
     
@@ -157,20 +175,20 @@
     </item>
     
     <item>
-      <title>SPLLIFT: statically analyzing software product lines in minutes instead of years</title>
-      <link>https://pauloborba.github.io/publication/2013spllift__statically_analyzing_software_product_lines_in_minutes_instead_of_years/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 -0300</pubDate>
-      
-      <guid>https://pauloborba.github.io/publication/2013spllift__statically_analyzing_software_product_lines_in_minutes_instead_of_years/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Safe composition of configuration knowledge-based software product lines</title>
       <link>https://pauloborba.github.io/publication/2013safe_composition_of_configuration_knowledge-based_software_product_lines/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 -0300</pubDate>
       
       <guid>https://pauloborba.github.io/publication/2013safe_composition_of_configuration_knowledge-based_software_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPLLIFT: statically analyzing software product lines in minutes instead of years</title>
+      <link>https://pauloborba.github.io/publication/2013spllift__statically_analyzing_software_product_lines_in_minutes_instead_of_years/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0300</pubDate>
+      
+      <guid>https://pauloborba.github.io/publication/2013spllift__statically_analyzing_software_product_lines_in_minutes_instead_of_years/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types on Paulo Borba</title>
@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0300</lastBuildDate>
     
 	<atom:link href="https://pauloborba.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>1</title>
       <link>https://pauloborba.github.io/publication_types/1/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0300</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0300</pubDate>
       
       <guid>https://pauloborba.github.io/publication_types/1/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>2</title>
       <link>https://pauloborba.github.io/publication_types/2/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0300</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0300</pubDate>
       
       <guid>https://pauloborba.github.io/publication_types/2/</guid>
       <description></description>

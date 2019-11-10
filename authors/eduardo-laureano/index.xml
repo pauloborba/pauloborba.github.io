@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eduardo Laureano | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/eduardo-laureano/</link>
+      <atom:link href="https://pauloborba.github.io/authors/eduardo-laureano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eduardo Laureano</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Eduardo Laureano</title>
+      <link>https://pauloborba.github.io/authors/eduardo-laureano/</link>
+    </image>
+    
+    <item>
+      <title>Distribution and Persistence as Aspects</title>
+      <link>https://pauloborba.github.io/publication/2006distribution_and_persistence_as_aspects/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006distribution_and_persistence_as_aspects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing distribution and persistence aspects with AspectJ</title>
+      <link>https://pauloborba.github.io/publication/2002implementing_distribution_and_persistence_aspects_with_aspectj/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2002implementing_distribution_and_persistence_aspects_with_aspectj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing distribution and persistence aspects with aspectJ</title>
+      <link>https://pauloborba.github.io/publication/2002implementing_distribution_and_persistence_aspects_with_aspectj_double_entry/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2002implementing_distribution_and_persistence_aspects_with_aspectj_double_entry/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

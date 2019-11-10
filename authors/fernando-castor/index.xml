@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fernando Castor | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/fernando-castor/</link>
+      <atom:link href="https://pauloborba.github.io/authors/fernando-castor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fernando Castor</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Fernando Castor</title>
+      <link>https://pauloborba.github.io/authors/fernando-castor/</link>
+    </image>
+    
+    <item>
+      <title>A design rule language for aspect-oriented programming</title>
+      <link>https://pauloborba.github.io/publication/2013a_design_rule_language_for_aspect-oriented_programming/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2013a_design_rule_language_for_aspect-oriented_programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The crosscutting impact of the AOSD Brazilian research community</title>
+      <link>https://pauloborba.github.io/publication/2013the_crosscutting_impact_of_the_aosd_brazilian_research_community/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2013the_crosscutting_impact_of_the_aosd_brazilian_research_community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The AOSD Research Community in Brazil and Its Crosscutting Impact</title>
+      <link>https://pauloborba.github.io/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A design rule language for aspect-oriented programming</title>
+      <link>https://pauloborba.github.io/publication/2009a_design_rule_language_for_aspect-oriented_programming/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2009a_design_rule_language_for_aspect-oriented_programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A language for specifying Java transformations</title>
+      <link>https://pauloborba.github.io/publication/2001a_language_for_specifying_java_transformations/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2001a_language_for_specifying_java_transformations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JaTS: A Java transformation system</title>
+      <link>https://pauloborba.github.io/publication/2001jats__a_java_transformation_system/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2001jats__a_java_transformation_system/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

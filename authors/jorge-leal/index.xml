@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jorge Leal | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/jorge-leal/</link>
+      <atom:link href="https://pauloborba.github.io/authors/jorge-leal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jorge Leal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Jorge Leal</title>
+      <link>https://pauloborba.github.io/authors/jorge-leal/</link>
+    </image>
+    
+    <item>
+      <title>From Conditional Compilation to Aspects: A Case Study in Software Product Lines Migration</title>
+      <link>https://pauloborba.github.io/publication/2006from_conditional_compilation_to_aspects__a_case_study_in_software_product_lines_migration/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006from_conditional_compilation_to_aspects__a_case_study_in_software_product_lines_migration/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

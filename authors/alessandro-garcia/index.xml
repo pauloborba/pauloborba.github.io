@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alessandro Garcia | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/alessandro-garcia/</link>
+      <atom:link href="https://pauloborba.github.io/authors/alessandro-garcia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alessandro Garcia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Alessandro Garcia</title>
+      <link>https://pauloborba.github.io/authors/alessandro-garcia/</link>
+    </image>
+    
+    <item>
+      <title>Mapping Features to Aspects: A Model-Based Generative Approach</title>
+      <link>https://pauloborba.github.io/publication/2007mapping_features_to_aspects__a_model-based_generative_approach/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007mapping_features_to_aspects__a_model-based_generative_approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Contributions of an End-to-End AOSD Testbed</title>
+      <link>https://pauloborba.github.io/publication/2007on_the_contributions_of_an_end-to-end_aosd_testbed/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007on_the_contributions_of_an_end-to-end_aosd_testbed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On The Design of an End-to-End AOSD Testbed for Software Stability</title>
+      <link>https://pauloborba.github.io/publication/2007on_the_design_of_an_end-to-end_aosd_testbed_for_software_stability/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007on_the_design_of_an_end-to-end_aosd_testbed_for_software_stability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Impact of Aspectual Decompositions on Design Stability: An Empirical Study</title>
+      <link>https://pauloborba.github.io/publication/2007on_the_impact_of_aspectual_decompositions_on_design_stability__an_empirical_study/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007on_the_impact_of_aspectual_decompositions_on_design_stability__an_empirical_study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Verification Approach for Crosscutting Features Based on Extension Join Points</title>
+      <link>https://pauloborba.github.io/publication/2006a_verification_approach_for_crosscutting_features_based_on_extension_join_points/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006a_verification_approach_for_crosscutting_features_based_on_extension_join_points/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing Framework Crosscutting Extensions with EJPs and AspectJ</title>
+      <link>https://pauloborba.github.io/publication/2006implementing_framework_crosscutting_extensions_with_ejps_and_aspectj/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006implementing_framework_crosscutting_extensions_with_ejps_and_aspectj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving extensibility of object-oriented frameworks with aspect-oriented programming</title>
+      <link>https://pauloborba.github.io/publication/2006improving_extensibility_of_object-oriented_frameworks_with_aspect-oriented_programming/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006improving_extensibility_of_object-oriented_frameworks_with_aspect-oriented_programming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marconi Lima | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/marconi-lima/</link>
+      <atom:link href="https://pauloborba.github.io/authors/marconi-lima/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marconi Lima</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 1999 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Marconi Lima</title>
+      <link>https://pauloborba.github.io/authors/marconi-lima/</link>
+    </image>
+    
+    <item>
+      <title>Progressive implementation of distributed Java applications</title>
+      <link>https://pauloborba.github.io/publication/1999progressive_implementation_of_distributed_java_applications/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/1999progressive_implementation_of_distributed_java_applications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

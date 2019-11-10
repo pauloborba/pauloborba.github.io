@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandra Barros | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/alexandra-barros/</link>
+      <atom:link href="https://pauloborba.github.io/authors/alexandra-barros/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexandra Barros</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Alexandra Barros</title>
+      <link>https://pauloborba.github.io/authors/alexandra-barros/</link>
+    </image>
+    
+    <item>
+      <title>Um Sistema de Tipos para uma Linguagem de Transformação</title>
+      <link>https://pauloborba.github.io/publication/2005um_sistema_de_tipos_para_uma_linguagem_de_transformacao/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2005um_sistema_de_tipos_para_uma_linguagem_de_transformacao/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

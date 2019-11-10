@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rodrigo Almeida | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/rodrigo-almeida/</link>
+      <atom:link href="https://pauloborba.github.io/authors/rodrigo-almeida/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rodrigo Almeida</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Rodrigo Almeida</title>
+      <link>https://pauloborba.github.io/authors/rodrigo-almeida/</link>
+    </image>
+    
+    <item>
+      <title>The AOSD Research Community in Brazil and Its Crosscutting Impact</title>
+      <link>https://pauloborba.github.io/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does AspectJ Provide Modularity when Implementing Features with Flexible Binding Times?</title>
+      <link>https://pauloborba.github.io/publication/2009does_aspectj_provide_modularity_when_implementing_features_with_flexible_binding_times/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2009does_aspectj_provide_modularity_when_implementing_features_with_flexible_binding_times/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hephaestus: A tool for managing SPL variabilities</title>
+      <link>https://pauloborba.github.io/publication/2009hephaestus__a_tool_for_managing_spl_variabilities/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2009hephaestus__a_tool_for_managing_spl_variabilities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling scenario variability as crosscutting mechanisms</title>
+      <link>https://pauloborba.github.io/publication/2009modeling_scenario_variability_as_crosscutting_mechanisms/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2009modeling_scenario_variability_as_crosscutting_mechanisms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modularizing variabilities with CaesarJ collaboration interfaces</title>
+      <link>https://pauloborba.github.io/publication/2009modularizing_variabilities_with_caesarj_collaboration_interfaces/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2009modularizing_variabilities_with_caesarj_collaboration_interfaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the benefits of variability management as crosscutting</title>
+      <link>https://pauloborba.github.io/publication/2008on_the_benefits_of_variability_management_as_crosscutting/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2008on_the_benefits_of_variability_management_as_crosscutting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Class and Crosscutting Modularity with Design Structure Matrixes</title>
+      <link>https://pauloborba.github.io/publication/2007analyzing_class_and_crosscutting_modularity_with_design_structure_matrixes/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007analyzing_class_and_crosscutting_modularity_with_design_structure_matrixes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Dependencies and Modularity of Aspect-Oriented Software</title>
+      <link>https://pauloborba.github.io/publication/2007semantic_dependencies_and_modularity_of_aspect-oriented_software/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007semantic_dependencies_and_modularity_of_aspect-oriented_software/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

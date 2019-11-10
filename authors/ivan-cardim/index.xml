@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ivan Cardim | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/ivan-cardim/</link>
+      <atom:link href="https://pauloborba.github.io/authors/ivan-cardim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ivan Cardim</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Ivan Cardim</title>
+      <link>https://pauloborba.github.io/authors/ivan-cardim/</link>
+    </image>
+    
+    <item>
+      <title>On the Modularity of Aspect-Oriented and other Techniques for Implementing Product Lines Variabilities</title>
+      <link>https://pauloborba.github.io/publication/2007on_the_modularity_of_aspect-oriented_and_other_techniques_for_implementing_product_lines_variabilities/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007on_the_modularity_of_aspect-oriented_and_other_techniques_for_implementing_product_lines_variabilities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Design Structure Matrices to Assess Modularity in Aspect-Oriented Software Product Lines</title>
+      <link>https://pauloborba.github.io/publication/2007using_design_structure_matrices_to_assess_modularity_in_aspect-oriented_software_product_lines/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007using_design_structure_matrices_to_assess_modularity_in_aspect-oriented_software_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative Analysis of Porting Strategies in Mobile Device Games</title>
+      <link>https://pauloborba.github.io/publication/2005comparative_analysis_of_porting_strategies_in_mobile_device_games/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2005comparative_analysis_of_porting_strategies_in_mobile_device_games/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

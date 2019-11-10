@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Débora Aranha | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/debora-aranha/</link>
+      <atom:link href="https://pauloborba.github.io/authors/debora-aranha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Débora Aranha</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 1997 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Débora Aranha</title>
+      <link>https://pauloborba.github.io/authors/debora-aranha/</link>
+    </image>
+    
+    <item>
+      <title>Parameterized Packages and Java</title>
+      <link>https://pauloborba.github.io/publication/1997parameterized_packages_and_java/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/1997parameterized_packages_and_java/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

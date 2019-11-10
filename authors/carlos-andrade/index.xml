@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlos Andrade | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/carlos-andrade/</link>
+      <atom:link href="https://pauloborba.github.io/authors/carlos-andrade/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carlos Andrade</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Carlos Andrade</title>
+      <link>https://pauloborba.github.io/authors/carlos-andrade/</link>
+    </image>
+    
+    <item>
+      <title>AspectH: Uma Extensão Orientada a Aspectos de Haskell</title>
+      <link>https://pauloborba.github.io/publication/2004aspecth__uma_extensao_orientada_a_aspectos_de_haskell/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2004aspecth__uma_extensao_orientada_a_aspectos_de_haskell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AspectH: Uma Extensão Orientada a Aspectos de Haskell</title>
+      <link>https://pauloborba.github.io/publication/2004aspecth__uma_extensao_orientada_a_aspectos_de_haskell_double_entry/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2004aspecth__uma_extensao_orientada_a_aspectos_de_haskell_double_entry/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

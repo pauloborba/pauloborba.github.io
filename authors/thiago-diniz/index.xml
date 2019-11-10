@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thiago Diniz | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/thiago-diniz/</link>
+      <atom:link href="https://pauloborba.github.io/authors/thiago-diniz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thiago Diniz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Thiago Diniz</title>
+      <link>https://pauloborba.github.io/authors/thiago-diniz/</link>
+    </image>
+    
+    <item>
+      <title>Automated Test Execution Effort Estimation based on Functional Test Specifications</title>
+      <link>https://pauloborba.github.io/publication/2008automated_test_execution_effort_estimation_based_on_functional_test_specifications/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2008automated_test_execution_effort_estimation_based_on_functional_test_specifications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

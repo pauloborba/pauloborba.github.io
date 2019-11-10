@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eduardo Aranha | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/eduardo-aranha/</link>
+      <atom:link href="https://pauloborba.github.io/authors/eduardo-aranha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eduardo Aranha</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Eduardo Aranha</title>
+      <link>https://pauloborba.github.io/authors/eduardo-aranha/</link>
+    </image>
+    
+    <item>
+      <title>A Model-Driven Approach to Specifying and Monitoring Controlled Experiments in Software Engineering</title>
+      <link>https://pauloborba.github.io/publication/2013a_model-driven_approach_to_specifying_and_monitoring_controlled_experiments_in_software_engineering/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2013a_model-driven_approach_to_specifying_and_monitoring_controlled_experiments_in_software_engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating manual test execution effort and capacity based on execution points</title>
+      <link>https://pauloborba.github.io/publication/2009estimating_manual_test_execution_effort_and_capacity_based_on_execution_points/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2009estimating_manual_test_execution_effort_and_capacity_based_on_execution_points/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Test Execution Effort Estimation based on Functional Test Specifications</title>
+      <link>https://pauloborba.github.io/publication/2008automated_test_execution_effort_estimation_based_on_functional_test_specifications/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2008automated_test_execution_effort_estimation_based_on_functional_test_specifications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manualtest: Improving collection of manual test execution data in empirical studies</title>
+      <link>https://pauloborba.github.io/publication/2008manualtest__improving_collection_of_manual_test_execution_data_in_empirical_studies/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2008manualtest__improving_collection_of_manual_test_execution_data_in_empirical_studies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Process Simulation to Assess the Test Design Effort Reduction of a Model-Based Testing Approach</title>
+      <link>https://pauloborba.github.io/publication/2008using_process_simulation_to_assess_the_test_design_effort_reduction_of_a_model-based_testing_approach/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2008using_process_simulation_to_assess_the_test_design_effort_reduction_of_a_model-based_testing_approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Estimation Model for Test Execution Effort</title>
+      <link>https://pauloborba.github.io/publication/2007an_estimation_model_for_test_execution_effort/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007an_estimation_model_for_test_execution_effort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brazil test center research group</title>
+      <link>https://pauloborba.github.io/publication/2007brazil_test_center_research_group/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007brazil_test_center_research_group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical Studies of Test Execution Effort Estimation Based on Test Characteristics and Risk Factors</title>
+      <link>https://pauloborba.github.io/publication/2007empirical_studies_of_test_execution_effort_estimation_based_on_test_characteristics_and_risk_factors/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007empirical_studies_of_test_execution_effort_estimation_based_on_test_characteristics_and_risk_factors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sizing system tests for estimating test execution effort</title>
+      <link>https://pauloborba.github.io/publication/2007sizing_system_tests_for_estimating_test_execution_effort/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007sizing_system_tests_for_estimating_test_execution_effort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Effort Estimation Models Based on Test Specifications</title>
+      <link>https://pauloborba.github.io/publication/2007test_effort_estimation_models_based_on_test_specifications/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007test_effort_estimation_models_based_on_test_specifications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testes e geração de código de sistemas web</title>
+      <link>https://pauloborba.github.io/publication/2002testes_e_geracao_de_codigo_de_sistemas_web/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2002testes_e_geracao_de_codigo_de_sistemas_web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uma linguagem para testes de aceitação de sistemas web</title>
+      <link>https://pauloborba.github.io/publication/2002uma_linguagem_para_testes_de_aceitacao_de_sistemas_web/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2002uma_linguagem_para_testes_de_aceitacao_de_sistemas_web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web systems acceptance tests and code generation</title>
+      <link>https://pauloborba.github.io/publication/2002web_systems_acceptance_tests_and_code_generation/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2002web_systems_acceptance_tests_and_code_generation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

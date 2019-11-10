@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thaís Rocha | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/thais-rocha/</link>
+      <atom:link href="https://pauloborba.github.io/authors/thais-rocha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thaís Rocha</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Thaís Rocha</title>
+      <link>https://pauloborba.github.io/authors/thais-rocha/</link>
+    </image>
+    
+    <item>
+      <title>Improving the prediction of files changed by programming tasks</title>
+      <link>https://pauloborba.github.io/publication/2019improving_the_prediction_of_files_changed_by_programming_tasks/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2019improving_the_prediction_of_files_changed_by_programming_tasks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using acceptance tests to predict files changed by programming tasks</title>
+      <link>https://pauloborba.github.io/publication/2019using_acceptance_tests_to_predict_files_changed_by_programming_tasks/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2019using_acceptance_tests_to_predict_files_changed_by_programming_tasks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

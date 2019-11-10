@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Krzysztof Czarnecki | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/krzysztof-czarnecki/</link>
+      <atom:link href="https://pauloborba.github.io/authors/krzysztof-czarnecki/index.xml" rel="self" type="application/rss+xml" />
+    <description>Krzysztof Czarnecki</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Krzysztof Czarnecki</title>
+      <link>https://pauloborba.github.io/authors/krzysztof-czarnecki/</link>
+    </image>
+    
+    <item>
+      <title>Coevolution of variability models and related software artifacts</title>
+      <link>https://pauloborba.github.io/publication/2016coevolution_of_variability_models_and_related_software_artifacts/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2016coevolution_of_variability_models_and_related_software_artifacts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coevolution of Variability Models and Related Artifacts: A Case Study from the Linux Kernel</title>
+      <link>https://pauloborba.github.io/publication/2013coevolution_of_variability_models_and_related_artifacts__a_case_study_from_the_linux_kernel/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2013coevolution_of_variability_models_and_related_artifacts__a_case_study_from_the_linux_kernel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

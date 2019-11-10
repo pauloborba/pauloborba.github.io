@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandre Vasconcelos | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/alexandre-vasconcelos/</link>
+      <atom:link href="https://pauloborba.github.io/authors/alexandre-vasconcelos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexandre Vasconcelos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Alexandre Vasconcelos</title>
+      <link>https://pauloborba.github.io/authors/alexandre-vasconcelos/</link>
+    </image>
+    
+    <item>
+      <title>Extracting and Evolving Code in Product Lines with Aspect-Oriented Programming</title>
+      <link>https://pauloborba.github.io/publication/2007extracting_and_evolving_code_in_product_lines_with_aspect-oriented_programming/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007extracting_and_evolving_code_in_product_lines_with_aspect-oriented_programming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

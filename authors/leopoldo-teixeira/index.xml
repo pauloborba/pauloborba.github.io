@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leopoldo Teixeira | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/leopoldo-teixeira/</link>
+      <atom:link href="https://pauloborba.github.io/authors/leopoldo-teixeira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leopoldo Teixeira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Leopoldo Teixeira</title>
+      <link>https://pauloborba.github.io/authors/leopoldo-teixeira/</link>
+    </image>
+    
+    <item>
+      <title>Partially safe evolution of software product lines</title>
+      <link>https://pauloborba.github.io/publication/2019partially_safe_evolution_of_software_product_lines/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2019partially_safe_evolution_of_software_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Overly Strong Preconditions in Refactoring Engines</title>
+      <link>https://pauloborba.github.io/publication/2018detecting_overly_strong_preconditions_in_refactoring_engines/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2018detecting_overly_strong_preconditions_in_refactoring_engines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coevolution of variability models and related software artifacts</title>
+      <link>https://pauloborba.github.io/publication/2016coevolution_of_variability_models_and_related_software_artifacts/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2016coevolution_of_variability_models_and_related_software_artifacts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partially Safe Evolution of Software Product Lines</title>
+      <link>https://pauloborba.github.io/publication/2016partially_safe_evolution_of_software_product_lines/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2016partially_safe_evolution_of_software_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe Evolution of Software Product Lines: Feature Extraction Scenarios</title>
+      <link>https://pauloborba.github.io/publication/2016safe_evolution_of_software_product_lines__feature_extraction_scenarios/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2016safe_evolution_of_software_product_lines__feature_extraction_scenarios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Product Line of Theories for Reasoning about Safe Evolution of Product Lines</title>
+      <link>https://pauloborba.github.io/publication/2015a_product_line_of_theories_for_reasoning_about_safe_evolution_of_product_lines/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2015a_product_line_of_theories_for_reasoning_about_safe_evolution_of_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe Evolution of Product Populations and Multi Product Lines</title>
+      <link>https://pauloborba.github.io/publication/2015safe_evolution_of_product_populations_and_multi_product_lines/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2015safe_evolution_of_product_populations_and_multi_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe evolution templates for software product lines</title>
+      <link>https://pauloborba.github.io/publication/2015safe_evolution_templates_for_software_product_lines/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2015safe_evolution_templates_for_software_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating scenario-based SPL requirements approaches: the case for modularity, stability and expressiveness</title>
+      <link>https://pauloborba.github.io/publication/2014evaluating_scenario-based_spl_requirements_approaches__the_case_for_modularity_stability_and_expressiveness/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2014evaluating_scenario-based_spl_requirements_approaches__the_case_for_modularity_stability_and_expressiveness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making refactoring safer through impact analysis</title>
+      <link>https://pauloborba.github.io/publication/2014making_refactoring_safer_through_impact_analysis/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2014making_refactoring_safer_through_impact_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coevolution of Variability Models and Related Artifacts: A Case Study from the Linux Kernel</title>
+      <link>https://pauloborba.github.io/publication/2013coevolution_of_variability_models_and_related_artifacts__a_case_study_from_the_linux_kernel/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2013coevolution_of_variability_models_and_related_artifacts__a_case_study_from_the_linux_kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe composition of configuration knowledge-based software product lines</title>
+      <link>https://pauloborba.github.io/publication/2013safe_composition_of_configuration_knowledge-based_software_product_lines/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2013safe_composition_of_configuration_knowledge-based_software_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Theory of Software Product Line Refinement</title>
+      <link>https://pauloborba.github.io/publication/2012a_theory_of_software_product_line_refinement/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2012a_theory_of_software_product_line_refinement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the safe evolution of software product lines</title>
+      <link>https://pauloborba.github.io/publication/2012investigating_the_safe_evolution_of_software_product_lines/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2012investigating_the_safe_evolution_of_software_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Product Line Refactoring and Derivation Tools: Challenges and Potential Solutions</title>
+      <link>https://pauloborba.github.io/publication/2011integrating_product_line_refactoring_and_derivation_tools__challenges_and_potential_solutions/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2011integrating_product_line_refactoring_and_derivation_tools__challenges_and_potential_solutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the safe evolution of software product lines</title>
+      <link>https://pauloborba.github.io/publication/2011investigating_the_safe_evolution_of_software_product_lines/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2011investigating_the_safe_evolution_of_software_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe composition of configuration knowledge-based software product lines</title>
+      <link>https://pauloborba.github.io/publication/2011safe_composition_of_configuration_knowledge-based_software_product_lines/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2011safe_composition_of_configuration_knowledge-based_software_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Theory of Software Product Line Refinement</title>
+      <link>https://pauloborba.github.io/publication/2010a_theory_of_software_product_line_refinement/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2010a_theory_of_software_product_line_refinement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of Product Derivation Tools in the Evolution of Software Product Lines: An Empirical Study</title>
+      <link>https://pauloborba.github.io/publication/2010assessment_of_product_derivation_tools_in_the_evolution_of_software_product_lines__an_empirical_study/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2010assessment_of_product_derivation_tools_in_the_evolution_of_software_product_lines__an_empirical_study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emergent Feature Modularization</title>
+      <link>https://pauloborba.github.io/publication/2010emergent_feature_modularization/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2010emergent_feature_modularization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hephaestus: A tool for managing SPL variabilities</title>
+      <link>https://pauloborba.github.io/publication/2009hephaestus__a_tool_for_managing_spl_variabilities/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2009hephaestus__a_tool_for_managing_spl_variabilities/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

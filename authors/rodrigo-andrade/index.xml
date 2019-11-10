@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rodrigo Andrade | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/rodrigo-andrade/</link>
+      <atom:link href="https://pauloborba.github.io/authors/rodrigo-andrade/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rodrigo Andrade</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Rodrigo Andrade</title>
+      <link>https://pauloborba.github.io/authors/rodrigo-andrade/</link>
+    </image>
+    
+    <item>
+      <title>Assessing Idioms for a Flexible Feature Binding Time</title>
+      <link>https://pauloborba.github.io/publication/2016assessing_idioms_for_a_flexible_feature_binding_time/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2016assessing_idioms_for_a_flexible_feature_binding_time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Feature Binding with AspectJ-based Idioms</title>
+      <link>https://pauloborba.github.io/publication/2014flexible_feature_binding_with_aspectj-based_idioms/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2014flexible_feature_binding_with_aspectj-based_idioms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AspectJ-based Idioms for Flexible Feature Binding</title>
+      <link>https://pauloborba.github.io/publication/2013aspectj-based_idioms_for_flexible_feature_binding/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2013aspectj-based_idioms_for_flexible_feature_binding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing Idioms for Implementing Features with Flexible Binding Times</title>
+      <link>https://pauloborba.github.io/publication/2011assessing_idioms_for_implementing_features_with_flexible_binding_times/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2011assessing_idioms_for_implementing_features_with_flexible_binding_times/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

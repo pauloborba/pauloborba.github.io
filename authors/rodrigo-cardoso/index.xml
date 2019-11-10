@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rodrigo Cardoso | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/rodrigo-cardoso/</link>
+      <atom:link href="https://pauloborba.github.io/authors/rodrigo-cardoso/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rodrigo Cardoso</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Rodrigo Cardoso</title>
+      <link>https://pauloborba.github.io/authors/rodrigo-cardoso/</link>
+    </image>
+    
+    <item>
+      <title>Does AspectJ Provide Modularity when Implementing Features with Flexible Binding Times?</title>
+      <link>https://pauloborba.github.io/publication/2009does_aspectj_provide_modularity_when_implementing_features_with_flexible_binding_times/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2009does_aspectj_provide_modularity_when_implementing_features_with_flexible_binding_times/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

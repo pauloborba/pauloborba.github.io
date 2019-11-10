@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Davi Pires | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/davi-pires/</link>
+      <atom:link href="https://pauloborba.github.io/authors/davi-pires/index.xml" rel="self" type="application/rss+xml" />
+    <description>Davi Pires</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Davi Pires</title>
+      <link>https://pauloborba.github.io/authors/davi-pires/</link>
+    </image>
+    
+    <item>
+      <title>Beyond Code: Handling Variability in Art Artifacts in Mobile Game Product Lines</title>
+      <link>https://pauloborba.github.io/publication/2006beyond_code__handling_variability_in_art_artifacts_in_mobile_game_product_lines/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006beyond_code__handling_variability_in_art_artifacts_in_mobile_game_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Conditional Compilation to Aspects: A Case Study in Software Product Lines Migration</title>
+      <link>https://pauloborba.github.io/publication/2006from_conditional_compilation_to_aspects__a_case_study_in_software_product_lines_migration/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006from_conditional_compilation_to_aspects__a_case_study_in_software_product_lines_migration/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

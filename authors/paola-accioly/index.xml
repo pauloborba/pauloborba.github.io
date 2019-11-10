@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paola Accioly | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/paola-accioly/</link>
+      <atom:link href="https://pauloborba.github.io/authors/paola-accioly/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paola Accioly</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Paola Accioly</title>
+      <link>https://pauloborba.github.io/authors/paola-accioly/</link>
+    </image>
+    
+    <item>
+      <title>Analyzing Conflict Predictors in Open-Source Java Projects from GitHub and Travis CI</title>
+      <link>https://pauloborba.github.io/publication/2018analyzing_conflict_predictors_in_open-source_java_projects_from_github_and_travis_ci/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2018analyzing_conflict_predictors_in_open-source_java_projects_from_github_and_travis_ci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding semi-structured merge conflict characteristics in open-source Java projects</title>
+      <link>https://pauloborba.github.io/publication/2018understanding_semi-structured_merge_conflict_characteristics_in_open-source_java_projects/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2018understanding_semi-structured_merge_conflict_characteristics_in_open-source_java_projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical assessment of two approaches for specifying software product line use case scenarios</title>
+      <link>https://pauloborba.github.io/publication/2017empirical_assessment_of_two_approaches_for_specifying_software_product_line_use_case_scenarios/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2017empirical_assessment_of_two_approaches_for_specifying_software_product_line_use_case_scenarios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating and Improving Semistructured Merge</title>
+      <link>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating and improving semistructured merge</title>
+      <link>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Should We Replace Our Merge Tools?</title>
+      <link>https://pauloborba.github.io/publication/2017should_we_replace_our_merge_tools/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2017should_we_replace_our_merge_tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing Semistructured Merge in Version Control Systems: A Replicated Experiment</title>
+      <link>https://pauloborba.github.io/publication/2015assessing_semistructured_merge_in_version_control_systems__a_replicated_experiment/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2015assessing_semistructured_merge_in_version_control_systems__a_replicated_experiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controlled Experiments Comparing Black-box Testing Strategies for Software Product Lines</title>
+      <link>https://pauloborba.github.io/publication/2014controlled_experiments_comparing_black-box_testing_strategies_for_software_product_lines/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2014controlled_experiments_comparing_black-box_testing_strategies_for_software_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating scenario-based SPL requirements approaches: the case for modularity, stability and expressiveness</title>
+      <link>https://pauloborba.github.io/publication/2014evaluating_scenario-based_spl_requirements_approaches__the_case_for_modularity_stability_and_expressiveness/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2014evaluating_scenario-based_spl_requirements_approaches__the_case_for_modularity_stability_and_expressiveness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semistructured Merge on Git: An Assessment</title>
+      <link>https://pauloborba.github.io/publication/2014semistructured_merge_on_git__an_assessment/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2014semistructured_merge_on_git__an_assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Model-Driven Approach to Specifying and Monitoring Controlled Experiments in Software Engineering</title>
+      <link>https://pauloborba.github.io/publication/2013a_model-driven_approach_to_specifying_and_monitoring_controlled_experiments_in_software_engineering/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2013a_model-driven_approach_to_specifying_and_monitoring_controlled_experiments_in_software_engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing Two Black-box Testing Strategies for Software Product Lines</title>
+      <link>https://pauloborba.github.io/publication/2012comparing_two_black-box_testing_strategies_for_software_product_lines/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2012comparing_two_black-box_testing_strategies_for_software_product_lines/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

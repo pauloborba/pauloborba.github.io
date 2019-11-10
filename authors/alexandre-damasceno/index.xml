@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandre Damasceno | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/alexandre-damasceno/</link>
+      <atom:link href="https://pauloborba.github.io/authors/alexandre-damasceno/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexandre Damasceno</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Alexandre Damasceno</title>
+      <link>https://pauloborba.github.io/authors/alexandre-damasceno/</link>
+    </image>
+    
+    <item>
+      <title>Comparative Analysis of Porting Strategies in Mobile Device Games</title>
+      <link>https://pauloborba.github.io/publication/2005comparative_analysis_of_porting_strategies_in_mobile_device_games/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2005comparative_analysis_of_porting_strategies_in_mobile_device_games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portando Jogos em J2ME: Desafios, Estudo de Caso, e Diretrizes</title>
+      <link>https://pauloborba.github.io/publication/2005portando_jogos_em_j2me__desafios_estudo_de_caso_e_diretrizes/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2005portando_jogos_em_j2me__desafios_estudo_de_caso_e_diretrizes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portando Jogos em J2ME: Desafios, Estudo de Caso, e Diretrizes</title>
+      <link>https://pauloborba.github.io/publication/2004portando_jogos_em_j2me__desafios_estudo_de_caso_e_diretrizes/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2004portando_jogos_em_j2me__desafios_estudo_de_caso_e_diretrizes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

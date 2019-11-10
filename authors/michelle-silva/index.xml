@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michelle Silva | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/michelle-silva/</link>
+      <atom:link href="https://pauloborba.github.io/authors/michelle-silva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michelle Silva</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Michelle Silva</title>
+      <link>https://pauloborba.github.io/authors/michelle-silva/</link>
+    </image>
+    
+    <item>
+      <title>TaRGeT: a Model Based Product Line Testing Tool</title>
+      <link>https://pauloborba.github.io/publication/2010target__a_model_based_product_line_testing_tool/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2010target__a_model_based_product_line_testing_tool/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

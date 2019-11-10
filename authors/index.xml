@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/</link>
+      <atom:link href="https://pauloborba.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Authors</title>
+      <link>https://pauloborba.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Alberto Tavares</title>
+      <link>https://pauloborba.github.io/authors/alberto-tavares/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/alberto-tavares/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gabriela Sampaio</title>
+      <link>https://pauloborba.github.io/authors/gabriela-sampaio/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/gabriela-sampaio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Georg Seibt</title>
+      <link>https://pauloborba.github.io/authors/georg-seibt/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/georg-seibt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guilherme Cavalcanti</title>
+      <link>https://pauloborba.github.io/authors/guilherme-cavalcanti/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/guilherme-cavalcanti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joao Santos</title>
+      <link>https://pauloborba.github.io/authors/joao-santos/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/joao-santos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leopoldo Teixeira</title>
+      <link>https://pauloborba.github.io/authors/leopoldo-teixeira/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/leopoldo-teixeira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paulo Borba</title>
+      <link>https://pauloborba.github.io/authors/paulo-borba/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/paulo-borba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sven Apel</title>
+      <link>https://pauloborba.github.io/authors/sven-apel/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/sven-apel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sérgio Soares</title>
+      <link>https://pauloborba.github.io/authors/sergio-soares/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/sergio-soares/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thaís Rocha</title>
+      <link>https://pauloborba.github.io/authors/thais-rocha/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/thais-rocha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gustavo Soares</title>
+      <link>https://pauloborba.github.io/authors/gustavo-soares/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/gustavo-soares/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Léuson Silva</title>
+      <link>https://pauloborba.github.io/authors/leuson-silva/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/leuson-silva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melina Mongiovi</title>
+      <link>https://pauloborba.github.io/authors/melina-mongiovi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/melina-mongiovi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Márcio Ribeiro</title>
+      <link>https://pauloborba.github.io/authors/marcio-ribeiro/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/marcio-ribeiro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paola Accioly</title>
+      <link>https://pauloborba.github.io/authors/paola-accioly/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/paola-accioly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rohit Gheyi</title>
+      <link>https://pauloborba.github.io/authors/rohit-gheyi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/rohit-gheyi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augusto Sampaio</title>
+      <link>https://pauloborba.github.io/authors/augusto-sampaio/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/augusto-sampaio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cristiano Ferraz</title>
+      <link>https://pauloborba.github.io/authors/cristiano-ferraz/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/cristiano-ferraz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>João Fernandes</title>
+      <link>https://pauloborba.github.io/authors/joao-fernandes/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/joao-fernandes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>João Saraiva</title>
+      <link>https://pauloborba.github.io/authors/joao-saraiva/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/joao-saraiva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jácome Cunha</title>
+      <link>https://pauloborba.github.io/authors/jacome-cunha/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/jacome-cunha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marco Couto</title>
+      <link>https://pauloborba.github.io/authors/marco-couto/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/marco-couto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rodrigo Bonifácio</title>
+      <link>https://pauloborba.github.io/authors/rodrigo-bonifacio/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/rodrigo-bonifacio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rui Pereira</title>
+      <link>https://pauloborba.github.io/authors/rui-pereira/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/rui-pereira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrzej W&#39;sowski</title>
+      <link>https://pauloborba.github.io/authors/andrzej-wsowski/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/andrzej-wsowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baldoino Fonseca</title>
+      <link>https://pauloborba.github.io/authors/baldoino-fonseca/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/baldoino-fonseca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fernando Benbassat</title>
+      <link>https://pauloborba.github.io/authors/fernando-benbassat/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/fernando-benbassat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flávio Medeiros</title>
+      <link>https://pauloborba.github.io/authors/flavio-medeiros/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/flavio-medeiros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Henrique Rebelo</title>
+      <link>https://pauloborba.github.io/authors/henrique-rebelo/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/henrique-rebelo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iran Rodrigues</title>
+      <link>https://pauloborba.github.io/authors/iran-rodrigues/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/iran-rodrigues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jianmei Guo</title>
+      <link>https://pauloborba.github.io/authors/jianmei-guo/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/jianmei-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jones Albuquerque</title>
+      <link>https://pauloborba.github.io/authors/jones-albuquerque/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/jones-albuquerque/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krzysztof Czarnecki</title>
+      <link>https://pauloborba.github.io/authors/krzysztof-czarnecki/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/krzysztof-czarnecki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leonardo Passos</title>
+      <link>https://pauloborba.github.io/authors/leonardo-passos/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/leonardo-passos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lucas Satabin</title>
+      <link>https://pauloborba.github.io/authors/lucas-satabin/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/lucas-satabin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicolas Dintzner</title>
+      <link>https://pauloborba.github.io/authors/nicolas-dintzner/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/nicolas-dintzner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rodrigo Andrade</title>
+      <link>https://pauloborba.github.io/authors/rodrigo-andrade/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/rodrigo-andrade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silvio Meira</title>
+      <link>https://pauloborba.github.io/authors/silvio-meira/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/silvio-meira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vaidas Gasiunas</title>
+      <link>https://pauloborba.github.io/authors/vaidas-gasiunas/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/vaidas-gasiunas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vanilson Burégio</title>
+      <link>https://pauloborba.github.io/authors/vanilson-buregio/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/vanilson-buregio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vinicius Garcia</title>
+      <link>https://pauloborba.github.io/authors/vinicius-garcia/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/vinicius-garcia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bruno Cartaxo</title>
+      <link>https://pauloborba.github.io/authors/bruno-cartaxo/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/bruno-cartaxo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demóstenes Sena</title>
+      <link>https://pauloborba.github.io/authors/demostenes-sena/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/demostenes-sena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hélio Fugimoto</title>
+      <link>https://pauloborba.github.io/authors/helio-fugimoto/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/helio-fugimoto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laís Neves</title>
+      <link>https://pauloborba.github.io/authors/lais-neves/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/lais-neves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lucinéia Turnes</title>
+      <link>https://pauloborba.github.io/authors/lucineia-turnes/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/lucineia-turnes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uirá Kulesza</title>
+      <link>https://pauloborba.github.io/authors/uira-kulesza/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/uira-kulesza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vander Alves</title>
+      <link>https://pauloborba.github.io/authors/vander-alves/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/vander-alves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ana Moreira</title>
+      <link>https://pauloborba.github.io/authors/ana-moreira/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/ana-moreira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christian Kästner</title>
+      <link>https://pauloborba.github.io/authors/christian-kastner/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/christian-kastner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Claus Brabrand</title>
+      <link>https://pauloborba.github.io/authors/claus-brabrand/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/claus-brabrand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric Bodden</title>
+      <link>https://pauloborba.github.io/authors/eric-bodden/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/eric-bodden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Felipe Ferreira</title>
+      <link>https://pauloborba.github.io/authors/felipe-ferreira/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/felipe-ferreira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JoÃo Araújo</title>
+      <link>https://pauloborba.github.io/authors/joao-araujo/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/joao-araujo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mauricio AlfÉrez</title>
+      <link>https://pauloborba.github.io/authors/mauricio-alferez/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/mauricio-alferez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mira Mezini</title>
+      <link>https://pauloborba.github.io/authors/mira-mezini/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/mira-mezini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Társis Toledo</title>
+      <link>https://pauloborba.github.io/authors/tarsis-toledo/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/tarsis-toledo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alberto Neto</title>
+      <link>https://pauloborba.github.io/authors/alberto-neto/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/alberto-neto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrzej Wasowski</title>
+      <link>https://pauloborba.github.io/authors/andrzej-wasowski/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/andrzej-wasowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arndt Staa</title>
+      <link>https://pauloborba.github.io/authors/arndt-staa/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/arndt-staa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carla Silva</title>
+      <link>https://pauloborba.github.io/authors/carla-silva/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/carla-silva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carlos Lucena</title>
+      <link>https://pauloborba.github.io/authors/carlos-lucena/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/carlos-lucena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carlos Pontual</title>
+      <link>https://pauloborba.github.io/authors/carlos-pontual/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/carlos-pontual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cecília Rubira</title>
+      <link>https://pauloborba.github.io/authors/cecilia-rubira/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/cecilia-rubira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christina Chavez</title>
+      <link>https://pauloborba.github.io/authors/christina-chavez/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/christina-chavez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Claudio Santanna</title>
+      <link>https://pauloborba.github.io/authors/claudio-santanna/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/claudio-santanna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edmilson Neto</title>
+      <link>https://pauloborba.github.io/authors/edmilson-neto/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/edmilson-neto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eduardo Aranha</title>
+      <link>https://pauloborba.github.io/authors/eduardo-aranha/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/eduardo-aranha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eduardo Figueiredo</title>
+      <link>https://pauloborba.github.io/authors/eduardo-figueiredo/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/eduardo-figueiredo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eduardo Piveta</title>
+      <link>https://pauloborba.github.io/authors/eduardo-piveta/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/eduardo-piveta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabiano Ferrari</title>
+      <link>https://pauloborba.github.io/authors/fabiano-ferrari/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/fabiano-ferrari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabio Silveira</title>
+      <link>https://pauloborba.github.io/authors/fabio-silveira/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/fabio-silveira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fernanda Alencar</title>
+      <link>https://pauloborba.github.io/authors/fernanda-alencar/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/fernanda-alencar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fernando Castor</title>
+      <link>https://pauloborba.github.io/authors/fernando-castor/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/fernando-castor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flavia Delicato</title>
+      <link>https://pauloborba.github.io/authors/flavia-delicato/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/flavia-delicato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gary Leavens</title>
+      <link>https://pauloborba.github.io/authors/gary-leavens/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/gary-leavens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gustavo Sizílio</title>
+      <link>https://pauloborba.github.io/authors/gustavo-sizilio/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/gustavo-sizilio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jaelson Castro</title>
+      <link>https://pauloborba.github.io/authors/jaelson-castro/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/jaelson-castro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean Melo</title>
+      <link>https://pauloborba.github.io/authors/jean-melo/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/jean-melo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johnni Winther</title>
+      <link>https://pauloborba.github.io/authors/johnni-winther/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/johnni-winther/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Júlio Leite</title>
+      <link>https://pauloborba.github.io/authors/julio-leite/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/julio-leite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lyrene Silva</title>
+      <link>https://pauloborba.github.io/authors/lyrene-silva/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/lyrene-silva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marco Valente</title>
+      <link>https://pauloborba.github.io/authors/marco-valente/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/marco-valente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marília Freire</title>
+      <link>https://pauloborba.github.io/authors/marilia-freire/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/marilia-freire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nabor Mendonça</title>
+      <link>https://pauloborba.github.io/authors/nabor-mendonca/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/nabor-mendonca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nélio Cacho</title>
+      <link>https://pauloborba.github.io/authors/nelio-cacho/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/nelio-cacho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Otávio Lemos</title>
+      <link>https://pauloborba.github.io/authors/otavio-lemos/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/otavio-lemos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paulo Masiero</title>
+      <link>https://pauloborba.github.io/authors/paulo-masiero/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/paulo-masiero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paulo Pires</title>
+      <link>https://pauloborba.github.io/authors/paulo-pires/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/paulo-pires/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ricardo Lima</title>
+      <link>https://pauloborba.github.io/authors/ricardo-lima/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/ricardo-lima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ricardo Ramos</title>
+      <link>https://pauloborba.github.io/authors/ricardo-ramos/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/ricardo-ramos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberta Coelho</title>
+      <link>https://pauloborba.github.io/authors/roberta-coelho/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/roberta-coelho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rosana Braga</title>
+      <link>https://pauloborba.github.io/authors/rosana-braga/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/rosana-braga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rosangela Penteado</title>
+      <link>https://pauloborba.github.io/authors/rosangela-penteado/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/rosangela-penteado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thaís Batista</title>
+      <link>https://pauloborba.github.io/authors/thais-batista/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/thais-batista/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valter Camargo</title>
+      <link>https://pauloborba.github.io/authors/valter-camargo/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/valter-camargo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Felipe Queiroz</title>
+      <link>https://pauloborba.github.io/authors/felipe-queiroz/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/felipe-queiroz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Felype Ferreira</title>
+      <link>https://pauloborba.github.io/authors/felype-ferreira/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/felype-ferreira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fernanda d&#39;Amorim</title>
+      <link>https://pauloborba.github.io/authors/fernanda-damorim/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/fernanda-damorim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Winther</title>
+      <link>https://pauloborba.github.io/authors/j.-winther/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/j.-winther/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caliane Figuerêdo</title>
+      <link>https://pauloborba.github.io/authors/caliane-figueredo/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/caliane-figueredo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gustavo Alexandre</title>
+      <link>https://pauloborba.github.io/authors/gustavo-alexandre/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/gustavo-alexandre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lyrene Fernandes</title>
+      <link>https://pauloborba.github.io/authors/lyrene-fernandes/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/lyrene-fernandes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rodrigo Almeida</title>
+      <link>https://pauloborba.github.io/authors/rodrigo-almeida/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/rodrigo-almeida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simone Santos</title>
+      <link>https://pauloborba.github.io/authors/simone-santos/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/simone-santos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiago Massoni</title>
+      <link>https://pauloborba.github.io/authors/tiago-massoni/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/tiago-massoni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Élder Cirilo</title>
+      <link>https://pauloborba.github.io/authors/elder-cirilo/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/elder-cirilo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humberto Pacheco</title>
+      <link>https://pauloborba.github.io/authors/humberto-pacheco/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/humberto-pacheco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matheus Sousa</title>
+      <link>https://pauloborba.github.io/authors/matheus-sousa/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/matheus-sousa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michelle Silva</title>
+      <link>https://pauloborba.github.io/authors/michelle-silva/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/michelle-silva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mário Torres</title>
+      <link>https://pauloborba.github.io/authors/mario-torres/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/mario-torres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arthur Marques</title>
+      <link>https://pauloborba.github.io/authors/arthur-marques/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/arthur-marques/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rodrigo Cardoso</title>
+      <link>https://pauloborba.github.io/authors/rodrigo-cardoso/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/rodrigo-cardoso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrea Menezes</title>
+      <link>https://pauloborba.github.io/authors/andrea-menezes/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/andrea-menezes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fernando Calheiros</title>
+      <link>https://pauloborba.github.io/authors/fernando-calheiros/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/fernando-calheiros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Filipe Almeida</title>
+      <link>https://pauloborba.github.io/authors/filipe-almeida/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/filipe-almeida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Márcio Cornélio</title>
+      <link>https://pauloborba.github.io/authors/marcio-cornelio/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/marcio-cornelio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pedro Matos</title>
+      <link>https://pauloborba.github.io/authors/pedro-matos/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/pedro-matos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thiago Diniz</title>
+      <link>https://pauloborba.github.io/authors/thiago-diniz/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/thiago-diniz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vilmar Nepomuceno</title>
+      <link>https://pauloborba.github.io/authors/vilmar-nepomuceno/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/vilmar-nepomuceno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vitor Fontes</title>
+      <link>https://pauloborba.github.io/authors/vitor-fontes/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/vitor-fontes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adeline Souza</title>
+      <link>https://pauloborba.github.io/authors/adeline-souza/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/adeline-souza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alessandro Garcia</title>
+      <link>https://pauloborba.github.io/authors/alessandro-garcia/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/alessandro-garcia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexandre Mota</title>
+      <link>https://pauloborba.github.io/authors/alexandre-mota/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/alexandre-mota/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexandre Vasconcelos</title>
+      <link>https://pauloborba.github.io/authors/alexandre-vasconcelos/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/alexandre-vasconcelos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Américo Sampaio</title>
+      <link>https://pauloborba.github.io/authors/americo-sampaio/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/americo-sampaio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Awais Rashid</title>
+      <link>https://pauloborba.github.io/authors/awais-rashid/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/awais-rashid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dante Torres</title>
+      <link>https://pauloborba.github.io/authors/dante-torres/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/dante-torres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emanuela Cartaxo</title>
+      <link>https://pauloborba.github.io/authors/emanuela-cartaxo/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/emanuela-cartaxo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flávia Barros</title>
+      <link>https://pauloborba.github.io/authors/flavia-barros/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/flavia-barros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geber Ramalho</title>
+      <link>https://pauloborba.github.io/authors/geber-ramalho/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/geber-ramalho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ivan Cardim</title>
+      <link>https://pauloborba.github.io/authors/ivan-cardim/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/ivan-cardim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leonardo Neto</title>
+      <link>https://pauloborba.github.io/authors/leonardo-neto/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/leonardo-neto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcos Dósea</title>
+      <link>https://pauloborba.github.io/authors/marcos-dosea/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/marcos-dosea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patrícia Lustosa</title>
+      <link>https://pauloborba.github.io/authors/patricia-lustosa/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/patricia-lustosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patrícia Machado</title>
+      <link>https://pauloborba.github.io/authors/patricia-machado/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/patricia-machado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philip Greenwood</title>
+      <link>https://pauloborba.github.io/authors/philip-greenwood/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/philip-greenwood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rafael Duarte</title>
+      <link>https://pauloborba.github.io/authors/rafael-duarte/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/rafael-duarte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberta Arcoverde</title>
+      <link>https://pauloborba.github.io/authors/roberta-arcoverde/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/roberta-arcoverde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sidney Nogueira</title>
+      <link>https://pauloborba.github.io/authors/sidney-nogueira/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/sidney-nogueira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thiago Bartolomei</title>
+      <link>https://pauloborba.github.io/authors/thiago-bartolomei/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/thiago-bartolomei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ardnt Staa</title>
+      <link>https://pauloborba.github.io/authors/ardnt-staa/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/ardnt-staa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Davi Pires</title>
+      <link>https://pauloborba.github.io/authors/davi-pires/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/davi-pires/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eduardo Laureano</title>
+      <link>https://pauloborba.github.io/authors/eduardo-laureano/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/eduardo-laureano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gustavo Santos</title>
+      <link>https://pauloborba.github.io/authors/gustavo-santos/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/gustavo-santos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jorge Leal</title>
+      <link>https://pauloborba.github.io/authors/jorge-leal/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/jorge-leal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexandra Barros</title>
+      <link>https://pauloborba.github.io/authors/alexandra-barros/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/alexandra-barros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexandre Damasceno</title>
+      <link>https://pauloborba.github.io/authors/alexandre-damasceno/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/alexandre-damasceno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heitor Carmo</title>
+      <link>https://pauloborba.github.io/authors/heitor-carmo/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/heitor-carmo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Igor Sampaio</title>
+      <link>https://pauloborba.github.io/authors/igor-sampaio/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/igor-sampaio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leonardo Cole</title>
+      <link>https://pauloborba.github.io/authors/leonardo-cole/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/leonardo-cole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pedro Sampaio</title>
+      <link>https://pauloborba.github.io/authors/pedro-sampaio/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/pedro-sampaio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ana Cavalcanti</title>
+      <link>https://pauloborba.github.io/authors/ana-cavalcanti/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/ana-cavalcanti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>André Santos</title>
+      <link>https://pauloborba.github.io/authors/andre-santos/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/andre-santos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ayla Dantas</title>
+      <link>https://pauloborba.github.io/authors/ayla-dantas/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/ayla-dantas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carlos Andrade</title>
+      <link>https://pauloborba.github.io/authors/carlos-andrade/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/carlos-andrade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geórgia Sousa</title>
+      <link>https://pauloborba.github.io/authors/georgia-sousa/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/georgia-sousa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joseph Yoder</title>
+      <link>https://pauloborba.github.io/authors/joseph-yoder/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/joseph-yoder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ralph Johnson</title>
+      <link>https://pauloborba.github.io/authors/ralph-johnson/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/ralph-johnson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clóvis Nogueira</title>
+      <link>https://pauloborba.github.io/authors/clovis-nogueira/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/clovis-nogueira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Klissiomara Dias</title>
+      <link>https://pauloborba.github.io/authors/klissiomara-dias/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/klissiomara-dias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcelo d&#39;Amorim</title>
+      <link>https://pauloborba.github.io/authors/marcelo-damorim/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/marcelo-damorim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gibeon Soares</title>
+      <link>https://pauloborba.github.io/authors/gibeon-soares/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/gibeon-soares/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kellen Oliveira</title>
+      <link>https://pauloborba.github.io/authors/kellen-oliveira/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/kellen-oliveira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Euricélia Viana</title>
+      <link>https://pauloborba.github.io/authors/euricelia-viana/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/euricelia-viana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hednilson Bezerra</title>
+      <link>https://pauloborba.github.io/authors/hednilson-bezerra/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/hednilson-bezerra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marconi Lima</title>
+      <link>https://pauloborba.github.io/authors/marconi-lima/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/marconi-lima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saulo Araújo</title>
+      <link>https://pauloborba.github.io/authors/saulo-araujo/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/saulo-araujo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Débora Aranha</title>
+      <link>https://pauloborba.github.io/authors/debora-aranha/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/debora-aranha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joseph Goguen</title>
+      <link>https://pauloborba.github.io/authors/joseph-goguen/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/joseph-goguen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Carraher</title>
+      <link>https://pauloborba.github.io/authors/david-carraher/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/david-carraher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pauloborba.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am Professor of Software Engineering at the &lt;a href=&#34;http://www.cin.ufpe.br&#34; target=&#34;_blank&#34;&gt;Informatics Center&lt;/a&gt; of the Federal University of Pernambuco, where I lead the &lt;a href=&#34;http://www.cin.ufpe.br/spg&#34; target=&#34;_blank&#34;&gt;Software Productivity Group&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I investigate and develop tools and techniques for improving software development quality and productivity levels without compromising human life quality factors. In my research, I pursue a mix of academic excellence with practical relevance.&lt;/p&gt;
+
+&lt;p&gt;My main research interests are in the following topics and their integration: advanced (semi-structured, structured, semantic) code merging tools, code integration conflicts, continuous integration and deployment, software modularity, software product lines, and refactoring.&lt;/p&gt;
+
+&lt;p&gt;I am a member of the ACM and of the Brazilian Computer Society.&lt;/p&gt;
+
+&lt;p&gt;I was co-founder of &lt;a href=&#34;http://www.qualiti.com.br&#34; target=&#34;_blank&#34;&gt;Qualiti Software Processes&lt;/a&gt;, a spin-off of the Informatics Center and &lt;a href=&#34;http://www.cesar.org.br&#34; target=&#34;_blank&#34;&gt;C.E.S.A.R.&lt;/a&gt;, specialized on software development tools and processes.&lt;/p&gt;
+
+&lt;p&gt;I have a D.Phil. in Computing from Oxford University, and an M.Sc. and a B.Sc. in Computer Science from Federal University of Pernambuco.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

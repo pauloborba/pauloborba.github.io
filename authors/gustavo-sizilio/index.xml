@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gustavo Sizílio | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/gustavo-sizilio/</link>
+      <atom:link href="https://pauloborba.github.io/authors/gustavo-sizilio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gustavo Sizílio</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Gustavo Sizílio</title>
+      <link>https://pauloborba.github.io/authors/gustavo-sizilio/</link>
+    </image>
+    
+    <item>
+      <title>A Model-Driven Approach to Specifying and Monitoring Controlled Experiments in Software Engineering</title>
+      <link>https://pauloborba.github.io/publication/2013a_model-driven_approach_to_specifying_and_monitoring_controlled_experiments_in_software_engineering/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2013a_model-driven_approach_to_specifying_and_monitoring_controlled_experiments_in_software_engineering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlos Pontual | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/carlos-pontual/</link>
+      <atom:link href="https://pauloborba.github.io/authors/carlos-pontual/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carlos Pontual</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Carlos Pontual</title>
+      <link>https://pauloborba.github.io/authors/carlos-pontual/</link>
+    </image>
+    
+    <item>
+      <title>A design rule language for aspect-oriented programming</title>
+      <link>https://pauloborba.github.io/publication/2013a_design_rule_language_for_aspect-oriented_programming/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2013a_design_rule_language_for_aspect-oriented_programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modularizing variabilities with CaesarJ collaboration interfaces</title>
+      <link>https://pauloborba.github.io/publication/2009modularizing_variabilities_with_caesarj_collaboration_interfaces/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2009modularizing_variabilities_with_caesarj_collaboration_interfaces/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

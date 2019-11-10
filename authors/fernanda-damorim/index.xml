@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fernanda d&#39;Amorim | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/fernanda-damorim/</link>
+      <atom:link href="https://pauloborba.github.io/authors/fernanda-damorim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fernanda d&#39;Amorim</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Fernanda d&#39;Amorim</title>
+      <link>https://pauloborba.github.io/authors/fernanda-damorim/</link>
+    </image>
+    
+    <item>
+      <title>Modularity analysis of use case implementations</title>
+      <link>https://pauloborba.github.io/publication/2012modularity_analysis_of_use_case_implementations/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2012modularity_analysis_of_use_case_implementations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modularity Analysis of Use Case Implementations</title>
+      <link>https://pauloborba.github.io/publication/2010modularity_analysis_of_use_case_implementations/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2010modularity_analysis_of_use_case_implementations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modularity analysis of use case implementations</title>
+      <link>https://pauloborba.github.io/publication/2009modularity_analysis_of_use_case_implementations/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2009modularity_analysis_of_use_case_implementations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

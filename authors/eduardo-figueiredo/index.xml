@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eduardo Figueiredo | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/eduardo-figueiredo/</link>
+      <atom:link href="https://pauloborba.github.io/authors/eduardo-figueiredo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eduardo Figueiredo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Eduardo Figueiredo</title>
+      <link>https://pauloborba.github.io/authors/eduardo-figueiredo/</link>
+    </image>
+    
+    <item>
+      <title>The crosscutting impact of the AOSD Brazilian research community</title>
+      <link>https://pauloborba.github.io/publication/2013the_crosscutting_impact_of_the_aosd_brazilian_research_community/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2013the_crosscutting_impact_of_the_aosd_brazilian_research_community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The AOSD Research Community in Brazil and Its Crosscutting Impact</title>
+      <link>https://pauloborba.github.io/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Contributions of an End-to-End AOSD Testbed</title>
+      <link>https://pauloborba.github.io/publication/2007on_the_contributions_of_an_end-to-end_aosd_testbed/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007on_the_contributions_of_an_end-to-end_aosd_testbed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Impact of Aspectual Decompositions on Design Stability: An Empirical Study</title>
+      <link>https://pauloborba.github.io/publication/2007on_the_impact_of_aspectual_decompositions_on_design_stability__an_empirical_study/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007on_the_impact_of_aspectual_decompositions_on_design_stability__an_empirical_study/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

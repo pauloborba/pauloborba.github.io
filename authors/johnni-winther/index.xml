@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johnni Winther | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/johnni-winther/</link>
+      <atom:link href="https://pauloborba.github.io/authors/johnni-winther/index.xml" rel="self" type="application/rss+xml" />
+    <description>Johnni Winther</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Johnni Winther</title>
+      <link>https://pauloborba.github.io/authors/johnni-winther/</link>
+    </image>
+    
+    <item>
+      <title>Intraprocedural Dataflow Analysis for Software Product Lines</title>
+      <link>https://pauloborba.github.io/publication/2013intraprocedural_dataflow_analysis_for_software_product_lines/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2013intraprocedural_dataflow_analysis_for_software_product_lines/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cristiano Ferraz | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/cristiano-ferraz/</link>
+      <atom:link href="https://pauloborba.github.io/authors/cristiano-ferraz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cristiano Ferraz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Cristiano Ferraz</title>
+      <link>https://pauloborba.github.io/authors/cristiano-ferraz/</link>
+    </image>
+    
+    <item>
+      <title>Empirical assessment of two approaches for specifying software product line use case scenarios</title>
+      <link>https://pauloborba.github.io/publication/2017empirical_assessment_of_two_approaches_for_specifying_software_product_line_use_case_scenarios/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2017empirical_assessment_of_two_approaches_for_specifying_software_product_line_use_case_scenarios/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

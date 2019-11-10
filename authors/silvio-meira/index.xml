@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Silvio Meira | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/silvio-meira/</link>
+      <atom:link href="https://pauloborba.github.io/authors/silvio-meira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Silvio Meira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Silvio Meira</title>
+      <link>https://pauloborba.github.io/authors/silvio-meira/</link>
+    </image>
+    
+    <item>
+      <title>Programming the Universe: The First Commandment of Software Engineering for all Varieties of Information Systems</title>
+      <link>https://pauloborba.github.io/publication/2016programming_the_universe__the_first_commandment_of_software_engineering_for_all_varieties_of_information_systems/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2016programming_the_universe__the_first_commandment_of_software_engineering_for_all_varieties_of_information_systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A System For Translating Executable VDM Specifications Into Lazy ML</title>
+      <link>https://pauloborba.github.io/publication/1997a_system_for_translating_executable_vdm_specifications_into_lazy_ml/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/1997a_system_for_translating_executable_vdm_specifications_into_lazy_ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From VDM Specifications To Functional Prototypes</title>
+      <link>https://pauloborba.github.io/publication/1993from_vdm_specifications_to_functional_prototypes/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/1993from_vdm_specifications_to_functional_prototypes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prototyping Action Semantics using Functional Languages</title>
+      <link>https://pauloborba.github.io/publication/1992prototyping_action_semantics_using_functional_languages/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/1992prototyping_action_semantics_using_functional_languages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Model Based Specifications to Functional Prototypes</title>
+      <link>https://pauloborba.github.io/publication/1991from_model_based_specifications_to_functional_prototypes/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/1991from_model_based_specifications_to_functional_prototypes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tradução de Tipos de Especificação para Protótipo</title>
+      <link>https://pauloborba.github.io/publication/1990traducao_de_tipos_de_especificacao_para_prototipo/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/1990traducao_de_tipos_de_especificacao_para_prototipo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notação VDM Executável em Standard ML</title>
+      <link>https://pauloborba.github.io/publication/1989notacao_vdm_executavel_em_standard_ml/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/1989notacao_vdm_executavel_em_standard_ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protótipos Funcionais a partir de Especificações Formais em VDM</title>
+      <link>https://pauloborba.github.io/publication/1989prototipos_funcionais_a_partir_de_especificacoes_formais_em_vdm/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/1989prototipos_funcionais_a_partir_de_especificacoes_formais_em_vdm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

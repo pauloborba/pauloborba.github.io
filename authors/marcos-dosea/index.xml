@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcos Dósea | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/marcos-dosea/</link>
+      <atom:link href="https://pauloborba.github.io/authors/marcos-dosea/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marcos Dósea</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Marcos Dósea</title>
+      <link>https://pauloborba.github.io/authors/marcos-dosea/</link>
+    </image>
+    
+    <item>
+      <title>Analyzing Class and Crosscutting Modularity with Design Structure Matrixes</title>
+      <link>https://pauloborba.github.io/publication/2007analyzing_class_and_crosscutting_modularity_with_design_structure_matrixes/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007analyzing_class_and_crosscutting_modularity_with_design_structure_matrixes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Impact of Aspectual Decompositions on Design Stability: An Empirical Study</title>
+      <link>https://pauloborba.github.io/publication/2007on_the_impact_of_aspectual_decompositions_on_design_stability__an_empirical_study/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007on_the_impact_of_aspectual_decompositions_on_design_stability__an_empirical_study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Dependencies and Modularity of Aspect-Oriented Software</title>
+      <link>https://pauloborba.github.io/publication/2007semantic_dependencies_and_modularity_of_aspect-oriented_software/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007semantic_dependencies_and_modularity_of_aspect-oriented_software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specifying design rules in aspect-oriented systems</title>
+      <link>https://pauloborba.github.io/publication/2007specifying_design_rules_in_aspect-oriented_systems/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007specifying_design_rules_in_aspect-oriented_systems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Élder Cirilo | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/elder-cirilo/</link>
+      <atom:link href="https://pauloborba.github.io/authors/elder-cirilo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Élder Cirilo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Élder Cirilo</title>
+      <link>https://pauloborba.github.io/authors/elder-cirilo/</link>
+    </image>
+    
+    <item>
+      <title>Integrating Product Line Refactoring and Derivation Tools: Challenges and Potential Solutions</title>
+      <link>https://pauloborba.github.io/publication/2011integrating_product_line_refactoring_and_derivation_tools__challenges_and_potential_solutions/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2011integrating_product_line_refactoring_and_derivation_tools__challenges_and_potential_solutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of Product Derivation Tools in the Evolution of Software Product Lines: An Empirical Study</title>
+      <link>https://pauloborba.github.io/publication/2010assessment_of_product_derivation_tools_in_the_evolution_of_software_product_lines__an_empirical_study/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2010assessment_of_product_derivation_tools_in_the_evolution_of_software_product_lines__an_empirical_study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estudo Comparativo de Ferramentas de Derivação Dirigidas por Modelos: Resultados Preliminares</title>
+      <link>https://pauloborba.github.io/publication/2010estudo_comparativo_de_ferramentas_de_derivacao_dirigidas_por_modelos__resultados_preliminares/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2010estudo_comparativo_de_ferramentas_de_derivacao_dirigidas_por_modelos__resultados_preliminares/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping Features to Aspects: A Model-Based Generative Approach</title>
+      <link>https://pauloborba.github.io/publication/2007mapping_features_to_aspects__a_model-based_generative_approach/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007mapping_features_to_aspects__a_model-based_generative_approach/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

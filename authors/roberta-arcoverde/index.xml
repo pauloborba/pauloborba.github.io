@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roberta Arcoverde | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/roberta-arcoverde/</link>
+      <atom:link href="https://pauloborba.github.io/authors/roberta-arcoverde/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roberta Arcoverde</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Roberta Arcoverde</title>
+      <link>https://pauloborba.github.io/authors/roberta-arcoverde/</link>
+    </image>
+    
+    <item>
+      <title>AJaTS - AspectJ Transformation System: Tool Support for Aspect-Oriented Development and Refactoring</title>
+      <link>https://pauloborba.github.io/publication/2007ajats_-_aspectj_transformation_system__tool_support_for_aspect-oriented_development_and_refactoring/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007ajats_-_aspectj_transformation_system__tool_support_for_aspect-oriented_development_and_refactoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AJaTS: AspectJ Transformation System</title>
+      <link>https://pauloborba.github.io/publication/2007ajats__aspectj_transformation_system/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007ajats__aspectj_transformation_system/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

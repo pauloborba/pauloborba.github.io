@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ralph Johnson | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/ralph-johnson/</link>
+      <atom:link href="https://pauloborba.github.io/authors/ralph-johnson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ralph Johnson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Ralph Johnson</title>
+      <link>https://pauloborba.github.io/authors/ralph-johnson/</link>
+    </image>
+    
+    <item>
+      <title>Using Aspects to Make Adaptive Object-Models Adaptable</title>
+      <link>https://pauloborba.github.io/publication/2004using_aspects_to_make_adaptive_object-models_adaptable/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2004using_aspects_to_make_adaptive_object-models_adaptable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

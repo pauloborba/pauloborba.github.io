@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paulo Masiero | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/paulo-masiero/</link>
+      <atom:link href="https://pauloborba.github.io/authors/paulo-masiero/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paulo Masiero</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Paulo Masiero</title>
+      <link>https://pauloborba.github.io/authors/paulo-masiero/</link>
+    </image>
+    
+    <item>
+      <title>The crosscutting impact of the AOSD Brazilian research community</title>
+      <link>https://pauloborba.github.io/publication/2013the_crosscutting_impact_of_the_aosd_brazilian_research_community/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2013the_crosscutting_impact_of_the_aosd_brazilian_research_community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The AOSD Research Community in Brazil and Its Crosscutting Impact</title>
+      <link>https://pauloborba.github.io/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of Product Derivation Tools in the Evolution of Software Product Lines: An Empirical Study</title>
+      <link>https://pauloborba.github.io/publication/2010assessment_of_product_derivation_tools_in_the_evolution_of_software_product_lines__an_empirical_study/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2010assessment_of_product_derivation_tools_in_the_evolution_of_software_product_lines__an_empirical_study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estudo Comparativo de Ferramentas de Derivação Dirigidas por Modelos: Resultados Preliminares</title>
+      <link>https://pauloborba.github.io/publication/2010estudo_comparativo_de_ferramentas_de_derivacao_dirigidas_por_modelos__resultados_preliminares/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2010estudo_comparativo_de_ferramentas_de_derivacao_dirigidas_por_modelos__resultados_preliminares/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

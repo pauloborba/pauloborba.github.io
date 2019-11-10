@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adeline Souza | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/adeline-souza/</link>
+      <atom:link href="https://pauloborba.github.io/authors/adeline-souza/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adeline Souza</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Adeline Souza</title>
+      <link>https://pauloborba.github.io/authors/adeline-souza/</link>
+    </image>
+    
+    <item>
+      <title>AJaTS - AspectJ Transformation System: Tool Support for Aspect-Oriented Development and Refactoring</title>
+      <link>https://pauloborba.github.io/publication/2007ajats_-_aspectj_transformation_system__tool_support_for_aspect-oriented_development_and_refactoring/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007ajats_-_aspectj_transformation_system__tool_support_for_aspect-oriented_development_and_refactoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geração de Sistemas de Transformação</title>
+      <link>https://pauloborba.github.io/publication/2005geracao_de_sistemas_de_transformacao/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2005geracao_de_sistemas_de_transformacao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A General-purpose Transformation System for Java</title>
+      <link>https://pauloborba.github.io/publication/2004a_general-purpose_transformation_system_for_java/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2004a_general-purpose_transformation_system_for_java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating code generation and refactoring</title>
+      <link>https://pauloborba.github.io/publication/2002integrating_code_generation_and_refactoring/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2002integrating_code_generation_and_refactoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JaTS: A Java transformation system</title>
+      <link>https://pauloborba.github.io/publication/2001jats__a_java_transformation_system/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2001jats__a_java_transformation_system/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

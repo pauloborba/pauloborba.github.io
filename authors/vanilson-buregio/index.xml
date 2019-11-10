@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vanilson Burégio | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/vanilson-buregio/</link>
+      <atom:link href="https://pauloborba.github.io/authors/vanilson-buregio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vanilson Burégio</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Vanilson Burégio</title>
+      <link>https://pauloborba.github.io/authors/vanilson-buregio/</link>
+    </image>
+    
+    <item>
+      <title>Programming the Universe: The First Commandment of Software Engineering for all Varieties of Information Systems</title>
+      <link>https://pauloborba.github.io/publication/2016programming_the_universe__the_first_commandment_of_software_engineering_for_all_varieties_of_information_systems/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2016programming_the_universe__the_first_commandment_of_software_engineering_for_all_varieties_of_information_systems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

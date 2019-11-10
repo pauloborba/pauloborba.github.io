@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rohit Gheyi | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/rohit-gheyi/</link>
+      <atom:link href="https://pauloborba.github.io/authors/rohit-gheyi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rohit Gheyi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Rohit Gheyi</title>
+      <link>https://pauloborba.github.io/authors/rohit-gheyi/</link>
+    </image>
+    
+    <item>
+      <title>Detecting Overly Strong Preconditions in Refactoring Engines</title>
+      <link>https://pauloborba.github.io/publication/2018detecting_overly_strong_preconditions_in_refactoring_engines/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2018detecting_overly_strong_preconditions_in_refactoring_engines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An idiom to represent data types in Alloy</title>
+      <link>https://pauloborba.github.io/publication/2017an_idiom_to_represent_data_types_in_alloy/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2017an_idiom_to_represent_data_types_in_alloy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing fine-grained feature dependencies</title>
+      <link>https://pauloborba.github.io/publication/2016assessing_fine-grained_feature_dependencies/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2016assessing_fine-grained_feature_dependencies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Product Line of Theories for Reasoning about Safe Evolution of Product Lines</title>
+      <link>https://pauloborba.github.io/publication/2015a_product_line_of_theories_for_reasoning_about_safe_evolution_of_product_lines/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2015a_product_line_of_theories_for_reasoning_about_safe_evolution_of_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe Evolution of Product Populations and Multi Product Lines</title>
+      <link>https://pauloborba.github.io/publication/2015safe_evolution_of_product_populations_and_multi_product_lines/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2015safe_evolution_of_product_populations_and_multi_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Toolset for Checking SPL Refinements</title>
+      <link>https://pauloborba.github.io/publication/2014a_toolset_for_checking_spl_refinements/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2014a_toolset_for_checking_spl_refinements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making refactoring safer through impact analysis</title>
+      <link>https://pauloborba.github.io/publication/2014making_refactoring_safer_through_impact_analysis/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2014making_refactoring_safer_through_impact_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe composition of configuration knowledge-based software product lines</title>
+      <link>https://pauloborba.github.io/publication/2013safe_composition_of_configuration_knowledge-based_software_product_lines/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2013safe_composition_of_configuration_knowledge-based_software_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Theory of Software Product Line Refinement</title>
+      <link>https://pauloborba.github.io/publication/2012a_theory_of_software_product_line_refinement/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2012a_theory_of_software_product_line_refinement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making Software Product Line Evolution Safer</title>
+      <link>https://pauloborba.github.io/publication/2012making_software_product_line_evolution_safer/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2012making_software_product_line_evolution_safer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatically Checking Feature Model Refactorings</title>
+      <link>https://pauloborba.github.io/publication/2011automatically_checking_feature_model_refactorings/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2011automatically_checking_feature_model_refactorings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Product Line Refactoring and Derivation Tools: Challenges and Potential Solutions</title>
+      <link>https://pauloborba.github.io/publication/2011integrating_product_line_refactoring_and_derivation_tools__challenges_and_potential_solutions/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2011integrating_product_line_refactoring_and_derivation_tools__challenges_and_potential_solutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe composition of configuration knowledge-based software product lines</title>
+      <link>https://pauloborba.github.io/publication/2011safe_composition_of_configuration_knowledge-based_software_product_lines/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2011safe_composition_of_configuration_knowledge-based_software_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synchronizing Model and Program Refactoring</title>
+      <link>https://pauloborba.github.io/publication/2011synchronizing_model_and_program_refactoring/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2011synchronizing_model_and_program_refactoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Theory of Software Product Line Refinement</title>
+      <link>https://pauloborba.github.io/publication/2010a_theory_of_software_product_line_refinement/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2010a_theory_of_software_product_line_refinement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synchronizing Model and Program Refactoring</title>
+      <link>https://pauloborba.github.io/publication/2010synchronizing_model_and_program_refactoring/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2010synchronizing_model_and_program_refactoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A complete set of object modeling laws for Alloy</title>
+      <link>https://pauloborba.github.io/publication/2009a_complete_set_of_object_modeling_laws_for_alloy/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2009a_complete_set_of_object_modeling_laws_for_alloy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A design rule language for aspect-oriented programming</title>
+      <link>https://pauloborba.github.io/publication/2009a_design_rule_language_for_aspect-oriented_programming/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2009a_design_rule_language_for_aspect-oriented_programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A complete and minimal set of algebraic laws for feature models</title>
+      <link>https://pauloborba.github.io/publication/2008a_complete_and_minimal_set_of_algebraic_laws_for_feature_models/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2008a_complete_and_minimal_set_of_algebraic_laws_for_feature_models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Framework for Establishing Formal Conformance between Object Models and Object-Oriented Programs</title>
+      <link>https://pauloborba.github.io/publication/2008a_framework_for_establishing_formal_conformance_between_object_models_and_object-oriented_programs/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2008a_framework_for_establishing_formal_conformance_between_object_models_and_object-oriented_programs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algebraic Laws for Feature Models</title>
+      <link>https://pauloborba.github.io/publication/2008algebraic_laws_for_feature_models/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2008algebraic_laws_for_feature_models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Model-Driven Program Refactoring</title>
+      <link>https://pauloborba.github.io/publication/2008formal_model-driven_program_refactoring/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2008formal_model-driven_program_refactoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Static Semantics for Alloy and its Impact in Refactorings</title>
+      <link>https://pauloborba.github.io/publication/2007a_static_semantics_for_alloy_and_its_impact_in_refactorings/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007a_static_semantics_for_alloy_and_its_impact_in_refactorings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formally Introducing Alloy Idioms</title>
+      <link>https://pauloborba.github.io/publication/2007formally_introducing_alloy_idioms/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007formally_introducing_alloy_idioms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formal Framework for Establishing Conformance between Object Models and Object-Oriented Programs</title>
+      <link>https://pauloborba.github.io/publication/2006a_formal_framework_for_establishing_conformance_between_object_models_and_object-oriented_programs/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006a_formal_framework_for_establishing_conformance_between_object_models_and_object-oriented_programs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Theory for Feature Models in Alloy</title>
+      <link>https://pauloborba.github.io/publication/2006a_theory_for_feature_models_in_alloy/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006a_theory_for_feature_models_in_alloy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Approach to Invariant-based Program Refactoring</title>
+      <link>https://pauloborba.github.io/publication/2006an_approach_to_invariant-based_program_refactoring/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006an_approach_to_invariant-based_program_refactoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Approach to Invariant-based Program Refactoring</title>
+      <link>https://pauloborba.github.io/publication/2006an_approach_to_invariant-based_program_refactoring_double_entry/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006an_approach_to_invariant-based_program_refactoring_double_entry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refactoring product lines</title>
+      <link>https://pauloborba.github.io/publication/2006refactoring_product_lines/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006refactoring_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sound Object Model Refactorings</title>
+      <link>https://pauloborba.github.io/publication/2006sound_object_model_refactorings/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006sound_object_model_refactorings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Model-driven Approach to Formal Refactoring</title>
+      <link>https://pauloborba.github.io/publication/2005a_model-driven_approach_to_formal_refactoring/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2005a_model-driven_approach_to_formal_refactoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Rigorous Approach for Proving Model Refactorings</title>
+      <link>https://pauloborba.github.io/publication/2005a_rigorous_approach_for_proving_model_refactorings/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2005a_rigorous_approach_for_proving_model_refactorings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Abstract Equivalence Notion for Object Models</title>
+      <link>https://pauloborba.github.io/publication/2005an_abstract_equivalence_notion_for_object_models/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2005an_abstract_equivalence_notion_for_object_models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Refactoring for UML Class Diagrams</title>
+      <link>https://pauloborba.github.io/publication/2005formal_refactoring_for_uml_class_diagrams/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2005formal_refactoring_for_uml_class_diagrams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Refactorings for Object Models</title>
+      <link>https://pauloborba.github.io/publication/2005formal_refactorings_for_object_models/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2005formal_refactorings_for_object_models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Type-safe refactorings for Alloy</title>
+      <link>https://pauloborba.github.io/publication/2005type-safe_refactorings_for_alloy/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2005type-safe_refactorings_for_alloy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A UML Class Diagram Analyzer</title>
+      <link>https://pauloborba.github.io/publication/2004a_uml_class_diagram_analyzer/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2004a_uml_class_diagram_analyzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Abstract Equivalence Notion for Object Models</title>
+      <link>https://pauloborba.github.io/publication/2004an_abstract_equivalence_notion_for_object_models/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2004an_abstract_equivalence_notion_for_object_models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basic Laws of Object Modeling</title>
+      <link>https://pauloborba.github.io/publication/2004basic_laws_of_object_modeling/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2004basic_laws_of_object_modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refactoring Alloy Specifications</title>
+      <link>https://pauloborba.github.io/publication/2004refactoring_alloy_specifications/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2004refactoring_alloy_specifications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refactoring Alloy specifications</title>
+      <link>https://pauloborba.github.io/publication/2003refactoring_alloy_specifications/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2003refactoring_alloy_specifications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gustavo Santos | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/gustavo-santos/</link>
+      <atom:link href="https://pauloborba.github.io/authors/gustavo-santos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gustavo Santos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Gustavo Santos</title>
+      <link>https://pauloborba.github.io/authors/gustavo-santos/</link>
+    </image>
+    
+    <item>
+      <title>Beyond Code: Handling Variability in Art Artifacts in Mobile Game Product Lines</title>
+      <link>https://pauloborba.github.io/publication/2006beyond_code__handling_variability_in_art_artifacts_in_mobile_game_product_lines/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006beyond_code__handling_variability_in_art_artifacts_in_mobile_game_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextos de Primeira Classe em Transformações de Programas</title>
+      <link>https://pauloborba.github.io/publication/2006contextos_de_primeira_classe_em_transformacoes_de_programas/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006contextos_de_primeira_classe_em_transformacoes_de_programas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Conditional Compilation to Aspects: A Case Study in Software Product Lines Migration</title>
+      <link>https://pauloborba.github.io/publication/2006from_conditional_compilation_to_aspects__a_case_study_in_software_product_lines_migration/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006from_conditional_compilation_to_aspects__a_case_study_in_software_product_lines_migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suporte a Refatorações em um Sistema de Transformação de Propósito Geral</title>
+      <link>https://pauloborba.github.io/publication/2006suporte_a_refatoracoes_em_um_sistema_de_transformacao_de_proposito_geral/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006suporte_a_refatoracoes_em_um_sistema_de_transformacao_de_proposito_geral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A General-purpose Transformation System for Java</title>
+      <link>https://pauloborba.github.io/publication/2004a_general-purpose_transformation_system_for_java/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2004a_general-purpose_transformation_system_for_java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating code generation and refactoring</title>
+      <link>https://pauloborba.github.io/publication/2002integrating_code_generation_and_refactoring/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2002integrating_code_generation_and_refactoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JaTS: A Java transformation system</title>
+      <link>https://pauloborba.github.io/publication/2001jats__a_java_transformation_system/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2001jats__a_java_transformation_system/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

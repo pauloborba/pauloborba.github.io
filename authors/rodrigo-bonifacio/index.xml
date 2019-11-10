@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rodrigo Bonifácio | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/rodrigo-bonifacio/</link>
+      <atom:link href="https://pauloborba.github.io/authors/rodrigo-bonifacio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rodrigo Bonifácio</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Rodrigo Bonifácio</title>
+      <link>https://pauloborba.github.io/authors/rodrigo-bonifacio/</link>
+    </image>
+    
+    <item>
+      <title>Empirical assessment of two approaches for specifying software product line use case scenarios</title>
+      <link>https://pauloborba.github.io/publication/2017empirical_assessment_of_two_approaches_for_specifying_software_product_line_use_case_scenarios/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2017empirical_assessment_of_two_approaches_for_specifying_software_product_line_use_case_scenarios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controlled Experiments Comparing Black-box Testing Strategies for Software Product Lines</title>
+      <link>https://pauloborba.github.io/publication/2014controlled_experiments_comparing_black-box_testing_strategies_for_software_product_lines/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2014controlled_experiments_comparing_black-box_testing_strategies_for_software_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating scenario-based SPL requirements approaches: the case for modularity, stability and expressiveness</title>
+      <link>https://pauloborba.github.io/publication/2014evaluating_scenario-based_spl_requirements_approaches__the_case_for_modularity_stability_and_expressiveness/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2014evaluating_scenario-based_spl_requirements_approaches__the_case_for_modularity_stability_and_expressiveness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A design rule language for aspect-oriented programming</title>
+      <link>https://pauloborba.github.io/publication/2013a_design_rule_language_for_aspect-oriented_programming/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2013a_design_rule_language_for_aspect-oriented_programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The crosscutting impact of the AOSD Brazilian research community</title>
+      <link>https://pauloborba.github.io/publication/2013the_crosscutting_impact_of_the_aosd_brazilian_research_community/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2013the_crosscutting_impact_of_the_aosd_brazilian_research_community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing Two Black-box Testing Strategies for Software Product Lines</title>
+      <link>https://pauloborba.github.io/publication/2012comparing_two_black-box_testing_strategies_for_software_product_lines/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2012comparing_two_black-box_testing_strategies_for_software_product_lines/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

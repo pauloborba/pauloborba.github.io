@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alberto Neto | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/alberto-neto/</link>
+      <atom:link href="https://pauloborba.github.io/authors/alberto-neto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alberto Neto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Alberto Neto</title>
+      <link>https://pauloborba.github.io/authors/alberto-neto/</link>
+    </image>
+    
+    <item>
+      <title>A design rule language for aspect-oriented programming</title>
+      <link>https://pauloborba.github.io/publication/2013a_design_rule_language_for_aspect-oriented_programming/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2013a_design_rule_language_for_aspect-oriented_programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A design rule language for aspect-oriented programming</title>
+      <link>https://pauloborba.github.io/publication/2009a_design_rule_language_for_aspect-oriented_programming/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2009a_design_rule_language_for_aspect-oriented_programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Class and Crosscutting Modularity with Design Structure Matrixes</title>
+      <link>https://pauloborba.github.io/publication/2007analyzing_class_and_crosscutting_modularity_with_design_structure_matrixes/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007analyzing_class_and_crosscutting_modularity_with_design_structure_matrixes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping Features to Aspects: A Model-Based Generative Approach</title>
+      <link>https://pauloborba.github.io/publication/2007mapping_features_to_aspects__a_model-based_generative_approach/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007mapping_features_to_aspects__a_model-based_generative_approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Dependencies and Modularity of Aspect-Oriented Software</title>
+      <link>https://pauloborba.github.io/publication/2007semantic_dependencies_and_modularity_of_aspect-oriented_software/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007semantic_dependencies_and_modularity_of_aspect-oriented_software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specifying design rules in aspect-oriented systems</title>
+      <link>https://pauloborba.github.io/publication/2007specifying_design_rules_in_aspect-oriented_systems/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007specifying_design_rules_in_aspect-oriented_systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Verification Approach for Crosscutting Features Based on Extension Join Points</title>
+      <link>https://pauloborba.github.io/publication/2006a_verification_approach_for_crosscutting_features_based_on_extension_join_points/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006a_verification_approach_for_crosscutting_features_based_on_extension_join_points/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Code: Handling Variability in Art Artifacts in Mobile Game Product Lines</title>
+      <link>https://pauloborba.github.io/publication/2006beyond_code__handling_variability_in_art_artifacts_in_mobile_game_product_lines/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006beyond_code__handling_variability_in_art_artifacts_in_mobile_game_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Declaring Static Crosscutting Dependencies in AspectJ</title>
+      <link>https://pauloborba.github.io/publication/2006declaring_static_crosscutting_dependencies_in_aspectj/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006declaring_static_crosscutting_dependencies_in_aspectj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Conditional Compilation to Aspects: A Case Study in Software Product Lines Migration</title>
+      <link>https://pauloborba.github.io/publication/2006from_conditional_compilation_to_aspects__a_case_study_in_software_product_lines_migration/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006from_conditional_compilation_to_aspects__a_case_study_in_software_product_lines_migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing Framework Crosscutting Extensions with EJPs and AspectJ</title>
+      <link>https://pauloborba.github.io/publication/2006implementing_framework_crosscutting_extensions_with_ejps_and_aspectj/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006implementing_framework_crosscutting_extensions_with_ejps_and_aspectj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

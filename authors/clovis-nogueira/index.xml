@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clóvis Nogueira | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/clovis-nogueira/</link>
+      <atom:link href="https://pauloborba.github.io/authors/clovis-nogueira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Clóvis Nogueira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2002 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Clóvis Nogueira</title>
+      <link>https://pauloborba.github.io/authors/clovis-nogueira/</link>
+    </image>
+    
+    <item>
+      <title>Integrating code generation and refactoring</title>
+      <link>https://pauloborba.github.io/publication/2002integrating_code_generation_and_refactoring/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2002integrating_code_generation_and_refactoring/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rafael Duarte | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/rafael-duarte/</link>
+      <atom:link href="https://pauloborba.github.io/authors/rafael-duarte/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rafael Duarte</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Rafael Duarte</title>
+      <link>https://pauloborba.github.io/authors/rafael-duarte/</link>
+    </image>
+    
+    <item>
+      <title>Using Design Structure Matrices to Assess Modularity in Aspect-Oriented Software Product Lines</title>
+      <link>https://pauloborba.github.io/publication/2007using_design_structure_matrices_to_assess_modularity_in_aspect-oriented_software_product_lines/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007using_design_structure_matrices_to_assess_modularity_in_aspect-oriented_software_product_lines/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

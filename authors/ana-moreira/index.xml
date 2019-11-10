@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ana Moreira | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/ana-moreira/</link>
+      <atom:link href="https://pauloborba.github.io/authors/ana-moreira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ana Moreira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Ana Moreira</title>
+      <link>https://pauloborba.github.io/authors/ana-moreira/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating scenario-based SPL requirements approaches: the case for modularity, stability and expressiveness</title>
+      <link>https://pauloborba.github.io/publication/2014evaluating_scenario-based_spl_requirements_approaches__the_case_for_modularity_stability_and_expressiveness/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2014evaluating_scenario-based_spl_requirements_approaches__the_case_for_modularity_stability_and_expressiveness/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

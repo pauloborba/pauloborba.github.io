@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gustavo Soares | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/gustavo-soares/</link>
+      <atom:link href="https://pauloborba.github.io/authors/gustavo-soares/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gustavo Soares</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Gustavo Soares</title>
+      <link>https://pauloborba.github.io/authors/gustavo-soares/</link>
+    </image>
+    
+    <item>
+      <title>Detecting Overly Strong Preconditions in Refactoring Engines</title>
+      <link>https://pauloborba.github.io/publication/2018detecting_overly_strong_preconditions_in_refactoring_engines/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2018detecting_overly_strong_preconditions_in_refactoring_engines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Toolset for Checking SPL Refinements</title>
+      <link>https://pauloborba.github.io/publication/2014a_toolset_for_checking_spl_refinements/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2014a_toolset_for_checking_spl_refinements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making refactoring safer through impact analysis</title>
+      <link>https://pauloborba.github.io/publication/2014making_refactoring_safer_through_impact_analysis/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2014making_refactoring_safer_through_impact_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making Software Product Line Evolution Safer</title>
+      <link>https://pauloborba.github.io/publication/2012making_software_product_line_evolution_safer/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2012making_software_product_line_evolution_safer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

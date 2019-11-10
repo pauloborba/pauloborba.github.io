@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ardnt Staa | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/ardnt-staa/</link>
+      <atom:link href="https://pauloborba.github.io/authors/ardnt-staa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ardnt Staa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Ardnt Staa</title>
+      <link>https://pauloborba.github.io/authors/ardnt-staa/</link>
+    </image>
+    
+    <item>
+      <title>A Verification Approach for Crosscutting Features Based on Extension Join Points</title>
+      <link>https://pauloborba.github.io/publication/2006a_verification_approach_for_crosscutting_features_based_on_extension_join_points/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006a_verification_approach_for_crosscutting_features_based_on_extension_join_points/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

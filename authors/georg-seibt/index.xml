@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Georg Seibt | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/georg-seibt/</link>
+      <atom:link href="https://pauloborba.github.io/authors/georg-seibt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Georg Seibt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Georg Seibt</title>
+      <link>https://pauloborba.github.io/authors/georg-seibt/</link>
+    </image>
+    
+    <item>
+      <title>The Impact of Structure on Software Merging: Semistructured versus Structured Merge</title>
+      <link>https://pauloborba.github.io/publication/2019the_impact_of_structure_on_software_merging__semistructured_versus_structured_merge/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2019the_impact_of_structure_on_software_merging__semistructured_versus_structured_merge/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

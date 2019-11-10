@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caliane Figuerêdo | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/caliane-figueredo/</link>
+      <atom:link href="https://pauloborba.github.io/authors/caliane-figueredo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Caliane Figuerêdo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Caliane Figuerêdo</title>
+      <link>https://pauloborba.github.io/authors/caliane-figueredo/</link>
+    </image>
+    
+    <item>
+      <title>PBL no ensino de testes de software: uma experiência prática</title>
+      <link>https://pauloborba.github.io/publication/2011pbl_no_ensino_de_testes_de_software__uma_experiencia_pratica/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2011pbl_no_ensino_de_testes_de_software__uma_experiencia_pratica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using PBL to Develop Software Test Engineers</title>
+      <link>https://pauloborba.github.io/publication/2011using_pbl_to_develop_software_test_engineers/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2011using_pbl_to_develop_software_test_engineers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

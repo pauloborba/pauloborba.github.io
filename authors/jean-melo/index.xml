@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jean Melo | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/jean-melo/</link>
+      <atom:link href="https://pauloborba.github.io/authors/jean-melo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jean Melo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Jean Melo</title>
+      <link>https://pauloborba.github.io/authors/jean-melo/</link>
+    </image>
+    
+    <item>
+      <title>Improving modular reasoning on preprocessor-based systems</title>
+      <link>https://pauloborba.github.io/publication/2013improving_modular_reasoning_on_preprocessor-based_systems/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2013improving_modular_reasoning_on_preprocessor-based_systems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

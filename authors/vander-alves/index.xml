@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vander Alves | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/vander-alves/</link>
+      <atom:link href="https://pauloborba.github.io/authors/vander-alves/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vander Alves</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Vander Alves</title>
+      <link>https://pauloborba.github.io/authors/vander-alves/</link>
+    </image>
+    
+    <item>
+      <title>A Product Line of Theories for Reasoning about Safe Evolution of Product Lines</title>
+      <link>https://pauloborba.github.io/publication/2015a_product_line_of_theories_for_reasoning_about_safe_evolution_of_product_lines/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2015a_product_line_of_theories_for_reasoning_about_safe_evolution_of_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe evolution templates for software product lines</title>
+      <link>https://pauloborba.github.io/publication/2015safe_evolution_templates_for_software_product_lines/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2015safe_evolution_templates_for_software_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The crosscutting impact of the AOSD Brazilian research community</title>
+      <link>https://pauloborba.github.io/publication/2013the_crosscutting_impact_of_the_aosd_brazilian_research_community/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2013the_crosscutting_impact_of_the_aosd_brazilian_research_community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the safe evolution of software product lines</title>
+      <link>https://pauloborba.github.io/publication/2012investigating_the_safe_evolution_of_software_product_lines/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2012investigating_the_safe_evolution_of_software_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the safe evolution of software product lines</title>
+      <link>https://pauloborba.github.io/publication/2011investigating_the_safe_evolution_of_software_product_lines/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2011investigating_the_safe_evolution_of_software_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The AOSD Research Community in Brazil and Its Crosscutting Impact</title>
+      <link>https://pauloborba.github.io/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FLiP: Managing Software Product Line Extraction and Reaction with Aspects</title>
+      <link>https://pauloborba.github.io/publication/2008flip__managing_software_product_line_extraction_and_reaction_with_aspects/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2008flip__managing_software_product_line_extraction_and_reaction_with_aspects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FLiP: Product Line DerivationTool</title>
+      <link>https://pauloborba.github.io/publication/2008flip__product_line_derivationtool/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2008flip__product_line_derivationtool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting Software Product Lines Development: FLiP - Product Line Derivation Tool</title>
+      <link>https://pauloborba.github.io/publication/2008supporting_software_product_lines_development__flip_-_product_line_derivation_tool/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2008supporting_software_product_lines_development__flip_-_product_line_derivation_tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extracting and Evolving Code in Product Lines with Aspect-Oriented Programming</title>
+      <link>https://pauloborba.github.io/publication/2007extracting_and_evolving_code_in_product_lines_with_aspect-oriented_programming/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007extracting_and_evolving_code_in_product_lines_with_aspect-oriented_programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping Features to Aspects: A Model-Based Generative Approach</title>
+      <link>https://pauloborba.github.io/publication/2007mapping_features_to_aspects__a_model-based_generative_approach/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007mapping_features_to_aspects__a_model-based_generative_approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Product Line Variability Refactoring Tool</title>
+      <link>https://pauloborba.github.io/publication/2007product_line_variability_refactoring_tool/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007product_line_variability_refactoring_tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Verification Approach for Crosscutting Features Based on Extension Join Points</title>
+      <link>https://pauloborba.github.io/publication/2006a_verification_approach_for_crosscutting_features_based_on_extension_join_points/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006a_verification_approach_for_crosscutting_features_based_on_extension_join_points/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Code: Handling Variability in Art Artifacts in Mobile Game Product Lines</title>
+      <link>https://pauloborba.github.io/publication/2006beyond_code__handling_variability_in_art_artifacts_in_mobile_game_product_lines/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006beyond_code__handling_variability_in_art_artifacts_in_mobile_game_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Declaring Static Crosscutting Dependencies in AspectJ</title>
+      <link>https://pauloborba.github.io/publication/2006declaring_static_crosscutting_dependencies_in_aspectj/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006declaring_static_crosscutting_dependencies_in_aspectj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Conditional Compilation to Aspects: A Case Study in Software Product Lines Migration</title>
+      <link>https://pauloborba.github.io/publication/2006from_conditional_compilation_to_aspects__a_case_study_in_software_product_lines_migration/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006from_conditional_compilation_to_aspects__a_case_study_in_software_product_lines_migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing Framework Crosscutting Extensions with EJPs and AspectJ</title>
+      <link>https://pauloborba.github.io/publication/2006implementing_framework_crosscutting_extensions_with_ejps_and_aspectj/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006implementing_framework_crosscutting_extensions_with_ejps_and_aspectj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving extensibility of object-oriented frameworks with aspect-oriented programming</title>
+      <link>https://pauloborba.github.io/publication/2006improving_extensibility_of_object-oriented_frameworks_with_aspect-oriented_programming/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006improving_extensibility_of_object-oriented_frameworks_with_aspect-oriented_programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refactoring product lines</title>
+      <link>https://pauloborba.github.io/publication/2006refactoring_product_lines/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2006refactoring_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative Analysis of Porting Strategies in Mobile Device Games</title>
+      <link>https://pauloborba.github.io/publication/2005comparative_analysis_of_porting_strategies_in_mobile_device_games/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2005comparative_analysis_of_porting_strategies_in_mobile_device_games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extracting and Evolving Mobile Games Product Lines</title>
+      <link>https://pauloborba.github.io/publication/2005extracting_and_evolving_mobile_games_product_lines/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2005extracting_and_evolving_mobile_games_product_lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portando Jogos em J2ME: Desafios, Estudo de Caso, e Diretrizes</title>
+      <link>https://pauloborba.github.io/publication/2005portando_jogos_em_j2me__desafios_estudo_de_caso_e_diretrizes/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2005portando_jogos_em_j2me__desafios_estudo_de_caso_e_diretrizes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Incremental Aspect-Oriented Product Line Method for J2ME Game Development</title>
+      <link>https://pauloborba.github.io/publication/2004an_incremental_aspect-oriented_product_line_method_for_j2me_game_development/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2004an_incremental_aspect-oriented_product_line_method_for_j2me_game_development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portando Jogos em J2ME: Desafios, Estudo de Caso, e Diretrizes</title>
+      <link>https://pauloborba.github.io/publication/2004portando_jogos_em_j2me__desafios_estudo_de_caso_e_diretrizes/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2004portando_jogos_em_j2me__desafios_estudo_de_caso_e_diretrizes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using aspects to structure small devices adaptive applications</title>
+      <link>https://pauloborba.github.io/publication/2003using_aspects_to_structure_small_devices_adaptive_applications/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2003using_aspects_to_structure_small_devices_adaptive_applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An implementation method for distributed object-oriented applications</title>
+      <link>https://pauloborba.github.io/publication/2001an_implementation_method_for_distributed_object-oriented_applications/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2001an_implementation_method_for_distributed_object-oriented_applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed adapters pattern: A design pattern for object-oriented distributed applications</title>
+      <link>https://pauloborba.github.io/publication/2001distributed_adapters_pattern__a_design_pattern_for_object-oriented_distributed_applications/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2001distributed_adapters_pattern__a_design_pattern_for_object-oriented_distributed_applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PDC: Persistent Data Collections Pattern</title>
+      <link>https://pauloborba.github.io/publication/2001pdc__persistent_data_collections_pattern/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2001pdc__persistent_data_collections_pattern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A design pattern for distributed applications</title>
+      <link>https://pauloborba.github.io/publication/2000a_design_pattern_for_distributed_applications/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2000a_design_pattern_for_distributed_applications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

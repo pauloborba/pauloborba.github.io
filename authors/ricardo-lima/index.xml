@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ricardo Lima | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/ricardo-lima/</link>
+      <atom:link href="https://pauloborba.github.io/authors/ricardo-lima/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ricardo Lima</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Ricardo Lima</title>
+      <link>https://pauloborba.github.io/authors/ricardo-lima/</link>
+    </image>
+    
+    <item>
+      <title>Modular Aspect-Oriented Design Rule Enforcement with XPIDRs</title>
+      <link>https://pauloborba.github.io/publication/2013modular_aspect-oriented_design_rule_enforcement_with_xpidrs/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2013modular_aspect-oriented_design_rule_enforcement_with_xpidrs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JML and Aspects: The benefits of instrumenting JML features with AspectJ</title>
+      <link>https://pauloborba.github.io/publication/2008jml_and_aspects__the_benefits_of_instrumenting_jml_features_with_aspectj/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2008jml_and_aspects__the_benefits_of_instrumenting_jml_features_with_aspectj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concurrency Control Modularization with Aspect-Oriented Programming</title>
+      <link>https://pauloborba.github.io/publication/2007concurrency_control_modularization_with_aspect-oriented_programming/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007concurrency_control_modularization_with_aspect-oriented_programming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

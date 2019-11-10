@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Augusto Sampaio | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/augusto-sampaio/</link>
+      <atom:link href="https://pauloborba.github.io/authors/augusto-sampaio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Augusto Sampaio</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Augusto Sampaio</title>
+      <link>https://pauloborba.github.io/authors/augusto-sampaio/</link>
+    </image>
+    
+    <item>
+      <title>An idiom to represent data types in Alloy</title>
+      <link>https://pauloborba.github.io/publication/2017an_idiom_to_represent_data_types_in_alloy/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2017an_idiom_to_represent_data_types_in_alloy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A complete set of object modeling laws for Alloy</title>
+      <link>https://pauloborba.github.io/publication/2009a_complete_set_of_object_modeling_laws_for_alloy/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2009a_complete_set_of_object_modeling_laws_for_alloy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brazil test center research group</title>
+      <link>https://pauloborba.github.io/publication/2007brazil_test_center_research_group/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007brazil_test_center_research_group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algebraic reasoning for object-oriented programming</title>
+      <link>https://pauloborba.github.io/publication/2004algebraic_reasoning_for_object-oriented_programming/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2004algebraic_reasoning_for_object-oriented_programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A refinement algebra for object-oriented programming</title>
+      <link>https://pauloborba.github.io/publication/2003a_refinement_algebra_for_object-oriented_programming/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2003a_refinement_algebra_for_object-oriented_programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A RUP-based software process supporting progressive implementation</title>
+      <link>https://pauloborba.github.io/publication/2002a_rup-based_software_process_supporting_progressive_implementation/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2002a_rup-based_software_process_supporting_progressive_implementation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanical abstraction of CSP-Z processes</title>
+      <link>https://pauloborba.github.io/publication/2002mechanical_abstraction_of_csp-z_processes/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2002mechanical_abstraction_of_csp-z_processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive implementation of aspects</title>
+      <link>https://pauloborba.github.io/publication/2001progressive_implementation_of_aspects/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2001progressive_implementation_of_aspects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basic laws of ROOL: an object-oriented language</title>
+      <link>https://pauloborba.github.io/publication/2000basic_laws_of_rool__an_object-oriented_language/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2000basic_laws_of_rool__an_object-oriented_language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basic laws of ROOL: an object-oriented language</title>
+      <link>https://pauloborba.github.io/publication/2000basic_laws_of_rool__an_object-oriented_language_double_entry/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2000basic_laws_of_rool__an_object-oriented_language_double_entry/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

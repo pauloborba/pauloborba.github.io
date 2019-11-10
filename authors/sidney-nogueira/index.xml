@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sidney Nogueira | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/sidney-nogueira/</link>
+      <atom:link href="https://pauloborba.github.io/authors/sidney-nogueira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sidney Nogueira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Sidney Nogueira</title>
+      <link>https://pauloborba.github.io/authors/sidney-nogueira/</link>
+    </image>
+    
+    <item>
+      <title>Brazil test center research group</title>
+      <link>https://pauloborba.github.io/publication/2007brazil_test_center_research_group/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2007brazil_test_center_research_group/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

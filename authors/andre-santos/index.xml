@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>André Santos | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/andre-santos/</link>
+      <atom:link href="https://pauloborba.github.io/authors/andre-santos/index.xml" rel="self" type="application/rss+xml" />
+    <description>André Santos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>André Santos</title>
+      <link>https://pauloborba.github.io/authors/andre-santos/</link>
+    </image>
+    
+    <item>
+      <title>AspectH: Uma Extensão Orientada a Aspectos de Haskell</title>
+      <link>https://pauloborba.github.io/publication/2004aspecth__uma_extensao_orientada_a_aspectos_de_haskell/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2004aspecth__uma_extensao_orientada_a_aspectos_de_haskell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AspectH: Uma Extensão Orientada a Aspectos de Haskell</title>
+      <link>https://pauloborba.github.io/publication/2004aspecth__uma_extensao_orientada_a_aspectos_de_haskell_double_entry/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2004aspecth__uma_extensao_orientada_a_aspectos_de_haskell_double_entry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prototyping Action Semantics using Functional Languages</title>
+      <link>https://pauloborba.github.io/publication/1992prototyping_action_semantics_using_functional_languages/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/1992prototyping_action_semantics_using_functional_languages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acesso a um Banco de Dados através de Linguagem Natural</title>
+      <link>https://pauloborba.github.io/publication/1987acesso_a_um_banco_de_dados_atraves_de_linguagem_natural/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/1987acesso_a_um_banco_de_dados_atraves_de_linguagem_natural/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

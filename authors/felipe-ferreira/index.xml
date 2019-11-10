@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felipe Ferreira | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/felipe-ferreira/</link>
+      <atom:link href="https://pauloborba.github.io/authors/felipe-ferreira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Felipe Ferreira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Felipe Ferreira</title>
+      <link>https://pauloborba.github.io/authors/felipe-ferreira/</link>
+    </image>
+    
+    <item>
+      <title>A Toolset for Checking SPL Refinements</title>
+      <link>https://pauloborba.github.io/publication/2014a_toolset_for_checking_spl_refinements/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2014a_toolset_for_checking_spl_refinements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TaRGeT: a Model Based Product Line Testing Tool</title>
+      <link>https://pauloborba.github.io/publication/2010target__a_model_based_product_line_testing_tool/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2010target__a_model_based_product_line_testing_tool/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrea Menezes | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/andrea-menezes/</link>
+      <atom:link href="https://pauloborba.github.io/authors/andrea-menezes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrea Menezes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Andrea Menezes</title>
+      <link>https://pauloborba.github.io/authors/andrea-menezes/</link>
+    </image>
+    
+    <item>
+      <title>FLiP: Managing Software Product Line Extraction and Reaction with Aspects</title>
+      <link>https://pauloborba.github.io/publication/2008flip__managing_software_product_line_extraction_and_reaction_with_aspects/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2008flip__managing_software_product_line_extraction_and_reaction_with_aspects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FLiP: Product Line DerivationTool</title>
+      <link>https://pauloborba.github.io/publication/2008flip__product_line_derivationtool/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2008flip__product_line_derivationtool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting Software Product Lines Development: FLiP - Product Line Derivation Tool</title>
+      <link>https://pauloborba.github.io/publication/2008supporting_software_product_lines_development__flip_-_product_line_derivation_tool/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2008supporting_software_product_lines_development__flip_-_product_line_derivation_tool/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

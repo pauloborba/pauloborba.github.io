@@ -153,13 +153,13 @@
   <meta property="og:site_name" content="Paulo Borba">
   <meta property="og:url" content="https://pauloborba.github.io/project/semantic-merge/">
   <meta property="og:title" content="Semantic Merge Tools | Paulo Borba">
-  <meta property="og:description" content="We investigate static and dynamic analysis techniques to develop semantic merge tools that detect conflicts missed by current tools."><meta property="og:image" content="https://pauloborba.github.io/img/foto2019.jpg">
-  <meta property="twitter:image" content="https://pauloborba.github.io/img/foto2019.jpg"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="We investigate static and dynamic analysis techniques to develop semantic merge tools that detect conflicts missed by current tools."><meta property="og:image" content="https://pauloborba.github.io/project/semantic-merge/featured.png">
+  <meta property="twitter:image" content="https://pauloborba.github.io/project/semantic-merge/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2019-11-09T17:52:13-03:00">
     
-    <meta property="article:modified_time" content="2019-11-09T18:32:48-03:00">
+    <meta property="article:modified_time" content="2019-11-24T21:13:09-03:00">
   
 
   
@@ -187,8 +187,12 @@
   },
   "headline": "Semantic Merge Tools",
   
+  "image": [
+    "https://pauloborba.github.io/project/semantic-merge/featured.png"
+  ],
+  
   "datePublished": "2019-11-09T17:52:13-03:00",
-  "dateModified": "2019-11-09T18:32:48-03:00",
+  "dateModified": "2019-11-24T21:13:09-03:00",
   
   "author": {
     "@type": "Person",
@@ -494,18 +498,26 @@
 
 
 
-  
+
+
+
+
+
+
+
 
   
   
+    
   
+
+
 <div class="article-container pt-3">
   <h1>Semantic Merge Tools</h1>
 
   
 
   
-    
 
 
 <div class="article-metadata">
@@ -521,7 +533,7 @@
           Last updated on
       
     
-    2019-11-09
+    2019-11-24
   </span>
   
 
@@ -541,22 +553,29 @@
 
 </div>
 
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 493px;">
+  <div style="position: relative">
+    <img src="/project/semantic-merge/featured_hu9a17bfd2b11cbaa2a532f62bd1db5c50_87169_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    <span class="article-header-caption">Using static analyses and tests to detect interference among changes to be integrated</span>
+  </div>
 </div>
 
 
@@ -565,6 +584,19 @@
 
     <div class="article-style">
       
+
+<h4 id="problem">Problem</h4>
+
+<p>Current merge tools are oblivious to the semantic of the code changes that they integrate. As a consequence, they might integrate conflicting changes without warning developers, like when two people independently change the behavior of dependent parts of the code.</p>
+
+<p>Such missed conflicts are hardly detected by project tests or code reviews, and end up escaping to system users, with potentially severe negative consequences. When users report such defects, developers might have a hard time to understand the underlying causes and fix the code.</p>
+
+<p>These problems compromise development productivity and software quality.</p>
+
+<h4 id="solution">Solution</h4>
+
+<p>To detect such conflicts at integration time, we are studying two techniques for building semantic merge tools. First, we are developing static analyses to detect interference among the changes to be integrated. Second, we are using  test generation tools for generating tests that reveal such interference.</p>
+
     </div>
 
     

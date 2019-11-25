@@ -17,11 +17,24 @@
       <link>https://pauloborba.github.io/project/semantic-merge/</link>
       <pubDate>Sat, 09 Nov 2019 17:52:13 -0300</pubDate>
       <guid>https://pauloborba.github.io/project/semantic-merge/</guid>
-      <description></description>
+      <description>
+
+&lt;h4 id=&#34;problem&#34;&gt;Problem&lt;/h4&gt;
+
+&lt;p&gt;Current merge tools are oblivious to the semantic of the code changes that they integrate. As a consequence, they might integrate conflicting changes without warning developers, like when two people independently change the behavior of dependent parts of the code.&lt;/p&gt;
+
+&lt;p&gt;Such missed conflicts are hardly detected by project tests or code reviews, and end up escaping to system users, with potentially severe negative consequences. When users report such defects, developers might have a hard time to understand the underlying causes and fix the code.&lt;/p&gt;
+
+&lt;p&gt;These problems compromise development productivity and software quality.&lt;/p&gt;
+
+&lt;h4 id=&#34;solution&#34;&gt;Solution&lt;/h4&gt;
+
+&lt;p&gt;To detect such conflicts at integration time, we are studying two techniques for building semantic merge tools. First, we are developing static analyses to detect interference among the changes to be integrated. Second, we are using  test generation tools for generating tests that reveal such interference.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Semistructure Merge Tools</title>
+      <title>Semistructured Merge Tools</title>
       <link>https://pauloborba.github.io/project/s3m/</link>
       <pubDate>Sat, 09 Nov 2019 17:30:09 -0300</pubDate>
       <guid>https://pauloborba.github.io/project/s3m/</guid>
@@ -29,9 +42,9 @@
 
 &lt;h4 id=&#34;problem&#34;&gt;Problem&lt;/h4&gt;
 
-&lt;p&gt;Developers often waste time manually resolving merge conflicts that could be automatically solved, like when integrating independent import or method declarations that happened to be included in the same area of the code.&lt;/p&gt;
+&lt;p&gt;Developers often waste time by manually resolving merge conflicts that could be automatically solved, like when integrating independent import or method declarations that happened to be included by different developers in the same area of the code.&lt;/p&gt;
 
-&lt;p&gt;Worse, current merge tools might integrate conflicting changes without warning developers, like when two people independently declare methods with the same signature in different parts of the text.&lt;/p&gt;
+&lt;p&gt;Worse, current merge tools might integrate conflicting changes without warning developers, like when two people independently declare methods with the same signature in different parts of the program.&lt;/p&gt;
 
 &lt;p&gt;These problems compromise development productivity and software quality.&lt;/p&gt;
 
@@ -41,11 +54,28 @@
 
 &lt;h4 id=&#34;results&#34;&gt;Results&lt;/h4&gt;
 
-&lt;p&gt;In our &lt;a href=&#34;https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge/&#34; target=&#34;_blank&#34;&gt;OOPSLA 2017&lt;/a&gt; paper we show that s3m considerably improves textual (unstructured) merge tools and previous semistructured merge tools for Java.&lt;/p&gt;
+&lt;h5 id=&#34;s3m-has-significant-advantages-over-unstructured-merge-tools&#34;&gt;s3m has significant advantages over unstructured merge tools&lt;/h5&gt;
 
-&lt;p&gt;In one of our &lt;a href=&#34;https://pauloborba.github.io/publication/2019semistructured_merge_in_javascript_systems/&#34; target=&#34;_blank&#34;&gt;ASE 2019&lt;/a&gt; paper, we show that semistructured merge benefits for Javascript can be much inferior than the results obtained for Java.&lt;/p&gt;
+&lt;p&gt;In our &lt;a href=&#34;https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge/&#34; target=&#34;_blank&#34;&gt;OOPSLA 2017&lt;/a&gt; paper we show that FSTMerge, the pioneering semistructured merge tool, reports much less false positives (incorrectly reported conflicts) than unstructured merge tools that are widely used in industry.
+We also find evidence that FSTMerge false positives are easier to analyze and resolve than those reported by unstructured merge.
+However, we find no evidence that semistructured merge leads to fewer false negatives (conflicts correctly reported by one tool but missed by the other), and we argue that semistructured merge false negatives are harder to detect and resolve than unstructured merge false negatives.
+Driven by these findings, we implement s3m, an improved semistructured merge tool for Java that further combines both merge techniques to reduce the false positives and false negatives of semistructured merge.
+We find evidence that s3m, when compared to unstructured merge in our sample, reduces the number of reported conflicts by half, has no additional false positives, has at least 8% fewer false negatives, and is not prohibitively slower.&lt;/p&gt;
 
-&lt;p&gt;In another &lt;a href=&#34;https://pauloborba.github.io/publication/2019the_impact_of_structure_on_software_merging__semistructured_versus_structured_merge/&#34; target=&#34;_blank&#34;&gt;ASE 2019&lt;/a&gt; paper, we show that semistructured and structured merge do not significantly differ, suggesting that semistructured merge might be a better option for most contexts.&lt;/p&gt;
+&lt;h5 id=&#34;s3m-benefits-do-not-generalize-to-javascript&#34;&gt;s3m benefits do not generalize to JavaScript&lt;/h5&gt;
+
+&lt;p&gt;To understand whether semistructured merge and the just mentioned benefits generalize to other kinds of languages, in one of our &lt;a href=&#34;https://pauloborba.github.io/publication/2019semistructured_merge_in_javascript_systems/&#34; target=&#34;_blank&#34;&gt;ASE 2019&lt;/a&gt; papers we implement two semistructured merge tools for JavaScript, and compare them to an unstructured tool.
+We find that current semistructured merge algorithms and frameworks are not directly applicable for scripting languages like JavaScript.
+By adapting the merge algorithms, we find evidence that our JavaScript tools report fewer false positives than unstructured merge, without compromising the correctness of the merging process.
+The benefits, however, are much smaller than the ones observed for Java-like languages, suggesting that semistructured merge advantages might be limited for languages that allow both commutative and non-commutative declarations at the same syntactic level.&lt;/p&gt;
+
+&lt;h5 id=&#34;more-structure-does-not-improve-merge-accuracy&#34;&gt;More structure does not improve merge accuracy&lt;/h5&gt;
+
+&lt;p&gt;To better understand the impact of exploring more language syntactic structure in software merging, in another &lt;a href=&#34;https://pauloborba.github.io/publication/2019the_impact_of_structure_on_software_merging__semistructured_versus_structured_merge/&#34; target=&#34;_blank&#34;&gt;ASE 2019&lt;/a&gt; paper we compare semistructured merge with structured merge.
+In particular, we compare s3m with an structured tool we implemented and that behaves as s3m for merging declarations, but invokes JDime (an structured merge tool for Java) for merging the bodies of declarations.
+Our results show that semistructured and structured merge differ less often than we expected, in only 24% of the scenarios with conflicts.
+Semistructured merge reports more false positives, whereas structured merge has more false negatives.
+Finally, we found that adapting a semistructured merge tool to resolve a particular kind of conflict makes semistructured and structured merge even closer.&lt;/p&gt;
 </description>
     </item>
     
@@ -202,14 +232,6 @@ Try, though, to escape from the trap in the first place.&lt;/p&gt;
       <link>https://pauloborba.github.io/publication/2016coevolution_of_variability_models_and_related_software_artifacts/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/publication/2016coevolution_of_variability_models_and_related_software_artifacts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Partially Safe Evolution of Software Product Lines</title>
-      <link>https://pauloborba.github.io/publication/2016partially_safe_evolution_of_software_product_lines/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2016partially_safe_evolution_of_software_product_lines/</guid>
       <description></description>
     </item>
     
@@ -1778,6 +1800,14 @@ Try, though, to escape from the trap in the first place.&lt;/p&gt;
       <link>https://pauloborba.github.io/publication/1987acesso_a_um_banco_de_dados_atraves_de_linguagem_natural/</link>
       <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/publication/1987acesso_a_um_banco_de_dados_atraves_de_linguagem_natural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partially Safe Evolution of Software Product Lines</title>
+      <link>https://pauloborba.github.io/publication/2016splcpartiallysafeevolutionofspls.pdfpartially_safe_evolution_of_software_product_lines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2016splcpartiallysafeevolutionofspls.pdfpartially_safe_evolution_of_software_product_lines/</guid>
       <description></description>
     </item>
     

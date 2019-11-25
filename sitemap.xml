@@ -4,22 +4,22 @@
   
   <url>
     <loc>https://pauloborba.github.io/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:13:09-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/project/</loc>
-    <lastmod>2019-11-09T18:32:48-03:00</lastmod>
+    <lastmod>2019-11-24T21:13:09-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/project/semantic-merge/</loc>
-    <lastmod>2019-11-09T18:32:48-03:00</lastmod>
+    <lastmod>2019-11-24T21:13:09-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/project/s3m/</loc>
-    <lastmod>2019-11-09T18:32:48-03:00</lastmod>
+    <lastmod>2019-11-24T21:13:09-03:00</lastmod>
   </url>
   
   <url>
@@ -319,11 +319,6 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/nicolas-dintzner/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pauloborba.github.io/publication/2016partially_safe_evolution_of_software_product_lines/</loc>
     <lastmod>2019-11-09T19:03:01-03:00</lastmod>
   </url>
   
@@ -1984,11 +1979,15 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/admin/</loc>
-    <lastmod>2019-11-09T12:42:16-03:00</lastmod>
+    <lastmod>2019-11-24T20:03:08-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/publication/2016splcpartiallysafeevolutionofspls.pdfpartially_safe_evolution_of_software_product_lines/</loc>
   </url>
   
   <url>

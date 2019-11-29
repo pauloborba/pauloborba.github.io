@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pauloborba.github.io/courses/</loc>
+    <lastmod>2019-11-28T21:15:43-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/courses/oldercourses/</loc>
+    <lastmod>2019-11-28T21:15:43-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pauloborba.github.io/</loc>
-    <lastmod>2019-11-24T21:13:09-03:00</lastmod>
+    <lastmod>2019-11-28T21:15:43-03:00</lastmod>
   </url>
   
   <url>
@@ -39,12 +49,12 @@
   
   <url>
     <loc>https://pauloborba.github.io/publication_types/1/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/publication_types/2/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
@@ -54,12 +64,12 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/gabriela-sampaio/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
@@ -69,22 +79,22 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/guilherme-cavalcanti/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/publication/2019improving_the_prediction_of_files_changed_by_programming_tasks/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/joao-santos/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/leopoldo-teixeira/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
@@ -94,12 +104,12 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/paulo-borba/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/publication_types/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
@@ -109,17 +119,17 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/sven-apel/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/sergio-soares/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/thais-rocha/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
@@ -159,17 +169,17 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/marcio-ribeiro/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/paola-accioly/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/rohit-gheyi/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
@@ -204,32 +214,32 @@
   
   <url>
     <loc>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/joao-fernandes/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/joao-saraiva/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/jacome-cunha/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/marco-couto/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/publication/2017products_go_green__worst-case_energy_consumption_in_software_product_lines/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
@@ -239,122 +249,122 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/rui-pereira/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/publication/2017should_we_replace_our_merge_tools/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/andrzej-wsowski/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/publication/2016assessing_fine-grained_feature_dependencies/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/publication/2016assessing_idioms_for_a_flexible_feature_binding_time/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/baldoino-fonseca/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/publication/2016coevolution_of_variability_models_and_related_software_artifacts/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/fernando-benbassat/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/flavio-medeiros/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/henrique-rebelo/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/iran-rodrigues/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/jianmei-guo/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/jones-albuquerque/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/krzysztof-czarnecki/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/leonardo-passos/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/lucas-satabin/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/nicolas-dintzner/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/publication/2016programming_the_universe__the_first_commandment_of_software_engineering_for_all_varieties_of_information_systems/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/rodrigo-andrade/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/publication/2016safe_evolution_of_software_product_lines__feature_extraction_scenarios/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/silvio-meira/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/vaidas-gasiunas/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/vanilson-buregio/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/vinicius-garcia/</loc>
-    <lastmod>2019-11-09T19:03:01-03:00</lastmod>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>
@@ -1988,6 +1998,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/publication/2016splcpartiallysafeevolutionofspls.pdfpartially_safe_evolution_of_software_product_lines/</loc>
+    <lastmod>2019-11-24T21:41:12-03:00</lastmod>
   </url>
   
   <url>

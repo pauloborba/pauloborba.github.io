@@ -5,12 +5,65 @@
     <link>https://pauloborba.github.io/</link>
       <atom:link href="https://pauloborba.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Paulo Borba</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 09 Nov 2019 17:52:13 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 27 Nov 2019 16:02:46 -0300</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Paulo Borba</title>
       <link>https://pauloborba.github.io/</link>
     </image>
+    
+    <item>
+      <title>Other courses</title>
+      <link>https://pauloborba.github.io/courses/oldercourses/</link>
+      <pubDate>Wed, 27 Nov 2019 16:02:46 -0300</pubDate>
+      <guid>https://pauloborba.github.io/courses/oldercourses/</guid>
+      <description>
+
+&lt;h5 id=&#34;introduction-to-programming-https-www-cin-ufpe-br-phmb-ip-index-htm&#34;&gt;&lt;a href=&#34;https://www.cin.ufpe.br/~phmb/ip/index.htm&#34; target=&#34;_blank&#34;&gt;Introduction to Programming&lt;/a&gt;&lt;/h5&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;An undergraduate level course for first year students, teaching the basics of programming, using Java and object-oriented concepts, but also introducing some aspects of C not available in Java. (Available only in Portuguese.)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&#34;aspect-oriented-programming-with-aspectj-https-www-cin-ufpe-br-phmb-cursoaop-index-html&#34;&gt;&lt;a href=&#34;https://www.cin.ufpe.br/~phmb/cursoAOP/index.html&#34; target=&#34;_blank&#34;&gt;Aspect-oriented Programming with AspectJ&lt;/a&gt;&lt;/h5&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A graduate level course. (Available only in Portuguese.)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&#34;programming-languages-concepts-and-paradigms-http-www-cin-ufpe-br-in1007&#34;&gt;&lt;a href=&#34;http://www.cin.ufpe.br/~in1007&#34; target=&#34;_blank&#34;&gt;Programming Languages Concepts and Paradigms&lt;/a&gt;&lt;/h5&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A graduate level course discussing and comparing several programming languages concepts, paradigms and design decisions. Java, Standard ML and ADA are used to illustrate the aspects considered during the course. (Available only in Portuguese.)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&#34;specification-of-distributed-systems-http-www-cin-ufpe-br-phmb-cspz&#34;&gt;&lt;a href=&#34;http://www.cin.ufpe.br/~phmb/CSPZ/&#34; target=&#34;_blank&#34;&gt;Specification of Distributed Systems&lt;/a&gt;&lt;/h5&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A graduate level course on CSP. (Available only in Portuguese.)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&#34;rational-unified-process&#34;&gt;Rational Unified Process&lt;/h5&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;An &lt;a href=&#34;http://www.cin.ufpe.br/~if570&#34; target=&#34;_blank&#34;&gt;undergraduate&lt;/a&gt; level course. (Available only in Portuguese.)&lt;/p&gt;
+
+&lt;p&gt;A &lt;a href=&#34;http://www.cin.ufpe.br/~phmb/RUP&#34; target=&#34;_blank&#34;&gt;graduate&lt;/a&gt; level course. (Available only in Portuguese.)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&#34;object-oriented-programming-and-java-http-www-cin-ufpe-br-if101&#34;&gt;&lt;a href=&#34;http://www.cin.ufpe.br/~if101&#34; target=&#34;_blank&#34;&gt;Object Oriented Programming and Java&lt;/a&gt;&lt;/h5&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;An undergraduate level course teaching the basics of object-oriented programming and Java, but also covering advanced concepts such as Software Contract and Parameterized Programming. (Available only in Portuguese.)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&#34;unix-introduction-and-administration-https-www-cin-ufpe-br-phmb-sysadm-programa-html&#34;&gt;&lt;a href=&#34;https://www.cin.ufpe.br/~phmb/sysadm/programa.html&#34; target=&#34;_blank&#34;&gt;UNIX: Introduction and Administration&lt;/a&gt;&lt;/h5&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This course introduces the Unix operating system and presents basics aspects of Unix system administration. (Available only in Portuguese.)&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Semantic Merge Tools</title>

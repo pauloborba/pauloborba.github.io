@@ -19,6 +19,8 @@
       <guid>https://pauloborba.github.io/courses/oldercourses/</guid>
       <description>
 
+&lt;p&gt;Here are older courses I have taught.&lt;/p&gt;
+
 &lt;h5 id=&#34;introduction-to-programming-https-www-cin-ufpe-br-phmb-ip-index-htm&#34;&gt;&lt;a href=&#34;https://www.cin.ufpe.br/~phmb/ip/index.htm&#34; target=&#34;_blank&#34;&gt;Introduction to Programming&lt;/a&gt;&lt;/h5&gt;
 
 &lt;blockquote&gt;
@@ -95,15 +97,15 @@
 
 &lt;h4 id=&#34;problem&#34;&gt;Problem&lt;/h4&gt;
 
-&lt;p&gt;Developers often waste time by manually resolving merge conflicts that could be automatically solved, like when integrating independent import or method declarations that happened to be included by different developers in the same area of the code.&lt;/p&gt;
+&lt;p&gt;Developers often waste time by manually resolving merge conflicts that could be automatically resolved, like when integrating independent import or method declarations that happened to be included by different developers in the same area of the code.&lt;/p&gt;
 
-&lt;p&gt;Worse, current merge tools might integrate conflicting changes without warning developers, like when two people independently declare methods with the same signature in different parts of the program.&lt;/p&gt;
+&lt;p&gt;Worse, current merge tools might integrate conflicting changes without warning developers, like when two people independently declare methods with the same signature in different parts of a class.&lt;/p&gt;
 
 &lt;p&gt;These problems compromise development productivity and software quality.&lt;/p&gt;
 
 &lt;h4 id=&#34;solution&#34;&gt;Solution&lt;/h4&gt;
 
-&lt;p&gt;To avoid them, we develop &lt;a href=&#34;https://github.com/guilhermejccavalcanti/jFSTMerge&#34; target=&#34;_blank&#34;&gt;s3m&lt;/a&gt;, a semistructured merge tool that partially explores programming language syntactic structure to provide more accurate code integration without compromising execution performance.&lt;/p&gt;
+&lt;p&gt;To avoid such problems, we develop &lt;a href=&#34;https://github.com/guilhermejccavalcanti/jFSTMerge&#34; target=&#34;_blank&#34;&gt;s3m&lt;/a&gt;, a semistructured merge tool that partially explores programming language syntactic structure to provide more accurate code integration without compromising execution performance.&lt;/p&gt;
 
 &lt;h4 id=&#34;results&#34;&gt;Results&lt;/h4&gt;
 
@@ -117,18 +119,18 @@ We find evidence that s3m, when compared to unstructured merge in our sample, re
 
 &lt;h5 id=&#34;s3m-benefits-do-not-generalize-to-javascript&#34;&gt;s3m benefits do not generalize to JavaScript&lt;/h5&gt;
 
-&lt;p&gt;To understand whether semistructured merge and the just mentioned benefits generalize to other kinds of languages, in one of our &lt;a href=&#34;https://pauloborba.github.io/publication/2019semistructured_merge_in_javascript_systems/&#34; target=&#34;_blank&#34;&gt;ASE 2019&lt;/a&gt; papers we implement two semistructured merge tools for JavaScript, and compare them to an unstructured tool.
+&lt;p&gt;To understand whether semistructured merge and the just mentioned benefits generalize to other kinds of languages, in one of our &lt;a href=&#34;https://pauloborba.github.io/publication/2019semistructured_merge_in_javascript_systems/&#34; target=&#34;_blank&#34;&gt;ASE 2019&lt;/a&gt; papers we implement two semistructured merge tools for JavaScript, and compare them to a widely used unstructured tool.
 We find that current semistructured merge algorithms and frameworks are not directly applicable for scripting languages like JavaScript.
 By adapting the merge algorithms, we find evidence that our JavaScript tools report fewer false positives than unstructured merge, without compromising the correctness of the merging process.
-The benefits, however, are much smaller than the ones observed for Java-like languages, suggesting that semistructured merge advantages might be limited for languages that allow both commutative and non-commutative declarations at the same syntactic level.&lt;/p&gt;
+The benefits, however, are much smaller than the ones observed for Java-like languages, suggesting that semistructured merge advantages might be limited for languages that allow both commutative elements (like function declarations) and non-commutative elements (like statements) at the same syntactic level.&lt;/p&gt;
 
-&lt;h5 id=&#34;more-structure-does-not-improve-merge-accuracy&#34;&gt;More structure does not improve merge accuracy&lt;/h5&gt;
+&lt;h5 id=&#34;more-structure-does-not-necessarily-improve-merge-accuracy&#34;&gt;More structure does not necessarily improve merge accuracy&lt;/h5&gt;
 
-&lt;p&gt;To better understand the impact of exploring more language syntactic structure in software merging, in another &lt;a href=&#34;https://pauloborba.github.io/publication/2019the_impact_of_structure_on_software_merging__semistructured_versus_structured_merge/&#34; target=&#34;_blank&#34;&gt;ASE 2019&lt;/a&gt; paper we compare semistructured merge with structured merge.
+&lt;p&gt;To better understand the impact of exploring additional language syntactic structure in software merging, in another &lt;a href=&#34;https://pauloborba.github.io/publication/2019the_impact_of_structure_on_software_merging__semistructured_versus_structured_merge/&#34; target=&#34;_blank&#34;&gt;ASE 2019&lt;/a&gt; paper we compare semistructured merge with structured merge.
 In particular, we compare s3m with an structured tool we implemented and that behaves as s3m for merging declarations, but invokes JDime (an structured merge tool for Java) for merging the bodies of declarations.
 Our results show that semistructured and structured merge differ less often than we expected, in only 24% of the scenarios with conflicts.
 Semistructured merge reports more false positives, whereas structured merge has more false negatives.
-Finally, we found that adapting a semistructured merge tool to resolve a particular kind of conflict makes semistructured and structured merge even closer.&lt;/p&gt;
+Finally, we found that adapting a semistructured merge tool to resolve a particular kind of conflict (caused by changes to consecutive lines) makes semistructured and structured merge even closer.&lt;/p&gt;
 </description>
     </item>
     

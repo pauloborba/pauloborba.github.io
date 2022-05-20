@@ -5,12 +5,20 @@
     <link>https://pauloborba.github.io/authors/rohit-gheyi/</link>
       <atom:link href="https://pauloborba.github.io/authors/rohit-gheyi/index.xml" rel="self" type="application/rss+xml" />
     <description>Rohit Gheyi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Rohit Gheyi</title>
       <link>https://pauloborba.github.io/authors/rohit-gheyi/</link>
     </image>
+    
+    <item>
+      <title>Safe Evolution of Product Lines Using Configuration Knowledge Laws</title>
+      <link>https://pauloborba.github.io/publication/2020safe_evolution_of_product_lines_using_configuration_knowledge_laws/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2020safe_evolution_of_product_lines_using_configuration_knowledge_laws/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Detecting Overly Strong Preconditions in Refactoring Engines</title>

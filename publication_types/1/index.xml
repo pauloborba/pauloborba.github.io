@@ -5,12 +5,52 @@
     <link>https://pauloborba.github.io/publication_types/1/</link>
       <atom:link href="https://pauloborba.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>1</title>
       <link>https://pauloborba.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Lazy Clone - A Pattern to Improve Performance and Maintainability of Object Cloning</title>
+      <link>https://pauloborba.github.io/publication/2021lazy_clone_-_a_pattern_to_improve_performance_and_maintainability_of_object_cloning/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2021lazy_clone_-_a_pattern_to_improve_performance_and_maintainability_of_object_cloning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-Automated Test-Case Propagation in Fork Ecosystems</title>
+      <link>https://pauloborba.github.io/publication/2021semi-automated_test-case_propagation_in_fork_ecosystems/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2021semi-automated_test-case_propagation_in_fork_ecosystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Textual merge based on language-specific syntactic separators</title>
+      <link>https://pauloborba.github.io/publication/2021textual_merge_based_on_language-specific_syntactic_separators/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2021textual_merge_based_on_language-specific_syntactic_separators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Semantic Conflicts via Automated Behavior Change Detection</title>
+      <link>https://pauloborba.github.io/publication/2020detecting_semantic_conflicts_via_automated_behavior_change_detection/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2020detecting_semantic_conflicts_via_automated_behavior_change_detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe Evolution of Product Lines Using Configuration Knowledge Laws</title>
+      <link>https://pauloborba.github.io/publication/2020safe_evolution_of_product_lines_using_configuration_knowledge_laws/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2020safe_evolution_of_product_lines_using_configuration_knowledge_laws/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Improving the prediction of files changed by programming tasks</title>
@@ -46,9 +86,9 @@
     
     <item>
       <title>Evaluating and Improving Semistructured Merge</title>
-      <link>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge/</link>
+      <link>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge/</guid>
+      <guid>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</guid>
       <description></description>
     </item>
     
@@ -65,6 +105,14 @@
       <link>https://pauloborba.github.io/publication/2017should_we_replace_our_merge_tools/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/publication/2017should_we_replace_our_merge_tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partially Safe Evolution of Software Product Lines</title>
+      <link>https://pauloborba.github.io/publication/2016partially_safe_evolution_of_software_product_lines/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2016partially_safe_evolution_of_software_product_lines/</guid>
       <description></description>
     </item>
     
@@ -1277,10 +1325,10 @@
     </item>
     
     <item>
-      <title>Parameterized Packages and Java</title>
-      <link>https://pauloborba.github.io/publication/1997parameterized_packages_and_java/</link>
+      <title>Parameterized  Packages and Java</title>
+      <link>https://pauloborba.github.io/publication/1997parameterized__packages_and_java/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/1997parameterized_packages_and_java/</guid>
+      <guid>https://pauloborba.github.io/publication/1997parameterized__packages_and_java/</guid>
       <description></description>
     </item>
     
@@ -1353,14 +1401,6 @@
       <link>https://pauloborba.github.io/publication/1987acesso_a_um_banco_de_dados_atraves_de_linguagem_natural/</link>
       <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/publication/1987acesso_a_um_banco_de_dados_atraves_de_linguagem_natural/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Partially Safe Evolution of Software Product Lines</title>
-      <link>https://pauloborba.github.io/publication/2016splcpartiallysafeevolutionofspls.pdfpartially_safe_evolution_of_software_product_lines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2016splcpartiallysafeevolutionofspls.pdfpartially_safe_evolution_of_software_product_lines/</guid>
       <description></description>
     </item>
     

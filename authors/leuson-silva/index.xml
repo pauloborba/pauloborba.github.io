@@ -5,12 +5,28 @@
     <link>https://pauloborba.github.io/authors/leuson-silva/</link>
       <atom:link href="https://pauloborba.github.io/authors/leuson-silva/index.xml" rel="self" type="application/rss+xml" />
     <description>Léuson Silva</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Léuson Silva</title>
       <link>https://pauloborba.github.io/authors/leuson-silva/</link>
     </image>
+    
+    <item>
+      <title>Build conflicts in the wild</title>
+      <link>https://pauloborba.github.io/publication/2022build_conflicts_in_the_wild/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2022build_conflicts_in_the_wild/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Semantic Conflicts via Automated Behavior Change Detection</title>
+      <link>https://pauloborba.github.io/publication/2020detecting_semantic_conflicts_via_automated_behavior_change_detection/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2020detecting_semantic_conflicts_via_automated_behavior_change_detection/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analyzing Conflict Predictors in Open-Source Java Projects from GitHub and Travis CI</title>

@@ -5,12 +5,20 @@
     <link>https://pauloborba.github.io/authors/leopoldo-teixeira/</link>
       <atom:link href="https://pauloborba.github.io/authors/leopoldo-teixeira/index.xml" rel="self" type="application/rss+xml" />
     <description>Leopoldo Teixeira</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Leopoldo Teixeira</title>
       <link>https://pauloborba.github.io/authors/leopoldo-teixeira/</link>
     </image>
+    
+    <item>
+      <title>Safe Evolution of Product Lines Using Configuration Knowledge Laws</title>
+      <link>https://pauloborba.github.io/publication/2020safe_evolution_of_product_lines_using_configuration_knowledge_laws/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2020safe_evolution_of_product_lines_using_configuration_knowledge_laws/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Partially safe evolution of software product lines</title>
@@ -33,6 +41,14 @@
       <link>https://pauloborba.github.io/publication/2016coevolution_of_variability_models_and_related_software_artifacts/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/publication/2016coevolution_of_variability_models_and_related_software_artifacts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partially Safe Evolution of Software Product Lines</title>
+      <link>https://pauloborba.github.io/publication/2016partially_safe_evolution_of_software_product_lines/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2016partially_safe_evolution_of_software_product_lines/</guid>
       <description></description>
     </item>
     
@@ -169,14 +185,6 @@
       <link>https://pauloborba.github.io/publication/2009hephaestus__a_tool_for_managing_spl_variabilities/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/publication/2009hephaestus__a_tool_for_managing_spl_variabilities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Partially Safe Evolution of Software Product Lines</title>
-      <link>https://pauloborba.github.io/publication/2016splcpartiallysafeevolutionofspls.pdfpartially_safe_evolution_of_software_product_lines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2016splcpartiallysafeevolutionofspls.pdfpartially_safe_evolution_of_software_product_lines/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,180 @@
     <link>https://pauloborba.github.io/authors/</link>
       <atom:link href="https://pauloborba.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Authors</title>
       <link>https://pauloborba.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Arthur Pires</title>
+      <link>https://pauloborba.github.io/authors/arthur-pires/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/arthur-pires/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Léuson Silva</title>
+      <link>https://pauloborba.github.io/authors/leuson-silva/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/leuson-silva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paulo Borba</title>
+      <link>https://pauloborba.github.io/authors/paulo-borba/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/paulo-borba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bruno Cartaxo</title>
+      <link>https://pauloborba.github.io/authors/bruno-cartaxo/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/bruno-cartaxo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Guerra</title>
+      <link>https://pauloborba.github.io/authors/e.-guerra/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/e.-guerra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florian Heck</title>
+      <link>https://pauloborba.github.io/authors/florian-heck/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/florian-heck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Georg Seibt</title>
+      <link>https://pauloborba.github.io/authors/georg-seibt/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/georg-seibt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guilherme Cavalcanti</title>
+      <link>https://pauloborba.github.io/authors/guilherme-cavalcanti/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/guilherme-cavalcanti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jônatas Clementino</title>
+      <link>https://pauloborba.github.io/authors/jonatas-clementino/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/jonatas-clementino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mukelabai Mukelabai</title>
+      <link>https://pauloborba.github.io/authors/mukelabai-mukelabai/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/mukelabai-mukelabai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sven Apel</title>
+      <link>https://pauloborba.github.io/authors/sven-apel/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/sven-apel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sérgio Soares</title>
+      <link>https://pauloborba.github.io/authors/sergio-soares/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/sergio-soares/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thorsten Berger</title>
+      <link>https://pauloborba.github.io/authors/thorsten-berger/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/thorsten-berger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Osorio</title>
+      <link>https://pauloborba.github.io/authors/v.-osorio/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/v.-osorio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>João Moisakis</title>
+      <link>https://pauloborba.github.io/authors/joao-moisakis/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/joao-moisakis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Klissiomara Dias</title>
+      <link>https://pauloborba.github.io/authors/klissiomara-dias/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/klissiomara-dias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leopoldo Teixeira</title>
+      <link>https://pauloborba.github.io/authors/leopoldo-teixeira/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/leopoldo-teixeira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcos Barreto</title>
+      <link>https://pauloborba.github.io/authors/marcos-barreto/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/marcos-barreto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rodrigo Andrade</title>
+      <link>https://pauloborba.github.io/authors/rodrigo-andrade/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/rodrigo-andrade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rohit Gheyi</title>
+      <link>https://pauloborba.github.io/authors/rohit-gheyi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/rohit-gheyi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wardah Mahmood</title>
+      <link>https://pauloborba.github.io/authors/wardah-mahmood/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/wardah-mahmood/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Alberto Tavares</title>
@@ -29,58 +197,10 @@
     </item>
     
     <item>
-      <title>Georg Seibt</title>
-      <link>https://pauloborba.github.io/authors/georg-seibt/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/georg-seibt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Guilherme Cavalcanti</title>
-      <link>https://pauloborba.github.io/authors/guilherme-cavalcanti/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/guilherme-cavalcanti/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>João Santos</title>
       <link>https://pauloborba.github.io/authors/joao-santos/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/authors/joao-santos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leopoldo Teixeira</title>
-      <link>https://pauloborba.github.io/authors/leopoldo-teixeira/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/leopoldo-teixeira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paulo Borba</title>
-      <link>https://pauloborba.github.io/authors/paulo-borba/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/paulo-borba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sven Apel</title>
-      <link>https://pauloborba.github.io/authors/sven-apel/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/sven-apel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sérgio Soares</title>
-      <link>https://pauloborba.github.io/authors/sergio-soares/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/sergio-soares/</guid>
       <description></description>
     </item>
     
@@ -97,14 +217,6 @@
       <link>https://pauloborba.github.io/authors/gustavo-soares/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/authors/gustavo-soares/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Léuson Silva</title>
-      <link>https://pauloborba.github.io/authors/leuson-silva/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/leuson-silva/</guid>
       <description></description>
     </item>
     
@@ -129,14 +241,6 @@
       <link>https://pauloborba.github.io/authors/paola-accioly/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/authors/paola-accioly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rohit Gheyi</title>
-      <link>https://pauloborba.github.io/authors/rohit-gheyi/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/rohit-gheyi/</guid>
       <description></description>
     </item>
     
@@ -301,14 +405,6 @@
     </item>
     
     <item>
-      <title>Rodrigo Andrade</title>
-      <link>https://pauloborba.github.io/authors/rodrigo-andrade/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/rodrigo-andrade/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Silvio Meira</title>
       <link>https://pauloborba.github.io/authors/silvio-meira/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
@@ -337,14 +433,6 @@
       <link>https://pauloborba.github.io/authors/vinicius-garcia/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/authors/vinicius-garcia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bruno Cartaxo</title>
-      <link>https://pauloborba.github.io/authors/bruno-cartaxo/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/bruno-cartaxo/</guid>
       <description></description>
     </item>
     
@@ -437,7 +525,7 @@
     </item>
     
     <item>
-      <title>JoÃo Araújo</title>
+      <title>João Araújo</title>
       <link>https://pauloborba.github.io/authors/joao-araujo/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/authors/joao-araujo/</guid>
@@ -445,7 +533,7 @@
     </item>
     
     <item>
-      <title>Mauricio AlfÉrez</title>
+      <title>Mauricio Alférez</title>
       <link>https://pauloborba.github.io/authors/mauricio-alferez/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/authors/mauricio-alferez/</guid>
@@ -1289,14 +1377,6 @@
       <link>https://pauloborba.github.io/authors/clovis-nogueira/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/authors/clovis-nogueira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Klissiomara Dias</title>
-      <link>https://pauloborba.github.io/authors/klissiomara-dias/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/klissiomara-dias/</guid>
       <description></description>
     </item>
     

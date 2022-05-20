@@ -5,12 +5,20 @@
     <link>https://pauloborba.github.io/authors/rodrigo-andrade/</link>
       <atom:link href="https://pauloborba.github.io/authors/rodrigo-andrade/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo Andrade</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Rodrigo Andrade</title>
       <link>https://pauloborba.github.io/authors/rodrigo-andrade/</link>
     </image>
+    
+    <item>
+      <title>Privacy and security constraints for code contributions</title>
+      <link>https://pauloborba.github.io/publication/2020privacy_and_security_constraints_for_code_contributions/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2020privacy_and_security_constraints_for_code_contributions/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Assessing Idioms for a Flexible Feature Binding Time</title>

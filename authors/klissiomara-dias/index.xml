@@ -5,12 +5,20 @@
     <link>https://pauloborba.github.io/authors/klissiomara-dias/</link>
       <atom:link href="https://pauloborba.github.io/authors/klissiomara-dias/index.xml" rel="self" type="application/rss+xml" />
     <description>Klissiomara Dias</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2002 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Klissiomara Dias</title>
       <link>https://pauloborba.github.io/authors/klissiomara-dias/</link>
     </image>
+    
+    <item>
+      <title>Understanding predictive factors for merge conflicts</title>
+      <link>https://pauloborba.github.io/publication/2020understanding_predictive_factors_for_merge_conflicts/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2020understanding_predictive_factors_for_merge_conflicts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Padrões de projeto para estruturação de aplicações distribuídas Enterprise JavaBeans</title>

@@ -5,12 +5,44 @@
     <link>https://pauloborba.github.io/publication_types/2/</link>
       <atom:link href="https://pauloborba.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>2</title>
       <link>https://pauloborba.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Build conflicts in the wild</title>
+      <link>https://pauloborba.github.io/publication/2022build_conflicts_in_the_wild/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2022build_conflicts_in_the_wild/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging Structure in Software Merge: An Empirical Study</title>
+      <link>https://pauloborba.github.io/publication/2021leveraging_structure_in_software_merge__an_empirical_study/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2021leveraging_structure_in_software_merge__an_empirical_study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy and security constraints for code contributions</title>
+      <link>https://pauloborba.github.io/publication/2020privacy_and_security_constraints_for_code_contributions/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2020privacy_and_security_constraints_for_code_contributions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding predictive factors for merge conflicts</title>
+      <link>https://pauloborba.github.io/publication/2020understanding_predictive_factors_for_merge_conflicts/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2020understanding_predictive_factors_for_merge_conflicts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Partially safe evolution of software product lines</title>
@@ -62,9 +94,9 @@
     
     <item>
       <title>Evaluating and improving semistructured merge</title>
-      <link>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</link>
+      <link>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</guid>
+      <guid>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge/</guid>
       <description></description>
     </item>
     

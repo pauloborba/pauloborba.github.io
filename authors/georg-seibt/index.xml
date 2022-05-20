@@ -5,12 +5,20 @@
     <link>https://pauloborba.github.io/authors/georg-seibt/</link>
       <atom:link href="https://pauloborba.github.io/authors/georg-seibt/index.xml" rel="self" type="application/rss+xml" />
     <description>Georg Seibt</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Georg Seibt</title>
       <link>https://pauloborba.github.io/authors/georg-seibt/</link>
     </image>
+    
+    <item>
+      <title>Leveraging Structure in Software Merge: An Empirical Study</title>
+      <link>https://pauloborba.github.io/publication/2021leveraging_structure_in_software_merge__an_empirical_study/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2021leveraging_structure_in_software_merge__an_empirical_study/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Impact of Structure on Software Merging: Semistructured versus Structured Merge</title>

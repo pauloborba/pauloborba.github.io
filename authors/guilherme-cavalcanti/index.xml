@@ -5,12 +5,28 @@
     <link>https://pauloborba.github.io/authors/guilherme-cavalcanti/</link>
       <atom:link href="https://pauloborba.github.io/authors/guilherme-cavalcanti/index.xml" rel="self" type="application/rss+xml" />
     <description>Guilherme Cavalcanti</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Guilherme Cavalcanti</title>
       <link>https://pauloborba.github.io/authors/guilherme-cavalcanti/</link>
     </image>
+    
+    <item>
+      <title>Leveraging Structure in Software Merge: An Empirical Study</title>
+      <link>https://pauloborba.github.io/publication/2021leveraging_structure_in_software_merge__an_empirical_study/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2021leveraging_structure_in_software_merge__an_empirical_study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Textual merge based on language-specific syntactic separators</title>
+      <link>https://pauloborba.github.io/publication/2021textual_merge_based_on_language-specific_syntactic_separators/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2021textual_merge_based_on_language-specific_syntactic_separators/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Semistructured Merge in JavaScript Systems</title>
@@ -46,17 +62,17 @@
     
     <item>
       <title>Evaluating and Improving Semistructured Merge</title>
-      <link>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge/</link>
+      <link>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge/</guid>
+      <guid>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating and improving semistructured merge</title>
-      <link>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</link>
+      <link>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</guid>
+      <guid>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge/</guid>
       <description></description>
     </item>
     

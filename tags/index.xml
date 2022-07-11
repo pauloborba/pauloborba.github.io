@@ -5,12 +5,20 @@
     <link>https://pauloborba.github.io/tags/</link>
       <atom:link href="https://pauloborba.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 09 Nov 2019 17:02:46 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 11 Jul 2022 14:21:14 -0400</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Tags</title>
       <link>https://pauloborba.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>academic communication</title>
+      <link>https://pauloborba.github.io/tags/academic-communication/</link>
+      <pubDate>Mon, 11 Jul 2022 14:21:14 -0400</pubDate>
+      <guid>https://pauloborba.github.io/tags/academic-communication/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>academic assessment</title>

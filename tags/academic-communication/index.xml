@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Paulo Borba</title>
-    <link>https://pauloborba.github.io/post/</link>
-      <atom:link href="https://pauloborba.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
+    <title>academic communication | Paulo Borba</title>
+    <link>https://pauloborba.github.io/tags/academic-communication/</link>
+      <atom:link href="https://pauloborba.github.io/tags/academic-communication/index.xml" rel="self" type="application/rss+xml" />
+    <description>academic communication</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 11 Jul 2022 14:21:14 -0400</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
-      <title>Posts</title>
-      <link>https://pauloborba.github.io/post/</link>
+      <title>academic communication</title>
+      <link>https://pauloborba.github.io/tags/academic-communication/</link>
     </image>
     
     <item>
@@ -40,26 +40,6 @@
 &lt;p&gt;Veja &lt;a href=&#34;https://speakerdeck.com/mseckington/the-art-of-slide-design&#34; target=&#34;_blank&#34;&gt;The art of slide design&lt;/a&gt;, que dá dicas importantes de como usar cores, fontes, etc. nos slides da sua apresentação. Aqui estão os príncipios básicos extraídos dessa apresentação: maximise signal and minimise noise (one purpose per slide, don&amp;rsquo;t distract); make important information stand out (mainly using color, but also size, fonts and shapes); show AND tell (use photos, icons, shapes, and animations to support what you are saying); be consistent.&lt;/p&gt;
 
 &lt;p&gt;Veja também repositórios de &lt;a href=&#34;http://colorsupplyyy.com/&#34; target=&#34;_blank&#34;&gt;combinações de cores interessantes&lt;/a&gt;, &lt;a href=&#34;https://fonts.google.com/&#34; target=&#34;_blank&#34;&gt;fontes&lt;/a&gt;, &lt;a href=&#34;https://www.flickr.com/&#34; target=&#34;_blank&#34;&gt;fotos&lt;/a&gt;, &lt;a href=&#34;https://www.pexels.com/&#34; target=&#34;_blank&#34;&gt;mais fotos&lt;/a&gt;, e &lt;a href=&#34;https://thenounproject.com/&#34; target=&#34;_blank&#34;&gt;ícones&lt;/a&gt;. Eu também uso um conjunto de ícones da common craft.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Academic rankings</title>
-      <link>https://pauloborba.github.io/post/academic-rankings/</link>
-      <pubDate>Sat, 09 Nov 2019 17:02:46 -0300</pubDate>
-      <guid>https://pauloborba.github.io/post/academic-rankings/</guid>
-      <description>&lt;p&gt;I do not like academic rankings.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cacm.acm.org/magazines/2016/9/206263-academic-rankings-considered-harmful/fulltext#.V735Hbwc1Ck.twitter&#34; target=&#34;_blank&#34;&gt;Academic Rankings Considered Harmful!&lt;/a&gt; clearly summarises ideas I believe in: &amp;ldquo;An academic decision is typically a multi-objective optimization problem, in which the objective function is highly personal. A unidimensional ranking provides a seductively easy objective function to optimize. Yet such decision making ignores the complex interplay between individual preferences and programs&amp;rsquo; unique patterns of strengths and weaknesses. Decision making by ranking is decision making by lazy minds, I believe&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;I especially like its summary: &amp;ldquo;Academic rankings are harmful, I believe. We have a responsibility to better inform the public, by ceasing to play the ranking games and by providing the public with relevant information&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;These opinions were expressed in the context of university rankings.
-Ranking departments and people in the same way can be even worse.
-This is especially bad when the ranking is strongly based on quantitative measures, as in &lt;a href=&#34;http://csrankings.org&#34; target=&#34;_blank&#34;&gt;CSRankings&lt;/a&gt; and &lt;a href=&#34;https://csindexbr.org&#34; target=&#34;_blank&#34;&gt;CSIndexbr&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;However, in case you find yourself in some kind of trap that explicitly goes against well thought recommendation (&lt;a href=&#34;https://dl.acm.org/citation.cfm?id=1297797.1297815&#34; target=&#34;_blank&#34;&gt;Stop the numbers game&lt;/a&gt;; &lt;a href=&#34;https://cra.org/wp-content/uploads/2016/02/BP_Memo.pdf&#34; target=&#34;_blank&#34;&gt;Favor quality and impact&lt;/a&gt;; &lt;a href=&#34;https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/ieee_bibliometric_statement_sept_2013.pdf&#34; target=&#34;_blank&#34;&gt;Journal impact factor is not a good proxy for paper quality&lt;/a&gt;) for not assessing research quantitatively, these two rankings might be useful.
-Try, though, to escape from the trap in the first place.&lt;/p&gt;
 </description>
     </item>
     

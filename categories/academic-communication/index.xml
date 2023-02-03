@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Paulo Borba</title>
-    <link>https://pauloborba.github.io/post/</link>
-      <atom:link href="https://pauloborba.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
+    <title>academic communication | Paulo Borba</title>
+    <link>https://pauloborba.github.io/categories/academic-communication/</link>
+      <atom:link href="https://pauloborba.github.io/categories/academic-communication/index.xml" rel="self" type="application/rss+xml" />
+    <description>academic communication</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 27 Dec 2022 11:36:09 -0300</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
-      <title>Posts</title>
-      <link>https://pauloborba.github.io/post/</link>
+      <title>academic communication</title>
+      <link>https://pauloborba.github.io/categories/academic-communication/</link>
     </image>
     
     <item>
@@ -242,73 +242,6 @@ while (1) {
 &lt;p&gt;Para facilitar a vida das pessoas (inclusive o seu orientador)  que estiverem lhe ajudando com o artigo, ao fazer mudanças em uma versão lida e comentada por essas pessoas, destaque todas as mudanças realizadas utilizando um comando como &lt;i&gt;\newcommand{\rev}[1]{\textcolor{red}{#1}}&lt;/i&gt; (ver &lt;a href=&#34;https://medium.com/@xLeitix/marking-changed-text-in-journal-revisions-8583136a4738&#34; target=&#34;_blank&#34;&gt;Marking Changed Text in Journal Revisions&lt;/a&gt;). Assim, ao lerem uma próxima versão, essas pessoas poderão facilmente identificar o que foi modificado.&lt;/p&gt;
 
 &lt;p&gt;Após a aceitação do seu trabalho, coloque todo o material do artigo no &lt;a href=&#34;https://github.com/spgroup/papers&#34; target=&#34;_blank&#34;&gt;repositório de artigos&lt;/a&gt; do seu grupo de pesquisa.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Apresentando seu trabalho</title>
-      <link>https://pauloborba.github.io/post/apresentando-seu-trabalho/</link>
-      <pubDate>Mon, 11 Jul 2022 14:21:14 -0400</pubDate>
-      <guid>https://pauloborba.github.io/post/apresentando-seu-trabalho/</guid>
-      <description>
-
-&lt;p&gt;A qualidade da apresentação do seu trabalho é tão importante quanto a qualidade do mesmo. Capriche na preparação!&lt;/p&gt;
-
-&lt;p&gt;Antes de tudo, estude com cuidado &lt;a href=&#34;https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/&#34; target=&#34;_blank&#34;&gt;How to give a great research talk&lt;/a&gt;, de Simon Peyton Jones.&lt;/p&gt;
-
-&lt;h4 id=&#34;preparando-os-slides&#34;&gt;Preparando os slides&lt;/h4&gt;
-
-&lt;p&gt;Capriche na elaboração dos slides. Verifique com cuidado se eles não têm erros ortográficos e tipográficos.&lt;/p&gt;
-
-&lt;p&gt;O objetivo não é apresentar todos os detalhes do artigo (ou tese). A ideia é apresentar o suficiente para convencer as pessoas que você tem uma contribuição interessante, e estimulá-las a lerem o seu artigo. O foco deve ser no que você aprendeu realizando a sua pesquisa, e portanto o que elas podem aprender (para melhorar a pesquisa delas, para melhorar a forma como elas desenvolvem software, para melhorar a forma como elas ensinam, etc.). Os outros aspectos são secundários e devem ser apresentados apenas como forma de motivar as pessoas, e contribuir para que elas entendam os resultados e tenham evidência de que os mesmos são confiáveis.&lt;/p&gt;
-
-&lt;p&gt;O que for possível ilustrar com figuras e gráficos, ilustre com figuras e gráficos! Para desenhar figuras, eu uso e recomendo o omnigraffle. É essencial que as figuras passem claramente a mensagem desejada.&lt;/p&gt;
-
-&lt;p&gt;Para gravar vídeos, eu uso o camtasia.&lt;/p&gt;
-
-&lt;p&gt;Não repita o título dos slides. Por exemplo, se você tem 4 slides de resultados, os títulos dos 4 não deve ser &amp;ldquo;Resultados&amp;rdquo;, nem &amp;ldquo;Resultado 1&amp;rdquo;, &amp;ldquo;Resultado 2&amp;rdquo;, etc. Adicione um slide apenas com a palavra &amp;ldquo;Resultados&amp;rdquo;, para funcionar como um marcador, delimitador, de nova seção da apresentação. E em cada um dos 4 slides coloque um título que captura a ideia que você quer passar com aquele slide (o que você quer que a audiência aprenda com aquele slide), e que é justificada pelas demais informações (texto, tabelas, figuras, gráficos, etc.)) que você coloca no slide. Assim teremos títulos como estes: &amp;ldquo;Testes de unidade podem detectar conflitos semânticos&amp;rdquo;, &amp;ldquo;Mas com significativa taxa de falsos negativos&amp;rdquo;, etc.&lt;/p&gt;
-
-&lt;p&gt;Veja &lt;a href=&#34;https://speakerdeck.com/mseckington/the-art-of-slide-design&#34; target=&#34;_blank&#34;&gt;The art of slide design&lt;/a&gt;, que dá dicas importantes de como usar cores, fontes, etc. nos slides da sua apresentação. Aqui estão os princípios básicos extraídos dessa apresentação: maximize signal and minimize noise (one purpose per slide, don&amp;rsquo;t distract); make important information stand out (mainly using color, but also size, fonts and shapes); show AND tell (use photos, icons, shapes, and animations to support what you are saying); be consistent.&lt;/p&gt;
-
-&lt;p&gt;Veja também repositórios de &lt;a href=&#34;http://colorsupplyyy.com/&#34; target=&#34;_blank&#34;&gt;combinações de cores interessantes&lt;/a&gt;, &lt;a href=&#34;https://fonts.google.com/&#34; target=&#34;_blank&#34;&gt;fontes&lt;/a&gt;, &lt;a href=&#34;https://www.flickr.com/&#34; target=&#34;_blank&#34;&gt;fotos&lt;/a&gt;, &lt;a href=&#34;https://www.pexels.com/&#34; target=&#34;_blank&#34;&gt;mais fotos&lt;/a&gt;, e &lt;a href=&#34;https://thenounproject.com/&#34; target=&#34;_blank&#34;&gt;ícones&lt;/a&gt;. Eu também uso um conjunto de ícones da common craft.&lt;/p&gt;
-
-&lt;h4 id=&#34;ensaiando&#34;&gt;Ensaiando&lt;/h4&gt;
-
-&lt;p&gt;Ensaie bastante a apresentação.&lt;/p&gt;
-
-&lt;p&gt;Inicialmente, pode ser você sozinho, simulando uma apresentação da forma mais fiel possível, registrando o tempo, sem parar, sem reiniciar, etc. Depois apresente para alguns colegas.&lt;/p&gt;
-
-&lt;p&gt;Antes da apresentação, faça um teste com o equipamento (computador, conectores, projetor, software de vídeo-conferência, etc.) que você vai usar na apresentação.&lt;/p&gt;
-
-&lt;h4 id=&#34;apresentando&#34;&gt;Apresentando&lt;/h4&gt;
-
-&lt;p&gt;Não leia o que está nos slides.&lt;/p&gt;
-
-&lt;p&gt;Fale de forma que toda a audiência possa ouvir confortavelmente. É importante ressaltar isso pois a timidez ou ansiedade, entre outras causas, pode fazer com que você fale baixo ou alto demais.&lt;/p&gt;
-
-&lt;p&gt;Para dar fluxo para a apresentação e evitar paradas, a sua fala final na explicação de um slide já deve fazer a ligação com o que você vai discutir no próximo slide. Por exemplo, a última coisa que você fala na explicação de um slide já pode ser a motivação ou o título do próximo slide; enquanto você fala você faz a transição de slide, ao invés de fazer a transição, pausar, e só então começar a falar sobre o slide.&lt;/p&gt;
-
-&lt;p&gt;Se a apresentação for em Inglês, evite esses &lt;a href=&#34;https://pt.babbel.com/pt/magazine/como-identificar-um-brasileiro-falando-ingles?bsc=pormag-a63-howtospotabrazilian-mi-ob&amp;amp;btp=1_por_out_mi&amp;amp;utm_campaign=cd_porall_gpr_cbr_howtospotbr&amp;amp;utm_content=Veja+os+erros+mais+comuns+de+brasileiros+ao+falar+&amp;amp;utm_medium=CON&amp;amp;utm_source=outbrain&amp;amp;utm_term=5470743&#34; target=&#34;_blank&#34;&gt;erros comuns&lt;/a&gt; cometidos por brasileiros quando falam Inglês.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Academic rankings</title>
-      <link>https://pauloborba.github.io/post/academic-rankings/</link>
-      <pubDate>Sat, 09 Nov 2019 17:02:46 -0300</pubDate>
-      <guid>https://pauloborba.github.io/post/academic-rankings/</guid>
-      <description>&lt;p&gt;I do not like academic rankings.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cacm.acm.org/magazines/2016/9/206263-academic-rankings-considered-harmful/fulltext#.V735Hbwc1Ck.twitter&#34; target=&#34;_blank&#34;&gt;Academic Rankings Considered Harmful!&lt;/a&gt; clearly summarises ideas I believe in: &amp;ldquo;An academic decision is typically a multi-objective optimization problem, in which the objective function is highly personal. A unidimensional ranking provides a seductively easy objective function to optimize. Yet such decision making ignores the complex interplay between individual preferences and programs&amp;rsquo; unique patterns of strengths and weaknesses. Decision making by ranking is decision making by lazy minds, I believe&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;I especially like its summary: &amp;ldquo;Academic rankings are harmful, I believe. We have a responsibility to better inform the public, by ceasing to play the ranking games and by providing the public with relevant information&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;These opinions were expressed in the context of university rankings.
-Ranking departments and people in the same way can be even worse.
-This is especially bad when the ranking is strongly based on quantitative measures, as in &lt;a href=&#34;http://csrankings.org&#34; target=&#34;_blank&#34;&gt;CSRankings&lt;/a&gt; and &lt;a href=&#34;https://csindexbr.org&#34; target=&#34;_blank&#34;&gt;CSIndexbr&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;However, in case you find yourself in some kind of trap that explicitly goes against well thought recommendation (&lt;a href=&#34;https://dl.acm.org/citation.cfm?id=1297797.1297815&#34; target=&#34;_blank&#34;&gt;Stop the numbers game&lt;/a&gt;; &lt;a href=&#34;https://cra.org/wp-content/uploads/2016/02/BP_Memo.pdf&#34; target=&#34;_blank&#34;&gt;Favor quality and impact&lt;/a&gt;; &lt;a href=&#34;https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/ieee_bibliometric_statement_sept_2013.pdf&#34; target=&#34;_blank&#34;&gt;Journal impact factor is not a good proxy for paper quality&lt;/a&gt;) for not assessing research quantitatively, these two rankings might be useful.
-Try, though, to escape from the trap in the first place.&lt;/p&gt;
 </description>
     </item>
     

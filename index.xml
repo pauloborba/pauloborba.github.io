@@ -5,12 +5,245 @@
     <link>https://pauloborba.github.io/</link>
       <atom:link href="https://pauloborba.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Paulo Borba</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 11 Jul 2022 14:21:14 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 27 Dec 2022 11:36:09 -0300</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Paulo Borba</title>
       <link>https://pauloborba.github.io/</link>
     </image>
+    
+    <item>
+      <title>Escrevendo seu trabalho</title>
+      <link>https://pauloborba.github.io/post/escrevendo-seu-trabalho/</link>
+      <pubDate>Tue, 27 Dec 2022 11:36:09 -0300</pubDate>
+      <guid>https://pauloborba.github.io/post/escrevendo-seu-trabalho/</guid>
+      <description>
+
+&lt;p&gt;Antes de tudo, você já deve ter visto &lt;a href=&#34;https://pauloborba.github.io/post/apresentando-seu-trabalho/&#34; target=&#34;_blank&#34;&gt;Apresentando seu trabalho&lt;/a&gt;, e apresentado seu trabalho pelo menos uma vez antes de começar a escrever. A apresentação é essencial para o amadurecimento das suas ideias, e a identificação de pontos que precisam ser bem explicados no artigo ou tese.&lt;/p&gt;
+
+&lt;p&gt;A qualidade da escrita do seu trabalho é tão importante quanto a qualidade do mesmo. Capriche na preparação!&lt;/p&gt;
+
+&lt;h4 id=&#34;preparativos-iniciais&#34;&gt;Preparativos iniciais&lt;/h4&gt;
+
+&lt;p&gt;Crie um repositório privado na área do seu grupo de pesquisa. A do SPG é &lt;a href=&#34;https://github.com/spgroup&#34; target=&#34;_blank&#34;&gt;spggroup&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Use LaTeX, com hyperref. Leia &lt;a href=&#34;https://github.com/dspinellis/latex-advice&#34; target=&#34;_blank&#34;&gt;essas dicas&lt;/a&gt; para uso adequado do LaTeX.&lt;/p&gt;
+
+&lt;p&gt;Analise pelo menos dois ou três artigos anteriores do seu orientador e colaboradores, e tente seguir práticas e padrões de estilo do seu grupo de pesquisa.&lt;/p&gt;
+
+&lt;p&gt;Analise os critérios de avaliação adotados por quem normalmente vai ler ou publicar seu artigo. Os de &lt;a href=&#34;http://icse2017.gatech.edu/technical_research/reviewing_guidelines&#34; target=&#34;_blank&#34;&gt;ICSE 2017&lt;/a&gt; (&lt;i&gt;soundness, significance, verifiability, and presentation quality&lt;/i&gt;) formam um bom exemplo.&lt;/p&gt;
+
+&lt;h4 id=&#34;o-básico-do-básico&#34;&gt;O básico do básico&lt;/h4&gt;
+
+&lt;p&gt;Inicialmente (no começo do artigo, seção, e parágrafo), dê ao leitor a &lt;i&gt;ilusão da simplicidade&lt;/i&gt;. Explique a ideia e a motivação de uma forma abstrata de forma a facilitar o entendimento superficial. Só depois disso, refine a ideia, dando mais detalhes, de forma a possibilitar  um entendimento mais aprofundado. Por simplicidade, essa explicação considerou dois níveis de abstração, mas use mais níveis se necessário.&lt;/p&gt;
+
+&lt;p&gt;Descreva com precisão &lt;i&gt;o que&lt;/i&gt; você fez, &lt;i&gt;porque&lt;/i&gt; você fez, e as  &lt;i&gt;limitações&lt;/i&gt; do que você fez. Tenha muito cuidado para não dar a entender que você fez algo que, na verdade, ainda não foi feito.&lt;/p&gt;
+
+&lt;p&gt;Se for preciso copiar alguma figura ou trecho, por menor que seja, de outro trabalho, deixe muito claro que você está fazendo isso, citando a referência e, no caso de trechos, colocando-os entre aspas. Esquecer de fazer isso é considerado  &lt;i&gt;plágio&lt;/i&gt;. Até no caso de expressar a mesma ideia de outro artigo,  com palavras diferentes, merece a citação e indicação explícita. No caso de cópia dos seus próprios artigos, pode-se copiar trechos dispensando o uso das aspas. Mas mesmo assim é preciso ter cuidado para não ser caracterizado como  &lt;i&gt;auto-plágio&lt;/i&gt;: se for uma extensão de um artigo prévio, por exemplo, deixe isso claro, e explique precisamente o diferencial do novo artigo.&lt;/p&gt;
+
+&lt;p&gt;Escreva a sua filiação em Português (Centro de Informática, Universidade Federal de Pernambuco) e sem abreviações, mesmo que o artigo seja em Inglês. Isso facilita a indexação de publicações da UFPE, e consequentemente seu melhor desempenho em rankings. Além disso, isso é exigido por alguns editais da UFPE para financiamento de viagens.&lt;/p&gt;
+
+&lt;p&gt;Se certifique que você realmente não fez nenhum &lt;i&gt;p-haking&lt;/i&gt;, e coloque isto no seu texto: &lt;i&gt;We report how we determined our sample size, all data exclusions, all manipulations, and all measures in the study&lt;/i&gt; (ver a &lt;a href=&#34;http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2160588&#34; target=&#34;_blank&#34;&gt;fonte&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h4 id=&#34;capriche-no-estilo-de-escrita&#34;&gt;Capriche no estilo de escrita&lt;/h4&gt;
+
+&lt;p&gt;Leia com cuidado, e consulte sempre, &lt;i&gt;The Elements of Style&lt;/i&gt; (&lt;a href=&#34;http://www.bartleby.com/141/&#34; target=&#34;_blank&#34;&gt;link 1&lt;/a&gt; ou &lt;a href=&#34;http://www.crockford.com/wrrrld/style.html&#34; target=&#34;_blank&#34;&gt;link 2&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Leia dicas de escrita (&lt;a href=&#34;https://clairelegoues.com/2016/08/23/things-i-keep-repeating-about-writing/&#34; target=&#34;_blank&#34;&gt;de Claire Le Goues&lt;/a&gt;, e &lt;a href=&#34;https://capra.cs.cornell.edu/styleguide&#34; target=&#34;_blank&#34;&gt;do grupo de pesquisa Capra&lt;/a&gt;) que casam bastante com o meu estilo (exceto a sugestão de usar &amp;ldquo;e.g.&amp;rdquo; e &amp;ldquo;i.e.&amp;rdquo;; por favor, evite).&lt;/p&gt;
+
+&lt;p&gt;Use um &lt;i&gt;spell checker&lt;/i&gt;! Considere usar uma ferramenta (como &lt;a href=&#34;https://www.grammarly.com&#34; target=&#34;_blank&#34;&gt;Grammarly&lt;/a&gt; ou &lt;a href=&#34;https://openai.com/blog/chatgpt/&#34; target=&#34;_blank&#34;&gt;ChatGPT&lt;/a&gt;) para revisar o seu texto. Não usando uma ferramenta dessas, use &lt;a href=&#34;http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates&#34; target=&#34;_blank&#34;&gt;scripts para melhorar a qualidade de textos em inglês&lt;/a&gt;:
+&lt;ul&gt;
+&lt;li&gt;script para detecção de Weasel Words&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;#!/bin/bash
+ 
+weasels=&amp;quot;many|various|very|fairly|several|extremely\
+|exceedingly|quite|remarkably|few|surprisingly\
+|mostly|largely|huge|tiny|((are|is) a number)\
+|excellent|interestingly|significantly\
+|substantially|clearly|vast|relatively|completely&amp;quot;
+ 
+wordfile=&amp;quot;&amp;quot;
+ 
+# Check for an alternate weasel file
+if [ -f $HOME/etc/words/weasels ]; then
+    wordfile=&amp;quot;$HOME/etc/words/weasels&amp;quot;
+fi
+ 
+if [ -f $WORDSDIR/weasels ]; then
+    wordfile=&amp;quot;$WORDSDIR/weasels&amp;quot;
+fi
+ 
+if [ -f words/weasels ]; then
+    wordfile=&amp;quot;words/weasels&amp;quot;
+fi
+ 
+if [ ! &amp;quot;$wordfile&amp;quot; = &amp;quot;&amp;quot; ]; then
+    weasels=&amp;quot;xyzabc123&amp;quot;;
+    for w in `cat $wordfile`; do
+        weasels=&amp;quot;$weasels|$w&amp;quot;
+    done
+fi
+ 
+ 
+if [ &amp;quot;$1&amp;quot; = &amp;quot;&amp;quot; ]; then
+ echo &amp;quot;usage: `basename $0` &amp;lt;file&amp;gt; ...&amp;quot;
+ exit
+fi
+ 
+egrep -i -n --color &amp;quot;\\b($weasels)\\b&amp;quot; $*
+ 
+exit $?
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;li&gt;script para deteção de Voz Passiva&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;#!/bin/bash
+ 
+irregulars=&amp;quot;awoken|\
+been|born|beat|\
+become|begun|bent|\
+beset|bet|bid|\
+bidden|bound|bitten|\
+bled|blown|broken|\
+bred|brought|broadcast|\
+built|burnt|burst|\
+bought|cast|caught|\
+chosen|clung|come|\
+cost|crept|cut|\
+dealt|dug|dived|\
+done|drawn|dreamt|\
+driven|drunk|eaten|fallen|\
+fed|felt|fought|found|\
+fit|fled|flung|flown|\
+forbidden|forgotten|\
+foregone|forgiven|\
+forsaken|frozen|\
+gotten|given|gone|\
+ground|grown|hung|\
+heard|hidden|hit|\
+held|hurt|kept|knelt|\
+knit|known|laid|led|\
+leapt|learnt|left|\
+lent|let|lain|lighted|\
+lost|made|meant|met|\
+misspelt|mistaken|mown|\
+overcome|overdone|overtaken|\
+overthrown|paid|pled|proven|\
+put|quit|read|rid|ridden|\
+rung|risen|run|sawn|said|\
+seen|sought|sold|sent|\
+set|sewn|shaken|shaven|\
+shorn|shed|shone|shod|\
+shot|shown|shrunk|shut|\
+sung|sunk|sat|slept|\
+slain|slid|slung|slit|\
+smitten|sown|spoken|sped|\
+spent|spilt|spun|spit|\
+split|spread|sprung|stood|\
+stolen|stuck|stung|stunk|\
+stridden|struck|strung|\
+striven|sworn|swept|\
+swollen|swum|swung|taken|\
+taught|torn|told|thought|\
+thrived|thrown|thrust|\
+trodden|understood|upheld|\
+upset|woken|worn|woven|\
+wed|wept|wound|won|\
+withheld|withstood|wrung|\
+written&amp;quot;
+ 
+if [ &amp;quot;$1&amp;quot; = &amp;quot;&amp;quot; ]; then
+ echo &amp;quot;usage: `basename $0` &amp;lt;file&amp;gt; ...&amp;quot;
+ exit
+fi
+ 
+egrep -n -i --color \
+ &amp;quot;\\b(am|are|were|being|is|been|was|be)\
+\\b[ ]*(\w+ed|($irregulars))\\b&amp;quot; $*
+ 
+exit $?
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;li&gt;script para detecção de Palavras Duplicadas&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-perl&#34;&gt;#!/usr/bin/env perl
+ 
+# Finds duplicate adjacent words.
+ 
+use strict ;
+ 
+my $DupCount = 0 ;
+ 
+if (!@ARGV) {
+  print &amp;quot;usage: dups &amp;lt;file&amp;gt; ...\n&amp;quot; ;
+  exit ;
+}
+ 
+while (1) {
+  my $FileName = shift @ARGV ;
+ 
+  # Exit code = number of duplicates found. 
+  exit $DupCount if (!$FileName) ;
+ 
+  open FILE, $FileName or die $!;
+   
+  my $LastWord = &amp;quot;&amp;quot; ;
+  my $LineNum = 0 ;
+   
+  while (&amp;lt;FILE&amp;gt;) {
+    chomp ;
+ 
+    $LineNum ++ ;
+     
+    my @words = split (/(\W+)/) ;
+     
+    foreach my $word (@words) {
+      # Skip spaces:
+      next if $word =~ /^\s*$/ ;
+ 
+      # Skip punctuation:
+      if ($word =~ /^\W+$/) {
+        $LastWord = &amp;quot;&amp;quot; ;
+        next ;
+      }
+       
+      # Found a dup?
+      if (lc($word) eq lc($LastWord)) {
+        print &amp;quot;$FileName:$LineNum $word\n&amp;quot; ;
+        $DupCount ++ ;
+      } # Thanks to Sean Cronin for tip on case.
+ 
+      # Mark this as the last word:
+      $LastWord = $word ;
+    }
+  }
+   
+  close FILE ;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;/ul&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;preparando-as-referências-bibliográficas&#34;&gt;Preparando as referências bibliográficas&lt;/h4&gt;
+
+&lt;p&gt;Uniformize as referências: se colocar uma informação (como ano, número de páginas, etc.) em uma, coloque em todas; se nome abreviado (de autor, evento, etc.) é colocado em uma, abrevie o nome em todas; etc. Por exemplo, você nao deve colocar &amp;ldquo;ACM Transactions on Programming Languages and System (TOPLAS)&amp;rdquo;, com a sigla, e depois colocar &amp;ldquo;IEEE Transactions on Software Engineering&amp;rdquo; sem a sigla.&lt;/p&gt;
+
+&lt;p&gt;Minha preferência é para referências com nome e sobrenome dos autores não abreviados, nome do evento ou período não abreviado e sem sigla, e sem informações extras como editora, cidade da publicação, etc. Mas isso é uma questão de gosto. O importante é que seja seguido um padrão de forma consistente. Normalmente, discute-se esse padrão com os seus co-autores antes de começar a preparar as referências.&lt;/p&gt;
+
+&lt;p&gt;Siga as sugestões de &lt;a href=&#34;https://www.ece.ucdavis.edu/~jowens/biberrors.html?s=03&#34; target=&#34;_blank&#34;&gt;Owens&lt;/a&gt; tanto para preparar as referências quanto para citá-las.&lt;/p&gt;
+
+&lt;h4 id=&#34;revisando-o-seu-trabalho&#34;&gt;Revisando o seu trabalho&lt;/h4&gt;
+
+&lt;p&gt;Após você escrever, imprimir, ler e revisar uma primeira versão do seu artigo, envie uma segunda versão para outras pessoas (principalmente seu orientador!) revisar.&lt;/p&gt;
+
+&lt;p&gt;As anotações e comentários feitos pelo seu orientador no seu texto devem ser interpretadas não apenas como uma sugestão para melhorar um determinado trecho do texto, mas como uma lição a ser aprendida e usada em vários outros contextos (outras partes do texto, outros textos, etc.). Isso ajudará você a evitar  cometer o mesmo erro de escrita mais de uma vez.&lt;/p&gt;
+
+&lt;p&gt;Para facilitar a vida das pessoas (inclusive o seu orientador)  que estiverem lhe ajudando com o artigo, ao fazer mudanças em uma versão lida e comentada por essas pessoas, destaque todas as mudanças realizadas utilizando um comando como &lt;i&gt;\newcommand{\rev}[1]{\textcolor{red}{#1}}&lt;/i&gt; (ver &lt;a href=&#34;https://medium.com/@xLeitix/marking-changed-text-in-journal-revisions-8583136a4738&#34; target=&#34;_blank&#34;&gt;Marking Changed Text in Journal Revisions&lt;/a&gt;). Assim, ao lerem uma próxima versão, essas pessoas poderão facilmente identificar o que foi modificado.&lt;/p&gt;
+
+&lt;p&gt;Após a aceitação do seu trabalho, coloque todo o material do artigo no &lt;a href=&#34;https://github.com/spgroup/papers&#34; target=&#34;_blank&#34;&gt;repositório de artigos&lt;/a&gt; do seu grupo de pesquisa.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Apresentando seu trabalho</title>

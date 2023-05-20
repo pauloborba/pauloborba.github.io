@@ -45,6 +45,8 @@
 
 &lt;p&gt;Se certifique que você realmente não fez nenhum &lt;i&gt;p-haking&lt;/i&gt;, e coloque isto no seu texto: &lt;i&gt;We report how we determined our sample size, all data exclusions, all manipulations, and all measures in the study&lt;/i&gt; (ver a &lt;a href=&#34;http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2160588&#34; target=&#34;_blank&#34;&gt;fonte&lt;/a&gt;).&lt;/p&gt;
 
+&lt;p&gt;Use como guia a &lt;a href=&#34;https://acmsigsoft.github.io/EmpiricalStandards/tools/&#34; target=&#34;_blank&#34;&gt;lista de tópicos da ACM Sigsoft&lt;/a&gt; para ter certeza de que você vai cobrir no texto os principais pontos necessários para o tipo de estudo empírico que você está fazendo. Veja primeiro a opção de menu &lt;i&gt;Standards&lt;/i&gt; e depois a opção &lt;i&gt;Tools&lt;/i&gt;, para gerar a lista específica para o seu tipo de estudo.&lt;/p&gt;
+
 &lt;h4 id=&#34;capriche-no-estilo-de-escrita&#34;&gt;Capriche no estilo de escrita&lt;/h4&gt;
 
 &lt;p&gt;Leia com cuidado, e consulte sempre, &lt;i&gt;The Elements of Style&lt;/i&gt; (&lt;a href=&#34;http://www.bartleby.com/141/&#34; target=&#34;_blank&#34;&gt;link 1&lt;/a&gt; ou &lt;a href=&#34;http://www.crockford.com/wrrrld/style.html&#34; target=&#34;_blank&#34;&gt;link 2&lt;/a&gt;).&lt;/p&gt;
@@ -242,6 +244,8 @@ while (1) {
 &lt;p&gt;Para facilitar a vida das pessoas (inclusive o seu orientador)  que estiverem lhe ajudando com o artigo, ao fazer mudanças em uma versão lida e comentada por essas pessoas, destaque todas as mudanças realizadas utilizando um comando como &lt;i&gt;\newcommand{\rev}[1]{\textcolor{red}{#1}}&lt;/i&gt; (ver &lt;a href=&#34;https://medium.com/@xLeitix/marking-changed-text-in-journal-revisions-8583136a4738&#34; target=&#34;_blank&#34;&gt;Marking Changed Text in Journal Revisions&lt;/a&gt;). Assim, ao lerem uma próxima versão, essas pessoas poderão facilmente identificar o que foi modificado.&lt;/p&gt;
 
 &lt;p&gt;Após a aceitação do seu trabalho, coloque todo o material do artigo no &lt;a href=&#34;https://github.com/spgroup/papers&#34; target=&#34;_blank&#34;&gt;repositório de artigos&lt;/a&gt; do seu grupo de pesquisa.&lt;/p&gt;
+
+&lt;p&gt;Verifique com cuidado a política de publicação associada ao veículo onde você quer publicar seu artigo. Na falta de uma política clara do veículo em questão, siga a &lt;a href=&#34;https://www.acm.org/publications/policies/new-acm-policy-on-authorship&#34; target=&#34;_blank&#34;&gt;política da ACM&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

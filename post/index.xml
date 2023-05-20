@@ -13,6 +13,81 @@
     </image>
     
     <item>
+      <title>Estabelecendo uma rotina de pesquisa</title>
+      <link>https://pauloborba.github.io/post/estabelecendo-rotina-de-pesquisa/</link>
+      <pubDate>Tue, 28 Feb 2023 08:07:43 -0300</pubDate>
+      <guid>https://pauloborba.github.io/post/estabelecendo-rotina-de-pesquisa/</guid>
+      <description>
+
+&lt;p&gt;A premissa básica do que apresento a seguir é que você quer aprender a realizar pesquisa de alta qualidade, pesquisa de verdade. Se esse não é seu desejo, muito do que sugiro a seguir não vai fazer sentido para você.&lt;/p&gt;
+
+&lt;h4 id=&#34;o-básico-do-básico&#34;&gt;O básico do básico&lt;/h4&gt;
+
+&lt;p&gt;O seu foco principal deve ser na sua formação como pesquisador, nos seus valores, na qualidade e relevância da sua pesquisa, e no seu interesse em realizá-la. Em segundo plano, deve vir o foco na obtenção de resultados e reconhecimento: artigos e ferramentas publicados, participações em eventos, citações, prêmios, etc. Para isso, foque em artigos com mais conteúdo, ao invés de mais artigos incrementais.&lt;/p&gt;
+
+&lt;p&gt;Busque o equilíbrio entre trabalho e outros aspectos da sua vida, mas mantenha um forte ritmo de trabalho durante o seu mestrado e doutorado, e tente não perder esse ritmo a menos que seja estritamente necessário ou que seu trabalho já esteja consolidado.&lt;/p&gt;
+
+&lt;p&gt;Siga as recomendações de &lt;a href=&#34;http://www.csb.pitt.edu/Faculty/ayoob/wp-content/uploads/2014/08/The-Final-Exam-Don-Coffey.pdf&#34; target=&#34;_blank&#34;&gt;The real final exam&lt;/a&gt;, principalmente as seguintes: vá além dos resultados, explore as implicações dos mesmos; resultados inesperados, ou que contradizem experimentos anteriores, são os que precisam ser melhor entendidos e explorados; quebre um experimento complexo em experimentos menores; dê crédito a quem merece; entenda e explique as limitações do seu trabalho.&lt;/p&gt;
+
+&lt;p&gt;Na escolha de um tema de pesquisa, valorize mais a importância do tema do que a sua popularidade ou facilidade para exploração.&lt;/p&gt;
+
+&lt;p&gt;Seja crítico. Nem sempre as ideias, ferramentas, etc. de pesquisadores ou empresas de destaque são as melhores.&lt;/p&gt;
+
+&lt;p&gt;Busque a simplicidade nas soluções propostas. A complexidade desnecessária dificulta a adoção, o ensino, e o progresso dos seu resultados de pesquisa.&lt;/p&gt;
+
+&lt;p&gt;Leia muitos artigos e veja muitos vídeos, continuamente, para ter uma boa noção da sua área de pesquisa, métodos de pesquisa utilizados, principais resultados e teorias existentes. Leia também trabalhos de outras áreas, além da Computação, que possam ser úteis e relacionados ao seu trabalho. Muita inovação advém dessa contínua atividade de leitura; veja um excelente exemplo disso nesta inspiradora apresentação de Amy Ko. 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/lx7g-T10WxQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Esteja preparado para os altos e baixos da vida de um pesquisador, conforme a figura a seguir. &lt;img src=&#34;altos-e-baixos.jpg&#34; alt=&#34;Altos e baixos da vida de um pesquisador&#34; title=&#34;Altos e baixos da vida de um pesquisador&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;buscando-a-excelência-e-relevância-do-seu-trabalho&#34;&gt;Buscando a excelência e relevância do seu trabalho&lt;/h4&gt;
+
+&lt;p&gt;Os seus resultados de pesquisa devem ser rigorosamente avaliados, para aumentar a sua confiança nos mesmos e antecipar falhas no seu processo de pesquisa. Em particular, avalie várias dimensões: corretude (soundness), efetividade (ganhos em qualidade, produtividade, precisão, etc.), usabilidade (facilidade de uso, e o potencial de aumentar a capacidade de indivíduos, equipes, e organizações), e replicabilidade.&lt;/p&gt;
+
+&lt;p&gt;A menos que sua pesquisa foque na busca do entendimento de questões fundamentais da área, sem considerações de uso (ver o &lt;a href=&#34;https://en.wikipedia.org/wiki/Pasteur&#39;s_quadrant&#34; target=&#34;_blank&#34;&gt;quadrante de Pasteur&lt;/a&gt;), mantenha contato com seus potenciais clientes e usuários para que seu trabalho de pesquisa e os resultados derivados sejam relevantes. Entreviste-os, convide-os para apresentar seminários no grupo de pesquisa, converse com eles, valide os seus resultados com eles, e participe de eventos mais práticos da comunidade profissional.&lt;/p&gt;
+
+&lt;p&gt;Experimente e observe bem as atividades profissionais relativas ao tópico da sua pesquisa. Colocando a mão na massa, e observado outros fazer o mesmo, você poderá desenvolver uma intuição pessoal importante para derivar ideias (soluções para problemas relevantes, perguntas de pesquisa a serem respondidas, conceitos e teorias explicativas, etc.) consistentes para a sua pesquisa.&lt;/p&gt;
+
+&lt;p&gt;Consulte sites de notícias como &lt;a href=&#34;https://www.reddit.com/&#34; target=&#34;_blank&#34;&gt;Reddit&lt;/a&gt;, e sites de perguntas e respostas como &lt;a href=&#34;https://stackoverflow.com/&#34; target=&#34;_blank&#34;&gt;Stack Overflow&lt;/a&gt;, para tirar dúvidas, realizar enquetes, e entender melhor questões atuais de interesse de desenvolvedores.&lt;/p&gt;
+
+&lt;h4 id=&#34;comunicação-é-quase-tudo&#34;&gt;Comunicação é quase tudo&lt;/h4&gt;
+
+&lt;p&gt;Mantenha comunicação frequente com o orientador, em reuniões (presenciais ou remotas) ou via chat, para tirar dúvidas, relatar atividades, e tomar decisões de projeto. Isso deve ser feito no mínimo uma vez por dia, para pelo menos dizer o que fez naquele dia e o que pretende fazer no próximo.&lt;/p&gt;
+
+&lt;p&gt;Durante as reuniões com o seu orientador, anote as atividades sugerida por ele, idealmente no chat (no canal do projeto, ou no seu chat com o seu orientador, se não houver um canal do projeto).&lt;/p&gt;
+
+&lt;p&gt;Participe regularmente da reunião semanal do seu grupo de pesquisa. Os seminários do seu grupo de pesquisa, em particular, têm tanto uma utilidade técnica (aprender ou explicar novidades, dar e receber feedback, entender pontos que precisam ser melhor esclarecidos ou explorados no seu trabalho, etc.) e educacional (o aluno aprende a se expor, explicar ideias para pessoas que trabalham em áreas um pouco diferentes, etc.) quanto social (os alunos e professores se conhecem melhor, identificam possíveis pontos de colaboração, estabelecem conexões, ficam sabendo de novidades, etc.).&lt;/p&gt;
+
+&lt;h4 id=&#34;cuidados-éticos-e-metodológicos-essenciais&#34;&gt;Cuidados éticos e metodológicos essenciais&lt;/h4&gt;
+
+&lt;p&gt;Se sua pesquisa envolve a participação de pessoas (&lt;i&gt;&amp;ldquo;Research involving a living individual about whom data or biospecimens are obtained/used/studied/analyzed through interaction/intervention, or identifiable, private information is used/studied/analyzed/generated”&lt;/i&gt;), seguir rigorosamente as recomendações do &lt;a href=&#34;https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects#:~:text=ACM%20is%20committed%20to%20protecting,and%20subjects%2C%20and%20potential%20coercion&#34; target=&#34;_blank&#34;&gt;guia da ACM&lt;/a&gt; sobre o assunto.&lt;/p&gt;
+
+&lt;p&gt;Use como guia a &lt;a href=&#34;https://acmsigsoft.github.io/EmpiricalStandards/tools/&#34; target=&#34;_blank&#34;&gt;lista de tópicos da ACM Sigsoft&lt;/a&gt; para ter certeza de que você vai seguir principais pontos necessários para o tipo de estudo empírico que você está fazendo. Veja primeiro a opção de menu &lt;i&gt;Standards&lt;/i&gt; e depois a opção &lt;i&gt;Tools&lt;/i&gt;, para gerar a lista específica para o seu tipo de estudo.&lt;/p&gt;
+
+&lt;p&gt;Certifique-se de que sua conduta de pesquisa é adequada, e que você não comete nenhum destes &lt;a href=&#34;https://researchintegrityjournal.biomedcentral.com/track/pdf/10.1186/s41073-016-0024-5?site=researchintegrityjournal.biomedcentral.com&#34; target=&#34;_blank&#34;&gt;deslizes de má conduta&lt;/a&gt;, principalmente os seguintes, que aparecem com pequenas diferenças no artigo referenciado: Selectively cite to enhance your own findings or convictions; Conceal results that contradict your earlier findings or convictions; Insufficiently report study flaws and limitations; Duplicate publication without disclosure; Re-use of previously published data without disclosure; Use unpublished phrases or ideas of others without their permission; Re-use parts of your own publications without referencing; Demand, offer or accept an authorship for which one does not qualify; Selectively cite to please editors, reviewers, or colleagues; Fabricate data; Selectively delete data, modify data or add fabricated data after performing initial data-analyses; Choose a clearly inadequate research design or using evidently unsuitable measurement instruments; Modify the results or conclusions of a study due to pressure of a sponsor (or anyone else); Unfairly review papers, grant applications or colleagues applying for promotion; Ignore substantial safety risks of the study to participants, workers, or environment; Ignore basic principles of quality assurance; Keep inadequate notes of the research process; Turn a blind eye to putative breaches of research integrity by others.&lt;/p&gt;
+
+&lt;p&gt;Além de responder perguntas de pesquisa e avaliar hipóteses (What? How?), associe a esses resultados teorias (Why?) que ajudem a explicá-los. Explicite a teoria em pelo menos um parágrafo do artigo.&lt;/p&gt;
+
+&lt;p&gt;Em estudos qualitativos, evitar entrevistas ou questionários com perguntas que retratem a percepção de uma pessoa sobre se uma dada tecnologia é útil, já que as respostas dificilmente poderão ser utilizadas para se chegar a uma conclusão. Melhor perguntar, por exemplo, que vantagens e desvantagens estão associadas ao uso da tecnologia. Mesmo assim isso reflete a percepção da pessoa, então temos que derivar conclusões com cuidado, e refletindo explicitamente esse aspecto da percepção (que obviamente pode diferir da realidade).&lt;/p&gt;
+
+&lt;h4 id=&#34;dando-e-recebendo-i-feedback-i&#34;&gt;Dando e recebendo &lt;i&gt;feedback&lt;/i&gt;&lt;/h4&gt;
+
+&lt;p&gt;Invista em dar &lt;i&gt;feedback&lt;/i&gt; detalhado e rigoroso sobre o trabalho de outros pesquisadores, como você gostaria de receber.&lt;/p&gt;
+
+&lt;p&gt;Seja positivo; evite sarcasmo; mencione primeiro os pontos positivos e só depois os negativos; fale primeiro sobre o conteúdo e só depois sobre a forma de apresentação; dê sugestões concretas de melhorias; no final reforce brevemente os principais pontos positivos.&lt;/p&gt;
+
+&lt;p&gt;Cobre do seu orientador e colegas &lt;i&gt;feedback&lt;/i&gt; como sugerido acima.&lt;/p&gt;
+
+&lt;p&gt;Quando recebendo &lt;i&gt;feedback&lt;/i&gt;, não tente ficar se defendendo, dando explicações sobre os aspectos negativos apontados. É melhor concentrar em anotar os aspectos negativos, e fazer perguntas para melhor entender o que o seu interlocutor está querendo dizer. Se houver tempo, no final, você pode dar algumas explicações.&lt;/p&gt;
+
+&lt;p&gt;Veja nesta figura (de &lt;a href=&#34;http://bigthink.com/paul-ratner/how-to-disagree-well-7-of-the-best-and-worst-ways-to-argue&#34; target=&#34;_blank&#34;&gt;How to disagree well: 7 of the best and worst ways to argue&lt;/a&gt;&amp;rdquo;) &lt;img src=&#34;how-to-disagree-well.jpg&#34; alt=&#34;How to disagree well: 7 of the best and worst ways to argue&#34; title=&#34;How to disagree well: 7 of the best and worst ways to argue&#34; /&gt; as diversas formas de discordar de alguma ideia ou opinião, tanto para que você saiba discordar de forma justa e efetiva, quanto para que você consiga perceber quando outros estiverem discordando de forma injusta e apelativa.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Escrevendo seu trabalho</title>
       <link>https://pauloborba.github.io/post/escrevendo-seu-trabalho/</link>
       <pubDate>Tue, 27 Dec 2022 11:36:09 -0300</pubDate>
@@ -44,6 +119,8 @@
 &lt;p&gt;Escreva a sua filiação em Português (Centro de Informática, Universidade Federal de Pernambuco) e sem abreviações, mesmo que o artigo seja em Inglês. Isso facilita a indexação de publicações da UFPE, e consequentemente seu melhor desempenho em rankings. Além disso, isso é exigido por alguns editais da UFPE para financiamento de viagens.&lt;/p&gt;
 
 &lt;p&gt;Se certifique que você realmente não fez nenhum &lt;i&gt;p-haking&lt;/i&gt;, e coloque isto no seu texto: &lt;i&gt;We report how we determined our sample size, all data exclusions, all manipulations, and all measures in the study&lt;/i&gt; (ver a &lt;a href=&#34;http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2160588&#34; target=&#34;_blank&#34;&gt;fonte&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Use como guia a &lt;a href=&#34;https://acmsigsoft.github.io/EmpiricalStandards/tools/&#34; target=&#34;_blank&#34;&gt;lista de tópicos da ACM Sigsoft&lt;/a&gt; para ter certeza de que você vai cobrir no texto os principais pontos necessários para o tipo de estudo empírico que você está fazendo. Veja primeiro a opção de menu &lt;i&gt;Standards&lt;/i&gt; e depois a opção &lt;i&gt;Tools&lt;/i&gt;, para gerar a lista específica para o seu tipo de estudo.&lt;/p&gt;
 
 &lt;h4 id=&#34;capriche-no-estilo-de-escrita&#34;&gt;Capriche no estilo de escrita&lt;/h4&gt;
 
@@ -242,6 +319,8 @@ while (1) {
 &lt;p&gt;Para facilitar a vida das pessoas (inclusive o seu orientador)  que estiverem lhe ajudando com o artigo, ao fazer mudanças em uma versão lida e comentada por essas pessoas, destaque todas as mudanças realizadas utilizando um comando como &lt;i&gt;\newcommand{\rev}[1]{\textcolor{red}{#1}}&lt;/i&gt; (ver &lt;a href=&#34;https://medium.com/@xLeitix/marking-changed-text-in-journal-revisions-8583136a4738&#34; target=&#34;_blank&#34;&gt;Marking Changed Text in Journal Revisions&lt;/a&gt;). Assim, ao lerem uma próxima versão, essas pessoas poderão facilmente identificar o que foi modificado.&lt;/p&gt;
 
 &lt;p&gt;Após a aceitação do seu trabalho, coloque todo o material do artigo no &lt;a href=&#34;https://github.com/spgroup/papers&#34; target=&#34;_blank&#34;&gt;repositório de artigos&lt;/a&gt; do seu grupo de pesquisa.&lt;/p&gt;
+
+&lt;p&gt;Verifique com cuidado a política de publicação associada ao veículo onde você quer publicar seu artigo. Na falta de uma política clara do veículo em questão, siga a &lt;a href=&#34;https://www.acm.org/publications/policies/new-acm-policy-on-authorship&#34; target=&#34;_blank&#34;&gt;política da ACM&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -289,6 +368,8 @@ while (1) {
 &lt;p&gt;Para dar fluxo para a apresentação e evitar paradas, a sua fala final na explicação de um slide já deve fazer a ligação com o que você vai discutir no próximo slide. Por exemplo, a última coisa que você fala na explicação de um slide já pode ser a motivação ou o título do próximo slide; enquanto você fala você faz a transição de slide, ao invés de fazer a transição, pausar, e só então começar a falar sobre o slide.&lt;/p&gt;
 
 &lt;p&gt;Se a apresentação for em Inglês, evite esses &lt;a href=&#34;https://pt.babbel.com/pt/magazine/como-identificar-um-brasileiro-falando-ingles?bsc=pormag-a63-howtospotabrazilian-mi-ob&amp;amp;btp=1_por_out_mi&amp;amp;utm_campaign=cd_porall_gpr_cbr_howtospotbr&amp;amp;utm_content=Veja+os+erros+mais+comuns+de+brasileiros+ao+falar+&amp;amp;utm_medium=CON&amp;amp;utm_source=outbrain&amp;amp;utm_term=5470743&#34; target=&#34;_blank&#34;&gt;erros comuns&lt;/a&gt; cometidos por brasileiros quando falam Inglês.&lt;/p&gt;
+
+&lt;p&gt;Confira as &lt;a href=&#34;https://www.acm.org/about-acm/policy-against-harassment&#34; target=&#34;_blank&#34;&gt;políticas&lt;/a&gt; para participação em eventos da ACM, mas que devem ser seguidas em qualquer tipo de evento.&lt;/p&gt;
 </description>
     </item>
     

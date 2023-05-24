@@ -1,16 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Paulo Borba</title>
+    <title>Talks and Podcasts | Paulo Borba</title>
     <link>https://pauloborba.github.io/talk/</link>
       <atom:link href="https://pauloborba.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
+    <description>Talks and Podcasts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Talks and Podcasts</title>
       <link>https://pauloborba.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>É o fim da programação?</title>
+      <link>https://pauloborba.github.io/talk/e-o-fim-da-programacao/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/talk/e-o-fim-da-programacao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impactos da Inteligência Artificial na Sociedade</title>
+      <link>https://pauloborba.github.io/talk/impactos-da-ia-na-sociedade/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/talk/impactos-da-ia-na-sociedade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O fim da programação, de novo!</title>
+      <link>https://pauloborba.github.io/talk/o-fim-da-programacao-de-novo/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/talk/o-fim-da-programacao-de-novo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O Fim da Programação: impactos da IA na programação</title>
+      <link>https://pauloborba.github.io/talk/impactos-da-ia-na-programacao/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/talk/impactos-da-ia-na-programacao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estratégias para Publicações</title>
+      <link>https://pauloborba.github.io/talk/estrategias-para-publicacoes/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/talk/estrategias-para-publicacoes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Em Busca de Maior Simplicidade e Confiabilidade no Processo de Integração de Código</title>
+      <link>https://pauloborba.github.io/talk/simplicidade-e-confiabilidade-integracao-de-codigo/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/talk/simplicidade-e-confiabilidade-integracao-de-codigo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

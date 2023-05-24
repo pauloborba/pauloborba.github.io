@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felipe Calegario | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/felipe-calegario/</link>
+      <atom:link href="https://pauloborba.github.io/authors/felipe-calegario/index.xml" rel="self" type="application/rss+xml" />
+    <description>Felipe Calegario</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Felipe Calegario</title>
+      <link>https://pauloborba.github.io/authors/felipe-calegario/</link>
+    </image>
+    
+    <item>
+      <title>O Fim da Programação: impactos da IA na programação</title>
+      <link>https://pauloborba.github.io/talk/impactos-da-ia-na-programacao/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/talk/impactos-da-ia-na-programacao/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

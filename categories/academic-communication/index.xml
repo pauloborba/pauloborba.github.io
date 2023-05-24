@@ -53,6 +53,8 @@
 
 &lt;p&gt;Leia dicas de escrita (&lt;a href=&#34;https://clairelegoues.com/2016/08/23/things-i-keep-repeating-about-writing/&#34; target=&#34;_blank&#34;&gt;de Claire Le Goues&lt;/a&gt;, e &lt;a href=&#34;https://capra.cs.cornell.edu/styleguide&#34; target=&#34;_blank&#34;&gt;do grupo de pesquisa Capra&lt;/a&gt;) que casam bastante com o meu estilo (exceto a sugestão de usar &amp;ldquo;e.g.&amp;rdquo; e &amp;ldquo;i.e.&amp;rdquo;; por favor, evite).&lt;/p&gt;
 
+&lt;p&gt;Veja dicas para formatação de &lt;a href=&#34;guide-tables.pdf&#34; target=&#34;_blank&#34;&gt;tabelas&lt;/a&gt; e &lt;a href=&#34;https://johnwickerson.wordpress.com/2019/11/01/graphs-in-pl-papers/&#34; target=&#34;_blank&#34;&gt;gráficos&lt;/a&gt;. Sobre gráficos, o resumo é o seguinte: &amp;ldquo;&lt;i&gt;normalised data should usually be plotted on a logarithmic scale, and scatter plots can be easier to understand than bar charts&lt;/i&gt;&amp;rdquo;.&lt;/p&gt;
+
 &lt;p&gt;Use um &lt;i&gt;spell checker&lt;/i&gt;! Considere usar uma ferramenta (como &lt;a href=&#34;https://www.grammarly.com&#34; target=&#34;_blank&#34;&gt;Grammarly&lt;/a&gt; ou &lt;a href=&#34;https://openai.com/blog/chatgpt/&#34; target=&#34;_blank&#34;&gt;ChatGPT&lt;/a&gt;) para revisar o seu texto. Não usando uma ferramenta dessas, use &lt;a href=&#34;http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates&#34; target=&#34;_blank&#34;&gt;scripts para melhorar a qualidade de textos em inglês&lt;/a&gt;:
 &lt;ul&gt;
 &lt;li&gt;script para detecção de Weasel Words&lt;/p&gt;

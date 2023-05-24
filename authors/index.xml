@@ -5,12 +5,60 @@
     <link>https://pauloborba.github.io/authors/</link>
       <atom:link href="https://pauloborba.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 19 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Authors</title>
       <link>https://pauloborba.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Paulo Borba</title>
+      <link>https://pauloborba.github.io/authors/paulo-borba/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/paulo-borba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saulo Novaes</title>
+      <link>https://pauloborba.github.io/authors/saulo-novaes/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/saulo-novaes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexandre Buhr</title>
+      <link>https://pauloborba.github.io/authors/alexandre-buhr/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/alexandre-buhr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artur Oscar</title>
+      <link>https://pauloborba.github.io/authors/artur-oscar/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/artur-oscar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Álvaro Pinheiro</title>
+      <link>https://pauloborba.github.io/authors/alvaro-pinheiro/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/alvaro-pinheiro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Felipe Calegario</title>
+      <link>https://pauloborba.github.io/authors/felipe-calegario/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/felipe-calegario/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Arthur Pires</title>
@@ -25,14 +73,6 @@
       <link>https://pauloborba.github.io/authors/leuson-silva/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/authors/leuson-silva/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paulo Borba</title>
-      <link>https://pauloborba.github.io/authors/paulo-borba/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/paulo-borba/</guid>
       <description></description>
     </item>
     
@@ -1473,7 +1513,7 @@
 
 &lt;p&gt;I am a member of the ACM and of the Brazilian Computer Society.&lt;/p&gt;
 
-&lt;p&gt;I co-founded &lt;a href=&#34;http://www.qualiti.com.br&#34; target=&#34;_blank&#34;&gt;Qualiti Software Processes&lt;/a&gt;, a spin-off of the Informatics Center and &lt;a href=&#34;http://www.cesar.org.br&#34; target=&#34;_blank&#34;&gt;C.E.S.A.R.&lt;/a&gt;, specialized on software development tools and processes.&lt;/p&gt;
+&lt;p&gt;I co-founded &lt;a href=&#34;http://www.qualiti.com.br&#34; target=&#34;_blank&#34;&gt;Qualiti Software Processes&lt;/a&gt;, a spin-off of the Informatics Center and &lt;a href=&#34;http://www.cesar.org.br&#34; target=&#34;_blank&#34;&gt;C.E.S.A.R.&lt;/a&gt;, specialized on software development tools and processes. This was one of the first companies to join &lt;a href=&#34;https://www.portodigital.org&#34; target=&#34;_blank&#34;&gt;Porto Digital&lt;/a&gt;, now one of the major information technology hubs in Brazil.&lt;/p&gt;
 
 &lt;p&gt;I have a D.Phil. in Computing from Oxford University, and an M.Sc. and a B.Sc. in Computer Science from Federal University of Pernambuco. I was Fulbright Visiting Faculty Scholar at &lt;a href=&#34;https://www.cs.cmu.edu&#34; target=&#34;_blank&#34;&gt;CMU&lt;/a&gt;&amp;rsquo;s &lt;a href=&#34;https://www.isri.cmu.edu/index.html&#34; target=&#34;_blank&#34;&gt;Institute for Software Research&lt;/a&gt; (currently the Software and Societal Systems Department).&lt;/p&gt;
 </description>

@@ -3,28 +3,83 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pauloborba.github.io/authors/</loc>
+    <lastmod>2023-05-24T20:27:30-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/</loc>
+    <lastmod>2023-05-24T20:27:30-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/paulo-borba/</loc>
+    <lastmod>2023-05-24T20:27:30-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/saulo-novaes/</loc>
+    <lastmod>2023-05-24T10:54:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/talk/e-o-fim-da-programacao/</loc>
+    <lastmod>2023-05-24T10:54:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/alexandre-buhr/</loc>
+    <lastmod>2023-05-24T20:27:30-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/artur-oscar/</loc>
+    <lastmod>2023-05-24T20:27:30-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/talk/impactos-da-ia-na-sociedade/</loc>
+    <lastmod>2023-05-24T20:27:30-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/talk/o-fim-da-programacao-de-novo/</loc>
+    <lastmod>2023-05-24T20:27:30-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/alvaro-pinheiro/</loc>
+    <lastmod>2023-05-24T20:27:30-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pauloborba.github.io/post/estabelecendo-rotina-de-pesquisa/</loc>
     <lastmod>2023-05-20T10:41:42-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pauloborba.github.io/</loc>
-    <lastmod>2023-05-20T10:41:42-03:00</lastmod>
+    <loc>https://pauloborba.github.io/authors/felipe-calegario/</loc>
+    <lastmod>2023-05-24T20:27:30-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/talk/impactos-da-ia-na-programacao/</loc>
+    <lastmod>2023-05-24T20:27:30-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/categories/academic-communication/</loc>
-    <lastmod>2023-05-20T10:40:24-03:00</lastmod>
+    <lastmod>2023-05-24T17:31:50-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/categories/</loc>
-    <lastmod>2023-05-20T10:40:24-03:00</lastmod>
+    <lastmod>2023-05-24T17:31:50-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/post/escrevendo-seu-trabalho/</loc>
-    <lastmod>2023-05-20T10:40:24-03:00</lastmod>
+    <lastmod>2023-05-24T17:31:50-03:00</lastmod>
   </url>
   
   <url>
@@ -53,11 +108,6 @@
   </url>
   
   <url>
-    <loc>https://pauloborba.github.io/authors/</loc>
-    <lastmod>2022-07-14T16:46:01-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pauloborba.github.io/publication/2022build_conflicts_in_the_wild/</loc>
     <lastmod>2022-07-14T16:46:01-04:00</lastmod>
   </url>
@@ -68,13 +118,13 @@
   </url>
   
   <url>
-    <loc>https://pauloborba.github.io/authors/paulo-borba/</loc>
+    <loc>https://pauloborba.github.io/publication_types/</loc>
     <lastmod>2022-07-14T16:46:01-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pauloborba.github.io/publication_types/</loc>
-    <lastmod>2022-07-14T16:46:01-04:00</lastmod>
+    <loc>https://pauloborba.github.io/talk/estrategias-para-publicacoes/</loc>
+    <lastmod>2023-05-24T20:27:30-03:00</lastmod>
   </url>
   
   <url>
@@ -155,6 +205,11 @@
   <url>
     <loc>https://pauloborba.github.io/authors/v.-osorio/</loc>
     <lastmod>2022-05-20T15:22:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/talk/simplicidade-e-confiabilidade-integracao-de-codigo/</loc>
+    <lastmod>2023-05-24T20:27:30-03:00</lastmod>
   </url>
   
   <url>
@@ -2119,7 +2174,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/admin/</loc>
-    <lastmod>2022-10-13T18:33:57-03:00</lastmod>
+    <lastmod>2023-05-24T10:08:36-03:00</lastmod>
   </url>
   
   <url>
@@ -2134,7 +2189,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/talk/</loc>
-    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
+    <lastmod>2023-05-24T10:54:01-03:00</lastmod>
   </url>
   
 </urlset>

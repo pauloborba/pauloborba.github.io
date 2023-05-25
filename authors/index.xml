@@ -61,6 +61,14 @@
     </item>
     
     <item>
+      <title>Thaís Rocha</title>
+      <link>https://pauloborba.github.io/authors/thais-rocha/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/thais-rocha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Arthur Pires</title>
       <link>https://pauloborba.github.io/authors/arthur-pires/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -69,10 +77,50 @@
     </item>
     
     <item>
+      <title>Galileu Santos</title>
+      <link>https://pauloborba.github.io/authors/galileu-santos/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/galileu-santos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Léuson Silva</title>
       <link>https://pauloborba.github.io/authors/leuson-silva/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/authors/leuson-silva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcela Cunha</title>
+      <link>https://pauloborba.github.io/authors/marcela-cunha/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/marcela-cunha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matheus Barbosa</title>
+      <link>https://pauloborba.github.io/authors/matheus-barbosa/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/matheus-barbosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paola Accioly</title>
+      <link>https://pauloborba.github.io/authors/paola-accioly/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/paola-accioly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rodrigo Bonifácio</title>
+      <link>https://pauloborba.github.io/authors/rodrigo-bonifacio/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/rodrigo-bonifacio/</guid>
       <description></description>
     </item>
     
@@ -245,14 +293,6 @@
     </item>
     
     <item>
-      <title>Thaís Rocha</title>
-      <link>https://pauloborba.github.io/authors/thais-rocha/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/thais-rocha/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gustavo Soares</title>
       <link>https://pauloborba.github.io/authors/gustavo-soares/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -273,14 +313,6 @@
       <link>https://pauloborba.github.io/authors/marcio-ribeiro/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/authors/marcio-ribeiro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paola Accioly</title>
-      <link>https://pauloborba.github.io/authors/paola-accioly/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/paola-accioly/</guid>
       <description></description>
     </item>
     
@@ -329,14 +361,6 @@
       <link>https://pauloborba.github.io/authors/marco-couto/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/authors/marco-couto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rodrigo Bonifácio</title>
-      <link>https://pauloborba.github.io/authors/rodrigo-bonifacio/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/rodrigo-bonifacio/</guid>
       <description></description>
     </item>
     
@@ -709,14 +733,6 @@
     </item>
     
     <item>
-      <title>Fabio Silveira</title>
-      <link>https://pauloborba.github.io/authors/fabio-silveira/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/fabio-silveira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Fernanda Alencar</title>
       <link>https://pauloborba.github.io/authors/fernanda-alencar/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
@@ -733,10 +749,18 @@
     </item>
     
     <item>
-      <title>Flavia Delicato</title>
+      <title>Flávia Delicato</title>
       <link>https://pauloborba.github.io/authors/flavia-delicato/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/authors/flavia-delicato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fábio Silveira</title>
+      <link>https://pauloborba.github.io/authors/fabio-silveira/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/fabio-silveira/</guid>
       <description></description>
     </item>
     
@@ -781,7 +805,7 @@
     </item>
     
     <item>
-      <title>Júlio Leite</title>
+      <title>Julio Leite</title>
       <link>https://pauloborba.github.io/authors/julio-leite/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/authors/julio-leite/</guid>

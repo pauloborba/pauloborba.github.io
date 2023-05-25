@@ -5,12 +5,20 @@
     <link>https://pauloborba.github.io/publication_types/2/</link>
       <atom:link href="https://pauloborba.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>2</title>
       <link>https://pauloborba.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Using acceptance tests to predict merge conflict risk</title>
+      <link>https://pauloborba.github.io/publication/2023using_acceptance_tests_to_predict_merge_conflict_risk/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2023using_acceptance_tests_to_predict_merge_conflict_risk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Build conflicts in the wild</title>

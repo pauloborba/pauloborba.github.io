@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galileu Santos | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/galileu-santos/</link>
+      <atom:link href="https://pauloborba.github.io/authors/galileu-santos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Galileu Santos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Galileu Santos</title>
+      <link>https://pauloborba.github.io/authors/galileu-santos/</link>
+    </image>
+    
+    <item>
+      <title>Semantic conflict detection with overriding assignment analysis</title>
+      <link>https://pauloborba.github.io/publication/2022semantic_conflict_detection_with_overriding_assignment_analysis/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2022semantic_conflict_detection_with_overriding_assignment_analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

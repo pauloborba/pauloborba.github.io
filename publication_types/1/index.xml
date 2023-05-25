@@ -5,12 +5,28 @@
     <link>https://pauloborba.github.io/publication_types/1/</link>
       <atom:link href="https://pauloborba.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>1</title>
       <link>https://pauloborba.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Semantic conflict detection with overriding assignment analysis</title>
+      <link>https://pauloborba.github.io/publication/2022semantic_conflict_detection_with_overriding_assignment_analysis/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2022semantic_conflict_detection_with_overriding_assignment_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Private Life of Merge Conflicts</title>
+      <link>https://pauloborba.github.io/publication/2022the_private_life_of_merge_conflicts/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2022the_private_life_of_merge_conflicts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lazy Clone - A Pattern to Improve Performance and Maintainability of Object Cloning</title>

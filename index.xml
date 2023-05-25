@@ -120,6 +120,14 @@
     </item>
     
     <item>
+      <title>Using acceptance tests to predict merge conflict risk</title>
+      <link>https://pauloborba.github.io/publication/2023using_acceptance_tests_to_predict_merge_conflict_risk/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2023using_acceptance_tests_to_predict_merge_conflict_risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Escrevendo seu trabalho</title>
       <link>https://pauloborba.github.io/post/escrevendo-seu-trabalho/</link>
       <pubDate>Tue, 27 Dec 2022 11:36:09 -0300</pubDate>
@@ -412,6 +420,22 @@ while (1) {
       <link>https://pauloborba.github.io/publication/2022build_conflicts_in_the_wild/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/publication/2022build_conflicts_in_the_wild/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic conflict detection with overriding assignment analysis</title>
+      <link>https://pauloborba.github.io/publication/2022semantic_conflict_detection_with_overriding_assignment_analysis/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2022semantic_conflict_detection_with_overriding_assignment_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Private Life of Merge Conflicts</title>
+      <link>https://pauloborba.github.io/publication/2022the_private_life_of_merge_conflicts/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2022the_private_life_of_merge_conflicts/</guid>
       <description></description>
     </item>
     

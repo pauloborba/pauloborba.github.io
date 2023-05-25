@@ -5,12 +5,20 @@
     <link>https://pauloborba.github.io/authors/paola-accioly/</link>
       <atom:link href="https://pauloborba.github.io/authors/paola-accioly/index.xml" rel="self" type="application/rss+xml" />
     <description>Paola Accioly</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Paola Accioly</title>
       <link>https://pauloborba.github.io/authors/paola-accioly/</link>
     </image>
+    
+    <item>
+      <title>The Private Life of Merge Conflicts</title>
+      <link>https://pauloborba.github.io/publication/2022the_private_life_of_merge_conflicts/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2022the_private_life_of_merge_conflicts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analyzing Conflict Predictors in Open-Source Java Projects from GitHub and Travis CI</title>

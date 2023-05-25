@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcela Cunha | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/marcela-cunha/</link>
+      <atom:link href="https://pauloborba.github.io/authors/marcela-cunha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marcela Cunha</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Marcela Cunha</title>
+      <link>https://pauloborba.github.io/authors/marcela-cunha/</link>
+    </image>
+    
+    <item>
+      <title>The Private Life of Merge Conflicts</title>
+      <link>https://pauloborba.github.io/publication/2022the_private_life_of_merge_conflicts/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2022the_private_life_of_merge_conflicts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

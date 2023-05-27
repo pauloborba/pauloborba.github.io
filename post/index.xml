@@ -13,6 +13,39 @@
     </image>
     
     <item>
+      <title>Avaliando um trabalho</title>
+      <link>https://pauloborba.github.io/post/avaliando-um-trabalho/</link>
+      <pubDate>Sat, 27 May 2023 18:24:42 -0300</pubDate>
+      <guid>https://pauloborba.github.io/post/avaliando-um-trabalho/</guid>
+      <description>&lt;p&gt;Leia antes &lt;b&gt;Dando e recebendo feedback&lt;/b&gt;, em &lt;a href=&#34;https://pauloborba.github.io/post/estabelecendo-rotina-de-pesquisa/&#34; target=&#34;_blank&#34;&gt;Estabelecendo uma rotina de pesquisa&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As dicas para avaliação de trabalhos para &lt;a href=&#34;http://icse2017.gatech.edu/technical_research/reviewing_guidelines&#34; target=&#34;_blank&#34;&gt;ICSE 2017&lt;/a&gt; refletem problemas comuns em avaliações. Evite-os! Seguem os principais:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Não terceirize a sua avaliação&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;&lt;i&gt;General arguments based on personal feelings, positive or negative, about a research topic, research method, application domain, types of stakeholders, etc., should not be a factor in the decision process.&lt;/i&gt;&amp;ldquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;&lt;i&gt;The evaluation of a submission should be respectful and appreciative of the work submitted and report the strengths of a submission as precisely and extensively as possible. At the same time, appreciation for the work described in a submission should not be cause for indulgence. We wish to select submissions by appreciating their strengths while acknowledging their weaknesses; We do not wish to accept submissions by overlooking their weaknesses.&lt;/i&gt;&amp;ldquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;&lt;i&gt;Depersonalizing reviews. We ask reviewers to comment on the work, not the authors. This should naturally lead to more constructive reviews. We recommend avoiding the use of the second person (&amp;ldquo;you&amp;rdquo;).&lt;/i&gt;&amp;ldquo;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Leia &lt;a href=&#34;https://freedom-to-tinker.com/2018/05/15/how-to-constructively-review-a-research-paper/&#34; target=&#34;_blank&#34;&gt;How to constructively review a research paper&lt;/a&gt;, que argumenta sobre os riscos de levar muito em consideração aspectos como impacto/relevância e originalidade/inovação. Os principais pontos são os seguintes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&amp;ldquo;&lt;i&gt;Be explicit about how you rate the paper on correctness, impact, and novelty (and any other factors such as clarity of the writing). This makes your review much more actionable for the authors: should they address flaws in the work, try harder to convince the world of its importance, or abandon it entirely?&lt;/i&gt;&amp;ldquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;&lt;i&gt;Learn to recognize your own biases in assessing impact and novelty, and accept that these assessments might be wrong or subjective. Be open to a discussion with other reviewers that might change your mind. Not every paper needs to maximize all three criteria.&lt;/i&gt;&amp;ldquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;&lt;i&gt;Consider accepting papers with important results even if they aren’t highly novel, and conversely, papers that are judged to be innovative even if the potential impact isn’t immediately clear. But don’t reward cleverness for the sake of cleverness; that’s not what novelty is supposed to be about.&lt;/i&gt;&amp;ldquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;&lt;i&gt;Above all, be supportive of authors. If you rated a paper low on impact or novelty, do your best to explain why.&lt;/i&gt;&amp;ldquo;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Estabelecendo uma rotina de pesquisa</title>
       <link>https://pauloborba.github.io/post/estabelecendo-rotina-de-pesquisa/</link>
       <pubDate>Tue, 28 Feb 2023 08:07:43 -0300</pubDate>
@@ -40,6 +73,8 @@
   &lt;iframe src=&#34;https://www.youtube.com/embed/lx7g-T10WxQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;/p&gt;
+
+&lt;p&gt;Mantenha um diário de pesquisa, onde você anota todas as atividades realizadas e a realizar, dificuldades encontradas, resultados obtidos e suas limitações, etc. Você pode fazer isso de diversas formas, escolha a que achar mais apropriada. Uma alternativa interessante é fazer isso através de um conjunto de slides, que vai sendo incrementado ao longo do seu trabalho, e já serve tanto como registro do seu diário quanto como forma de apresentar o andamento do seu trabalho e discutir com seu orientador e colegas em reuniões regulares.&lt;/p&gt;
 
 &lt;p&gt;Esteja preparado para os altos e baixos da vida de um pesquisador, conforme a figura a seguir. &lt;img src=&#34;altos-e-baixos.jpg&#34; alt=&#34;Altos e baixos da vida de um pesquisador&#34; title=&#34;Altos e baixos da vida de um pesquisador&#34; /&gt;&lt;/p&gt;
 
@@ -104,15 +139,27 @@
 
 &lt;p&gt;Use LaTeX, com hyperref. Leia &lt;a href=&#34;https://github.com/dspinellis/latex-advice&#34; target=&#34;_blank&#34;&gt;essas dicas&lt;/a&gt; para uso adequado do LaTeX.&lt;/p&gt;
 
-&lt;p&gt;Analise pelo menos dois ou três artigos anteriores do seu orientador e colaboradores, e tente seguir práticas e padrões de estilo do seu grupo de pesquisa.&lt;/p&gt;
+&lt;p&gt;Analise pelo menos dois ou três artigos anteriores do seu orientador e colaboradores, e tente seguir práticas e padrões de estilo do seu grupo de pesquisa, ou de alguns artigos de destaque (confirme com seu orientador se eles realmente são de destaque!) que você tenha lido e tenha gostado. Imite o que é bom em termos de estilo de escrita!&lt;/p&gt;
 
 &lt;p&gt;Analise os critérios de avaliação adotados por quem normalmente vai ler ou publicar seu artigo. Os de &lt;a href=&#34;http://icse2017.gatech.edu/technical_research/reviewing_guidelines&#34; target=&#34;_blank&#34;&gt;ICSE 2017&lt;/a&gt; (&lt;i&gt;soundness, significance, verifiability, and presentation quality&lt;/i&gt;) formam um bom exemplo.&lt;/p&gt;
 
 &lt;h4 id=&#34;o-básico-do-básico&#34;&gt;O básico do básico&lt;/h4&gt;
 
+&lt;p&gt;Antes de tudo, pense na audiência. Se coloque na posição do leitor, durante toda a escrita, e pense no que seria mais interessante e fácil para ele entender. O que é fácil para você, depois de ter trabalhado naquela pesquisa por meses, normalmente não vai ser fácil e claro para o leitor do seu artigo. O mesmo vale para os termos e conceitos que você usa naturalmente, mas que precisam ser definidos e explicados assim que eles são usados no seu texto. Os conceitos e termos usados em uma seção, a menos que muito básicos e de conhecimento universal da área, devem ter sido introduzidos e explicados em seções ou parágrafos anteriores, ou no local em que ele está sendo usado pela primeira vez. Use um único termo para referenciar um conceito; não use sinônimos pois isso vai gerar confusão no leitor.&lt;/p&gt;
+
+&lt;p&gt;O seu artigo deve contar um estória como a seguinte: desenvolvedores sofrem com problema tal, sofrem dor tal no dia a dia; ferramentas e técnicas atuais não resolvem o problema por completo por causa disso e daquilo; para resolver esse problema, a gente sugere o seguinte; para avaliar se a solução funciona, a gente faz isso e aquilo; os resultados mostram isso; isso significa que tais pessoas podem se beneficiar da solução em tais situações! Essa estória deve ser interessante e fácil de ler. É importante que a estória também gire em torno de um único ponto principal, uma única descoberta principal; melhor focar em um ponto e fazê-lo bem feito.&lt;/p&gt;
+
+&lt;p&gt;Pense e elabore bem essa estória antes de começar a escrever. Você pode começar com um &lt;i&gt;elevator speech&lt;/i&gt; e ir refinando e detalhando a estória. Depois definir a estrutura do artigo: Introdução, Exemplo Motivante, Solução, Perguntas e Métodos de Pesquisa, Resultados, Discussão, Trabalhos Relacionados, e Conclusões, normalmente para um artigo que envolve a proposta de uma solução para um problema, uma ferramenta, etc.; Introdução, Perguntas e Métodos de Pesquisa, Resultados, Discussão, Trabalhos Relacionados, e Conclusões, normalmente para um estudo empírico exploratório. Depois, refinar as seções, escrevendo uma linha por seção, seguido de uma linha por cada parágrafo de cada seção, para finalmente escrever por completo cada parágrafo do artigo. Busque uma estória que seja consistente e interessante de ler, obviamente desde que reflita bem o que você fez na sua pesquisa e obteve nos seus resultados.&lt;/p&gt;
+
+&lt;p&gt;Todo o resto do artigo deve focar em explicar e mostrar evidência de que essa estória é plausível, assim mostrando  detalhes necessários para dar confiança ao leitor de que sua estória faz sentido e é justificada com base na pesquisa que você realizou. Se algum detalhe não contribui para reforçar a sua estória (como por exemplo dizer que o formato do arquivo X é Y), melhor não colocar no artigo. Colocar só vai atrapalhar, tirando o foco do que interessa. Certamente, seu texto não precisa detalhar tudo que foi feito, na ordem que foi feito, etc.&lt;/p&gt;
+
 &lt;p&gt;Inicialmente (no começo do artigo, seção, e parágrafo), dê ao leitor a &lt;i&gt;ilusão da simplicidade&lt;/i&gt;. Explique a ideia e a motivação de uma forma abstrata de forma a facilitar o entendimento superficial. Só depois disso, refine a ideia, dando mais detalhes, de forma a possibilitar  um entendimento mais aprofundado. Por simplicidade, essa explicação considerou dois níveis de abstração, mas use mais níveis se necessário.&lt;/p&gt;
 
-&lt;p&gt;Descreva com precisão &lt;i&gt;o que&lt;/i&gt; você fez, &lt;i&gt;porque&lt;/i&gt; você fez, e as  &lt;i&gt;limitações&lt;/i&gt; do que você fez. Tenha muito cuidado para não dar a entender que você fez algo que, na verdade, ainda não foi feito.&lt;/p&gt;
+&lt;p&gt;Para dar fluidez a leitura, deve haver uma ligação entre uma seção e a anterior (Para responder as perguntas de pesquisa apresentadas na seção anterior, nesta seção&amp;hellip;), e entre um parágrafo e o anterior, conectando o que foi discutido no parágrafo anterior (por exemplo, se um parágrafo descreve o problema, e o seguinte analisa o impacto do problema, esse último deve começar de forma a conectar as ideias dos dois, como assim: A consequência prática desse problema é que&amp;hellip;).&lt;/p&gt;
+
+&lt;p&gt;Se uma seção traz muitas ideias ou é muito longa, quebre-a em subseções (não necessariamente numeradas).&lt;/p&gt;
+
+&lt;p&gt;Descreva com precisão &lt;i&gt;o que&lt;/i&gt; você fez, &lt;i&gt;porque&lt;/i&gt; você fez, e as  &lt;i&gt;limitações&lt;/i&gt; do que você fez. Em especial, o &lt;i&gt;porque&lt;/i&gt;, ou seja a motivação para o que você vai apresentar ou explicar, normalmente deve vir antes do que você vai explicar. Tenha muito cuidado para não dar a entender que você fez algo que, na verdade, ainda não foi feito. Para os resultados, explique não só os números, mas também como os mesmos devem ser interpretados, o significado e as implicações dos mesmos; vantagens, desvantagens, como compara com resultados de outros trabalhos.&lt;/p&gt;
 
 &lt;p&gt;Se for preciso copiar alguma figura ou trecho, por menor que seja, de outro trabalho, deixe muito claro que você está fazendo isso, citando a referência e, no caso de trechos, colocando-os entre aspas. Esquecer de fazer isso é considerado  &lt;i&gt;plágio&lt;/i&gt;. Até no caso de expressar a mesma ideia de outro artigo,  com palavras diferentes, merece a citação e indicação explícita. No caso de cópia dos seus próprios artigos, pode-se copiar trechos dispensando o uso das aspas. Mas mesmo assim é preciso ter cuidado para não ser caracterizado como  &lt;i&gt;auto-plágio&lt;/i&gt;: se for uma extensão de um artigo prévio, por exemplo, deixe isso claro, e explique precisamente o diferencial do novo artigo.&lt;/p&gt;
 
@@ -124,9 +171,18 @@
 
 &lt;h4 id=&#34;capriche-no-estilo-de-escrita&#34;&gt;Capriche no estilo de escrita&lt;/h4&gt;
 
+&lt;p&gt;Primeiro mostre o exemplo concreto, e só depois a generalização.&lt;/p&gt;
+
+&lt;p&gt;Escreva no presente: in Section X we present (instead of will present); we first filter (instead of filtered) our sample, etc. Mais importante, seja consistente.&lt;/p&gt;
+
+&lt;p&gt;Use maiúsculas para referenciar uma seção ou figura numerada (in Section X, in Figure Y), e minúsculas caso contrário (in this section, in the previously mentioned figure).&lt;/p&gt;
+
+&lt;p&gt;Use muitas tabelas, gráficos, figuras e exemplos de código fonte para explicar as principais ideias e resultados do seu trabalho. Uma figura ilustrando a ideia geral da sua solução, e outra ilustrando como a mesma foi avaliada, são essenciais e precisam ser extremamente caprichadas e dar uma boa ideia do que se trata seu trabalho; discuta-as bem com seu orientador.&lt;/p&gt;
+
 &lt;p&gt;Leia com cuidado, e consulte sempre, &lt;i&gt;The Elements of Style&lt;/i&gt; (&lt;a href=&#34;http://www.bartleby.com/141/&#34; target=&#34;_blank&#34;&gt;link 1&lt;/a&gt; ou &lt;a href=&#34;http://www.crockford.com/wrrrld/style.html&#34; target=&#34;_blank&#34;&gt;link 2&lt;/a&gt;).&lt;/p&gt;
 
-&lt;p&gt;Leia dicas de escrita (&lt;a href=&#34;https://clairelegoues.com/2016/08/23/things-i-keep-repeating-about-writing/&#34; target=&#34;_blank&#34;&gt;de Claire Le Goues&lt;/a&gt;, e &lt;a href=&#34;https://capra.cs.cornell.edu/styleguide&#34; target=&#34;_blank&#34;&gt;do grupo de pesquisa Capra&lt;/a&gt;) que casam bastante com o meu estilo (exceto a sugestão de usar &amp;ldquo;e.g.&amp;rdquo; e &amp;ldquo;i.e.&amp;rdquo;; por favor, evite).&lt;/p&gt;
+&lt;p&gt;Leia dicas de escrita (&lt;a href=&#34;https://clairelegoues.com/2016/08/23/things-i-keep-repeating-about-writing/&#34; target=&#34;_blank&#34;&gt;de Claire Le Goues&lt;/a&gt;, de &lt;a href=&#34;https://philippleitner.medium.com/some-frequent-writing-tips-i-give-software-engineering-thesis-students-da2acab30381&#34; target=&#34;_blank&#34;&gt;
+Philipp Leitner&lt;/a&gt;, e &lt;a href=&#34;https://capra.cs.cornell.edu/styleguide&#34; target=&#34;_blank&#34;&gt;do grupo de pesquisa Capra&lt;/a&gt;) que casam bastante com o meu estilo (exceto a sugestão de usar &amp;ldquo;e.g.&amp;rdquo; e &amp;ldquo;i.e.&amp;rdquo;; por favor, evite).&lt;/p&gt;
 
 &lt;p&gt;Veja dicas para formatação de &lt;a href=&#34;guide-tables.pdf&#34; target=&#34;_blank&#34;&gt;tabelas&lt;/a&gt; e &lt;a href=&#34;https://johnwickerson.wordpress.com/2019/11/01/graphs-in-pl-papers/&#34; target=&#34;_blank&#34;&gt;gráficos&lt;/a&gt;. Sobre gráficos, o resumo é o seguinte: &amp;ldquo;&lt;i&gt;normalised data should usually be plotted on a logarithmic scale, and scatter plots can be easier to understand than bar charts&lt;/i&gt;&amp;rdquo;.&lt;/p&gt;
 

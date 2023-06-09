@@ -5,12 +5,29 @@
     <link>https://pauloborba.github.io/</link>
       <atom:link href="https://pauloborba.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Paulo Borba</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 27 May 2023 18:24:42 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 09 Jun 2023 10:04:47 -0300</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Paulo Borba</title>
       <link>https://pauloborba.github.io/</link>
     </image>
+    
+    <item>
+      <title>Participando de uma comunidade de pesquisa</title>
+      <link>https://pauloborba.github.io/post/participando-comunidade-pesquisa/</link>
+      <pubDate>Fri, 09 Jun 2023 10:04:47 -0300</pubDate>
+      <guid>https://pauloborba.github.io/post/participando-comunidade-pesquisa/</guid>
+      <description>&lt;p&gt;O seu trabalho de pesquisa estará inserido no contexto de uma ou mais comunidades de pesquisa. Essa inserção é essencial para que você, através de apresentações e artigos, obtenha &lt;i&gt;feedback&lt;/i&gt; sobre o seu trabalho. Isso é muito importante para a qualidade e divulgação do trabalho. Assim, identifique tão logo quanto possível, a principal comunidade relacionada ao seu trabalho.&lt;/p&gt;
+
+&lt;p&gt;Identifique os principais eventos e periódicos da sua comunidade de pesquisa. Através de redes sociais ou listas de email, fique atento ao que está sendo publicado nos mesmos.&lt;/p&gt;
+
+&lt;p&gt;Identifique os principais pesquisadores da sua comunidade, e os pesquisadores que estão trabalhando em assuntos mais relacionados ao seu. Siga-os nas redes sociais, mesmo que você não os conheça pessoalmente. Essa é uma importante forma de estar atualizado e conectado com a sua comunidade de pesquisa.&lt;/p&gt;
+
+&lt;p&gt;Marque sua presença nas redes sociais. Atualmente, para a comunidade de Engenharia de Software, o &lt;a href=&#34;https://twitter.com/pauloborba&#34; target=&#34;_blank&#34;&gt;twitter&lt;/a&gt; e o &lt;a href=&#34;https://mastodon.social/@PauloBorba&#34; target=&#34;_blank&#34;&gt;mastodon&lt;/a&gt; são mais úteis. Não anuncie um novo trabalho seu sem um link para uma versão do artigo. Usar as redes sociais para divulgar seu trabalho é essencial; usar as redes para simplesmente fazer seu &lt;i&gt;marketing&lt;/i&gt; pessoal não é legal.&lt;/p&gt;
+
+&lt;p&gt;Ajuste e mantenha atualizada sua &lt;i&gt;homepage&lt;/i&gt;! Sem isso, a sua credibilidade como pesquisador sério pode ser questionada por determinadas comunidades de pesquisa. Ajuste e mantenha atualizado seu perfil no &lt;a href=&#34;https://scholar.google.com.br/citations?user=PpRDLgcAAAAJ&amp;amp;hl=en&amp;amp;oi=ao&#34; target=&#34;_blank&#34;&gt;scholar&lt;/a&gt;, &lt;a href=&#34;http://dblp.uni-trier.de/pers/hd/b/Borba:Paulo&#34; target=&#34;_blank&#34;&gt;DBLP&lt;/a&gt;, e &lt;a href=&#34;http://lattes.cnpq.br/9395715443254344&#34; target=&#34;_blank&#34;&gt;Lattes&lt;/a&gt;. No primeiro, é interessante configurar o envio por email de citações para os seus artigos. Assim você fica sabendo quem está trabalhando em tópicos relacionados ao seu, e conhece o seu trabalho.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Avaliando um trabalho</title>
@@ -211,20 +228,20 @@
 
 &lt;h4 id=&#34;capriche-no-estilo-de-escrita&#34;&gt;Capriche no estilo de escrita&lt;/h4&gt;
 
+&lt;p&gt;Use muitas tabelas, gráficos, figuras e exemplos de código fonte para explicar as principais ideias e resultados do seu trabalho. Uma figura ilustrando a ideia geral da sua solução, e outra ilustrando como a mesma foi avaliada, são essenciais e precisam ser extremamente caprichadas e dar uma boa ideia do que se trata seu trabalho; discuta-as bem com seu orientador.&lt;/p&gt;
+
+&lt;p&gt;Leia com cuidado, e consulte sempre, &lt;i&gt;The Elements of Style&lt;/i&gt; (&lt;a href=&#34;http://www.bartleby.com/141/&#34; target=&#34;_blank&#34;&gt;link 1&lt;/a&gt; ou &lt;a href=&#34;http://www.crockford.com/wrrrld/style.html&#34; target=&#34;_blank&#34;&gt;link 2&lt;/a&gt;).&lt;/p&gt;
+
 &lt;p&gt;Primeiro mostre o exemplo concreto, e só depois a generalização.&lt;/p&gt;
 
 &lt;p&gt;Escreva no presente: in Section X we present (instead of will present); we first filter (instead of filtered) our sample, etc. Mais importante, seja consistente.&lt;/p&gt;
 
 &lt;p&gt;Use maiúsculas para referenciar uma seção ou figura numerada (in Section X, in Figure Y), e minúsculas caso contrário (in this section, in the previously mentioned figure).&lt;/p&gt;
 
-&lt;p&gt;Use muitas tabelas, gráficos, figuras e exemplos de código fonte para explicar as principais ideias e resultados do seu trabalho. Uma figura ilustrando a ideia geral da sua solução, e outra ilustrando como a mesma foi avaliada, são essenciais e precisam ser extremamente caprichadas e dar uma boa ideia do que se trata seu trabalho; discuta-as bem com seu orientador.&lt;/p&gt;
-
-&lt;p&gt;Leia com cuidado, e consulte sempre, &lt;i&gt;The Elements of Style&lt;/i&gt; (&lt;a href=&#34;http://www.bartleby.com/141/&#34; target=&#34;_blank&#34;&gt;link 1&lt;/a&gt; ou &lt;a href=&#34;http://www.crockford.com/wrrrld/style.html&#34; target=&#34;_blank&#34;&gt;link 2&lt;/a&gt;).&lt;/p&gt;
-
 &lt;p&gt;Leia dicas de escrita (&lt;a href=&#34;https://clairelegoues.com/2016/08/23/things-i-keep-repeating-about-writing/&#34; target=&#34;_blank&#34;&gt;de Claire Le Goues&lt;/a&gt;, de &lt;a href=&#34;https://philippleitner.medium.com/some-frequent-writing-tips-i-give-software-engineering-thesis-students-da2acab30381&#34; target=&#34;_blank&#34;&gt;
 Philipp Leitner&lt;/a&gt;, e &lt;a href=&#34;https://capra.cs.cornell.edu/styleguide&#34; target=&#34;_blank&#34;&gt;do grupo de pesquisa Capra&lt;/a&gt;) que casam bastante com o meu estilo (exceto a sugestão de usar &amp;ldquo;e.g.&amp;rdquo; e &amp;ldquo;i.e.&amp;rdquo;; por favor, evite).&lt;/p&gt;
 
-&lt;p&gt;Veja dicas para formatação de &lt;a href=&#34;guide-tables.pdf&#34; target=&#34;_blank&#34;&gt;tabelas&lt;/a&gt; e &lt;a href=&#34;https://johnwickerson.wordpress.com/2019/11/01/graphs-in-pl-papers/&#34; target=&#34;_blank&#34;&gt;gráficos&lt;/a&gt;. Sobre gráficos, o resumo é o seguinte: &amp;ldquo;&lt;i&gt;normalised data should usually be plotted on a logarithmic scale, and scatter plots can be easier to understand than bar charts&lt;/i&gt;&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Veja dicas para formatação de &lt;a href=&#34;guide-tables.pdf&#34; target=&#34;_blank&#34;&gt;tabelas&lt;/a&gt; e &lt;a href=&#34;https://johnwickerson.wordpress.com/2019/11/01/graphs-in-pl-papers/&#34; target=&#34;_blank&#34;&gt;gráficos&lt;/a&gt;. Sobre essa referência de gráficos, o resumo é o seguinte: &amp;ldquo;&lt;i&gt;normalised data should usually be plotted on a logarithmic scale, and scatter plots can be easier to understand than bar charts&lt;/i&gt;&amp;rdquo;. Use &lt;a href=&#34;https://wellcomeopenresearch.org/articles/4-63&#34; target=&#34;_blank&#34;&gt;&lt;i&gt;raincloud plots&lt;/i&gt;&lt;/a&gt; ao invés de &lt;i&gt;box plots&lt;/i&gt;, &lt;i&gt;bean plots&lt;/i&gt; ou &lt;i&gt;violin plots&lt;/i&gt;. Os &lt;a href=&#34;https://en.wikipedia.org/wiki/Sankey_diagram&#34; target=&#34;_blank&#34;&gt;diagramas de Sankey&lt;/a&gt; podem ser uma boa opção para ilustrar como uma dada medida (por exemplo, falsos positivos) são quebradas em categorias. Alternativamente, ilustre como a Figura 4 &lt;a href=&#34;https://pauloborba.github.io/publication/2020detecting_semantic_conflicts_via_automated_behavior_change_detection/&#34; target=&#34;_blank&#34;&gt;neste artigo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Use um &lt;i&gt;spell checker&lt;/i&gt;! Considere usar uma ferramenta (como &lt;a href=&#34;https://www.grammarly.com&#34; target=&#34;_blank&#34;&gt;Grammarly&lt;/a&gt; ou &lt;a href=&#34;https://openai.com/blog/chatgpt/&#34; target=&#34;_blank&#34;&gt;ChatGPT&lt;/a&gt;) para revisar o seu texto. Não usando uma ferramenta dessas, use &lt;a href=&#34;http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates&#34; target=&#34;_blank&#34;&gt;scripts para melhorar a qualidade de textos em inglês&lt;/a&gt;:
 &lt;ul&gt;
@@ -419,6 +436,14 @@ while (1) {
 &lt;p&gt;Após a aceitação do seu trabalho, coloque todo o material do artigo no &lt;a href=&#34;https://github.com/spgroup/papers&#34; target=&#34;_blank&#34;&gt;repositório de artigos&lt;/a&gt; do seu grupo de pesquisa.&lt;/p&gt;
 
 &lt;p&gt;Verifique com cuidado a política de publicação associada ao veículo onde você quer publicar seu artigo. Na falta de uma política clara do veículo em questão, siga a &lt;a href=&#34;https://www.acm.org/publications/policies/new-acm-policy-on-authorship&#34; target=&#34;_blank&#34;&gt;política da ACM&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;agradecendo-a-quem-lhe-ajuda&#34;&gt;Agradecendo a quem lhe ajuda&lt;/h4&gt;
+
+&lt;p&gt;É fundamental dar destaque para os financiadores e colaboradores nos artigos, apresentações, posters, software e produtos em geral.&lt;/p&gt;
+
+&lt;p&gt;Nos artigos, colocar algo como &amp;ldquo;For partially supporting this work, we would like to thank INES (National Software Engineering Institute) and the Brazilian research funding agencies CNPq (grant &lt;sup&gt;309741&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2013&lt;/sub&gt;-0), FACEPE (grants IBPG-0546-1.03/15 and APQ/0388-1.03/14), and CAPES.&amp;rdquo; Verificar os números atuais com seu orientador. É importante colocar também os números dos processos dos projetos do qual você obteve algum tipo de financiamento.&lt;/p&gt;
+
+&lt;p&gt;Agradecer aos membros do Software Productivity Group e, especificamente, a quem lhe ajudou (revisou seu artigo, implementou algo para você, indicou referências, fez perguntas importantes, deu uma idéia mesmo que você já tenha tido-a) ou deu dicas e sugestões para a melhoria do seu trabalho.&lt;/p&gt;
 </description>
     </item>
     
@@ -468,6 +493,12 @@ while (1) {
 &lt;p&gt;Se a apresentação for em Inglês, evite esses &lt;a href=&#34;https://pt.babbel.com/pt/magazine/como-identificar-um-brasileiro-falando-ingles?bsc=pormag-a63-howtospotabrazilian-mi-ob&amp;amp;btp=1_por_out_mi&amp;amp;utm_campaign=cd_porall_gpr_cbr_howtospotbr&amp;amp;utm_content=Veja+os+erros+mais+comuns+de+brasileiros+ao+falar+&amp;amp;utm_medium=CON&amp;amp;utm_source=outbrain&amp;amp;utm_term=5470743&#34; target=&#34;_blank&#34;&gt;erros comuns&lt;/a&gt; cometidos por brasileiros quando falam Inglês.&lt;/p&gt;
 
 &lt;p&gt;Confira as &lt;a href=&#34;https://www.acm.org/about-acm/policy-against-harassment&#34; target=&#34;_blank&#34;&gt;políticas&lt;/a&gt; para participação em eventos da ACM, mas que devem ser seguidas em qualquer tipo de evento.&lt;/p&gt;
+
+&lt;h4 id=&#34;agradecendo-a-quem-lhe-ajuda&#34;&gt;Agradecendo a quem lhe ajuda&lt;/h4&gt;
+
+&lt;p&gt;É fundamental dar destaque para os financiadores e colaboradores nas apresentações, posters, etc. Colocar no primeiro e último &lt;i&gt;slide&lt;/i&gt; a logomarca da instituição financiadora, projetos (como o INES), e do CIn/SPG.&lt;/p&gt;
+
+&lt;p&gt;Agradecer a quem lhe ajudou (implementou algo para você, indicou referências, fez perguntas importantes, deu uma idéia mesmo que você já tenha tido-a), colocando um &lt;i&gt;slide&lt;/i&gt; com as fotos e nomes das pessoas.&lt;/p&gt;
 </description>
     </item>
     

@@ -5,12 +5,72 @@
     <link>https://pauloborba.github.io/</link>
       <atom:link href="https://pauloborba.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Paulo Borba</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 09 Jun 2023 10:04:47 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 13 Jun 2023 11:47:20 -0300</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Paulo Borba</title>
       <link>https://pauloborba.github.io/</link>
     </image>
+    
+    <item>
+      <title>Gravando vídeos</title>
+      <link>https://pauloborba.github.io/post/gravando-videos/</link>
+      <pubDate>Tue, 13 Jun 2023 11:47:20 -0300</pubDate>
+      <guid>https://pauloborba.github.io/post/gravando-videos/</guid>
+      <description>&lt;p&gt;Segue um resumo da minha experiência em 2020, no primeiro ano da pandemia, gravando vídeos curtos para as aulas das minhas disciplinas. Veja aqui como ficou o resultado para os vídeos do módulo de &lt;a href=&#34;https://www.youtube.com/watch?v=k3u7Ku8xzPE&amp;amp;list=PLE-5PZOOoVUhA1qY8_maXiU5Gm0UjSflf&#34; target=&#34;_blank&#34;&gt;Design and Implementation&lt;/a&gt; de uma disciplina específica de Engenharia de Software. Importante dizer que não tive muito tempo para estudo e preparação sobre gravação e edição de vídeos, e que eu tive que fazer tudo sozinho, sem apoio extra. Assim, deve haver sugestões melhores do que as a seguir, mas caso você não tenha encontrado, e esteja em contexto similar ao meu, siga em frente!&lt;/p&gt;
+
+&lt;p&gt;Para gravar e editar as aulas, eu uso o Camtasia. Na época em que comprei a licença, acabei escolhendo o Camtasia porque tinha boas funcionalidades de captura (de som, &lt;i&gt;desktop&lt;/i&gt;, e câmera; melhor do que o iMovie) e de edição (praticamente a mesma coisa do iMovie). Hoje, eu provavelmente teria optado por não comprar a licença do Camtasia e usaria o iMovie para edição e o OBS para captura.&lt;/p&gt;
+
+&lt;p&gt;Eu gravo e edito as aulas em um MacBook Air 2018, mas recomendo fortemente um computador mais potente. Eu uso uma câmera HD que tenho embutida em um monitor, e um microfone Blue Yeti (qualidade um pouco melhor do que o que tenho embutido no monitor, mas muito útil para evitar o barulho ambiente, da rua e da casa).&lt;/p&gt;
+
+&lt;p&gt;Para reduzir o tempo de gravação e edição (que pode consumir muito mais tempo do que eu tenho disponível), eu, no máximo,  gravo duas ou três vezes o início de cada vídeo, o primeiro e segundo slide, para começar bem. Muitas vezes vou direto. Agora em um &lt;i&gt;slide&lt;/i&gt; ou outro, quando noto que não expliquei bem, ou falei algo errado, aí eu silencio por alguns segundos (para marcar no arquivo de áudio o ponto onde eu devo editar) e retomo com uma nova explicação. Não suspendo a gravação do vídeo. O ideal seria preparar antes o &lt;i&gt;script&lt;/i&gt; do que vou falar durante a gravação, mas não consegui fazer isso desta vez.&lt;/p&gt;
+
+&lt;p&gt;Quando não consigo preparar os vídeos curtos com antecedência, vou pra aula no meet e explico os &lt;i&gt;slides&lt;/i&gt; sincronamente, gravando tanto no meet quanto localmente no Camtasia (para depois, quando tiver tempo de editar, disponibilizar o vídeo curto). Não é o ideal, pode dessincronizar um pouco o áudio e vídeo. Mesmo quando é só aula de perguntas-respostas e explicações adicionais sobre os vídeos disponibilizados antes, eu tenho gravado no meet. Nessas aulas em que explico os &lt;i&gt;slides&lt;/i&gt; sincronamente no meet, ou tiro só dúvidas, é importante ter &lt;i&gt;slides&lt;/i&gt; com exercícios, pedindo para os alunos adicionarem respostas no &lt;i&gt;chat&lt;/i&gt; ou via menti. Ajuda a melhorar a interação, principalmente nas aulas em que explico os &lt;i&gt;slides&lt;/i&gt; sincronamente.&lt;/p&gt;
+
+&lt;p&gt;Por fim, segue o meu roteiro para gravação e edição no Camtasia (com vistas a obter vídeos como &lt;a href=&#34;https://www.youtube.com/watch?v=k3u7Ku8xzPE&amp;amp;list=PLE-5PZOOoVUhA1qY8_maXiU5Gm0UjSflf&#34; target=&#34;_blank&#34;&gt;este&lt;/a&gt;).&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Criar projeto e definir &lt;i&gt;project settings&lt;/i&gt; como 1920x1080 HD&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Copiar a imagem do CIn e do SPG de uma apresentação anterior&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Escala 100%, a posição depende um pouco&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ajustar a imagem da câmera&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ajustar escala imagem da minha câmera para 90% (ou 85% se eu tiver gravado mais perto da câmera)&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;Crop&lt;/i&gt; de áreas específicas do meu ambiente de gravação
+
+&lt;ul&gt;
+&lt;li&gt;Centralizar antes na área para visualizar melhor; passar antes video na área para verificar que não corta muito)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Setar &lt;i&gt;opacity&lt;/i&gt; para 90%, se gravado até 11 horas, com sol&lt;/li&gt;
+&lt;li&gt;A posição final depende um pouco do &lt;i&gt;crop&lt;/i&gt;, da escala, e da posição de gravação&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ajustar a imagem dos slides&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Colocar slides na escala de 55% (tentar 58%)&lt;/li&gt;
+&lt;li&gt;Centralizar, sem &lt;i&gt;crop&lt;/i&gt;, passando um pouco do limite da direita e da linha da esquerda&lt;/li&gt;
+&lt;li&gt;Colocar para &lt;i&gt;back&lt;/i&gt;, e imagem da câmera para &lt;i&gt;front&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;Posição depende da escala&lt;/li&gt;
+&lt;li&gt;Deixar &lt;i&gt;opacity&lt;/i&gt; em 100%&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Agrupar videos dos slides e câmera, salvar o projeto&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Editar&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Exportar com 1920x1080 HD, preservando &lt;i&gt;aspect ratio (fit within size)&lt;/i&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Definir licença e outros detalhes no YouTube&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>Participando de uma comunidade de pesquisa</title>

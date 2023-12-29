@@ -5,7 +5,7 @@
     <link>https://pauloborba.github.io/authors/</link>
       <atom:link href="https://pauloborba.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 19 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Authors</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Heitor Sammuel Carvalho</title>
+      <link>https://pauloborba.github.io/authors/heitor-sammuel-carvalho/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/heitor-sammuel-carvalho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Paulo Borba</title>
       <link>https://pauloborba.github.io/authors/paulo-borba/</link>
-      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/authors/paulo-borba/</guid>
       <description></description>
     </item>

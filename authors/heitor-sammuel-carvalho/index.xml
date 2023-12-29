@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heitor Sammuel Carvalho | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/heitor-sammuel-carvalho/</link>
+      <atom:link href="https://pauloborba.github.io/authors/heitor-sammuel-carvalho/index.xml" rel="self" type="application/rss+xml" />
+    <description>Heitor Sammuel Carvalho</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Heitor Sammuel Carvalho</title>
+      <link>https://pauloborba.github.io/authors/heitor-sammuel-carvalho/</link>
+    </image>
+    
+    <item>
+      <title>Quero mesmo ser Pesquisador?</title>
+      <link>https://pauloborba.github.io/talk/quero-ser-pesquisador/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/talk/quero-ser-pesquisador/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,51 @@
     <link>https://pauloborba.github.io/</link>
       <atom:link href="https://pauloborba.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Paulo Borba</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 02 Jan 2024 10:06:19 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 02 Jan 2024 17:29:26 -0300</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Paulo Borba</title>
       <link>https://pauloborba.github.io/</link>
     </image>
+    
+    <item>
+      <title>Disponibilizando e divulgando resultados de pesquisa</title>
+      <link>https://pauloborba.github.io/post/divulgando-resultados-de-pesquisa/</link>
+      <pubDate>Tue, 02 Jan 2024 17:29:26 -0300</pubDate>
+      <guid>https://pauloborba.github.io/post/divulgando-resultados-de-pesquisa/</guid>
+      <description>
+
+&lt;p&gt;Antes de tudo, leia a política da ACM sobre &lt;a href=&#34;https://www.acm.org/publications/policies/artifact-review-and-badging-current&#34; target=&#34;_blank&#34;&gt;Result and Artefact Review and Badging&lt;/a&gt;, principalmente se houver dúvidas sobre os termos repetível, reproduzível, e replicável.&lt;/p&gt;
+
+&lt;h4 id=&#34;disponibilização&#34;&gt;Disponibilização&lt;/h4&gt;
+
+&lt;p&gt;Antes de disponibilizar o material, verifique se seu estudo é repetível e reproduzível, e que todos os passos automatizáveis estão de fato automatizados.&lt;/p&gt;
+
+&lt;p&gt;Organize todo o material (scripts, programas, sistemas avaliados, datasets, entrevistas, etc.) e resultados em uma página ou repositório público, de forma a permitir a reprodução ou replicação dos resultados obtidos. Boa documentação desse material é essencial para que a reprodução ou replicação seja possível sem esforços desnecessários.&lt;/p&gt;
+
+&lt;p&gt;Após a submissão e aceitação do seu trabalho, coloque todo o material do artigo no &lt;a href=&#34;https://github.com/spgroup/papers&#34; target=&#34;_blank&#34;&gt;repositório de artigos&lt;/a&gt; do seu grupo de pesquisa. Avise aos seus co-autores.&lt;/p&gt;
+
+&lt;p&gt;Estou assumindo que o seu artigo já está armazenado em um repositório público de preprints como o &lt;a href=&#34;https://arxiv.org&#34; target=&#34;_blank&#34;&gt;arXiv&lt;/a&gt;. Isso deve ser feito imediatamente após a submissão do artigo! Veja &lt;a href=&#34;https://pauloborba.github.io/post/escrevendo-seu-trabalho/&#34; target=&#34;_blank&#34;&gt;Escrevendo seu trabalho&lt;/a&gt;, em especial a Seção &amp;ldquo;Revisando o seu trabalho&amp;rdquo;. Disponibilize a última versão publicada atualizando a entrada que você tinha criado no  &lt;a href=&#34;https://arxiv.org&#34; target=&#34;_blank&#34;&gt;arXiv&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Atualize as páginas web relevantes: a do grupo de pesquisa, a do projeto no qual você trabalha, e a sua pessoal. Avise aos seus co-autores.&lt;/p&gt;
+
+&lt;p&gt;Disponibilize o material necessário para replicar o estudo publicado em alguma plataforma de ciência aberta, como neste caso do &lt;a href=&#34;https://doi.org/10.5281/zenodo.8081523&#34; target=&#34;_blank&#34;&gt;Health Watcher&lt;/a&gt;, disponibilizado via &lt;a href=&#34;https://zenodo.org&#34; target=&#34;_blank&#34;&gt;Zenodo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Siga as dicas sobre divulgação de resultados e material de &lt;a href=&#34;http://arxiv.org/pdf/1609.00037v1.pdf&#34; target=&#34;_blank&#34;&gt;Good Enough Practices in Scientific Computing&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;divulgação&#34;&gt;Divulgação&lt;/h4&gt;
+
+&lt;p&gt;Depois de ter seguido as orientações acima, siga as orientações abaixo.&lt;/p&gt;
+
+&lt;p&gt;Divulgue com clareza e abrangência cada resultado (artigo, tese, ferramenta, biblioteca, dataset, etc.) de pesquisa gerado, para que mais pessoas possam ter acesso, conhecer o seu trabalho, construir em cima dele, e dar feedback.&lt;/p&gt;
+
+&lt;p&gt;Divulgue nas redes sociais (ver &lt;a href=&#34;https://pauloborba.github.io/post/participando-comunidade-pesquisa/&#34; target=&#34;_blank&#34;&gt;Participando de uma comunidade de pesquisa&lt;/a&gt;), e peça para o seu orientador e outros co-autores fazerem o mesmo.&lt;/p&gt;
+
+&lt;p&gt;Divulgue em sites de notícias como &lt;a href=&#34;https://news.ycombinator.com/news&#34; target=&#34;_blank&#34;&gt;Hacker News&lt;/a&gt; e &lt;a href=&#34;https://www.reddit.com/&#34; target=&#34;_blank&#34;&gt;Reddit&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Envie mensagens para as listas do grupo de pesquisa (ver &lt;a href=&#34;https://pauloborba.github.io/post/chegando-no-cin-spg/&#34; target=&#34;_blank&#34;&gt;Chegando ao CIn&lt;/a&gt;), os autores dos principais trabalhos relacionados ao seu, e as pessoas que citaram seus trabalhos anteriores relacionados (no Google Scholar, basta clicar nos links &amp;ldquo;Cited by&amp;rdquo; relacionados aos seus artigos para descobrir quem citou eles).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Chegando ao CIn</title>
@@ -729,8 +768,6 @@ while (1) {
 &lt;p&gt;Para facilitar a vida das pessoas (inclusive o seu orientador) que estiverem lhe ajudando com o artigo, ao fazer mudanças em uma versão lida e comentada por essas pessoas, destaque todas as mudanças realizadas utilizando um comando como &lt;i&gt;\newcommand{\rev}[1]{\textcolor{red}{#1}}&lt;/i&gt; (ver &lt;a href=&#34;https://medium.com/@xLeitix/marking-changed-text-in-journal-revisions-8583136a4738&#34; target=&#34;_blank&#34;&gt;Marking Changed Text in Journal Revisions&lt;/a&gt;). Assim, ao lerem uma próxima versão, essas pessoas poderão facilmente identificar o que foi modificado.&lt;/p&gt;
 
 &lt;p&gt;Após as pessoas terem revisado seu trabalho, e você ter feito os ajustes no texto, publique o seu artigo no &lt;a href=&#34;https://arxiv.org&#34; target=&#34;_blank&#34;&gt;arXiv&lt;/a&gt;. Em particular, tenha cuidado para referenciar corretamente os perfis dos seus co-autores no arXiv; veja &lt;a href=&#34;https://arxiv.org/abs/2310.02395&#34; target=&#34;_blank&#34;&gt;este&lt;/a&gt; exemplo. Avise aos seus co-autores.&lt;/p&gt;
-
-&lt;p&gt;Após a submissão e aceitação do seu trabalho, coloque todo o material do artigo no &lt;a href=&#34;https://github.com/spgroup/papers&#34; target=&#34;_blank&#34;&gt;repositório de artigos&lt;/a&gt; do seu grupo de pesquisa. Avise aos seus co-autores.&lt;/p&gt;
 
 &lt;p&gt;Verifique com cuidado a política de publicação associada ao veículo onde você quer publicar seu artigo. Na falta de uma política clara do veículo em questão, siga a &lt;a href=&#34;https://www.acm.org/publications/policies/new-acm-policy-on-authorship&#34; target=&#34;_blank&#34;&gt;política da ACM&lt;/a&gt;.&lt;/p&gt;
 

@@ -13,6 +13,112 @@
     </image>
     
     <item>
+      <title>Chegando ao CIn</title>
+      <link>https://pauloborba.github.io/post/chegando-no-cin-spg/</link>
+      <pubDate>Tue, 02 Jan 2024 10:06:19 -0300</pubDate>
+      <guid>https://pauloborba.github.io/post/chegando-no-cin-spg/</guid>
+      <description>
+
+&lt;p&gt;Este artigo é direcionado para quem vai fazer iniciação científica, mestrado, doutorado ou pós-doutorado no &lt;a href=&#34;http://www.cin.ufpe.br/&#34; target=&#34;_blank&#34;&gt;CIn&lt;/a&gt;, especialmente no &lt;a href=&#34;http://www.cin.ufpe.br/spg&#34; target=&#34;_blank&#34;&gt;SPG&lt;/a&gt;, e sob a minha orientação! No entanto, algumas das informações podem servir para outras pessoas que estejam chegando ao CIn para trabalhar.&lt;/p&gt;
+
+&lt;h3 id=&#34;antes-de-tudo&#34;&gt;Antes de tudo&lt;/h3&gt;
+
+&lt;p&gt;Me passe seu número de telefone e peça o meu.&lt;/p&gt;
+
+&lt;p&gt;Marque um horário comigo para passar na minha sala e eu lhe mostrar o laboratório do grupo de pesquisa e te apresentar às outras pessoas do grupo.&lt;/p&gt;
+
+&lt;p&gt;Assine o grupo do &lt;a href=&#34;https://spg-ufpe.slack.com&#34; target=&#34;_blank&#34;&gt;Slack&lt;/a&gt;, onde a comunicação de trabalho, não presencial, realmente acontece.&lt;/p&gt;
+
+&lt;p&gt;Me informe se quer participar do grupo de WhatsApp também (opcional, mas recomendado se você não tiver objeções, normalmente tem poucas mensagens também).&lt;/p&gt;
+
+&lt;p&gt;Assine as listas de email &lt;a href=&#34;https://groups.google.com/a/cin.ufpe.br/g/spg-l&#34; target=&#34;_blank&#34;&gt;spg-l&lt;/a&gt; e &lt;a href=&#34;https://groups.google.com/a/cin.ufpe.br/g/labes-l&#34; target=&#34;_blank&#34;&gt;labes-l&lt;/a&gt;; ambas têm poucas mensagens, normalmente sobre congressos, escolas de verão, artigos, e uso do laboratório do INES).&lt;/p&gt;
+
+&lt;p&gt;Assine também a lista do &lt;a href=&#34;https://groups.google.com/a/cin.ufpe.br/g/gente&#34; target=&#34;_blank&#34;&gt;GENTeS&lt;/a&gt;, o nosso grupo de estudo; os anúncios de reuniões e seminários do grupo aparecem aí.&lt;/p&gt;
+
+&lt;p&gt;Todos esse canais, exceto a lista do GENTeS, podem ser usados para tirar dúvidas de moradia, transporte, etc. aqui em Recife.&lt;/p&gt;
+
+&lt;p&gt;Para ter acesso ao laboratório do INES com o seu crachá, envie email para o helpdesk do CIn, me copiando para eu dar o OK. Se você ainda não sabe o que é o helpdesk do CIn, veja a seguir!&lt;/p&gt;
+
+&lt;p&gt;Crie um site pessoal minimamente organizado no domínio do CIn, e me passem o endereço, por favor. Pode ser bem básico, mas, pelo menos na área de computação, é essencial que autores de artigos tenham essa presença. Como você certamente estará envolvido na autoria de artigos, melhor já ter logo o seu.&lt;/p&gt;
+
+&lt;h3 id=&#34;conhecendo-o-cin&#34;&gt;Conhecendo o CIn&lt;/h3&gt;
+
+&lt;p&gt;Assumindo que você já se familiarizou com os sites do CIn e do SPG (ver acima!), é bom também saber os &lt;a href=&#34;https://diretoria.cin.ufpe.br/perguntas-frequentes#h.14rqvo9yjppo&#34; target=&#34;_blank&#34;&gt;sites dos vários setores do CIn&lt;/a&gt;, já que eles vão trazer informações mais operacionais e internas (incluindo FAQs) para quem estuda ou trabalha no CIn, e que podem ser difíceis de encontrar pelo site principal externo. Você vai precisar com mais frequência das FAQs dos setores de &lt;a href=&#34;http://helpdesk.cin.ufpe.br/&#34; target=&#34;_blank&#34;&gt;sistemas&lt;/a&gt; e &lt;a href=&#34;http://infraestrutura.cin.ufpe.br/&#34; target=&#34;_blank&#34;&gt;infraestrutura&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;planejando-disciplinas-da-pós-graduação&#34;&gt;Planejando disciplinas da pós-graduação&lt;/h3&gt;
+
+&lt;p&gt;Se você está chegando para o mestrado ou doutorado, leia o regimento da pós! É importante para saber exatamente quantas disciplinas você terá que cursar, quais podem ser dispensadas, etc. Essa regras sempre mudam e eu nunca consigo lembrar dos detalhes das mesmas.&lt;/p&gt;
+
+&lt;p&gt;Leia e me procure para fecharmos o planejamento das disciplinas. O ideal seria cursar logo 3 ou 4 disciplinas no primeiro semestre, para que no segundo semestre a gente já tenha um bom tempo para se dedicar à pesquisa da tese. Uma das disciplinas do segundo semestre seria Trabalho Individual, justamente para começarmos a trabalhar na tese. Seminários também poderia ficar para o segundo semestre se você for cursar 4 disciplinas no primeiro.&lt;/p&gt;
+
+&lt;p&gt;A princípio, eu sugiro que os meus alunos cursem as seguintes disciplinas:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;As que eu ofereço na graduação e pós-graduação&lt;/li&gt;
+&lt;li&gt;Paradigmas de Linguagens de Programação ou similar&lt;/li&gt;
+&lt;li&gt;Métodos de Pesquisa Empírica ou similar&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Mas, como isso depende muito da formação e interesses do aluno, se tiver alguma outra disciplina que você tenha interesse ou necessidade em cursar, podemos discutir sem problema. É só me contactar via chat.&lt;/p&gt;
+
+&lt;p&gt;Em particular, é essencial que você adquira uma boa base em Engenharia de Software (veja, no meu canal  as playlists sobre vários tópicos de Engenharia de Software, exceto as mais tecnológicas sobre SaaS) e em Métodos de Pesquisa (veja, nos cursos de &lt;a href=&#34;https://github.com/bvasiles/empirical-methods?s=03&#34; target=&#34;_blank&#34;&gt;Bogdan Vasilescu&lt;/a&gt; e &lt;a href=&#34;https://www.youtube.com/channel/UCUeRK8nJKyj_i_Yz81eHa8g/videos&#34; target=&#34;_blank&#34;&gt;Alexander Serebrenik&lt;/a&gt;, pelo menos as aulas relacionadas aos métodos de pesquisa que você vai usar no seu trabalho).&lt;/p&gt;
+
+&lt;h3 id=&#34;acessando-os-servidores-para-experimentos&#34;&gt;Acessando os servidores para experimentos&lt;/h3&gt;
+
+&lt;p&gt;Para conectar aos servidores, você deve estar conectado à rede do CIn. Para tanto, você deve usar o VPN do CIn se o acesso for de fora do CIn. Veja na &lt;a href=&#34;http://helpdesk.cin.ufpe.br/&#34; target=&#34;_blank&#34;&gt;página da gerência de  sistemas&lt;/a&gt; as instruções de como configurar a VPN.&lt;/p&gt;
+
+&lt;p&gt;Os servidores são normalmente configurados para serem acessados com as inicias do CIn como login, mas são restrita para usuários autorizados. Para solicitar autorização, é necessário enviar email para o helpdesk do CIn, indicando que servidor (ver abaixo as opções) deseja acessar, e me copiando para eu dar o OK.&lt;/p&gt;
+
+&lt;h5 id=&#34;servidores-com-isolamento&#34;&gt;Servidores com isolamento&lt;/h5&gt;
+
+&lt;p&gt;Temos alguns servidores menos potentes mas que são úteis para realização de experimentos com isolamento de outros usos da máquina, o que é essencial para medir tempo de execução, por exemplo.&lt;/p&gt;
+
+&lt;p&gt;Os servidores são chamados inesserver, inesserver1, inesserver2, e gpu01.cin.ufpe.br. Temos também toritama, que é usado apenas para a wiki do grupo.&lt;/p&gt;
+
+&lt;p&gt;Seguem dicas de Toni Maciel:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Para Login, usar algum cliente SSH e logar com: login@nomeservidor.cin.ufpe.br e digitar sua senha do CIn. Via terminal linux, por exemplo, faço o seguinte: ssh meulogincin@inesserver2.cin.ufpe.br&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Para transferir arquivos pro servidor e visualizar os diretórios, usar alguma ferramenta como Filezilla.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Tanto o ssh quanto o filezilla usam a porta de conexão &amp;ldquo;22&amp;rdquo; para acessá-los caso solicitado.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&#34;cluster-ram&#34;&gt;Cluster RAM&lt;/h5&gt;
+
+&lt;p&gt;Se o seu experimento precisa de muita memória RAM, temos uma máquina com bastante memória; o hostname dela é cluster-node11.cin.ufpe.br.&lt;/p&gt;
+
+&lt;p&gt;Ela só tem o docker instalado, então todo o seu experimento tem que ser configurado para executar num container docker.&lt;/p&gt;
+
+&lt;p&gt;Temos que ter também bastante cuidado com medições de tempo, etc., e combinar com outros usuários se precisarmos de exclusividade de uso da máquina por um período.&lt;/p&gt;
+
+&lt;p&gt;Seguem dicas de Galileu Santos de Jesus:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Para acessar a máquina a parte mais difícil é copiar os arquivos gerados. No Ubuntu, eu acesso via sftp:
+
+&lt;ul&gt;
+&lt;li&gt;Abra o gerenciador de arquivo e clique em outras conexões;&lt;/li&gt;
+&lt;li&gt;Digite sftp://gsj@cluster-node11.cin.ufpe.br/, onde gsj é o login do seu email;&lt;/li&gt;
+&lt;li&gt;Clique em conectar e coloque sua senha do e-mail. Pronto, agora você está dentro do servidor, podendo armazenar arquivos, copiar e colar na mão.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Comando úteis via terminal:
+
+&lt;ul&gt;
+&lt;li&gt;ssh gsj@cluster-node11.cin.ufpe.br, para conectar ao servidor (VPN deve está conectada), onde gsj é o do seu email;&lt;/li&gt;
+&lt;li&gt;Comandos docker importantes: docker stats, docker ps, docker exec -it ID_CONTAINER /bin/bash, docker cp ID_CONTAINER:/home/PATH PATH_COPY&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Esses são os comandos que mais uso, conectar, copiar arquivos, acessar docker, copiar resultados.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&#34;cluster-gpu&#34;&gt;Cluster GPU&lt;/h5&gt;
+
+&lt;p&gt;Para uso intenso de GPUs, temos o cluster Apuana (ver como usa na página de &lt;a href=&#34;http://helpdesk.cin.ufpe.br/&#34; target=&#34;_blank&#34;&gt;sistemas&lt;/a&gt;) e o cluster de um projeto que eu coordeno. Discuta comigo qual usar.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Escrevendo uma carta de resubmissão ou refutação do seu trabalho</title>
       <link>https://pauloborba.github.io/post/escrevendo-uma-carta-de-resubmissao-ou-refutacao/</link>
       <pubDate>Fri, 29 Dec 2023 10:55:16 -0300</pubDate>

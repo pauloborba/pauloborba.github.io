@@ -73,7 +73,7 @@
 
 &lt;p&gt;Temos alguns servidores menos potentes mas que são úteis para realização de experimentos com isolamento de outros usos da máquina, o que é essencial para medir tempo de execução, por exemplo.&lt;/p&gt;
 
-&lt;p&gt;Os servidores são chamados inesserver, inesserver1, inesserver2, e gpu01.cin.ufpe.br. Temos também toritama, que é usado apenas para a wiki do grupo.&lt;/p&gt;
+&lt;p&gt;Os servidores são chamados inesserver1, inesserver2, e gpu01.cin.ufpe.br. Temos também toritama, que é usado apenas para a wiki do grupo.&lt;/p&gt;
 
 &lt;p&gt;Seguem dicas de Toni Maciel:&lt;/p&gt;
 

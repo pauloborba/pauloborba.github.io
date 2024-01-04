@@ -13,6 +13,28 @@
     </image>
     
     <item>
+      <title>Começando uma carreira acadêmica</title>
+      <link>https://pauloborba.github.io/post/comecando-carreira-academica/</link>
+      <pubDate>Thu, 04 Jan 2024 14:35:19 -0300</pubDate>
+      <guid>https://pauloborba.github.io/post/comecando-carreira-academica/</guid>
+      <description>&lt;p&gt;Leia &lt;a href=&#34;https://www.cs.virginia.edu/~evans/paradise/&#34; target=&#34;_blank&#34;&gt;How to live in paradise&lt;/a&gt;, de David Evans. Esse texto traz muitas dicas interessantes para resumir aqui, mas&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;tirar férias,&lt;/li&gt;
+&lt;li&gt;reservar blocos de tempo na agenda para leitura e criação,&lt;/li&gt;
+&lt;li&gt;caprichar muito na preparação de aulas e no cuidado e atenção com os alunos, e&lt;/li&gt;
+&lt;li&gt;focar nas tarefas que lhe interessam mais (por causa do impacto, retorno, etc.) e que você é capaz de trazer um diferencial maior (outra pessoa não poderia fazer com nível similar de qualidade)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;são as que eu acho mais importantes e procurei fazer (e me arrependo de quando não fiz! como ter pulado algumas férias&amp;hellip;) ao longo da minha carreira.&lt;/p&gt;
+
+&lt;p&gt;Sobre a última, em particular, a ideia não é deixar de fazer as outras tarefas necessárias e que você tem menos interesse (no meu caso corrigir provas, ajudar na gestão, etc.) mas fazê-las com a dedicação mínima necessária que a tarefa requer. Procurar chegar perto da perfeição nessas tarefas vai lhe impossibilitar de chegar perto da perfeição nas tarefas que lhe interessam mais (no meu caso preparar aulas, pesquisar, etc.)!&lt;/p&gt;
+
+&lt;p&gt;Leia &lt;a href=&#34;http://matt-welsh.blogspot.com/2016/03/everything-i-did-wrong-as-professor.html&#34; target=&#34;_blank&#34;&gt;Everything I did wrong as a professor&lt;/a&gt;, de Matt Welsh, para evitar algumas armadilhas da vida acadêmica. Eu sempre tentei reduzir viagens, dizer não (sempre que você diz sim para uma atividade está dizendo não para outra!), e reduzir o número de projetos e alunos, mas nunca parece suficiente!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Disponibilizando e divulgando resultados de pesquisa</title>
       <link>https://pauloborba.github.io/post/divulgando-resultados-de-pesquisa/</link>
       <pubDate>Tue, 02 Jan 2024 17:29:26 -0300</pubDate>
@@ -415,6 +437,8 @@
 
 &lt;p&gt;Mantenha um diário de pesquisa, onde você anota todas as atividades realizadas e a realizar, dificuldades encontradas, resultados obtidos e suas limitações, etc. Você pode fazer isso de diversas formas, escolha a que achar mais apropriada. Uma alternativa interessante é fazer isso através de um conjunto de slides, que vai sendo incrementado ao longo do seu trabalho, e já serve tanto como registro do seu diário quanto como forma de apresentar o andamento do seu trabalho e discutir com seu orientador e colegas em reuniões regulares.&lt;/p&gt;
 
+&lt;p&gt;Leia &lt;a href=&#34;https://paulgraham.com/hamming.html&#34; target=&#34;_blank&#34;&gt;You and your research&lt;/a&gt;, de Richard Hamming. É um clássico.&lt;/p&gt;
+
 &lt;p&gt;Esteja preparado para os altos e baixos da vida de um pesquisador, conforme a figura a seguir. &lt;img src=&#34;altos-e-baixos.jpg&#34; alt=&#34;Altos e baixos da vida de um pesquisador&#34; title=&#34;Altos e baixos da vida de um pesquisador&#34; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;buscando-a-excelência-e-relevância-do-seu-trabalho&#34;&gt;Buscando a excelência e relevância do seu trabalho&lt;/h4&gt;
@@ -744,7 +768,15 @@ while (1) {
 
 &lt;p&gt;A qualidade da apresentação do seu trabalho é tão importante quanto a qualidade do mesmo. Capriche na preparação!&lt;/p&gt;
 
-&lt;p&gt;Antes de tudo, estude com cuidado &lt;a href=&#34;https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/&#34; target=&#34;_blank&#34;&gt;How to give a great research talk&lt;/a&gt;, de Simon Peyton Jones.&lt;/p&gt;
+&lt;p&gt;Antes de tudo, estude com cuidado &lt;a href=&#34;https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/&#34; target=&#34;_blank&#34;&gt;How to give a great research talk&lt;/a&gt;, de Simon Peyton Jones. Leia &lt;a href=&#34;https://homes.cs.washington.edu/~mernst/advice/giving-talk.html&#34; target=&#34;_blank&#34;&gt;How to give a technical presentation (how to give a scientific talk)&lt;/a&gt;, de Mike Ernst.&lt;/p&gt;
+
+&lt;h4 id=&#34;planejando-a-apresentação&#34;&gt;Planejando a apresentação&lt;/h4&gt;
+
+&lt;p&gt;A sua apresentação deve contar um estória como a seguinte: desenvolvedores sofrem com problema tal, sofrem dor tal no dia a dia; ferramentas e técnicas atuais não resolvem o problema por completo por causa disso e daquilo; para resolver esse problema, a gente sugere o seguinte; para avaliar se a solução funciona, a gente faz isso e aquilo; os resultados mostram isso; isso significa que tais pessoas podem se beneficiar da solução em tais situações! Essa estória deve ser interessante e chamar a atenção da audiência. É importante que a estória também gire em torno de um único ponto principal, uma única descoberta principal; melhor focar em um ponto e fazê-lo bem feito.&lt;/p&gt;
+
+&lt;p&gt;Discuta esse planejamento com o seu orientador.&lt;/p&gt;
+
+&lt;p&gt;Veja mais dicas relacionadas a essa em &lt;a href=&#34;https://pauloborba.github.io/post/escrevendo-seu-trabalho/&#34; target=&#34;_blank&#34;&gt;Escrevendo seu trabalho&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4 id=&#34;preparando-os-slides&#34;&gt;Preparando os slides&lt;/h4&gt;
 

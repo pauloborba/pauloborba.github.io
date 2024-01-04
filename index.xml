@@ -806,6 +806,8 @@ while (1) {
 
 &lt;p&gt;Veja &lt;a href=&#34;https://speakerdeck.com/mseckington/the-art-of-slide-design&#34; target=&#34;_blank&#34;&gt;The art of slide design&lt;/a&gt;, que dá dicas importantes de como usar cores, fontes, etc. nos slides da sua apresentação. Aqui estão os princípios básicos extraídos dessa apresentação: maximize signal and minimize noise (one purpose per slide, don&amp;rsquo;t distract); make important information stand out (mainly using color, but also size, fonts and shapes); show AND tell (use photos, icons, shapes, and animations to support what you are saying); be consistent.&lt;/p&gt;
 
+&lt;p&gt;Se preocupe com a acessibilidade da sua apresentação. Adicione texto alternativo às imagens da sua apresentação (não consegui fazer isso funcionar no Keynote!). Escolha cores contrastantes para o texto e o fundo dos seus slides. Evite verde com vermelho, e azul com amarelo. Não use apenas cores para realçar informação, use a cor e bold. Evite slides sem título.&lt;/p&gt;
+
 &lt;p&gt;Veja também repositórios de &lt;a href=&#34;http://colorsupplyyy.com/&#34; target=&#34;_blank&#34;&gt;combinações de cores interessantes&lt;/a&gt;, &lt;a href=&#34;https://fonts.google.com/&#34; target=&#34;_blank&#34;&gt;fontes&lt;/a&gt;, &lt;a href=&#34;https://www.flickr.com/&#34; target=&#34;_blank&#34;&gt;fotos&lt;/a&gt;, &lt;a href=&#34;https://www.pexels.com/&#34; target=&#34;_blank&#34;&gt;mais fotos&lt;/a&gt;, e &lt;a href=&#34;https://thenounproject.com/&#34; target=&#34;_blank&#34;&gt;ícones&lt;/a&gt;. Eu também uso um conjunto de ícones da common craft.&lt;/p&gt;
 
 &lt;p&gt;Se a sua apresentação inclui um vídeo, veja antes &lt;a href=&#34;https://pauloborba.github.io/post/gravando-videos/&#34; target=&#34;_blank&#34;&gt;Gravando vídeos&lt;/a&gt;.&lt;/p&gt;
@@ -829,6 +831,8 @@ while (1) {
 &lt;p&gt;Se a apresentação for em Inglês, evite esses &lt;a href=&#34;https://pt.babbel.com/pt/magazine/como-identificar-um-brasileiro-falando-ingles?bsc=pormag-a63-howtospotabrazilian-mi-ob&amp;amp;btp=1_por_out_mi&amp;amp;utm_campaign=cd_porall_gpr_cbr_howtospotbr&amp;amp;utm_content=Veja+os+erros+mais+comuns+de+brasileiros+ao+falar+&amp;amp;utm_medium=CON&amp;amp;utm_source=outbrain&amp;amp;utm_term=5470743&#34; target=&#34;_blank&#34;&gt;erros comuns&lt;/a&gt; cometidos por brasileiros quando falam Inglês.&lt;/p&gt;
 
 &lt;p&gt;Confira as &lt;a href=&#34;https://www.acm.org/about-acm/policy-against-harassment&#34; target=&#34;_blank&#34;&gt;políticas&lt;/a&gt; para participação em eventos da ACM, mas que devem ser seguidas em qualquer tipo de evento.&lt;/p&gt;
+
+&lt;p&gt;Se houver na audiência pessoas com deficiência visual, apresente de forma inclusiva. No início da apresentação, se apresente adequadamente, diga seu nome, gênero, cor da pele, altura e peso aproximados, se usa óculos, como é seu cabelo, etc. Durante a apresentação, descreva verbalmente as imagens, figuras, gráficos (&amp;ldquo;na extremidade esquerda do eixo x temos&amp;hellip; e na direita temos&amp;hellip;&amp;rdquo;), tabelas (&amp;ldquo;nesta tabela onde temos linhas com&amp;hellip; e colunas com, na célula &amp;hellip; temos&amp;hellip;&amp;rdquo;), etc.&lt;/p&gt;
 
 &lt;h4 id=&#34;agradecendo-a-quem-lhe-ajuda&#34;&gt;Agradecendo a quem lhe ajuda&lt;/h4&gt;
 

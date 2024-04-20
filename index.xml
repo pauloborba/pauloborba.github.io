@@ -621,7 +621,7 @@
 
 &lt;p&gt;Crie um repositório privado na área do seu grupo de pesquisa. A do SPG é &lt;a href=&#34;https://github.com/spgroup&#34; target=&#34;_blank&#34;&gt;spggroup&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Use LaTeX, com hyperref. Leia &lt;a href=&#34;https://github.com/dspinellis/latex-advice&#34; target=&#34;_blank&#34;&gt;essas dicas&lt;/a&gt; para uso adequado do LaTeX.&lt;/p&gt;
+&lt;p&gt;Use LaTeX, com hyperref. Leia &lt;a href=&#34;https://github.com/dspinellis/latex-advice&#34; target=&#34;_blank&#34;&gt;essas dicas&lt;/a&gt; para uso adequado do LaTeX. Sem saber o básico, você vai cometer muitos erros. Coisas como as seguintes: para obter um travessão em LaTeX, você tem que escrever três hífens seguidos, sem espaço entre eles; como indicação de rodapé vem sempre depois da pontuação, escreva &amp;ldquo;texto.\footnote{texto do rodapé}&amp;rdquo; ao invés de &amp;ldquo;texto\footnote{texto do rodapé}.&amp;ldquo;; para fechar aspas duplas, escreva dois ‘ seguidos, nao o carácter &amp;rdquo; de aspas duplas; para abrir aspas duplas, escreva dois ` seguidos.&lt;/p&gt;
 
 &lt;p&gt;Analise pelo menos dois ou três artigos anteriores do seu orientador e colaboradores, e tente seguir práticas e padrões de estilo do seu grupo de pesquisa, ou de alguns artigos de destaque (confirme com seu orientador se eles realmente são de destaque!) que você tenha lido e tenha gostado. Imite o que é bom em termos de estilo de escrita!&lt;/p&gt;
 
@@ -657,7 +657,7 @@
 
 &lt;p&gt;Use muitas tabelas, gráficos, figuras e exemplos de código fonte para explicar as principais ideias e resultados do seu trabalho. Uma figura ilustrando a ideia geral da sua solução, e outra ilustrando como a mesma foi avaliada, são essenciais e precisam ser extremamente caprichadas e dar uma boa ideia do que se trata seu trabalho; discuta-as bem com seu orientador.&lt;/p&gt;
 
-&lt;p&gt;Leia com cuidado, e consulte sempre, &lt;i&gt;The Elements of Style&lt;/i&gt; (&lt;a href=&#34;http://www.bartleby.com/141/&#34; target=&#34;_blank&#34;&gt;link 1&lt;/a&gt; ou &lt;a href=&#34;http://www.crockford.com/wrrrld/style.html&#34; target=&#34;_blank&#34;&gt;link 2&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Leia com cuidado, e consulte sempre, &lt;i&gt;The Elements of Style&lt;/i&gt; (&lt;a href=&#34;http://www.bartleby.com/141/&#34; target=&#34;_blank&#34;&gt;link 1&lt;/a&gt; ou &lt;a href=&#34;http://www.crockford.com/wrrrld/style.html&#34; target=&#34;_blank&#34;&gt;link 2&lt;/a&gt;). Escreva frases curtas; quebre frases longas em várias frases. Fica mais fácil de escrever e de ler.&lt;/p&gt;
 
 &lt;p&gt;Primeiro mostre o exemplo concreto, e só depois a generalização.&lt;/p&gt;
 
@@ -868,7 +868,7 @@ while (1) {
 
 &lt;p&gt;É fundamental dar destaque para os financiadores e colaboradores nos artigos, apresentações, posters, software e produtos em geral.&lt;/p&gt;
 
-&lt;p&gt;Nos artigos, colocar algo como &amp;ldquo;For partially supporting this work, we would like to thank INES (National Software Engineering Institute) and the Brazilian research funding agencies CNPq (grant &lt;sup&gt;309741&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2013&lt;/sub&gt;-0), FACEPE (grants IBPG-0546-1.03/15 and APQ/0388-1.03/14), and CAPES.&amp;rdquo; Verificar os números atuais com seu orientador. É importante colocar também os números dos processos dos projetos do qual você obteve algum tipo de financiamento.&lt;/p&gt;
+&lt;p&gt;Nos artigos, colocar algo como &amp;ldquo;For partially supporting this work, we would like to thank INES (National Software Engineering Institute) and the Brazilian research funding agencies CNPq (grant 309235/ 2021-9), FACEPE (grants IBPG-0546-1.03/15 and APQ/0388-1.03/14), and CAPES.&amp;rdquo; Verificar os números atuais com seu orientador. É importante colocar também os números dos processos dos projetos do qual você obteve algum tipo de financiamento.&lt;/p&gt;
 
 &lt;p&gt;Agradecer aos membros do Software Productivity Group e, especificamente, a quem lhe ajudou (revisou seu artigo, implementou algo para você, indicou referências, fez perguntas importantes, deu uma idéia mesmo que você já tenha tido-a) ou deu dicas e sugestões para a melhoria do seu trabalho.&lt;/p&gt;
 </description>

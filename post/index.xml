@@ -157,6 +157,8 @@
 
 &lt;p&gt;Todos esse canais, exceto a lista do GENTeS, podem ser usados para tirar dúvidas de moradia, transporte, etc. aqui em Recife.&lt;/p&gt;
 
+&lt;p&gt;Me envie um email solicitando o convite da agenda para as reuniões do grupo.&lt;/p&gt;
+
 &lt;p&gt;Para ter acesso ao laboratório do INES com o seu crachá, envie email para o helpdesk do CIn, me copiando para eu dar o OK. Se você ainda não sabe o que é o helpdesk do CIn, veja a seguir!&lt;/p&gt;
 
 &lt;p&gt;Crie um site pessoal minimamente organizado no domínio do CIn, e me passe o endereço, por favor. Pode ser bem básico, mas, pelo menos na área de computação, é essencial que autores de artigos tenham essa presença. Como você certamente estará envolvido na autoria de artigos, melhor já ter logo o seu.&lt;/p&gt;
@@ -571,7 +573,7 @@
 
 &lt;h4 id=&#34;preparativos-iniciais&#34;&gt;Preparativos iniciais&lt;/h4&gt;
 
-&lt;p&gt;Crie um repositório privado na área do seu grupo de pesquisa. A do SPG é &lt;a href=&#34;https://github.com/spgroup&#34; target=&#34;_blank&#34;&gt;spggroup&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Crie um repositório privado na área do seu grupo de pesquisa. A do SPG é &lt;a href=&#34;https://github.com/spgroup&#34; target=&#34;_blank&#34;&gt;spggroup&lt;/a&gt;. Peça para seu orientador criar, caso você não tenha permissão.&lt;/p&gt;
 
 &lt;p&gt;Use LaTeX, com hyperref. Leia &lt;a href=&#34;https://github.com/dspinellis/latex-advice&#34; target=&#34;_blank&#34;&gt;essas dicas&lt;/a&gt; para uso adequado do LaTeX. Sem saber o básico, você vai cometer muitos erros. Coisas como as seguintes: para obter um travessão em LaTeX, você tem que escrever três hífens seguidos, sem espaço entre eles; como indicação de rodapé vem sempre depois da pontuação, escreva &amp;ldquo;texto.\footnote{texto do rodapé}&amp;rdquo; ao invés de &amp;ldquo;texto\footnote{texto do rodapé}.&amp;ldquo;; para fechar aspas duplas, escreva dois ‘ seguidos, nao o carácter &amp;rdquo; de aspas duplas; para abrir aspas duplas, escreva dois ` seguidos.&lt;/p&gt;
 

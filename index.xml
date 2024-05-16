@@ -243,6 +243,22 @@
     </item>
     
     <item>
+      <title>Detecting semantic conflicts with unit tests</title>
+      <link>https://pauloborba.github.io/publication/2024detecting_semantic_conflicts_with_unit_tests/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2024detecting_semantic_conflicts_with_unit_tests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lightweight Semantic Conflict Detection with Static Analysis</title>
+      <link>https://pauloborba.github.io/publication/2024lightweight_semantic_conflict_detection_with_static_analysis/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2024lightweight_semantic_conflict_detection_with_static_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Escrevendo uma carta de resubmissão ou refutação do seu trabalho</title>
       <link>https://pauloborba.github.io/post/escrevendo-uma-carta-de-resubmissao-ou-refutacao/</link>
       <pubDate>Fri, 29 Dec 2023 10:55:16 -0300</pubDate>
@@ -474,6 +490,8 @@
 
 &lt;li&gt;&lt;p&gt;&amp;ldquo;&lt;i&gt;Above all, be supportive of authors. If you rated a paper low on impact or novelty, do your best to explain why.&lt;/i&gt;&amp;ldquo;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Considere também que pode haver &lt;a href=&#34;https://andreas-zeller.info/2021/07/27/Reviewing-across-fields-ICSE-PLDI-CCS.html&#34; target=&#34;_blank&#34;&gt;diferenças significativas&lt;/a&gt; nos processos de avaliação de diferentes áreas de pesquisa.&lt;/p&gt;
 </description>
     </item>
     

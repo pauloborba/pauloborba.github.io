@@ -9,7 +9,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/</loc>
-    <lastmod>2024-05-15T09:56:53-03:00</lastmod>
+    <lastmod>2024-05-16T11:43:53-03:00</lastmod>
   </url>
   
   <url>
@@ -33,8 +33,18 @@
   </url>
   
   <url>
-    <loc>https://pauloborba.github.io/post/escrevendo-uma-carta-de-resubmissao-ou-refutacao/</loc>
-    <lastmod>2023-12-29T12:06:23-03:00</lastmod>
+    <loc>https://pauloborba.github.io/publication_types/1/</loc>
+    <lastmod>2024-01-09T18:02:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/publication_types/2/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/aldiberg-gomes/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -43,13 +53,78 @@
   </url>
   
   <url>
-    <loc>https://pauloborba.github.io/authors/heitor-sammuel-carvalho/</loc>
-    <lastmod>2023-12-29T12:26:32-03:00</lastmod>
+    <loc>https://pauloborba.github.io/publication/2024detecting_semantic_conflicts_with_unit_tests/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/galileu-santos-de-jesus/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/joao-moisakis/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/publication/2024lightweight_semantic_conflict_detection_with_static_analysis/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/leuson-silva/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/matheus-barbosa/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/paulo-borba/</loc>
     <lastmod>2024-01-09T18:02:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/publication_types/</loc>
+    <lastmod>2024-01-09T18:02:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/rodrigo-bonifacio/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/thorsten-berger/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/toni-maciel/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/vinicius-leite/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/wardah-mahmood/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/post/escrevendo-uma-carta-de-resubmissao-ou-refutacao/</loc>
+    <lastmod>2023-12-29T12:06:23-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/heitor-sammuel-carvalho/</loc>
+    <lastmod>2023-12-29T12:26:32-03:00</lastmod>
   </url>
   
   <url>
@@ -69,7 +144,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/post/avaliando-um-trabalho/</loc>
-    <lastmod>2023-05-27T18:42:01-03:00</lastmod>
+    <lastmod>2024-05-16T11:43:53-03:00</lastmod>
   </url>
   
   <url>
@@ -123,16 +198,6 @@
   </url>
   
   <url>
-    <loc>https://pauloborba.github.io/publication_types/2/</loc>
-    <lastmod>2023-05-25T16:26:27-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pauloborba.github.io/publication_types/</loc>
-    <lastmod>2024-01-09T18:02:00-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pauloborba.github.io/authors/thais-rocha/</loc>
     <lastmod>2023-05-25T16:26:27-03:00</lastmod>
   </url>
@@ -173,11 +238,6 @@
   </url>
   
   <url>
-    <loc>https://pauloborba.github.io/publication_types/1/</loc>
-    <lastmod>2024-01-09T18:02:00-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pauloborba.github.io/authors/arthur-pires/</loc>
     <lastmod>2022-07-14T16:46:01-04:00</lastmod>
   </url>
@@ -193,28 +253,13 @@
   </url>
   
   <url>
-    <loc>https://pauloborba.github.io/authors/leuson-silva/</loc>
-    <lastmod>2022-07-14T16:46:01-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pauloborba.github.io/authors/marcela-cunha/</loc>
-    <lastmod>2023-05-25T16:26:27-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pauloborba.github.io/authors/matheus-barbosa/</loc>
     <lastmod>2023-05-25T16:26:27-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/paola-accioly/</loc>
     <lastmod>2024-01-09T18:02:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pauloborba.github.io/authors/rodrigo-bonifacio/</loc>
-    <lastmod>2023-05-25T16:26:27-03:00</lastmod>
   </url>
   
   <url>
@@ -298,11 +343,6 @@
   </url>
   
   <url>
-    <loc>https://pauloborba.github.io/authors/thorsten-berger/</loc>
-    <lastmod>2022-07-14T16:46:01-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pauloborba.github.io/authors/v.-osorio/</loc>
     <lastmod>2022-05-20T15:22:26-04:00</lastmod>
   </url>
@@ -314,11 +354,6 @@
   
   <url>
     <loc>https://pauloborba.github.io/publication/2020detecting_semantic_conflicts_via_automated_behavior_change_detection/</loc>
-    <lastmod>2022-07-14T16:46:01-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pauloborba.github.io/authors/joao-moisakis/</loc>
     <lastmod>2022-07-14T16:46:01-04:00</lastmod>
   </url>
   
@@ -359,11 +394,6 @@
   
   <url>
     <loc>https://pauloborba.github.io/publication/2020understanding_predictive_factors_for_merge_conflicts/</loc>
-    <lastmod>2022-07-14T16:46:01-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pauloborba.github.io/authors/wardah-mahmood/</loc>
     <lastmod>2022-07-14T16:46:01-04:00</lastmod>
   </url>
   

@@ -5,12 +5,28 @@
     <link>https://pauloborba.github.io/authors/paulo-borba/</link>
       <atom:link href="https://pauloborba.github.io/authors/paulo-borba/index.xml" rel="self" type="application/rss+xml" />
     <description>Paulo Borba</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Paulo Borba</title>
       <link>https://pauloborba.github.io/authors/paulo-borba/</link>
     </image>
+    
+    <item>
+      <title>Detecting semantic conflicts with unit tests</title>
+      <link>https://pauloborba.github.io/publication/2024detecting_semantic_conflicts_with_unit_tests/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2024detecting_semantic_conflicts_with_unit_tests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lightweight Semantic Conflict Detection with Static Analysis</title>
+      <link>https://pauloborba.github.io/publication/2024lightweight_semantic_conflict_detection_with_static_analysis/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2024lightweight_semantic_conflict_detection_with_static_analysis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Quero mesmo ser Pesquisador?</title>

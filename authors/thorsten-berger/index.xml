@@ -5,12 +5,20 @@
     <link>https://pauloborba.github.io/authors/thorsten-berger/</link>
       <atom:link href="https://pauloborba.github.io/authors/thorsten-berger/index.xml" rel="self" type="application/rss+xml" />
     <description>Thorsten Berger</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Thorsten Berger</title>
       <link>https://pauloborba.github.io/authors/thorsten-berger/</link>
     </image>
+    
+    <item>
+      <title>Detecting semantic conflicts with unit tests</title>
+      <link>https://pauloborba.github.io/publication/2024detecting_semantic_conflicts_with_unit_tests/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2024detecting_semantic_conflicts_with_unit_tests/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Semi-Automated Test-Case Propagation in Fork Ecosystems</title>

@@ -5,7 +5,7 @@
     <link>https://pauloborba.github.io/authors/</link>
       <atom:link href="https://pauloborba.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Authors</title>
@@ -13,18 +13,98 @@
     </image>
     
     <item>
-      <title>Heitor Sammuel Carvalho</title>
-      <link>https://pauloborba.github.io/authors/heitor-sammuel-carvalho/</link>
-      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/heitor-sammuel-carvalho/</guid>
+      <title>Aldiberg Gomes</title>
+      <link>https://pauloborba.github.io/authors/aldiberg-gomes/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/aldiberg-gomes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galileu Santos de Jesus</title>
+      <link>https://pauloborba.github.io/authors/galileu-santos-de-jesus/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/galileu-santos-de-jesus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>João Moisakis</title>
+      <link>https://pauloborba.github.io/authors/joao-moisakis/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/joao-moisakis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Léuson Silva</title>
+      <link>https://pauloborba.github.io/authors/leuson-silva/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/leuson-silva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matheus Barbosa</title>
+      <link>https://pauloborba.github.io/authors/matheus-barbosa/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/matheus-barbosa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paulo Borba</title>
       <link>https://pauloborba.github.io/authors/paulo-borba/</link>
-      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/authors/paulo-borba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rodrigo Bonifácio</title>
+      <link>https://pauloborba.github.io/authors/rodrigo-bonifacio/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/rodrigo-bonifacio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thorsten Berger</title>
+      <link>https://pauloborba.github.io/authors/thorsten-berger/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/thorsten-berger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toni Maciel</title>
+      <link>https://pauloborba.github.io/authors/toni-maciel/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/toni-maciel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vinícius Leite</title>
+      <link>https://pauloborba.github.io/authors/vinicius-leite/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/vinicius-leite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wardah Mahmood</title>
+      <link>https://pauloborba.github.io/authors/wardah-mahmood/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/wardah-mahmood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heitor Sammuel Carvalho</title>
+      <link>https://pauloborba.github.io/authors/heitor-sammuel-carvalho/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/heitor-sammuel-carvalho/</guid>
       <description></description>
     </item>
     
@@ -93,14 +173,6 @@
     </item>
     
     <item>
-      <title>Léuson Silva</title>
-      <link>https://pauloborba.github.io/authors/leuson-silva/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/leuson-silva/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Marcela Cunha</title>
       <link>https://pauloborba.github.io/authors/marcela-cunha/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -109,26 +181,10 @@
     </item>
     
     <item>
-      <title>Matheus Barbosa</title>
-      <link>https://pauloborba.github.io/authors/matheus-barbosa/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/matheus-barbosa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Paola Accioly</title>
       <link>https://pauloborba.github.io/authors/paola-accioly/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/authors/paola-accioly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rodrigo Bonifácio</title>
-      <link>https://pauloborba.github.io/authors/rodrigo-bonifacio/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/rodrigo-bonifacio/</guid>
       <description></description>
     </item>
     
@@ -205,26 +261,10 @@
     </item>
     
     <item>
-      <title>Thorsten Berger</title>
-      <link>https://pauloborba.github.io/authors/thorsten-berger/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/thorsten-berger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>V. Osorio</title>
       <link>https://pauloborba.github.io/authors/v.-osorio/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/authors/v.-osorio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>João Moisakis</title>
-      <link>https://pauloborba.github.io/authors/joao-moisakis/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/joao-moisakis/</guid>
       <description></description>
     </item>
     
@@ -265,14 +305,6 @@
       <link>https://pauloborba.github.io/authors/rohit-gheyi/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/authors/rohit-gheyi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wardah Mahmood</title>
-      <link>https://pauloborba.github.io/authors/wardah-mahmood/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/wardah-mahmood/</guid>
       <description></description>
     </item>
     

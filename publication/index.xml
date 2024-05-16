@@ -13,6 +13,22 @@
     </image>
     
     <item>
+      <title>Detecting semantic conflicts with unit tests</title>
+      <link>https://pauloborba.github.io/publication/2024detecting_semantic_conflicts_with_unit_tests/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2024detecting_semantic_conflicts_with_unit_tests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lightweight Semantic Conflict Detection with Static Analysis</title>
+      <link>https://pauloborba.github.io/publication/2024lightweight_semantic_conflict_detection_with_static_analysis/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2024lightweight_semantic_conflict_detection_with_static_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Using acceptance tests to predict merge conflict risk</title>
       <link>https://pauloborba.github.io/publication/2023using_acceptance_tests_to_predict_merge_conflict_risk/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>

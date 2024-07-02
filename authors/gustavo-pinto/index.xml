@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gustavo Pinto | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/gustavo-pinto/</link>
+      <atom:link href="https://pauloborba.github.io/authors/gustavo-pinto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gustavo Pinto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 22 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Gustavo Pinto</title>
+      <link>https://pauloborba.github.io/authors/gustavo-pinto/</link>
+    </image>
+    
+    <item>
+      <title>Modularidade de Software</title>
+      <link>https://pauloborba.github.io/talk/modularidade-de-software/</link>
+      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/talk/modularidade-de-software/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

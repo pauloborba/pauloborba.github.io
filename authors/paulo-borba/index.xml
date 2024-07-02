@@ -109,6 +109,14 @@
     </item>
     
     <item>
+      <title>Modularidade de Software</title>
+      <link>https://pauloborba.github.io/talk/modularidade-de-software/</link>
+      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/talk/modularidade-de-software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lazy Clone - A Pattern to Improve Performance and Maintainability of Object Cloning</title>
       <link>https://pauloborba.github.io/publication/2021lazy_clone_-_a_pattern_to_improve_performance_and_maintainability_of_object_cloning/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>

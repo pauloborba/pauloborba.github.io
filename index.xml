@@ -106,7 +106,9 @@
 
 &lt;p&gt;Antes de disponibilizar o material, verifique se seu estudo é repetível e reproduzível, e que todos os passos automatizáveis estão de fato automatizados.&lt;/p&gt;
 
-&lt;p&gt;Organize todo o material (scripts, programas, sistemas avaliados, datasets, entrevistas, etc.) e resultados em uma página ou repositório público, de forma a permitir a reprodução ou replicação dos resultados obtidos. Boa documentação desse material é essencial para que a reprodução ou replicação seja possível sem esforços desnecessários.&lt;/p&gt;
+&lt;p&gt;Organize todo o material (scripts, programas, sistemas avaliados, datasets, entrevistas, etc.) e resultados em uma página ou repositório público (ver exemplos de &amp;ldquo;Replication package&amp;rdquo; na &lt;a href=&#34;https://pauloborba.github.io/publication/&#34; target=&#34;_blank&#34;&gt;minha lista de publicações&lt;/a&gt;), de forma a permitir a reprodução ou replicação dos resultados obtidos. Boa documentação desse material é essencial para que a reprodução ou replicação seja possível sem esforços desnecessários.&lt;/p&gt;
+
+&lt;p&gt;Crie um &lt;em&gt;container Docker&lt;/em&gt; (ou similar) com todo o material, e a possibilidade de repetir o estudo com apenas um comando. Na preparação do &lt;em&gt;container&lt;/em&gt;, importante especificar a versão exata do software (interpretadores, bibliotecas, etc.) necessário para executar o experimento, para que versões mais novas não sejam usadas no futuro e gerem resultados diferentes.&lt;/p&gt;
 
 &lt;p&gt;Após a submissão e aceitação do seu trabalho, coloque todo o material do artigo no &lt;a href=&#34;https://github.com/spgroup/papers&#34; target=&#34;_blank&#34;&gt;repositório de artigos&lt;/a&gt; do seu grupo de pesquisa. Avise aos seus co-autores.&lt;/p&gt;
 
@@ -948,9 +950,13 @@ while (1) {
 
 &lt;h4 id=&#34;ensaiando&#34;&gt;Ensaiando&lt;/h4&gt;
 
-&lt;p&gt;Ensaie bastante a apresentação.&lt;/p&gt;
+&lt;p&gt;Ensaie &lt;strong&gt;bastante&lt;/strong&gt; a apresentação.&lt;/p&gt;
 
-&lt;p&gt;Inicialmente, pode ser você sozinho, simulando uma apresentação da forma mais fiel possível, registrando o tempo, sem parar, sem reiniciar, etc. Depois apresente para alguns colegas.&lt;/p&gt;
+&lt;p&gt;Grave pelo menos um desses ensaios para depois ouvir a apresentação e verificar vícios de linguagem a serem evitados, pontos em que você quebrou o fluxo da apresentação, engasgou em alguma palavra, etc.&lt;/p&gt;
+
+&lt;p&gt;Inicialmente, o ensaio pode ser você sozinho, simulando uma apresentação da forma mais fiel possível, registrando o tempo, sem parar, sem reiniciar, etc. Depois apresente para alguns colegas, e também para o seu orientador (especialmente se for a sua primeira apresentação em Inglês e você não for fluente).&lt;/p&gt;
+
+&lt;p&gt;Evite palavras que você tem dificuldade em pronunciar. Normalmente é possível substituir por um sinônimo que você consegue pronunciar sem dificuldade.&lt;/p&gt;
 
 &lt;p&gt;Antes da apresentação, faça um teste com o equipamento (computador, conectores, projetor, software de vídeo-conferência, etc.) que você vai usar na apresentação.&lt;/p&gt;
 

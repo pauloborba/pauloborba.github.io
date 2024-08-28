@@ -5,12 +5,20 @@
     <link>https://pauloborba.github.io/authors/paulo-borba/</link>
       <atom:link href="https://pauloborba.github.io/authors/paulo-borba/index.xml" rel="self" type="application/rss+xml" />
     <description>Paulo Borba</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 27 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Paulo Borba</title>
       <link>https://pauloborba.github.io/authors/paulo-borba/</link>
     </image>
+    
+    <item>
+      <title>Desmistificando a IA na Medicina</title>
+      <link>https://pauloborba.github.io/talk/ia-na-medicina/</link>
+      <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/talk/ia-na-medicina/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Detecting semantic conflicts with unit tests</title>

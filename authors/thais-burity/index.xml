@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thaís Burity | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/thais-burity/</link>
+      <atom:link href="https://pauloborba.github.io/authors/thais-burity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thaís Burity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Thaís Burity</title>
+      <link>https://pauloborba.github.io/authors/thais-burity/</link>
+    </image>
+    
+    <item>
+      <title>Explorando a detecção de conflitos semânticos nas integrações de código em múltiplos métodos</title>
+      <link>https://pauloborba.github.io/publication/2024explorando_a_deteccao_de_conflitos_semanticos_nas_integracoes_de_codigo_em_multiplos_metodos/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2024explorando_a_deteccao_de_conflitos_semanticos_nas_integracoes_de_codigo_em_multiplos_metodos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

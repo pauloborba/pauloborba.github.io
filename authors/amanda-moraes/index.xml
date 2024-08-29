@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amanda Moraes | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/amanda-moraes/</link>
+      <atom:link href="https://pauloborba.github.io/authors/amanda-moraes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amanda Moraes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Amanda Moraes</title>
+      <link>https://pauloborba.github.io/authors/amanda-moraes/</link>
+    </image>
+    
+    <item>
+      <title>Semantic conflict detection via dynamic analysis</title>
+      <link>https://pauloborba.github.io/publication/2024semantic_conflict_detection_via_dynamic_analysis/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2024semantic_conflict_detection_via_dynamic_analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

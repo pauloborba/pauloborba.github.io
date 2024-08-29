@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/</loc>
-    <lastmod>2024-08-27T21:04:36-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -14,12 +14,12 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/paulo-borba/</loc>
-    <lastmod>2024-08-27T21:04:36-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/</loc>
-    <lastmod>2024-08-27T21:04:36-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -49,12 +49,12 @@
   
   <url>
     <loc>https://pauloborba.github.io/publication_types/1/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/publication_types/2/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -63,18 +63,48 @@
   </url>
   
   <url>
+    <loc>https://pauloborba.github.io/authors/amanda-moraes/</loc>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pauloborba.github.io/publication/2024detecting_semantic_conflicts_with_unit_tests/</loc>
     <lastmod>2024-06-21T12:43:29-03:00</lastmod>
   </url>
   
   <url>
+    <loc>https://pauloborba.github.io/publication/2024explorando_a_deteccao_de_conflitos_semanticos_nas_integracoes_de_codigo_em_multiplos_metodos/</loc>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/felipe-araujo/</loc>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pauloborba.github.io/authors/galileu-santos-de-jesus/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/guilherme-cavalcanti/</loc>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/joao-moisakis/</loc>
     <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/jonatas-clementino/</loc>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/leonardo-dos-anjos/</loc>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -84,22 +114,42 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/leuson-silva/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/matheus-barbosa/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/publication_types/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/publication/2024refinando_a_precisao_da_deteccao_de_conflitos__uma_analise_do_csdiff_com_abordagem_focalizada/</loc>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/rodrigo-bonifacio/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/publication/2024semantic_conflict_detection_via_dynamic_analysis/</loc>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/publication/2024semistructured_merge_with_language-specific_syntactic_separators/</loc>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/thais-burity/</loc>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -109,7 +159,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/toni-maciel/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -204,12 +254,12 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/thais-rocha/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-27T21:29:33-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/publication/2023using_acceptance_tests_to_predict_merge_conflict_risk/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-27T21:29:33-03:00</lastmod>
   </url>
   
   <url>
@@ -253,11 +303,6 @@
   </url>
   
   <url>
-    <loc>https://pauloborba.github.io/authors/galileu-santos/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pauloborba.github.io/authors/marcela-cunha/</loc>
     <lastmod>2024-06-21T12:43:29-03:00</lastmod>
   </url>
@@ -269,7 +314,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/publication/2022semantic_conflict_detection_with_overriding_assignment_analysis/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -313,16 +358,6 @@
   </url>
   
   <url>
-    <loc>https://pauloborba.github.io/authors/guilherme-cavalcanti/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pauloborba.github.io/authors/jonatas-clementino/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pauloborba.github.io/publication/2021lazy_clone_-_a_pattern_to_improve_performance_and_maintainability_of_object_cloning/</loc>
     <lastmod>2024-06-21T12:43:29-03:00</lastmod>
   </url>
@@ -349,7 +384,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/sergio-soares/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -374,7 +409,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/klissiomara-dias/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -674,7 +709,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/silvio-meira/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -739,12 +774,12 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/uira-kulesza/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/vander-alves/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -853,23 +888,18 @@
   </url>
   
   <url>
-    <loc>https://pauloborba.github.io/authors/arndt-staa/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pauloborba.github.io/publication/2013aspectj-based_idioms_for_flexible_feature_binding/</loc>
     <lastmod>2024-06-21T12:43:29-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/carla-silva/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/carlos-lucena/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -878,18 +908,13 @@
   </url>
   
   <url>
-    <loc>https://pauloborba.github.io/authors/cecilia-rubira/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pauloborba.github.io/authors/christina-chavez/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/claudio-santanna/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -904,42 +929,32 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/eduardo-aranha/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/eduardo-figueiredo/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/eduardo-piveta/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/fabiano-ferrari/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pauloborba.github.io/authors/fabio-silveira/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pauloborba.github.io/authors/fernanda-alencar/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/fernando-castor/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/flavia-delicato/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -963,11 +978,6 @@
   </url>
   
   <url>
-    <loc>https://pauloborba.github.io/authors/jaelson-castro/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pauloborba.github.io/authors/jean-melo/</loc>
     <lastmod>2024-06-21T12:43:29-03:00</lastmod>
   </url>
@@ -979,17 +989,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/julio-leite/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pauloborba.github.io/authors/lyrene-silva/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pauloborba.github.io/authors/marco-valente/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -1003,28 +1003,13 @@
   </url>
   
   <url>
-    <loc>https://pauloborba.github.io/authors/nabor-mendonca/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pauloborba.github.io/authors/nelio-cacho/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pauloborba.github.io/authors/otavio-lemos/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pauloborba.github.io/authors/paulo-masiero/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/paulo-pires/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -1033,23 +1018,13 @@
   </url>
   
   <url>
-    <loc>https://pauloborba.github.io/authors/ricardo-ramos/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pauloborba.github.io/authors/roberta-coelho/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/rosana-braga/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pauloborba.github.io/authors/rosangela-penteado/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -1068,18 +1043,13 @@
   </url>
   
   <url>
-    <loc>https://pauloborba.github.io/authors/thais-batista/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pauloborba.github.io/publication/2013the_crosscutting_impact_of_the_aosd_brazilian_research_community/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/valter-camargo/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -1158,6 +1128,11 @@
   </url>
   
   <url>
+    <loc>https://pauloborba.github.io/authors/arndt-staa/</loc>
+    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pauloborba.github.io/publication/2011assessing_idioms_for_implementing_features_with_flexible_binding_times/</loc>
     <lastmod>2024-06-21T12:43:29-03:00</lastmod>
   </url>
@@ -1169,12 +1144,22 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/caliane-figueredo/</loc>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/fabio-silveira/</loc>
+    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/fernanda-alencar/</loc>
     <lastmod>2024-06-21T12:43:29-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/gustavo-alexandre/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -1188,7 +1173,27 @@
   </url>
   
   <url>
+    <loc>https://pauloborba.github.io/authors/jaelson-castro/</loc>
+    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pauloborba.github.io/authors/lyrene-fernandes/</loc>
+    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/marco-valente/</loc>
+    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/nabor-mendonca/</loc>
+    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/nelio-cacho/</loc>
     <lastmod>2024-06-21T12:43:29-03:00</lastmod>
   </url>
   
@@ -1198,12 +1203,27 @@
   </url>
   
   <url>
+    <loc>https://pauloborba.github.io/authors/otavio-lemos/</loc>
+    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pauloborba.github.io/publication/2011pbl_no_ensino_de_testes_de_software__uma_experiencia_pratica/</loc>
-    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/ricardo-ramos/</loc>
+    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/rodrigo-almeida/</loc>
+    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/rosangela-penteado/</loc>
     <lastmod>2024-06-21T12:43:29-03:00</lastmod>
   </url>
   
@@ -1214,12 +1234,17 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/simone-santos/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/publication/2011synchronizing_model_and_program_refactoring/</loc>
     <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/thais-batista/</loc>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -1239,7 +1264,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/elder-cirilo/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -1259,7 +1284,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/publication/2010estudo_comparativo_de_ferramentas_de_derivacao_dirigidas_por_modelos__resultados_preliminares/</loc>
-    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -1284,7 +1309,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/mario-torres/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -1474,7 +1499,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/adeline-souza/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -1714,7 +1739,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/publication/2006contextos_de_primeira_classe_em_transformacoes_de_programas/</loc>
-    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -1744,7 +1769,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/gustavo-santos/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -1774,7 +1799,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/publication/2006suporte_a_refatoracoes_em_um_sistema_de_transformacao_de_proposito_geral/</loc>
-    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -1789,7 +1814,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/alexandra-barros/</loc>
-    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -1829,7 +1854,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/publication/2005geracao_de_sistemas_de_transformacao/</loc>
-    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -1874,7 +1899,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/publication/2005um_sistema_de_tipos_para_uma_linguagem_de_transformacao/</loc>
-    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -1909,17 +1934,17 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/andre-santos/</loc>
-    <lastmod>2024-06-21T12:43:29-03:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/publication/2004aspecth__uma_extensao_orientada_a_aspectos_de_haskell/</loc>
-    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/publication/2004aspecth__uma_extensao_orientada_a_aspectos_de_haskell_double_entry/</loc>
-    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -1934,7 +1959,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/authors/carlos-andrade/</loc>
-    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -2034,7 +2059,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/publication/2002aspectj_programacao_orientada_a_aspectos_em_java/</loc>
-    <lastmod>2002-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -2079,7 +2104,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/publication/2002padroes_de_projeto_para_estruturacao_de_aplicacoes_distribuidas_enterprise_javabeans/</loc>
-    <lastmod>2002-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -2094,12 +2119,12 @@
   
   <url>
     <loc>https://pauloborba.github.io/publication/2002testes_e_geracao_de_codigo_de_sistemas_web/</loc>
-    <lastmod>2002-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/publication/2002uma_linguagem_para_testes_de_aceitacao_de_sistemas_web/</loc>
-    <lastmod>2002-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -2124,7 +2149,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/publication/2001controle_de_concorrencia_com_java_e_bancos_de_dados_relacionais/</loc>
-    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
@@ -2279,27 +2304,27 @@
   
   <url>
     <loc>https://pauloborba.github.io/publication/1990traducao_de_tipos_de_especificacao_para_prototipo/</loc>
-    <lastmod>1990-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/publication/1989notacao_vdm_executavel_em_standard_ml/</loc>
-    <lastmod>1989-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/publication/1989prototipos_funcionais_a_partir_de_especificacoes_formais_em_vdm/</loc>
-    <lastmod>1989-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/publication/1987acesso_a_um_banco_de_dados_atraves_de_linguagem_natural/</loc>
-    <lastmod>1987-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://pauloborba.github.io/authors/david-carraher/</loc>
-    <lastmod>1987-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T19:33:41-03:00</lastmod>
   </url>
   
   <url>

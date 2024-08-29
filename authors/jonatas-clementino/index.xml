@@ -5,12 +5,20 @@
     <link>https://pauloborba.github.io/authors/jonatas-clementino/</link>
       <atom:link href="https://pauloborba.github.io/authors/jonatas-clementino/index.xml" rel="self" type="application/rss+xml" />
     <description>Jônatas Clementino</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Jônatas Clementino</title>
       <link>https://pauloborba.github.io/authors/jonatas-clementino/</link>
     </image>
+    
+    <item>
+      <title>Semistructured Merge with Language-Specific Syntactic Separators</title>
+      <link>https://pauloborba.github.io/publication/2024semistructured_merge_with_language-specific_syntactic_separators/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2024semistructured_merge_with_language-specific_syntactic_separators/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Textual merge based on language-specific syntactic separators</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leonardo dos Anjos | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/leonardo-dos-anjos/</link>
+      <atom:link href="https://pauloborba.github.io/authors/leonardo-dos-anjos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leonardo dos Anjos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Leonardo dos Anjos</title>
+      <link>https://pauloborba.github.io/authors/leonardo-dos-anjos/</link>
+    </image>
+    
+    <item>
+      <title>Semistructured Merge with Language-Specific Syntactic Separators</title>
+      <link>https://pauloborba.github.io/publication/2024semistructured_merge_with_language-specific_syntactic_separators/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2024semistructured_merge_with_language-specific_syntactic_separators/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

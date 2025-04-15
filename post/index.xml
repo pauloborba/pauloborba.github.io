@@ -201,18 +201,18 @@
 
 &lt;p&gt;Para conectar aos servidores, você deve estar conectado à rede do CIn. Para tanto, você deve usar o VPN do CIn se o acesso for de fora do CIn. Veja na &lt;a href=&#34;http://helpdesk.cin.ufpe.br/&#34; target=&#34;_blank&#34;&gt;página da gerência de  sistemas&lt;/a&gt; as instruções de como configurar a VPN.&lt;/p&gt;
 
-&lt;p&gt;Os servidores são normalmente configurados para serem acessados com as inicias do CIn como login, mas são restrita para usuários autorizados. Para solicitar autorização, é necessário enviar email para o helpdesk do CIn, indicando que servidor (ver abaixo as opções) deseja acessar, e me copiando para eu dar o OK.&lt;/p&gt;
+&lt;p&gt;Os servidores são normalmente configurados para serem acessados com as inicias do CIn como login, mas são restritos para usuários autorizados. Para solicitar autorização, é necessário enviar email para o helpdesk do CIn, indicando que servidor (ver abaixo as opções) deseja acessar, e me copiando para eu dar o OK.&lt;/p&gt;
 
 &lt;h5 id=&#34;servidores-com-isolamento&#34;&gt;Servidores com isolamento&lt;/h5&gt;
 
 &lt;p&gt;Temos alguns servidores (uns mais novos e potentes, outros mais antigos) que são úteis para realização de experimentos com isolamento de outros usos da máquina, o que é essencial para medir tempo de execução, por exemplo. É preciso combinar com outros usuários se precisarmos de exclusividade de uso da máquina por um período.&lt;/p&gt;
 
-&lt;p&gt;Os servidores são chamados inesserver1.cin.ufpe.br, inesserver2.cin.ufpe.br, inesserver3.cin.ufpe.br e gpu01.cin.ufpe.br. Temos também toritama, que é usado apenas para a wiki do grupo.&lt;/p&gt;
+&lt;p&gt;Os servidores são chamados inesserver1.cin.ufpe.br (Intel Xeon CPU X3440 @2.53GHz com 24GB de RAM), inesserver2.cin.ufpe.br (Intel Xeon E31220 @3.10GHz com 32GB de RAM), inesserver3.cin.ufpe.br (AMD EPYC 9254 @2.9GHz 24-Core 48 Threads, 64GB de RAM) e gpu01.cin.ufpe.br (Intel Xeon CPU E5-2320 @2.10GHz 8-Cores 16 Threads, 32GB RAM, GPU NVIDIA GM204GL). Temos também toritama, que é usado apenas para a wiki do grupo.&lt;/p&gt;
 
 &lt;p&gt;Seguem dicas de Toni Maciel:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Para Login, usar algum cliente SSH e logar com: login@nomeservidor.cin.ufpe.br e digitar sua senha do CIn. Via terminal linux, por exemplo, faço o seguinte: ssh meulogincin@inesserver2.cin.ufpe.br&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Para Login, usar algum cliente SSH e logar com: seulogincin@nomeservidor.cin.ufpe.br e digitar sua senha do CIn. Via terminal linux, por exemplo, faço o seguinte: ssh seulogincin@inesserver2.cin.ufpe.br&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Para transferir arquivos pro servidor e visualizar os diretórios, usar alguma ferramenta como Filezilla.&lt;/p&gt;&lt;/li&gt;
 
@@ -221,7 +221,7 @@
 
 &lt;h5 id=&#34;cluster-ram&#34;&gt;Cluster RAM&lt;/h5&gt;
 
-&lt;p&gt;Se o seu experimento precisa de muita memória RAM, temos uma máquina com bastante memória (2 TB); o hostname dela é cluster-node11.cin.ufpe.br.&lt;/p&gt;
+&lt;p&gt;Se o seu experimento precisa de muita memória RAM, temos uma máquina com bastante memória; o hostname dela é cluster-node11.cin.ufpe.br (Ubuntu com processador Intel Xeon Gold 6338 e 2Tb de RAM).&lt;/p&gt;
 
 &lt;p&gt;Ela só tem o docker instalado, então todo o seu experimento tem que ser configurado para executar num container docker.&lt;/p&gt;
 
@@ -234,19 +234,19 @@
 
 &lt;ul&gt;
 &lt;li&gt;Abra o gerenciador de arquivo e clique em outras conexões;&lt;/li&gt;
-&lt;li&gt;Digite sftp://gsj@cluster-node11.cin.ufpe.br/, onde gsj é o login do seu email;&lt;/li&gt;
+&lt;li&gt;Digite sftp://seulogincin@cluster-node11.cin.ufpe.br/;&lt;/li&gt;
 &lt;li&gt;Clique em conectar e coloque sua senha do e-mail. Pronto, agora você está dentro do servidor, podendo armazenar arquivos, copiar e colar na mão.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Comando úteis via terminal:
 
 &lt;ul&gt;
-&lt;li&gt;ssh gsj@cluster-node11.cin.ufpe.br, para conectar ao servidor (VPN deve está conectada), onde gsj é o do seu email;&lt;/li&gt;
+&lt;li&gt;ssh seulogincin@cluster-node11.cin.ufpe.br, para conectar ao servidor (VPN deve está conectada);&lt;/li&gt;
 &lt;li&gt;Comandos docker importantes: docker stats, docker ps, docker exec -it ID_CONTAINER /bin/bash, docker cp ID_CONTAINER:/home/PATH PATH_COPY&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Esses são os comandos que mais uso, conectar, copiar arquivos, acessar docker, copiar resultados.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h5 id=&#34;cluster-gpu&#34;&gt;Cluster GPU&lt;/h5&gt;
+&lt;h5 id=&#34;clusters-gpu&#34;&gt;Clusters GPU&lt;/h5&gt;
 
 &lt;p&gt;Para uso intenso de GPUs, temos o cluster Apuana (ver como usa na página de &lt;a href=&#34;http://helpdesk.cin.ufpe.br/&#34; target=&#34;_blank&#34;&gt;sistemas&lt;/a&gt;) e o cluster de um projeto que eu coordeno. Discuta comigo qual usar.&lt;/p&gt;
 </description>

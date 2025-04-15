@@ -163,7 +163,7 @@ Marque um horário comigo para passar na minha sala e eu lhe mostrar o laborató
     
       <meta property="article:published_time" content="2024-01-02T10:06:19-03:00">
     
-    <meta property="article:modified_time" content="2024-07-02T14:54:09-03:00">
+    <meta property="article:modified_time" content="2025-02-27T21:01:18-03:00">
   
 
   
@@ -198,7 +198,7 @@ Marque um horário comigo para passar na minha sala e eu lhe mostrar o laborató
   ],
   
   "datePublished": "2024-01-02T10:06:19-03:00",
-  "dateModified": "2024-07-02T14:54:09-03:00",
+  "dateModified": "2025-02-27T21:01:18-03:00",
   
   "author": {
     "@type": "Person",
@@ -626,7 +626,7 @@ Marque um horário comigo para passar na minha sala e eu lhe mostrar o laborató
           Last updated on
       
     
-    2024-07-02
+    2025-02-27
   </span>
   
 
@@ -635,7 +635,7 @@ Marque um horário comigo para passar na minha sala e eu lhe mostrar o laborató
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    6 min read
+    7 min read
   </span>
   
 
@@ -743,18 +743,18 @@ Marque um horário comigo para passar na minha sala e eu lhe mostrar o laborató
 
 <p>Para conectar aos servidores, você deve estar conectado à rede do CIn. Para tanto, você deve usar o VPN do CIn se o acesso for de fora do CIn. Veja na <a href="http://helpdesk.cin.ufpe.br/" target="_blank">página da gerência de  sistemas</a> as instruções de como configurar a VPN.</p>
 
-<p>Os servidores são normalmente configurados para serem acessados com as inicias do CIn como login, mas são restrita para usuários autorizados. Para solicitar autorização, é necessário enviar email para o helpdesk do CIn, indicando que servidor (ver abaixo as opções) deseja acessar, e me copiando para eu dar o OK.</p>
+<p>Os servidores são normalmente configurados para serem acessados com as inicias do CIn como login, mas são restritos para usuários autorizados. Para solicitar autorização, é necessário enviar email para o helpdesk do CIn, indicando que servidor (ver abaixo as opções) deseja acessar, e me copiando para eu dar o OK.</p>
 
 <h5 id="servidores-com-isolamento">Servidores com isolamento</h5>
 
 <p>Temos alguns servidores (uns mais novos e potentes, outros mais antigos) que são úteis para realização de experimentos com isolamento de outros usos da máquina, o que é essencial para medir tempo de execução, por exemplo. É preciso combinar com outros usuários se precisarmos de exclusividade de uso da máquina por um período.</p>
 
-<p>Os servidores são chamados inesserver1.cin.ufpe.br, inesserver2.cin.ufpe.br, inesserver3.cin.ufpe.br e gpu01.cin.ufpe.br. Temos também toritama, que é usado apenas para a wiki do grupo.</p>
+<p>Os servidores são chamados inesserver1.cin.ufpe.br (Intel Xeon CPU X3440 @2.53GHz com 24GB de RAM), inesserver2.cin.ufpe.br (Intel Xeon E31220 @3.10GHz com 32GB de RAM), inesserver3.cin.ufpe.br (AMD EPYC 9254 @2.9GHz 24-Core 48 Threads, 64GB de RAM) e gpu01.cin.ufpe.br (Intel Xeon CPU E5-2320 @2.10GHz 8-Cores 16 Threads, 32GB RAM, GPU NVIDIA GM204GL). Temos também toritama, que é usado apenas para a wiki do grupo.</p>
 
 <p>Seguem dicas de Toni Maciel:</p>
 
 <ol>
-<li><p>Para Login, usar algum cliente SSH e logar com: login@nomeservidor.cin.ufpe.br e digitar sua senha do CIn. Via terminal linux, por exemplo, faço o seguinte: ssh meulogincin@inesserver2.cin.ufpe.br</p></li>
+<li><p>Para Login, usar algum cliente SSH e logar com: seulogincin@nomeservidor.cin.ufpe.br e digitar sua senha do CIn. Via terminal linux, por exemplo, faço o seguinte: ssh seulogincin@inesserver2.cin.ufpe.br</p></li>
 
 <li><p>Para transferir arquivos pro servidor e visualizar os diretórios, usar alguma ferramenta como Filezilla.</p></li>
 
@@ -763,7 +763,7 @@ Marque um horário comigo para passar na minha sala e eu lhe mostrar o laborató
 
 <h5 id="cluster-ram">Cluster RAM</h5>
 
-<p>Se o seu experimento precisa de muita memória RAM, temos uma máquina com bastante memória (2 TB); o hostname dela é cluster-node11.cin.ufpe.br.</p>
+<p>Se o seu experimento precisa de muita memória RAM, temos uma máquina com bastante memória; o hostname dela é cluster-node11.cin.ufpe.br (Ubuntu com processador Intel Xeon Gold 6338 e 2Tb de RAM).</p>
 
 <p>Ela só tem o docker instalado, então todo o seu experimento tem que ser configurado para executar num container docker.</p>
 
@@ -776,19 +776,19 @@ Marque um horário comigo para passar na minha sala e eu lhe mostrar o laborató
 
 <ul>
 <li>Abra o gerenciador de arquivo e clique em outras conexões;</li>
-<li>Digite sftp://gsj@cluster-node11.cin.ufpe.br/, onde gsj é o login do seu email;</li>
+<li>Digite sftp://seulogincin@cluster-node11.cin.ufpe.br/;</li>
 <li>Clique em conectar e coloque sua senha do e-mail. Pronto, agora você está dentro do servidor, podendo armazenar arquivos, copiar e colar na mão.</li>
 </ul></li>
 <li>Comando úteis via terminal:
 
 <ul>
-<li>ssh gsj@cluster-node11.cin.ufpe.br, para conectar ao servidor (VPN deve está conectada), onde gsj é o do seu email;</li>
+<li>ssh seulogincin@cluster-node11.cin.ufpe.br, para conectar ao servidor (VPN deve está conectada);</li>
 <li>Comandos docker importantes: docker stats, docker ps, docker exec -it ID_CONTAINER /bin/bash, docker cp ID_CONTAINER:/home/PATH PATH_COPY</li>
 </ul></li>
 <li>Esses são os comandos que mais uso, conectar, copiar arquivos, acessar docker, copiar resultados.</li>
 </ol>
 
-<h5 id="cluster-gpu">Cluster GPU</h5>
+<h5 id="clusters-gpu">Clusters GPU</h5>
 
 <p>Para uso intenso de GPUs, temos o cluster Apuana (ver como usa na página de <a href="http://helpdesk.cin.ufpe.br/" target="_blank">sistemas</a>) e o cluster de um projeto que eu coordeno. Discuta comigo qual usar.</p>
 

@@ -5,12 +5,32 @@
     <link>https://pauloborba.github.io/</link>
       <atom:link href="https://pauloborba.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Paulo Borba</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 02 Jul 2025 10:37:07 -0300</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Paulo Borba</title>
       <link>https://pauloborba.github.io/</link>
     </image>
+    
+    <item>
+      <title>Dirigindo o CIn</title>
+      <link>https://pauloborba.github.io/post/dirigindo-o-cin/</link>
+      <pubDate>Wed, 02 Jul 2025 10:37:07 -0300</pubDate>
+      <guid>https://pauloborba.github.io/post/dirigindo-o-cin/</guid>
+      <description>&lt;p&gt;Fui diretor do CIn de 2021 a 2025, me ausentando por 4 meses em 2022 para um período sabático curto, que era para ter acontecido em 2020 mas teve que ser adiado por causa da pandemia.
+Mesmo nesse período de 4 meses, não houve um dia em que eu não tenha feito algo pela diretoria do CIn.&lt;/p&gt;
+
+&lt;p&gt;Foi um grande desafio, por vários motivos (lidar com 15000 emails, e muito mais mensagens de WhatsApp, é apenas um dos motivos, mas nem de perto o maior).&lt;/p&gt;
+
+&lt;p&gt;Mas valeu muito a pena, e me marcou para sempre, de forma similar a como o meu período de doutorado me marcou.&lt;/p&gt;
+
+&lt;p&gt;Fiquei extremamente feliz com a direção tomada pelo centro, e com os excelentes resultados obtidos nesse período, graças ao trabalho e a dedicação de toda a comunidade CIn, especialmente do pessoal mais envolvido na gestão: o vice-diretor Sérgio Soares, as coordenações dos 4 pilares (Ensino, Pesquisa, Extensão e Cooperação), coordenações e gerências dos setores de apoio que são essenciais para o bom funcionamento dos pilares, e as coordenações de curso. Muito obrigado à comunidade CIn!&lt;/p&gt;
+
+&lt;p&gt;As principais novas ações realizadas nesse período são apresentadas neste &lt;a href=&#34;https://youtu.be/VhVXYvGfsMU?t=1132&#34; target=&#34;_blank&#34;&gt;vídeo&lt;/a&gt; e documentadas neste breve &lt;a href=&#34;RelatorioDeGestao2021-2025.pdf&#34; target=&#34;_blank&#34;&gt;relatório&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Muitas outras ações não são mencionadas porque são recorrentes e realizadas por toda gestão, ou mesmo eventuais, mas que foram iniciadas em gestões passadas do CIn, e apenas continuadas nesta gestão. O foco dessa apresentação e relatório é nas inovações e ampliações significativas de ações anteriores.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Modularidade, Componentes, Arquitetura e Reuso de Software: de Parnas aos LLMs</title>

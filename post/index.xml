@@ -227,7 +227,7 @@ Mesmo nesse período de 4 meses, não houve um dia em que eu não tenha feito al
 
 &lt;p&gt;Temos alguns servidores (uns mais novos e potentes, outros mais antigos) que são úteis para realização de experimentos com isolamento de outros usos da máquina, o que é essencial para medir tempo de execução, por exemplo. É preciso combinar com outros usuários se precisarmos de exclusividade de uso da máquina por um período.&lt;/p&gt;
 
-&lt;p&gt;Os servidores são chamados inesserver1.cin.ufpe.br (Intel Xeon CPU X3440 @2.53GHz com 24GB de RAM), inesserver2.cin.ufpe.br (Intel Xeon E31220 @3.10GHz com 32GB de RAM), inesserver3.cin.ufpe.br (AMD EPYC 9254 @2.9GHz 24-Core 48 Threads, 64GB de RAM) e gpu01.cin.ufpe.br (Intel Xeon CPU E5-2320 @2.10GHz 8-Cores 16 Threads, 32GB RAM, GPU NVIDIA GM204GL). Temos também toritama, que é usado apenas para a wiki do grupo.&lt;/p&gt;
+&lt;p&gt;Os servidores são chamados inesserver1.cin.ufpe.br (Intel Xeon CPU X3440 @2.53GHz com 24GB de RAM), inesserver2.cin.ufpe.br (Intel Xeon E31220 @3.10GHz com 32GB de RAM), inesserver3.cin.ufpe.br (AMD EPYC 9254 @2.9GHz 24-Core 48 Threads, 64GB de RAM) e gpu01.cin.ufpe.br (Intel Xeon CPU E5-2320 @2.10GHz 8-Cores 16 Threads, 32GB RAM, GPU NVIDIA GM204GL).&lt;/p&gt;
 
 &lt;p&gt;Seguem dicas de Toni Maciel:&lt;/p&gt;
 

@@ -5,12 +5,28 @@
     <link>https://pauloborba.github.io/</link>
       <atom:link href="https://pauloborba.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Paulo Borba</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 02 Jul 2025 10:37:07 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 21 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Paulo Borba</title>
       <link>https://pauloborba.github.io/</link>
     </image>
+    
+    <item>
+      <title>IA para Engenharia de Software e Engenharia de Software para IA</title>
+      <link>https://pauloborba.github.io/talk/ia-para-es-e-es-para-ia/</link>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/talk/ia-para-es-e-es-para-ia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitos e Realidades no Desenvolvimento de Software com IA</title>
+      <link>https://pauloborba.github.io/talk/mitos-e-realidades-desenvolvimento-sw-ia/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/talk/mitos-e-realidades-desenvolvimento-sw-ia/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dirigindo o CIn</title>
@@ -251,7 +267,7 @@ Mesmo nesse período de 4 meses, não houve um dia em que eu não tenha feito al
 
 &lt;p&gt;Temos alguns servidores (uns mais novos e potentes, outros mais antigos) que são úteis para realização de experimentos com isolamento de outros usos da máquina, o que é essencial para medir tempo de execução, por exemplo. É preciso combinar com outros usuários se precisarmos de exclusividade de uso da máquina por um período.&lt;/p&gt;
 
-&lt;p&gt;Os servidores são chamados inesserver1.cin.ufpe.br (Intel Xeon CPU X3440 @2.53GHz com 24GB de RAM), inesserver2.cin.ufpe.br (Intel Xeon E31220 @3.10GHz com 32GB de RAM), inesserver3.cin.ufpe.br (AMD EPYC 9254 @2.9GHz 24-Core 48 Threads, 64GB de RAM) e gpu01.cin.ufpe.br (Intel Xeon CPU E5-2320 @2.10GHz 8-Cores 16 Threads, 32GB RAM, GPU NVIDIA GM204GL). Temos também toritama, que é usado apenas para a wiki do grupo.&lt;/p&gt;
+&lt;p&gt;Os servidores são chamados inesserver1.cin.ufpe.br (Intel Xeon CPU X3440 @2.53GHz com 24GB de RAM), inesserver2.cin.ufpe.br (Intel Xeon E31220 @3.10GHz com 32GB de RAM), inesserver3.cin.ufpe.br (AMD EPYC 9254 @2.9GHz 24-Core 48 Threads, 64GB de RAM) e gpu01.cin.ufpe.br (Intel Xeon CPU E5-2320 @2.10GHz 8-Cores 16 Threads, 32GB RAM, GPU NVIDIA GM204GL).&lt;/p&gt;
 
 &lt;p&gt;Seguem dicas de Toni Maciel:&lt;/p&gt;
 

@@ -3,28 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pauloborba.github.io/authors/</loc>
+    <lastmod>2025-09-04T17:38:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/talk/ia-para-es-e-es-para-ia/</loc>
+    <lastmod>2025-09-04T17:38:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/paulo-borba/</loc>
+    <lastmod>2025-09-04T17:38:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/</loc>
+    <lastmod>2025-09-04T17:38:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/alvaro-pinheiro/</loc>
+    <lastmod>2025-09-04T17:38:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/talk/mitos-e-realidades-desenvolvimento-sw-ia/</loc>
+    <lastmod>2025-09-04T17:28:00-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pauloborba.github.io/post/dirigindo-o-cin/</loc>
     <lastmod>2025-07-02T14:44:01-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pauloborba.github.io/</loc>
-    <lastmod>2025-07-02T14:44:01-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pauloborba.github.io/authors/</loc>
-    <lastmod>2024-11-15T09:48:36-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pauloborba.github.io/talk/modularity-cars/</loc>
     <lastmod>2024-10-01T18:55:41-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pauloborba.github.io/authors/paulo-borba/</loc>
-    <lastmod>2024-11-15T09:48:36-03:00</lastmod>
   </url>
   
   <url>
@@ -59,7 +74,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/post/chegando-no-cin-spg/</loc>
-    <lastmod>2025-04-15T10:19:58-03:00</lastmod>
+    <lastmod>2025-08-22T14:57:13-03:00</lastmod>
   </url>
   
   <url>
@@ -245,11 +260,6 @@
   <url>
     <loc>https://pauloborba.github.io/talk/o-fim-da-programacao-de-novo/</loc>
     <lastmod>2024-11-15T09:48:36-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pauloborba.github.io/authors/alvaro-pinheiro/</loc>
-    <lastmod>2023-05-24T20:27:30-03:00</lastmod>
   </url>
   
   <url>

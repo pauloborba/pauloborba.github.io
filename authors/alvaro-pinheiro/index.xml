@@ -5,12 +5,20 @@
     <link>https://pauloborba.github.io/authors/alvaro-pinheiro/</link>
       <atom:link href="https://pauloborba.github.io/authors/alvaro-pinheiro/index.xml" rel="self" type="application/rss+xml" />
     <description>Álvaro Pinheiro</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 21 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Álvaro Pinheiro</title>
       <link>https://pauloborba.github.io/authors/alvaro-pinheiro/</link>
     </image>
+    
+    <item>
+      <title>IA para Engenharia de Software e Engenharia de Software para IA</title>
+      <link>https://pauloborba.github.io/talk/ia-para-es-e-es-para-ia/</link>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/talk/ia-para-es-e-es-para-ia/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Impactos da Inteligência Artificial na Sociedade</title>

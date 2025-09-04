@@ -5,7 +5,7 @@
     <link>https://pauloborba.github.io/authors/</link>
       <atom:link href="https://pauloborba.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 21 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Authors</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Paulo Borba</title>
       <link>https://pauloborba.github.io/authors/paulo-borba/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/authors/paulo-borba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Álvaro Pinheiro</title>
+      <link>https://pauloborba.github.io/authors/alvaro-pinheiro/</link>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/alvaro-pinheiro/</guid>
       <description></description>
     </item>
     
@@ -177,14 +185,6 @@
       <link>https://pauloborba.github.io/authors/artur-oscar/</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/authors/artur-oscar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Álvaro Pinheiro</title>
-      <link>https://pauloborba.github.io/authors/alvaro-pinheiro/</link>
-      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/authors/alvaro-pinheiro/</guid>
       <description></description>
     </item>
     

@@ -13,6 +13,29 @@
     </image>
     
     <item>
+      <title>Usando IA (LLMs e Agentes) para Pesquisa</title>
+      <link>https://pauloborba.github.io/post/usando-ia-para-pesquisa/</link>
+      <pubDate>Thu, 20 Nov 2025 10:17:51 -0300</pubDate>
+      <guid>https://pauloborba.github.io/post/usando-ia-para-pesquisa/</guid>
+      <description>&lt;p&gt;Os LLMs e Agentes (como o do GitHub Copilot) avançaram muito e atingiram um ponto em que podem ser úteis para algumas atividades de pesquisa, amplificando nosso potencial.&lt;/p&gt;
+
+&lt;p&gt;Podem ser úteis mas não sem levar a retrabalho ou problemas de qualidade, é importante estar atento para isso e não se deixar levar pelo marketing dos fornecedores de serviços de IA. Veja este &lt;a href=&#34;https://pauloborba.github.io/talk/ia-para-es-e-es-para-ia/&#34; target=&#34;_blank&#34;&gt;episódio de podcast&lt;/a&gt; ou esta &lt;a href=&#34;https://pauloborba.github.io/talk/mitos-e-realidades-desenvolvimento-sw-ia/&#34; target=&#34;_blank&#34;&gt;palestra&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Uma atividade como a de revisão final de um artigo que está prestes a ser submetido, por exemplo, pode identificar algum detalhe que você e seu orientador deixaram passar. Este &lt;a href=&#34;https://www.linkedin.com/posts/prof-todd-austin_research-publication-aitools-activity-7397001188879036416-EeS9?utm_source=share&amp;amp;utm_medium=member_android&amp;amp;rcm=ACoAAALmP2QBSciTVA5NWvJzUHVX5vQEDIY0yew&#34; target=&#34;_blank&#34;&gt;post&lt;/a&gt;, por exemplo, sugere o seguinte &lt;i&gt;prompt&lt;/i&gt;: &amp;ldquo;Please review my near-final draft of a research paper. Please 1) proofread the paper, 2) fact check the contents, 3) perform consistency checking of terminology, Figure #&amp;rsquo;s, etc., 4) look for any logical fallacies, 5) find anywhere I should add or remove citations, 6) remove any em-dashes from the prose, and 7) list any other improvements you see as beneficial. Please list the results below as IMPORTANT or SUGGESTED changes&amp;rdquo;. Eu gosto de &amp;ldquo;em-dashes&amp;rdquo;, então eu retiraria essa parte do &lt;i&gt;prompt&lt;/i&gt;, mas a ideia do autor é só dar um exemplo do que você poderia pedir a um LLM para fazer.&lt;/p&gt;
+
+&lt;p&gt;Minha expectativa é que esse tipo de uso gere algumas sugestões boas e outras ruins, e talvez fazer isso para todo o arquivo de uma vez traga piores resultados do que fazendo por partes. Mas se você passa batido fácil em algum desses problemas, e não consegue ser mais atento, pode valer a pena. Isso, claro, se você, como assumido de todo pesquisador, tiver apurado &lt;b&gt;senso crítico&lt;/b&gt; para discernir o que de fato é um ponto fraco (e você e seu orientador passaram batido) do que é pura aleatoriedade da IA (LLMs, agentes, etc.). Por fim, você tem que revisar com cuidado, ponto a ponto, o que for sugerido pela IA.&lt;/p&gt;
+
+&lt;p&gt;Em geral, você só deve usar IA para atividades que você tenha um bom oráculo para avaliar se o que ela gera faz sentido, se precisa de ajuste, ou se seria melhor descartar. Se não tiver, é fortemente recomendado &lt;b&gt;não&lt;/b&gt; usar IA para essa atividade. Não seria um uso responsável.&lt;/p&gt;
+
+&lt;p&gt;Para um pesquisador de ES, gerar código com IA também é tranquilo, já que temos os compiladores, testes, analisadores estáticos e dinâmicos, e, principalmente, a sua revisão criteriosa do código gerado. Fazendo isso, você também está assumindo total responsabilidade sobre o código gerado, como deve ser.&lt;/p&gt;
+
+&lt;p&gt;Já no caso de uso da IA para revisar ou resumir um artigo que você não leu, escrito por outra pessoa, você não tem nenhum oráculo para verificar o que ela gera como resumo ou revisão, a menos que &lt;b&gt;você&lt;/b&gt; depois leia o artigo com cuidado. Para fazer esse uso de IA sem ler o artigo é preciso muita &lt;b&gt;fé&lt;/b&gt; numa tecnologia probabilística, e &lt;b&gt;coragem&lt;/b&gt; para arcar com as consequências do percentual (5%? 10%? 20%? 30%) que vai ter de erro e imprecisão no que é gerado pela IA e que você não vai contestar; vai provavelmente absorver e passar a ideia errada adiante. Isso não é considerado um uso responsável.&lt;/p&gt;
+
+&lt;p&gt;No mundo acadêmico, esse e outros usos não responsáveis da IA podem levar a sérias consequências, com prejuízos para a sua carreira e a conclusão do seu curso.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Dirigindo o CIn</title>
       <link>https://pauloborba.github.io/post/dirigindo-o-cin/</link>
       <pubDate>Wed, 02 Jul 2025 10:37:07 -0300</pubDate>

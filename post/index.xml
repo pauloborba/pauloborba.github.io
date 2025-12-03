@@ -13,6 +13,96 @@
     </image>
     
     <item>
+      <title>Organizando um Workshop de um Grupo de Pesquisa</title>
+      <link>https://pauloborba.github.io/post/organizando-um-workshop-do-grupo/</link>
+      <pubDate>Wed, 03 Dec 2025 18:05:08 -0300</pubDate>
+      <guid>https://pauloborba.github.io/post/organizando-um-workshop-do-grupo/</guid>
+      <description>&lt;p&gt;Segue a lista de atividades que normalmente seguimos para organizar os workshops do grupo:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Perguntar no slack do grupo quem pode ajudar com a organização do workshop&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Definir um responsável por cada item desta lista&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Definir a data e horário do workshop&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Reservar a sala para o workshop&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Enviar mensagem no slack do grupo perguntando quem deseja apresentar, e se há limitação de horário para a apresentação&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pessoal, sobre o evento que iremos realizar, por favor, registrem como resposta a esta mensagem o título (tema, ferramenta, artigo, etc.) da sua apresentação e qualquer restrição de horário que você tenha para o workshop do dia X. Obrigado!&lt;/li&gt;
+&lt;li&gt;Provocar pessoas que deveriam apresentar mas não responderam&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Enviar mensagem no slack do grupo dando orientações sobre a participação no evento&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pessoal, no dia X, a ideia é que todos participem o maior tempo possível das apresentações, não vá só lá para fazer a sua apresentação e sair, senão a gente perde o propósito principal do evento, que é a troca de ideias e a interação entre os projetos relacionados. Claro que se houver uma aula importante ou uma atividade importante do estágio e trabalho, a pessoa vai ter que dar uma fugida, mas, podendo escapar disso, melhor&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Criar uma planilha com a programação do evento seguindo este &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1ipeb377ovh5kbMwvn6Hfio-y6-qpPVP9upxPKOKqBFQ/edit?usp=drivesdk&#34; target=&#34;_blank&#34;&gt;modelo&lt;/a&gt; ou similar&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Organizar os horários das apresentações na planilha juntamente com o título e o líder da apresentação&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lembrar dos horários para coffee break, almoço&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Enviar o convite na agenda, para os membros do grupo, contendo a duração do workshop, a planilha com a programação, a sala e informações adicionais, seguindo este &lt;a href=&#34;https://docs.google.com/document/d/18TIfQ8y5o1QPzj9VvRCZ76Gpi-y1QOarW-W-4K5WfG8/edit?tab=t.0&#34; target=&#34;_blank&#34;&gt;modelo&lt;/a&gt; ou similar&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Divulgar o workshop por e-mail para as listas a seguir, seguindo este &lt;a href=&#34;https://docs.google.com/document/d/1eo0seU1H2lFW4yg0m58AEQNXFf7mwt3LB33Sg_srSkI/edit?tab=t.0#heading=h.fym1r1tdmt4t&#34; target=&#34;_blank&#34;&gt;modelo&lt;/a&gt; ou similar&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Enviar no máximo uma semana antes&lt;/li&gt;
+&lt;li&gt;Listas de email: spg-l &lt;a href=&#34;mailto:spg-l@cin.ufpe.br&#34; target=&#34;_blank&#34;&gt;spg-l@cin.ufpe.br&lt;/a&gt;, Laboratório de Engenharia de Software CIn-UFPE &lt;a href=&#34;mailto:labes-l@cin.ufpe.br&#34; target=&#34;_blank&#34;&gt;labes-l@cin.ufpe.br&lt;/a&gt;, Alunos da Graduação - CIn-UFPE &lt;a href=&#34;mailto:alunos-grad-l@cin.ufpe.br&#34; target=&#34;_blank&#34;&gt;alunos-grad-l@cin.ufpe.br&lt;/a&gt;, Alunos da Pós-Graduação - CIn-UFPE &lt;a href=&#34;mailto:alunos-pos-l@cin.ufpe.br&#34; target=&#34;_blank&#34;&gt;alunos-pos-l@cin.ufpe.br&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Solicitar a ASCOM para divulgar nas redes sociais do CIn (no máximo uma semana antes)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Organizar os lanches!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Organizar a transmissão do evento no meet/zoom&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A transmissão deve mostrar uma câmera voltada para o apresentador e outra para o público; os slides também devem ser transmitidos, se possível, ou devem estar enquadrados em uma das câmeras, caso contrário; é necessário que um microfone esteja configurado para que a apresentação seja ouvida e as perguntas remotas possam ser respondidas&lt;/li&gt;
+&lt;li&gt;Testar com antecedência&lt;/li&gt;
+&lt;li&gt;Observar os comentários no chat da transmissão e trazê-los para a discussão presencial&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Orientar os líderes das apresentações sobre como configurar seus computadores para a transmissão&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;O apresentador deve acessar o link do meet com o seu computador e compartilhar a tela para exibir a sua apresentação, ligar o seu microfone e se conectar com o da sala, baixar o volume do seu computador e conectar a saída de áudio com o da TV da sala de reunião para que seja possível ouvir os participantes do meet&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Definir quem irá perguntar após cada apresentação&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Assim fazemos um rodízio entre os participantes para que pelo menos uma pessoa (que não o orientador!) faça uma pergunta por apresentação&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Controlar os horários das apresentações para evitar atrasos&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fazer cartaz com indicação de 5 minutos&lt;/li&gt;
+&lt;li&gt;Sentar do lado oposto ao apresentador&lt;/li&gt;
+&lt;li&gt;Se levantar se o apresentador não conseguir ver o anúncio de 5 minutos&lt;/li&gt;
+&lt;li&gt;Desligar a TV se estourar o tempo!&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Registrar fotos do evento&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Compartilhar as fotos do evento no slack do grupo&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Compartilhar todos os slides das apresentações no canal do slack&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Registrar sugestões para melhoria dos próximos workshops, abrindo PR para atualizar esta lista!&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Usando IA (LLMs e Agentes) para Pesquisa</title>
       <link>https://pauloborba.github.io/post/usando-ia-para-pesquisa/</link>
       <pubDate>Thu, 20 Nov 2025 10:17:51 -0300</pubDate>

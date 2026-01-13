@@ -5,7 +5,7 @@
     <link>https://pauloborba.github.io/authors/</link>
       <atom:link href="https://pauloborba.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 03 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Authors</title>
@@ -15,8 +15,32 @@
     <item>
       <title>Paulo Borba</title>
       <link>https://pauloborba.github.io/authors/paulo-borba/</link>
-      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/authors/paulo-borba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phillipy Ferreira</title>
+      <link>https://pauloborba.github.io/authors/phillipy-ferreira/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/phillipy-ferreira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rafael Farinello</title>
+      <link>https://pauloborba.github.io/authors/rafael-farinello/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/rafael-farinello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rodrigo Mendonça</title>
+      <link>https://pauloborba.github.io/authors/rodrigo-mendonca/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/authors/rodrigo-mendonca/</guid>
       <description></description>
     </item>
     

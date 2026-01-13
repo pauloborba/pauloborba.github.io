@@ -5,12 +5,20 @@
     <link>https://pauloborba.github.io/</link>
       <atom:link href="https://pauloborba.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Paulo Borba</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 03 Dec 2025 18:05:08 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Paulo Borba</title>
       <link>https://pauloborba.github.io/</link>
     </image>
+    
+    <item>
+      <title>IA além do código: agencialidade, qualidade e o novo papel do desenvolvedor</title>
+      <link>https://pauloborba.github.io/talk/ia-alem-do-codigo/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/talk/ia-alem-do-codigo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Organizando um Workshop de um Grupo de Pesquisa</title>

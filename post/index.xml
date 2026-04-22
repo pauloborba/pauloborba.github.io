@@ -396,7 +396,7 @@ Mesmo nesse período de 4 meses, não houve um dia em que eu não tenha feito al
 
 &lt;h3 id=&#34;resubmissão&#34;&gt;Resubmissão&lt;/h3&gt;
 
-&lt;p&gt;Antes de tudo, leia &lt;a href=&#34;https://dl.acm.org/citation.cfm?id=2904683&#34; target=&#34;_blank&#34;&gt;How to Revise a Research Paper&lt;/a&gt; e &lt;a href=&#34;http://cs.gmu.edu/~offutt/stvr/26-3-May2016.html&#34; target=&#34;_blank&#34;&gt;How to Write an Effective “Response to Reviewers” Letter&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Antes de tudo, leia &lt;a href=&#34;https://dl.acm.org/citation.cfm?id=2904683&#34; target=&#34;_blank&#34;&gt;How to Revise a Research Paper&lt;/a&gt; e &lt;a href=&#34;https://doi.org/10.1002%2Fstvr.1604&#34; target=&#34;_blank&#34;&gt;How to Write an Effective “Response to Reviewers” Letter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;É essencial ter empatia e facilitar a vida do revisor. Ele já leu o artigo uma vez, e provavelmente não vai ter tempo de ler o artigo todo de novo. Mesmo que ele tenha tempo, ele vai querer facilmente verificar se as mudanças solicitadas por ele foram realmente feitas. Assim é importante destacar todas as mudanças realizadas utilizando um comando como \newcommand{\rev}[1]{\textcolor{blue}{#1}} (ver &lt;a href=&#34;https://medium.com/@xLeitix/marking-changed-text-in-journal-revisions-8583136a4738&#34; target=&#34;_blank&#34;&gt;Marking Changed Text in Journal Revisions&lt;/a&gt;, que também sugere um comando para marcar figuras modificadas).&lt;/p&gt;
 
@@ -419,6 +419,12 @@ Mesmo nesse período de 4 meses, não houve um dia em que eu não tenha feito al
 &lt;p&gt;Inclua na carta as respostas logo após a pergunta ou comentário feito pelo revisor. Ou seja, para escrever a carta, simplesmente cole as revisões e adicione as suas respostas com uma cor diferente entre as perguntas ou comentários feitos pelo revisor.&lt;/p&gt;
 
 &lt;p&gt;Os comentários mais simples indicando erros de escrita, etc. não precisam ser respondidos individualmente. Podem ser respondidos em conjunto, assim: &amp;ldquo;We have fixed all typos and minor issues pointed out by the reviewer&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;O texto inicial da carta pode ser neste estilo, com uma formatação adequada, logo do CIn, etc.:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Dear X, We would like to submit a new revised version of our paper &amp;ldquo;Y&amp;rdquo; for the Z journal. In this response letter we detail the changes we made to address the requested minor revision. In the detailed response, the text in red and italic corresponds to reviewers&amp;rsquo; comments, whereas the text in green is our response. The grayed out text refers to a quote from the paper or from the previous version of this letter. We once again thank the reviewers for their thorough and insightful reviews. Sincerely, W&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;Leia também as dicas para refutação a seguir!&lt;/p&gt;
 

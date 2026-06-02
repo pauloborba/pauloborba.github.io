@@ -21,6 +21,46 @@
     </item>
     
     <item>
+      <title>Comparing static analyses for improved semantic conflict detection</title>
+      <link>https://pauloborba.github.io/publication/2026comparing_static_analyses_for_improved_semantic_conflict_detection/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2026comparing_static_analyses_for_improved_semantic_conflict_detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive Meta-Domain Adaptation for Robust Skin Lesion Classification Across Clinical and Acquisition Conditions</title>
+      <link>https://pauloborba.github.io/publication/2026contrastive_meta-domain_adaptation_for_robust_skin_lesion_classification_across_clinical_and_acquisition_conditions/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2026contrastive_meta-domain_adaptation_for_robust_skin_lesion_classification_across_clinical_and_acquisition_conditions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DERMAE: Improving Skin Lesion Classification Through Conditioned Latent Diffusion and MAE Distillation</title>
+      <link>https://pauloborba.github.io/publication/2026dermae__improving_skin_lesion_classification_through_conditioned_latent_diffusion_and_mae_distillation/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2026dermae__improving_skin_lesion_classification_through_conditioned_latent_diffusion_and_mae_distillation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DermAI: Clinical Dermatology Acquisition Through Quality-Driven Image Collection for AI Classification in Mobile</title>
+      <link>https://pauloborba.github.io/publication/2026dermai__clinical_dermatology_acquisition_through_quality-driven_image_collection_for_ai_classification_in_mobile/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2026dermai__clinical_dermatology_acquisition_through_quality-driven_image_collection_for_ai_classification_in_mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub Template Repositories: Served Domains, Maintenance, and Practitioner Guidelines</title>
+      <link>https://pauloborba.github.io/publication/2026github_template_repositories__served_domains_maintenance_and_practitioner_guidelines/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2026github_template_repositories__served_domains_maintenance_and_practitioner_guidelines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Silvio e o CIn como ele é...</title>
       <link>https://pauloborba.github.io/talk/silvio-e-o-cin-como-ele-e/</link>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
@@ -41,6 +81,22 @@
       <link>https://pauloborba.github.io/talk/mitos-e-realidades-desenvolvimento-sw-ia/</link>
       <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://pauloborba.github.io/talk/mitos-e-realidades-desenvolvimento-sw-ia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Choosing the Right GitWorkflow: A Comparative Analysis of Trunk-based vs. Branch-based Approaches</title>
+      <link>https://pauloborba.github.io/publication/2025choosing_the_right_gitworkflow__a_comparative_analysis_of_trunk-based_vs._branch-based_approaches/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2025choosing_the_right_gitworkflow__a_comparative_analysis_of_trunk-based_vs._branch-based_approaches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecção de Conflitos Semânticos com Testes Gerados por LLM</title>
+      <link>https://pauloborba.github.io/publication/2025deteccao_de_conflitos_semanticos_com_testes_gerados_por_llm/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2025deteccao_de_conflitos_semanticos_com_testes_gerados_por_llm/</guid>
       <description></description>
     </item>
     

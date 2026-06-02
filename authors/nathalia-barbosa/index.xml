@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nathalia Barbosa | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/nathalia-barbosa/</link>
+      <atom:link href="https://pauloborba.github.io/authors/nathalia-barbosa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nathalia Barbosa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Nathalia Barbosa</title>
+      <link>https://pauloborba.github.io/authors/nathalia-barbosa/</link>
+    </image>
+    
+    <item>
+      <title>Detecção de Conflitos Semânticos com Testes Gerados por LLM</title>
+      <link>https://pauloborba.github.io/publication/2025deteccao_de_conflitos_semanticos_com_testes_gerados_por_llm/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2025deteccao_de_conflitos_semanticos_com_testes_gerados_por_llm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

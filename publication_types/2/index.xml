@@ -5,12 +5,20 @@
     <link>https://pauloborba.github.io/publication_types/2/</link>
       <atom:link href="https://pauloborba.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>2</title>
       <link>https://pauloborba.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Comparing static analyses for improved semantic conflict detection</title>
+      <link>https://pauloborba.github.io/publication/2026comparing_static_analyses_for_improved_semantic_conflict_detection/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2026comparing_static_analyses_for_improved_semantic_conflict_detection/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Detecting semantic conflicts with unit tests</title>

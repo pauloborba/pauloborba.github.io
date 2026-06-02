@@ -5,12 +5,20 @@
     <link>https://pauloborba.github.io/authors/paola-accioly/</link>
       <atom:link href="https://pauloborba.github.io/authors/paola-accioly/index.xml" rel="self" type="application/rss+xml" />
     <description>Paola Accioly</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Paola Accioly</title>
       <link>https://pauloborba.github.io/authors/paola-accioly/</link>
     </image>
+    
+    <item>
+      <title>Choosing the Right GitWorkflow: A Comparative Analysis of Trunk-based vs. Branch-based Approaches</title>
+      <link>https://pauloborba.github.io/publication/2025choosing_the_right_gitworkflow__a_comparative_analysis_of_trunk-based_vs._branch-based_approaches/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2025choosing_the_right_gitworkflow__a_comparative_analysis_of_trunk-based_vs._branch-based_approaches/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Private Life of Merge Conflicts</title>

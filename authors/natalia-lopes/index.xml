@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natália Lopes | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/natalia-lopes/</link>
+      <atom:link href="https://pauloborba.github.io/authors/natalia-lopes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Natália Lopes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Natália Lopes</title>
+      <link>https://pauloborba.github.io/authors/natalia-lopes/</link>
+    </image>
+    
+    <item>
+      <title>DermAI: Clinical Dermatology Acquisition Through Quality-Driven Image Collection for AI Classification in Mobile</title>
+      <link>https://pauloborba.github.io/publication/2026dermai__clinical_dermatology_acquisition_through_quality-driven_image_collection_for_ai_classification_in_mobile/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2026dermai__clinical_dermatology_acquisition_through_quality-driven_image_collection_for_ai_classification_in_mobile/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -13,6 +13,114 @@
     </image>
     
     <item>
+      <title>Acessando Servidores para Experimentos</title>
+      <link>https://pauloborba.github.io/post/acessando-servidores-para-experimentos/</link>
+      <pubDate>Tue, 16 Jun 2026 17:03:26 -0300</pubDate>
+      <guid>https://pauloborba.github.io/post/acessando-servidores-para-experimentos/</guid>
+      <description>
+
+&lt;p&gt;Para conectar aos servidores do INES, você deve estar conectado à rede do CIn. Para tanto, você deve usar o VPN do CIn se o acesso for de fora do CIn. Veja na &lt;a href=&#34;http://helpdesk.cin.ufpe.br/&#34; target=&#34;_blank&#34;&gt;página da gerência de sistemas&lt;/a&gt; as instruções de como configurar a VPN.&lt;/p&gt;
+
+&lt;p&gt;Os servidores são normalmente configurados para serem acessados com as inicias do CIn como login, mas são restritos para usuários autorizados. Para solicitar autorização, é necessário enviar email para o helpdesk do CIn, indicando que servidor (ver abaixo as opções) deseja acessar, e copiando o seu orientador (um professor associado ao INES) para ele dar o OK.&lt;/p&gt;
+
+&lt;p&gt;Os servidores só têm o docker instalado, então todo o seu experimento tem que ser configurado para executar num container docker. Isso é importante também por questões de replicabilidade do seu experimento.&lt;/p&gt;
+
+&lt;h3 id=&#34;servidores-com-isolamento&#34;&gt;Servidores com isolamento&lt;/h3&gt;
+
+&lt;p&gt;Temos alguns servidores (uns mais novos e potentes, outros mais antigos) que são úteis para realização de experimentos com isolamento de outros usos da máquina, o que é essencial para medir tempo de execução, por exemplo.&lt;/p&gt;
+
+&lt;p&gt;É preciso combinar com outros usuários se precisarmos de exclusividade de uso da máquina por um período. Em particular, é necessário reservar o experimento na &lt;a href=&#34;https://calendar.google.com/calendar/u/5?cid=Y180MzY5Njg5YTdkNDRjMmQ3Y2RjOTVhZTM0MzAwODUxNTdlMDFmMGYxZWM5MmE5ZDg1ZGJmN2IwZDBlZWY1ZDZjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&#34; target=&#34;_blank&#34;&gt;agenda dos servidores&lt;/a&gt;. Veja mais informações abaixo.&lt;/p&gt;
+
+&lt;p&gt;Os servidores são chamados&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;inesserver1.cin.ufpe.br (Intel Xeon CPU X3440 @2.53GHz com 24GB de RAM),&lt;/li&gt;
+&lt;li&gt;inesserver2.cin.ufpe.br (Intel Xeon E31220 @3.10GHz com 32GB de RAM),&lt;/li&gt;
+&lt;li&gt;inesserver3.cin.ufpe.br (AMD EPYC 9254 @2.9GHz 24-Core 48 Threads, 64GB de RAM) e&lt;/li&gt;
+&lt;li&gt;gpu01.cin.ufpe.br (Intel Xeon CPU E5-2320 @2.10GHz 8-Cores 16 Threads, 32GB RAM, GPU NVIDIA GM204GL).&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;cluster-ram&#34;&gt;Cluster RAM&lt;/h3&gt;
+
+&lt;p&gt;Se o seu experimento precisa de muita memória RAM, temos uma máquina com bastante memória; o hostname dela é cluster-node11.cin.ufpe.br (Ubuntu com processador Intel Xeon Gold 6338 e 2Tb de RAM).&lt;/p&gt;
+
+&lt;h3 id=&#34;clusters-gpu&#34;&gt;Clusters GPU&lt;/h3&gt;
+
+&lt;p&gt;Para uso intenso de GPUs, temos o cluster Apuana (ver como usa na página de &lt;a href=&#34;http://helpdesk.cin.ufpe.br/&#34; target=&#34;_blank&#34;&gt;sistemas&lt;/a&gt;) e o cluster de um projeto que eu coordeno. Discuta comigo qual usar.&lt;/p&gt;
+
+&lt;h3 id=&#34;uso-compartilhado-dos-servidores&#34;&gt;Uso compartilhado dos servidores&lt;/h3&gt;
+
+&lt;p&gt;Antes de iniciar a execução de qualquer experimento nos servidores, consulte a &lt;a href=&#34;https://calendar.google.com/calendar/u/5?cid=Y180MzY5Njg5YTdkNDRjMmQ3Y2RjOTVhZTM0MzAwODUxNTdlMDFmMGYxZWM5MmE5ZDg1ZGJmN2IwZDBlZWY1ZDZjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&#34; target=&#34;_blank&#34;&gt;agenda de uso do servidor&lt;/a&gt; para verificar se há algum agendamento de experimento para o mesmo período em que você pretende rodar o seu experimento.&lt;/p&gt;
+
+&lt;p&gt;Mesmo que não tenha nenhum agendamento no período de interesse, após logar no servidor, verifique se há outros pesquisadores rodando experimentos. Use ferramentas como as seguintes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;top, htop: para carga da máquina&lt;/li&gt;
+&lt;li&gt;ps: para processos em execução&lt;/li&gt;
+&lt;li&gt;nvidia-smi: para uso de GPU&lt;/li&gt;
+&lt;li&gt;w ou who: para verificar quem está logado e possivelmente rodando experimentos&lt;/li&gt;
+&lt;li&gt;docker ps -a: para verificar containers ativos, parados recentemente ou abandonados&lt;/li&gt;
+&lt;li&gt;docker ps: para ver containers realmente em execução&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Se alguém estiver utilizando a máquina, entre em contato com a pessoa antes para evitar interferências no experimento da pessoa, e pergunte se ela necessita de isolamento (como em experimentos com medição de tempo, curto prazo para a execução do experimento, etc.).
+Caso ela precise de isolamento, confirme qual a previsão de término do experimento dela, e então decida se prefere esperar ou tentar outra máquina do grupo.
+Ao ter certeza que a máquina está liberada para uso, e caso precise de isolamento, reserve o período do seu experimento na agenda do servidor. O título do evento deve conter o nome do servidor que será usado.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Ao criar containers e imagens do Docker para executar o seu experimento, use um nome identificável baseado no seu login do CIn.&lt;/em&gt; Por exemplo: ldc_nomeDoContainer, ldc_nomeDaImagem. Isso reduz o risco de exclusões acidentais e facilita identificar quem está usando o quê. Containers e imagens que não seguirem essa recomendação podem ser eliminados sem aviso.&lt;/p&gt;
+
+&lt;h4 id=&#34;dicas-gerais-para-uso-dos-servidores&#34;&gt;Dicas gerais para uso dos servidores&lt;/h4&gt;
+
+&lt;p&gt;Seguem dicas de Toni Maciel:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Para Login, usar algum cliente SSH e logar com: seulogincin@nomeservidor.cin.ufpe.br e digitar sua senha do CIn. Via terminal linux, por exemplo, faço o seguinte: ssh seulogincin@inesserver2.cin.ufpe.br&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Para transferir arquivos pro servidor e visualizar os diretórios, usar alguma ferramenta como Filezilla, WinSCP ou SCP.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Tanto o ssh quanto o filezilla usam a porta de conexão &amp;ldquo;22&amp;rdquo; para acessá-los caso solicitado.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Seguem dicas de Galileu Santos de Jesus:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Para acessar a máquina a parte mais difícil é copiar os arquivos gerados. No Ubuntu, eu acesso via sftp:
+
+&lt;ul&gt;
+&lt;li&gt;Abra o gerenciador de arquivo e clique em outras conexões ou outras localizações;&lt;/li&gt;
+&lt;li&gt;Digite sftp://seulogincin@cluster-node11.cin.ufpe.br/;&lt;/li&gt;
+&lt;li&gt;Clique em conectar e coloque sua senha do e-mail. Pronto, agora você está dentro do servidor, podendo armazenar arquivos, copiar e colar na mão.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Comando úteis via terminal:
+
+&lt;ul&gt;
+&lt;li&gt;ssh seulogincin@cluster-node11.cin.ufpe.br, para conectar ao servidor (VPN deve está conectada);&lt;/li&gt;
+&lt;li&gt;Comandos docker importantes: docker stats, docker ps, docker exec -it ID_CONTAINER /bin/bash, docker cp ID_CONTAINER:/home/PATH PATH_COPY&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Esses são os comandos que mais uso, conectar, copiar arquivos, acessar docker, copiar resultados.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Seguem dicas (checklist) de Matheus Barbosa:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Planeje a execução para minimizar interferências entre experimentos.&lt;/li&gt;
+&lt;li&gt;Considere o impacto de outros usuários ao realizar medições de desempenho.&lt;/li&gt;
+&lt;li&gt;Verifique previamente se possui autorização de acesso ao servidor desejado.&lt;/li&gt;
+&lt;li&gt;Utilize a VPN institucional sempre que estiver fora do CIn.&lt;/li&gt;
+&lt;li&gt;Documente o ambiente utilizado (hardware, sistema operacional e configurações).&lt;/li&gt;
+&lt;li&gt;Evite executar experimentos pesados sem verificar o uso atual da máquina.&lt;/li&gt;
+&lt;li&gt;Comunique-se com outros usuários quando precisar de períodos de execução exclusivos.&lt;/li&gt;
+&lt;li&gt;Sempre mantenha cópias de segurança dos resultados experimentais.&lt;/li&gt;
+&lt;li&gt;Utilize contêineres Docker sempre que possível para garantir reprodutibilidade dos experimentos&lt;/li&gt;
+&lt;li&gt;Monitorar contêineres: docker stats&lt;/li&gt;
+&lt;li&gt;Listar contêineres em execução: docker ps&lt;/li&gt;
+&lt;li&gt;Acessar um contêiner: docker exec -it ID_CONTAINER /bin/bash&lt;/li&gt;
+&lt;li&gt;Copiar arquivos de um contêiner: docker cp ID_CONTAINER:/home/PATH DESTINO_LOCAL&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Organizando um Workshop de um Grupo de Pesquisa</title>
       <link>https://pauloborba.github.io/post/organizando-um-workshop-do-grupo/</link>
       <pubDate>Wed, 03 Dec 2025 18:05:08 -0300</pubDate>
@@ -333,59 +441,6 @@ Mesmo nesse período de 4 meses, não houve um dia em que eu não tenha feito al
 &lt;p&gt;Em particular, é essencial que você adquira uma boa base em Engenharia de Software (assista aos vídeos de &lt;a href=&#34;https://pauloborba.github.io/#courses&#34; target=&#34;_blank&#34;&gt;Introduction to Software and Systems Engineering&lt;/a&gt;, exceto os mais tecnológicos sobre SaaS) e em Métodos de Pesquisa (veja, nos cursos de &lt;a href=&#34;https://github.com/bvasiles/empirical-methods?s=03&#34; target=&#34;_blank&#34;&gt;Bogdan Vasilescu&lt;/a&gt; e &lt;a href=&#34;https://www.youtube.com/channel/UCUeRK8nJKyj_i_Yz81eHa8g/videos&#34; target=&#34;_blank&#34;&gt;Alexander Serebrenik&lt;/a&gt;, pelo menos as aulas relacionadas aos métodos de pesquisa que você vai usar no seu trabalho).&lt;/p&gt;
 
 &lt;p&gt;Se você não tiver conhecimentos práticos sobre Linux, shells, transformação de dados, depuração e profiling, e segurança faça este curso: &lt;a href=&#34;https://missing.csail.mit.edu&#34; target=&#34;_blank&#34;&gt;The Missing Semester of Your CS Education&lt;/a&gt;. Para complementar a parte de Linux, veja os 5 primeiros tópicos do &lt;a href=&#34;https://www.cin.ufpe.br/~phmb/sysadm/programa.html&#34; target=&#34;_blank&#34;&gt;meu curso de UNIX&lt;/a&gt;, apesar de ser bem antigo!&lt;/p&gt;
-
-&lt;h3 id=&#34;acessando-os-servidores-para-experimentos&#34;&gt;Acessando os servidores para experimentos&lt;/h3&gt;
-
-&lt;p&gt;Para conectar aos servidores, você deve estar conectado à rede do CIn. Para tanto, você deve usar o VPN do CIn se o acesso for de fora do CIn. Veja na &lt;a href=&#34;http://helpdesk.cin.ufpe.br/&#34; target=&#34;_blank&#34;&gt;página da gerência de  sistemas&lt;/a&gt; as instruções de como configurar a VPN.&lt;/p&gt;
-
-&lt;p&gt;Os servidores são normalmente configurados para serem acessados com as inicias do CIn como login, mas são restritos para usuários autorizados. Para solicitar autorização, é necessário enviar email para o helpdesk do CIn, indicando que servidor (ver abaixo as opções) deseja acessar, e me copiando para eu dar o OK.&lt;/p&gt;
-
-&lt;h5 id=&#34;servidores-com-isolamento&#34;&gt;Servidores com isolamento&lt;/h5&gt;
-
-&lt;p&gt;Temos alguns servidores (uns mais novos e potentes, outros mais antigos) que são úteis para realização de experimentos com isolamento de outros usos da máquina, o que é essencial para medir tempo de execução, por exemplo. É preciso combinar com outros usuários se precisarmos de exclusividade de uso da máquina por um período.&lt;/p&gt;
-
-&lt;p&gt;Os servidores são chamados inesserver1.cin.ufpe.br (Intel Xeon CPU X3440 @2.53GHz com 24GB de RAM), inesserver2.cin.ufpe.br (Intel Xeon E31220 @3.10GHz com 32GB de RAM), inesserver3.cin.ufpe.br (AMD EPYC 9254 @2.9GHz 24-Core 48 Threads, 64GB de RAM) e gpu01.cin.ufpe.br (Intel Xeon CPU E5-2320 @2.10GHz 8-Cores 16 Threads, 32GB RAM, GPU NVIDIA GM204GL).&lt;/p&gt;
-
-&lt;p&gt;Seguem dicas de Toni Maciel:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Para Login, usar algum cliente SSH e logar com: seulogincin@nomeservidor.cin.ufpe.br e digitar sua senha do CIn. Via terminal linux, por exemplo, faço o seguinte: ssh seulogincin@inesserver2.cin.ufpe.br&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Para transferir arquivos pro servidor e visualizar os diretórios, usar alguma ferramenta como Filezilla.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Tanto o ssh quanto o filezilla usam a porta de conexão &amp;ldquo;22&amp;rdquo; para acessá-los caso solicitado.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h5 id=&#34;cluster-ram&#34;&gt;Cluster RAM&lt;/h5&gt;
-
-&lt;p&gt;Se o seu experimento precisa de muita memória RAM, temos uma máquina com bastante memória; o hostname dela é cluster-node11.cin.ufpe.br (Ubuntu com processador Intel Xeon Gold 6338 e 2Tb de RAM).&lt;/p&gt;
-
-&lt;p&gt;Ela só tem o docker instalado, então todo o seu experimento tem que ser configurado para executar num container docker.&lt;/p&gt;
-
-&lt;p&gt;Temos que ter também bastante cuidado com medições de tempo, etc., e combinar com outros usuários se precisarmos de exclusividade de uso da máquina por um período.&lt;/p&gt;
-
-&lt;p&gt;Seguem dicas de Galileu Santos de Jesus:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Para acessar a máquina a parte mais difícil é copiar os arquivos gerados. No Ubuntu, eu acesso via sftp:
-
-&lt;ul&gt;
-&lt;li&gt;Abra o gerenciador de arquivo e clique em outras conexões;&lt;/li&gt;
-&lt;li&gt;Digite sftp://seulogincin@cluster-node11.cin.ufpe.br/;&lt;/li&gt;
-&lt;li&gt;Clique em conectar e coloque sua senha do e-mail. Pronto, agora você está dentro do servidor, podendo armazenar arquivos, copiar e colar na mão.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Comando úteis via terminal:
-
-&lt;ul&gt;
-&lt;li&gt;ssh seulogincin@cluster-node11.cin.ufpe.br, para conectar ao servidor (VPN deve está conectada);&lt;/li&gt;
-&lt;li&gt;Comandos docker importantes: docker stats, docker ps, docker exec -it ID_CONTAINER /bin/bash, docker cp ID_CONTAINER:/home/PATH PATH_COPY&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Esses são os comandos que mais uso, conectar, copiar arquivos, acessar docker, copiar resultados.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h5 id=&#34;clusters-gpu&#34;&gt;Clusters GPU&lt;/h5&gt;
-
-&lt;p&gt;Para uso intenso de GPUs, temos o cluster Apuana (ver como usa na página de &lt;a href=&#34;http://helpdesk.cin.ufpe.br/&#34; target=&#34;_blank&#34;&gt;sistemas&lt;/a&gt;) e o cluster de um projeto que eu coordeno. Discuta comigo qual usar.&lt;/p&gt;
 </description>
     </item>
     

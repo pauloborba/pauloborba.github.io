@@ -635,7 +635,7 @@ Marque um horário comigo para passar na minha sala e eu lhe mostrar o laborató
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    7 min read
+    4 min read
   </span>
   
 
@@ -740,59 +740,6 @@ Marque um horário comigo para passar na minha sala e eu lhe mostrar o laborató
 <p>Em particular, é essencial que você adquira uma boa base em Engenharia de Software (assista aos vídeos de <a href="/#courses" target="_blank">Introduction to Software and Systems Engineering</a>, exceto os mais tecnológicos sobre SaaS) e em Métodos de Pesquisa (veja, nos cursos de <a href="https://github.com/bvasiles/empirical-methods?s=03" target="_blank">Bogdan Vasilescu</a> e <a href="https://www.youtube.com/channel/UCUeRK8nJKyj_i_Yz81eHa8g/videos" target="_blank">Alexander Serebrenik</a>, pelo menos as aulas relacionadas aos métodos de pesquisa que você vai usar no seu trabalho).</p>
 
 <p>Se você não tiver conhecimentos práticos sobre Linux, shells, transformação de dados, depuração e profiling, e segurança faça este curso: <a href="https://missing.csail.mit.edu" target="_blank">The Missing Semester of Your CS Education</a>. Para complementar a parte de Linux, veja os 5 primeiros tópicos do <a href="https://www.cin.ufpe.br/~phmb/sysadm/programa.html" target="_blank">meu curso de UNIX</a>, apesar de ser bem antigo!</p>
-
-<h3 id="acessando-os-servidores-para-experimentos">Acessando os servidores para experimentos</h3>
-
-<p>Para conectar aos servidores, você deve estar conectado à rede do CIn. Para tanto, você deve usar o VPN do CIn se o acesso for de fora do CIn. Veja na <a href="http://helpdesk.cin.ufpe.br/" target="_blank">página da gerência de  sistemas</a> as instruções de como configurar a VPN.</p>
-
-<p>Os servidores são normalmente configurados para serem acessados com as inicias do CIn como login, mas são restritos para usuários autorizados. Para solicitar autorização, é necessário enviar email para o helpdesk do CIn, indicando que servidor (ver abaixo as opções) deseja acessar, e me copiando para eu dar o OK.</p>
-
-<h5 id="servidores-com-isolamento">Servidores com isolamento</h5>
-
-<p>Temos alguns servidores (uns mais novos e potentes, outros mais antigos) que são úteis para realização de experimentos com isolamento de outros usos da máquina, o que é essencial para medir tempo de execução, por exemplo. É preciso combinar com outros usuários se precisarmos de exclusividade de uso da máquina por um período.</p>
-
-<p>Os servidores são chamados inesserver1.cin.ufpe.br (Intel Xeon CPU X3440 @2.53GHz com 24GB de RAM), inesserver2.cin.ufpe.br (Intel Xeon E31220 @3.10GHz com 32GB de RAM), inesserver3.cin.ufpe.br (AMD EPYC 9254 @2.9GHz 24-Core 48 Threads, 64GB de RAM) e gpu01.cin.ufpe.br (Intel Xeon CPU E5-2320 @2.10GHz 8-Cores 16 Threads, 32GB RAM, GPU NVIDIA GM204GL).</p>
-
-<p>Seguem dicas de Toni Maciel:</p>
-
-<ol>
-<li><p>Para Login, usar algum cliente SSH e logar com: seulogincin@nomeservidor.cin.ufpe.br e digitar sua senha do CIn. Via terminal linux, por exemplo, faço o seguinte: ssh seulogincin@inesserver2.cin.ufpe.br</p></li>
-
-<li><p>Para transferir arquivos pro servidor e visualizar os diretórios, usar alguma ferramenta como Filezilla.</p></li>
-
-<li><p>Tanto o ssh quanto o filezilla usam a porta de conexão &ldquo;22&rdquo; para acessá-los caso solicitado.</p></li>
-</ol>
-
-<h5 id="cluster-ram">Cluster RAM</h5>
-
-<p>Se o seu experimento precisa de muita memória RAM, temos uma máquina com bastante memória; o hostname dela é cluster-node11.cin.ufpe.br (Ubuntu com processador Intel Xeon Gold 6338 e 2Tb de RAM).</p>
-
-<p>Ela só tem o docker instalado, então todo o seu experimento tem que ser configurado para executar num container docker.</p>
-
-<p>Temos que ter também bastante cuidado com medições de tempo, etc., e combinar com outros usuários se precisarmos de exclusividade de uso da máquina por um período.</p>
-
-<p>Seguem dicas de Galileu Santos de Jesus:</p>
-
-<ol>
-<li>Para acessar a máquina a parte mais difícil é copiar os arquivos gerados. No Ubuntu, eu acesso via sftp:
-
-<ul>
-<li>Abra o gerenciador de arquivo e clique em outras conexões;</li>
-<li>Digite sftp://seulogincin@cluster-node11.cin.ufpe.br/;</li>
-<li>Clique em conectar e coloque sua senha do e-mail. Pronto, agora você está dentro do servidor, podendo armazenar arquivos, copiar e colar na mão.</li>
-</ul></li>
-<li>Comando úteis via terminal:
-
-<ul>
-<li>ssh seulogincin@cluster-node11.cin.ufpe.br, para conectar ao servidor (VPN deve está conectada);</li>
-<li>Comandos docker importantes: docker stats, docker ps, docker exec -it ID_CONTAINER /bin/bash, docker cp ID_CONTAINER:/home/PATH PATH_COPY</li>
-</ul></li>
-<li>Esses são os comandos que mais uso, conectar, copiar arquivos, acessar docker, copiar resultados.</li>
-</ol>
-
-<h5 id="clusters-gpu">Clusters GPU</h5>
-
-<p>Para uso intenso de GPUs, temos o cluster Apuana (ver como usa na página de <a href="http://helpdesk.cin.ufpe.br/" target="_blank">sistemas</a>) e o cluster de um projeto que eu coordeno. Discuta comigo qual usar.</p>
 
     </div>
 

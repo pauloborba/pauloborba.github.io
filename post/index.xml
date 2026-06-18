@@ -29,7 +29,7 @@
 
 &lt;p&gt;Temos alguns servidores (uns mais novos e potentes, outros mais antigos) que são úteis para realização de experimentos com isolamento de outros usos da máquina, o que é essencial para medir tempo de execução, por exemplo.&lt;/p&gt;
 
-&lt;p&gt;É preciso combinar com outros usuários se precisarmos de exclusividade de uso da máquina por um período. Em particular, é necessário reservar o experimento na &lt;a href=&#34;https://calendar.google.com/calendar/u/5?cid=Y180MzY5Njg5YTdkNDRjMmQ3Y2RjOTVhZTM0MzAwODUxNTdlMDFmMGYxZWM5MmE5ZDg1ZGJmN2IwZDBlZWY1ZDZjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&#34; target=&#34;_blank&#34;&gt;agenda dos servidores&lt;/a&gt;. Veja mais informações abaixo.&lt;/p&gt;
+&lt;p&gt;É preciso combinar com outros usuários se precisarmos de exclusividade de uso da máquina por um período. Em particular, é necessário reservar o experimento na &lt;a href=&#34;https://calendar.google.com/calendar/embed?src=c_39787dd5697b747a51c757c0011d3acc9d97782e4dd2716f9986773df592eb06%40group.calendar.google.com&amp;amp;ctz=America%2FRecife&#34; target=&#34;_blank&#34;&gt;agenda dos servidores&lt;/a&gt;. Veja mais informações abaixo.&lt;/p&gt;
 
 &lt;p&gt;Os servidores são chamados&lt;/p&gt;
 
@@ -50,7 +50,7 @@
 
 &lt;h3 id=&#34;uso-compartilhado-dos-servidores&#34;&gt;Uso compartilhado dos servidores&lt;/h3&gt;
 
-&lt;p&gt;Antes de iniciar a execução de qualquer experimento nos servidores, consulte a &lt;a href=&#34;https://calendar.google.com/calendar/u/5?cid=Y180MzY5Njg5YTdkNDRjMmQ3Y2RjOTVhZTM0MzAwODUxNTdlMDFmMGYxZWM5MmE5ZDg1ZGJmN2IwZDBlZWY1ZDZjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&#34; target=&#34;_blank&#34;&gt;agenda de uso do servidor&lt;/a&gt; para verificar se há algum agendamento de experimento para o mesmo período em que você pretende rodar o seu experimento.&lt;/p&gt;
+&lt;p&gt;Antes de iniciar a execução de qualquer experimento nos servidores, consulte a &lt;a href=&#34;https://calendar.google.com/calendar/embed?src=c_39787dd5697b747a51c757c0011d3acc9d97782e4dd2716f9986773df592eb06%40group.calendar.google.com&amp;amp;ctz=America%2FRecife&#34; target=&#34;_blank&#34;&gt;agenda de uso do servidor&lt;/a&gt; para verificar se há algum agendamento de experimento para o mesmo período em que você pretende rodar o seu experimento.&lt;/p&gt;
 
 &lt;p&gt;Mesmo que não tenha nenhum agendamento no período de interesse, após logar no servidor, verifique se há outros pesquisadores rodando experimentos. Use ferramentas como as seguintes:&lt;/p&gt;
 

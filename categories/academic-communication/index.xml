@@ -287,7 +287,9 @@ while (1) {
 
 &lt;p&gt;Agradecer aos membros do Software Productivity Group e, especificamente, a quem lhe ajudou (revisou seu artigo, implementou algo para você, indicou referências, fez perguntas importantes, deu uma idéia mesmo que você já tenha tido-a) ou deu dicas e sugestões para a melhoria do seu trabalho.&lt;/p&gt;
 
-&lt;p&gt;This work was partially supported by .&lt;/p&gt;
+&lt;h4 id=&#34;adicione-parágrafo-sobre-questões-éticas-de-pesquisa&#34;&gt;Adicione parágrafo sobre questões éticas de pesquisa&lt;/h4&gt;
+
+&lt;p&gt;Inclua no seu artigo um parágrafo explicando como a pesquisa relatada no artigo lidou com questões éticas relacionadas aos experimentos realizados ou dados utilizados. Descreva com precisão os procedimentos adotados: se houve submissão ao CEP (informando o CAAE correspondente) ou se o estudo se enquadra em alguma das dispensas previstas na legislação vigente; como foram tratados o consentimento dos participantes, a anonimização ou pseudonimização dos dados, o controle de acesso e o armazenamento seguro; e, se dados públicos foram utilizados, porque isso não dispensa cuidados éticos e como a compatibilidade do reuso respeita a LGPD.&lt;/p&gt;
 </description>
     </item>
     

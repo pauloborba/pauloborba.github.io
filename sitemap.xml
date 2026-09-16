@@ -3,28 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pauloborba.github.io/authors/</loc>
+    <lastmod>2026-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/authors/paulo-borba/</loc>
+    <lastmod>2026-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/</loc>
+    <lastmod>2026-09-16T09:55:21-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pauloborba.github.io/talk/ai-impact-on-se-education/</loc>
+    <lastmod>2026-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pauloborba.github.io/post/acessando-servidores-para-experimentos/</loc>
     <lastmod>2026-06-18T11:38:42-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pauloborba.github.io/</loc>
-    <lastmod>2026-08-04T12:11:36-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pauloborba.github.io/authors/</loc>
-    <lastmod>2026-06-15T11:44:33-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pauloborba.github.io/talk/ia-alem-do-codigo/</loc>
     <lastmod>2026-01-13T16:18:51-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pauloborba.github.io/authors/paulo-borba/</loc>
-    <lastmod>2026-06-15T11:44:33-03:00</lastmod>
   </url>
   
   <url>
@@ -179,7 +184,7 @@
   
   <url>
     <loc>https://pauloborba.github.io/post/usando-ia-para-pesquisa/</loc>
-    <lastmod>2025-11-20T11:54:03-03:00</lastmod>
+    <lastmod>2026-09-16T09:55:21-03:00</lastmod>
   </url>
   
   <url>

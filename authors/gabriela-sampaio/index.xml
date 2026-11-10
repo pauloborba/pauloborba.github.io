@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gabriela Sampaio | Paulo Borba</title>
-    <link>https://pauloborba.github.io/authors/gabriela-sampaio/</link>
-      <atom:link href="https://pauloborba.github.io/authors/gabriela-sampaio/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/gabriela-sampaio/</link>
+      <atom:link href="http://localhost:1313/authors/gabriela-sampaio/index.xml" rel="self" type="application/rss+xml" />
     <description>Gabriela Sampaio</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <url>http://localhost:1313/img/foto2019.jpg</url>
       <title>Gabriela Sampaio</title>
-      <link>https://pauloborba.github.io/authors/gabriela-sampaio/</link>
+      <link>http://localhost:1313/authors/gabriela-sampaio/</link>
     </image>
     
     <item>
       <title>Partially safe evolution of software product lines</title>
-      <link>https://pauloborba.github.io/publication/2019partially_safe_evolution_of_software_product_lines/</link>
+      <link>http://localhost:1313/publication/2019partially_safe_evolution_of_software_product_lines/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2019partially_safe_evolution_of_software_product_lines/</guid>
+      <guid>http://localhost:1313/publication/2019partially_safe_evolution_of_software_product_lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Partially Safe Evolution of Software Product Lines</title>
-      <link>https://pauloborba.github.io/publication/2016partially_safe_evolution_of_software_product_lines/</link>
+      <link>http://localhost:1313/publication/2016partially_safe_evolution_of_software_product_lines/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2016partially_safe_evolution_of_software_product_lines/</guid>
+      <guid>http://localhost:1313/publication/2016partially_safe_evolution_of_software_product_lines/</guid>
       <description></description>
     </item>
     

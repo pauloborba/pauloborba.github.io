@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vitor Fontes | Paulo Borba</title>
-    <link>https://pauloborba.github.io/authors/vitor-fontes/</link>
-      <atom:link href="https://pauloborba.github.io/authors/vitor-fontes/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/vitor-fontes/</link>
+      <atom:link href="http://localhost:1313/authors/vitor-fontes/index.xml" rel="self" type="application/rss+xml" />
     <description>Vitor Fontes</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <url>http://localhost:1313/img/foto2019.jpg</url>
       <title>Vitor Fontes</title>
-      <link>https://pauloborba.github.io/authors/vitor-fontes/</link>
+      <link>http://localhost:1313/authors/vitor-fontes/</link>
     </image>
     
     <item>
       <title>Automated Test Execution Effort Estimation based on Functional Test Specifications</title>
-      <link>https://pauloborba.github.io/publication/2008automated_test_execution_effort_estimation_based_on_functional_test_specifications/</link>
+      <link>http://localhost:1313/publication/2008automated_test_execution_effort_estimation_based_on_functional_test_specifications/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2008automated_test_execution_effort_estimation_based_on_functional_test_specifications/</guid>
+      <guid>http://localhost:1313/publication/2008automated_test_execution_effort_estimation_based_on_functional_test_specifications/</guid>
       <description></description>
     </item>
     

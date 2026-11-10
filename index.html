@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -31,7 +31,7 @@
   <meta name="description" content="Paulo Borba&#39;s (Paulo Henrique Monteiro Borba) home page">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://pauloborba.github.io/">
+  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/">
 
   
 
@@ -91,42 +91,6 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131899020-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           document.location = url;
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target);  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-131899020-1', { 'anonymize_ip': true });
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
 
@@ -138,7 +102,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://pauloborba.github.io/">
+  <link rel="canonical" href="http://localhost:1313/">
 
   
   
@@ -153,10 +117,10 @@
   <meta property="twitter:creator" content="@pauloborba">
   
   <meta property="og:site_name" content="Paulo Borba">
-  <meta property="og:url" content="https://pauloborba.github.io/">
+  <meta property="og:url" content="http://localhost:1313/">
   <meta property="og:title" content="Paulo Borba">
-  <meta property="og:description" content="Paulo Borba&#39;s (Paulo Henrique Monteiro Borba) home page"><meta property="og:image" content="https://pauloborba.github.io/img/foto2019.jpg">
-  <meta property="twitter:image" content="https://pauloborba.github.io/img/foto2019.jpg"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Paulo Borba&#39;s (Paulo Henrique Monteiro Borba) home page"><meta property="og:image" content="http://localhost:1313/img/foto2019.jpg">
+  <meta property="twitter:image" content="http://localhost:1313/img/foto2019.jpg"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2026-09-11T00:00:00&#43;00:00">
   
@@ -169,10 +133,10 @@
   "@type": "WebSite",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://pauloborba.github.io/?q={search_term_string}",
+    "target": "http://localhost:1313/?q={search_term_string}",
     "query-input": "required name=search_term_string"
   },
-  "url": "https://pauloborba.github.io/"
+  "url": "http://localhost:1313/"
 }
 </script>
 
@@ -612,7 +576,7 @@
 
       
       
-      <img class="portrait" src="/authors/admin/avatar_hub57017fa83a23a512feca75b91b8a2b9_480190_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
+      <img class="portrait" src="/authors/admin/avatar_hu_3cb465ea1047a588.jpg" alt="Avatar">
       
 
       <div class="portrait-title">
@@ -745,16 +709,11 @@
     
 
     <p>I am Professor of Software Engineering at the <a href="http://www.cin.ufpe.br" target="_blank">Informatics Center</a> (<a href="https://www.youtube.com/watch?v=iHdK1VH-ntY" target="_blank">manifest video</a>, <a href="https://www.youtube.com/watch?feature=youtu.be&amp;v=ioT7VK2MlxU" target="_blank">historical roots video</a>) of the Federal University of Pernambuco, where I lead the <a href="http://www.cin.ufpe.br/spg" target="_blank">Software Productivity Group</a> (<a href="https://www.youtube.com/watch?v=xGJnfGNKPsc&amp;t=24s" target="_blank">video</a>).</p>
-
 <p>I investigate and develop tools and techniques for improving software development quality and productivity levels, especially by reducing unnecessary effort and frustration in software developers work activities. I pursue a mix of academic excellence with societal relevance.</p>
-
 <p>My main research interests are in the following topics and their integration: advanced (semi-structured, structured, semantic) code merging tools, code integration conflicts, continuous integration and deployment, software modularity, software product lines, and refactoring.</p>
-
 <p>I am Associate Editor of <a href="https://www.computer.org/csdl/journal/ts" target="_blank">IEEE Transactions on Software Engineering</a>. I am a member of the ACM and of the Brazilian Computer Society.</p>
-
 <p>I was Director of the Informatics Center from July 2021 to June 2025.
 I co-founded <a href="http://www.qualiti.com.br" target="_blank">Qualiti Software Processes</a>, a spin-off of the Informatics Center and <a href="http://www.cesar.org.br" target="_blank">C.E.S.A.R.</a>, specialized on software development tools and processes. This was one of the first companies to join <a href="https://www.portodigital.org" target="_blank">Porto Digital</a>, now one of the major information technology hubs in Brazil. I was on the Board of Porto Digital from 2021 to 2025.</p>
-
 <p>I have a D.Phil. in Computing from Oxford University, and an M.Sc. and a B.Sc. in Computer Science from Federal University of Pernambuco. I was Fulbright Visiting Faculty Scholar at <a href="https://www.cs.cmu.edu" target="_blank">CMU</a>&rsquo;s <a href="https://www.isri.cmu.edu/index.html" target="_blank">Institute for Software Research</a> (currently the Software and Societal Systems Department).</p>
 
 
@@ -928,7 +887,7 @@ I co-founded <a href="http://www.qualiti.com.br" target="_blank">Qualiti Softwar
     
     
     <a href="/project/semantic-merge/" >
-      <img src="/project/semantic-merge/featured_hu9a17bfd2b11cbaa2a532f62bd1db5c50_87169_150x0_resize_lanczos_2.png" alt="">
+      <img src="/project/semantic-merge/featured_hu_6b842685c20d0bcc.png" alt="">
     </a>
     
   </div>
@@ -1044,7 +1003,7 @@ I co-founded <a href="http://www.qualiti.com.br" target="_blank">Qualiti Softwar
     
     
     <a href="/project/s3m/" >
-      <img src="/project/s3m/featured_huccc5afd9d2b90e49aab3a7ff4483aba7_544907_150x0_resize_lanczos_2.png" alt="">
+      <img src="/project/s3m/featured_hu_110dd10ea6ce3e89.png" alt="">
     </a>
     
   </div>
@@ -1145,7 +1104,7 @@ I co-founded <a href="http://www.qualiti.com.br" target="_blank">Qualiti Softwar
   <div class="col-12 col-lg-8">
 
     <p>Here I list my latest publications.
-The full list is available <a href="https://pauloborba.github.io/publication/" target="_blank">here</a>.
+The full list is available <a href="http://localhost:1313/publication/">here</a>.
 You can also check my publication lists at <a href="http://dblp.uni-trier.de/pers/hd/b/Borba:Paulo" target="_blank">DBLP</a>, <a href="https://scholar.google.com.br/citations?hl=en&amp;view_op=list_works&amp;gmla=AJsN-F5mUBqaWHkc_zcDiTPftyojsxa-Z9O8F9sehSwZmAxzR_OeiwoQIPQdgxFeG-bdh1XuHZ7ibOQlgePGyxPRl6iWLDkQ_Q&amp;user=PpRDLgcAAAAJ" target="_blank">Google Scholar</a>, <a href="https://www.semanticscholar.org/author/Paulo-Borba/144505000" target="_blank">Semantic Scholar</a>, <a href="https://orcid.org/0000-0002-0381-2843" target="_blank">ORCID</a>, <a href="https://www.scopus.com/authid/detail.uri?authorId=6603640441" target="_blank">Scopus</a> and <a href="https://www.webofscience.com/wos/author/record/C-5617-2013" target="_blank">Web of Science</a>.</p>
 
 
@@ -1643,7 +1602,7 @@ You can also check my publication lists at <a href="http://dblp.uni-trier.de/per
 
     
     <div class="article-style">
-      Para conectar aos servidores do INES, você deve estar conectado à rede do CIn. Para tanto, você deve usar o VPN do CIn se o acesso for …
+      <p>Para conectar aos servidores do INES, você deve estar conectado à rede do CIn. Para tanto, você deve usar o VPN do CIn se o acesso for …</p>
     </div>
     
 
@@ -1704,7 +1663,7 @@ You can also check my publication lists at <a href="http://dblp.uni-trier.de/per
     
     
     <a href="/post/acessando-servidores-para-experimentos/" >
-      <img src="/post/acessando-servidores-para-experimentos/featured_hu95deb42f68edf70a30c5fdd7a279d718_36211_150x0_resize_lanczos_2.png" alt="">
+      <img src="/post/acessando-servidores-para-experimentos/featured_hu_a7e15bd891cf95ff.png" alt="">
     </a>
     
   </div>
@@ -1738,8 +1697,10 @@ You can also check my publication lists at <a href="http://dblp.uni-trier.de/per
 
     
     <div class="article-style">
-      Segue a lista de atividades que normalmente seguimos para organizar os workshops do grupo:
- Perguntar no slack do grupo quem pode …
+      <p>Segue a lista de atividades que normalmente seguimos para organizar os workshops do grupo:</p>
+<ol>
+<li>
+<p>Perguntar no slack do grupo quem pode …</p></li></ol>
     </div>
     
 
@@ -1800,7 +1761,7 @@ You can also check my publication lists at <a href="http://dblp.uni-trier.de/per
     
     
     <a href="/post/organizando-um-workshop-do-grupo/" >
-      <img src="/post/organizando-um-workshop-do-grupo/featured_hu7483f7e21c5265016ffc5a9ecff18697_65548_150x0_resize_lanczos_2.png" alt="">
+      <img src="/post/organizando-um-workshop-do-grupo/featured_hu_34ec9cfc8f18c3d9.png" alt="">
     </a>
     
   </div>
@@ -1834,7 +1795,7 @@ You can also check my publication lists at <a href="http://dblp.uni-trier.de/per
 
     
     <div class="article-style">
-      Os LLMs e Agentes (como o do GitHub Copilot) avançaram muito e atingiram um ponto em que podem ser úteis para algumas atividades de …
+      <p>Os LLMs e Agentes (como o do GitHub Copilot) avançaram muito e atingiram um ponto em que podem ser úteis para algumas atividades de …</p>
     </div>
     
 
@@ -1859,7 +1820,7 @@ You can also check my publication lists at <a href="http://dblp.uni-trier.de/per
           Last updated on
       
     
-    2026-09-16
+    2026-11-10
   </span>
   
 
@@ -1868,7 +1829,7 @@ You can also check my publication lists at <a href="http://dblp.uni-trier.de/per
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    6 min read
+    8 min read
   </span>
   
 
@@ -1895,7 +1856,7 @@ You can also check my publication lists at <a href="http://dblp.uni-trier.de/per
     
     
     <a href="/post/usando-ia-para-pesquisa/" >
-      <img src="/post/usando-ia-para-pesquisa/featured_hu045ff22068d9b06d50252327fb72298e_23897_150x0_resize_lanczos_2.png" alt="">
+      <img src="/post/usando-ia-para-pesquisa/featured_hu_e39b1ba2dc928431.png" alt="">
     </a>
     
   </div>
@@ -1961,17 +1922,11 @@ You can also check my publication lists at <a href="http://dblp.uni-trier.de/per
       
     </div>
     <div class="col-12 col-lg-8">
-      
-
-<h5 id="introduction-to-software-and-systems-engineering">Introduction to Software and Systems Engineering</h5>
-
+      <h5 id="introduction-to-software-and-systems-engineering">Introduction to Software and Systems Engineering</h5>
 <p>2020-1, 2020-3, <a href="https://classroom.google.com/u/0/c/Mzc0MjkzOTA0ODBa" target="_blank">2019-2</a>, &hellip;, 2014-2
 (please email or chat for class code)</p>
-
 <p>An undergraduate level course introducing basic software engineering concepts, activities (requirements management, configuration management, project management, testing, design and implementation, refactoring), techniques, and tools. This is a very practical hands-on course exploring in detail a single technique and tool for each activity, instead of overviewing a number of techniques and tools for each activity. The techniques and tools are applied in the context of software as a service, using Typescript, Angular, and Node.js. As learning these technologies is not the main focus of the course, we simply overview them.</p>
-
 <p>You can find here the playlists (with videos in Portuguese) for each of the topics covered in the course:</p>
-
 <ul>
 <li><a href="https://www.youtube.com/watch?v=G3texi8S3fk&amp;list=PLE-5PZOOoVUjpQV4efFvMXhsWQQroXgeN" target="_blank">Requirements</a></li>
 <li><a href="https://www.youtube.com/watch?v=y24gtsd8PLw&amp;list=PLE-5PZOOoVUhwIHh8bfsIK2basXnvlOET" target="_blank">Configuration Management</a></li>
@@ -1981,18 +1936,12 @@ You can also check my publication lists at <a href="http://dblp.uni-trier.de/per
 <li><a href="https://www.youtube.com/watch?v=Mn-YkY7BYA8&amp;list=PLE-5PZOOoVUhMcaasNeSSCf1ZaWvmMY7B" target="_blank">Refactoring</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLE-5PZOOoVUhlfGwlK7dbuX9n4ngOxOLO" target="_blank">SaaS Technology</a>.</li>
 </ul>
-
 <p>Slides and study guidelines (including exercises) are available in the <a href="https://github.com/pauloborba/software-engineering-courses" target="_blank">course repository</a>.</p>
-
 <h5 id="software-engineering">Software Engineering</h5>
-
 <p>2020-1
 (please email or chat for class material beyond the videos below)</p>
-
 <p>An advanced undergraduate, basic graduate level course covering a larger range of software engineering concepts, activities, techniques, and tools. The previous course is a prerequisite to this one, where we cover more advanced topics and discuss a number of research papers.</p>
-
 <p>You can find here the playlists (with videos in Portuguese) for each of the topics covered in the course:</p>
-
 <ul>
 <li><a href="https://www.youtube.com/watch?v=0zYgtcUgXtM&amp;list=PLE-5PZOOoVUgQmHHn-bXzr5AyDWkl3n1G" target="_blank">Requirements</a></li>
 <li><a href="https://www.youtube.com/watch?v=yGO5wxtV0Vs&amp;list=PLE-5PZOOoVUhMxgzBxkAPaij4KF77kftq" target="_blank">Design and Implementation</a></li>
@@ -2002,15 +1951,11 @@ You can also check my publication lists at <a href="http://dblp.uni-trier.de/per
 <li><a href="https://www.youtube.com/watch?v=AxW6z7_Gs2g&amp;list=PLE-5PZOOoVUg42Tl11F3J02o5n5ZnCTNJ" target="_blank">Code Review</a></li>
 <li><a href="https://www.youtube.com/watch?v=VqNjTqUm-BE&amp;list=PLE-5PZOOoVUjao8BeNye0nUZ7zfJRL2mq" target="_blank">Static Analysis</a>.</li>
 </ul>
-
 <h5 id="code-integration-tools-and-techniques">Code Integration Tools and Techniques</h5>
-
 <p><a href="https://classroom.google.com/u/0/c/Mzc0NzYxMjU0NDNa" target="_blank">2019-2</a>
 (please email or chat for class code)</p>
-
 <p>An advanced undergraduate and graduate level course discussing code integration tools and techniques, including different kinds of merge tools (textual, syntactic, semantic), continuous integration and deployment, and integration conflict prediction. We discuss a number of research papers and technical blog posts, and students carry on an empirical study to either replicate one of the discussed studies or answer related research questions.</p>
-
-<p><a href="https://pauloborba.github.io/courses/oldercourses/" target="_blank">OTHER COURSES &gt;</a></p>
+<p><a href="http://localhost:1313/courses/oldercourses/">OTHER COURSES &gt;</a></p>
 
     </div>
   
@@ -2494,7 +2439,6 @@ You can also check my publication lists at <a href="http://dblp.uni-trier.de/per
     </div>
     <div class="col-12 col-lg-8">
       <p>Here are the students I currently supervise, with their expected graduation dates:</p>
-
 <ul>
 <li><a href="https://www.cin.ufpe.br/~phls2/" target="_blank">Pedro Henrique Lopes dos Santos</a> (MSc 2026)</li>
 <li><a href="https://amandascm.github.io" target="_blank">Amanda Moraes</a> (MSc 2026)</li>
@@ -2514,11 +2458,8 @@ You can also check my publication lists at <a href="http://dblp.uni-trier.de/per
 <li>Diogo Dias (BSc 2029)</li>
 <li><a href="https://jpedroh.dev/" target="_blank">João Pedro Henrique Santos Duarte</a> (PhD 2030)</li>
 </ul>
-
 <p>I often have opportunities for supervising dedicated students and software developers interested in the topics I study. Please <a href="#contact">contact</a> me for further detail and check a couple of my <a href="#publications">papers</a> in advance.</p>
-
 <p>Here are former students with whom I currently more closely collaborate:</p>
-
 <ul>
 <li>Gabriela Sampaio (Meta, UK)</li>
 <li>Guilherme Cavalcanti (IFPE)</li>
@@ -2527,9 +2468,7 @@ You can also check my publication lists at <a href="http://dblp.uni-trier.de/per
 <li>Rodrigo Bonifácio (UFPE)</li>
 <li>Thaís Burity (UFAPE)</li>
 </ul>
-
 <p>Here is a yet very preliminary list of students I have supervised:</p>
-
 <ul>
 <li>Marcela Bandeira Cunha (MSc 2023)</li>
 <li>Henrique Oliveira (BSc 2024)</li>
@@ -2543,7 +2482,6 @@ You can also check my publication lists at <a href="http://dblp.uni-trier.de/per
 <li>Pedro Patriota (BSc 2026)</li>
 <li>Galileu Santos de Jesus (PhD 2026)</li>
 </ul>
-
 <p>The full list is in my <a href="http://lattes.cnpq.br/9395715443254344" target="_blank">CV</a>.</p>
 
     </div>
@@ -2788,7 +2726,7 @@ You can also check my publication lists at <a href="http://dblp.uni-trier.de/per
     
     
     
-    <script src="/js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
+    <script src="/js/academic.min.2aa4c034593508cdbd74f28ff6c19844.js"></script>
 
     
 
@@ -2804,7 +2742,7 @@ You can also check my publication lists at <a href="http://dblp.uni-trier.de/per
   
 
   <p class="powered-by">
-    &copy; 2019 &middot; 
+    © 2019 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

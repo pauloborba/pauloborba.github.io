@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gary Leavens | Paulo Borba</title>
-    <link>https://pauloborba.github.io/authors/gary-leavens/</link>
-      <atom:link href="https://pauloborba.github.io/authors/gary-leavens/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/gary-leavens/</link>
+      <atom:link href="http://localhost:1313/authors/gary-leavens/index.xml" rel="self" type="application/rss+xml" />
     <description>Gary Leavens</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <url>http://localhost:1313/img/foto2019.jpg</url>
       <title>Gary Leavens</title>
-      <link>https://pauloborba.github.io/authors/gary-leavens/</link>
+      <link>http://localhost:1313/authors/gary-leavens/</link>
     </image>
     
     <item>
       <title>Modular Aspect-Oriented Design Rule Enforcement with XPIDRs</title>
-      <link>https://pauloborba.github.io/publication/2013modular_aspect-oriented_design_rule_enforcement_with_xpidrs/</link>
+      <link>http://localhost:1313/publication/2013modular_aspect-oriented_design_rule_enforcement_with_xpidrs/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2013modular_aspect-oriented_design_rule_enforcement_with_xpidrs/</guid>
+      <guid>http://localhost:1313/publication/2013modular_aspect-oriented_design_rule_enforcement_with_xpidrs/</guid>
       <description></description>
     </item>
     

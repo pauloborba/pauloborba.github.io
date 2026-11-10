@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -31,7 +31,7 @@
   <meta name="description" content="We investigate and develop semistructured merge tools that improve code integration accuracy without compromising performance.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://pauloborba.github.io/project/s3m/">
+  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/project/s3m/">
 
   
 
@@ -91,42 +91,6 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131899020-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           document.location = url;
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target);  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-131899020-1', { 'anonymize_ip': true });
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
 
@@ -136,7 +100,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://pauloborba.github.io/project/s3m/">
+  <link rel="canonical" href="http://localhost:1313/project/s3m/">
 
   
   
@@ -151,10 +115,10 @@
   <meta property="twitter:creator" content="@pauloborba">
   
   <meta property="og:site_name" content="Paulo Borba">
-  <meta property="og:url" content="https://pauloborba.github.io/project/s3m/">
+  <meta property="og:url" content="http://localhost:1313/project/s3m/">
   <meta property="og:title" content="Semistructured Merge Tools | Paulo Borba">
-  <meta property="og:description" content="We investigate and develop semistructured merge tools that improve code integration accuracy without compromising performance."><meta property="og:image" content="https://pauloborba.github.io/project/s3m/featured.png">
-  <meta property="twitter:image" content="https://pauloborba.github.io/project/s3m/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="We investigate and develop semistructured merge tools that improve code integration accuracy without compromising performance."><meta property="og:image" content="http://localhost:1313/project/s3m/featured.png">
+  <meta property="twitter:image" content="http://localhost:1313/project/s3m/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2019-11-09T17:30:09-03:00">
@@ -183,12 +147,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://pauloborba.github.io/project/s3m/"
+    "@id": "http://localhost:1313/project/s3m/"
   },
   "headline": "Semistructured Merge Tools",
   
   "image": [
-    "https://pauloborba.github.io/project/s3m/featured.png"
+    "http://localhost:1313/project/s3m/featured.png"
   ],
   
   "datePublished": "2019-11-09T17:30:09-03:00",
@@ -204,7 +168,7 @@
     "name": "Paulo Borba",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://pauloborba.github.io/img/icon-512.png"
+      "url": "http://localhost:1313/img/icon-512.png"
     }
   },
   "description": "We investigate and develop semistructured merge tools that improve code integration accuracy without compromising performance."
@@ -709,7 +673,7 @@
 
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 490px;">
   <div style="position: relative">
-    <img src="/project/s3m/featured_huccc5afd9d2b90e49aab3a7ff4483aba7_544907_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    <img src="/project/s3m/featured_hu_31932406eec78851.png" alt="" class="featured-image">
     <span class="article-header-caption">Spurious conflict reported by unstructured merge tools</span>
   </div>
 </div>
@@ -719,40 +683,26 @@
   <div class="article-container">
 
     <div class="article-style">
-      
-
-<h4 id="problem">Problem</h4>
-
+      <h4 id="problem">Problem</h4>
 <p>Developers often waste time by manually resolving merge conflicts that could be automatically resolved, like when integrating independent import or method declarations that happened to be included by different developers in the same area of the code.</p>
-
 <p>Worse, current merge tools might integrate conflicting changes without warning developers, like when two people independently declare methods with the same signature in different parts of a class.</p>
-
 <p>These problems compromise development productivity and software quality.</p>
-
 <h4 id="solution">Solution</h4>
-
 <p>To avoid such problems, we develop <a href="https://github.com/guilhermejccavalcanti/jFSTMerge" target="_blank">s3m</a>, a semistructured merge tool that partially explores programming language syntactic structure to provide more accurate code integration without compromising execution performance.</p>
-
 <h4 id="results">Results</h4>
-
 <h5 id="s3m-has-significant-advantages-over-unstructured-merge-tools">s3m has significant advantages over unstructured merge tools</h5>
-
-<p>In our <a href="https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge/" target="_blank">OOPSLA 2017</a> paper we show that FSTMerge, the pioneering semistructured merge tool, reports much less false positives (incorrectly reported conflicts) than unstructured merge tools that are widely used in industry.
+<p>In our <a href="http://localhost:1313/publication/2017evaluating_and_improving_semistructured_merge/">OOPSLA 2017</a> paper we show that FSTMerge, the pioneering semistructured merge tool, reports much less false positives (incorrectly reported conflicts) than unstructured merge tools that are widely used in industry.
 We also find evidence that FSTMerge false positives are easier to analyze and resolve than those reported by unstructured merge.
 However, we find no evidence that semistructured merge leads to fewer false negatives (conflicts correctly reported by one tool but missed by the other), and we argue that semistructured merge false negatives are harder to detect and resolve than unstructured merge false negatives.
 Driven by these findings, we implement s3m, an improved semistructured merge tool for Java that further combines both merge techniques to reduce the false positives and false negatives of semistructured merge.
 We find evidence that s3m, when compared to unstructured merge in our sample, reduces the number of reported conflicts by half, has no additional false positives, has at least 8% fewer false negatives, and is not prohibitively slower.</p>
-
 <h5 id="s3m-benefits-do-not-generalize-to-javascript">s3m benefits do not generalize to JavaScript</h5>
-
-<p>To understand whether semistructured merge and the just mentioned benefits generalize to other kinds of languages, in one of our <a href="https://pauloborba.github.io/publication/2019semistructured_merge_in_javascript_systems/" target="_blank">ASE 2019</a> papers we implement two semistructured merge tools for JavaScript, and compare them to a widely used unstructured tool.
+<p>To understand whether semistructured merge and the just mentioned benefits generalize to other kinds of languages, in one of our <a href="http://localhost:1313/publication/2019semistructured_merge_in_javascript_systems/">ASE 2019</a> papers we implement two semistructured merge tools for JavaScript, and compare them to a widely used unstructured tool.
 We find that current semistructured merge algorithms and frameworks are not directly applicable for scripting languages like JavaScript.
 By adapting the merge algorithms, we find evidence that our JavaScript tools report fewer false positives than unstructured merge, without compromising the correctness of the merging process.
 The benefits, however, are much smaller than the ones observed for Java-like languages, suggesting that semistructured merge advantages might be limited for languages that allow both commutative elements (like function declarations) and non-commutative elements (like statements) at the same syntactic level.</p>
-
 <h5 id="more-structure-does-not-necessarily-improve-merge-accuracy">More structure does not necessarily improve merge accuracy</h5>
-
-<p>To better understand the impact of exploring additional language syntactic structure in software merging, in another <a href="https://pauloborba.github.io/publication/2019the_impact_of_structure_on_software_merging__semistructured_versus_structured_merge/" target="_blank">ASE 2019</a> paper we compare semistructured merge with structured merge.
+<p>To better understand the impact of exploring additional language syntactic structure in software merging, in another <a href="http://localhost:1313/publication/2019the_impact_of_structure_on_software_merging__semistructured_versus_structured_merge/">ASE 2019</a> paper we compare semistructured merge with structured merge.
 In particular, we compare s3m with an structured tool we implemented and that behaves as s3m for merging declarations, but invokes JDime (an structured merge tool for Java) for merging the bodies of declarations.
 Our results show that semistructured and structured merge differ less often than we expected, in only 24% of the scenarios with conflicts.
 Semistructured merge reports more false positives, whereas structured merge has more false negatives.
@@ -777,7 +727,7 @@ Finally, we found that adapting a semistructured merge tool to resolve a particu
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://pauloborba.github.io/project/s3m/&amp;text=Semistructured%20Merge%20Tools" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=http://localhost:1313/project/s3m/&amp;text=Semistructured%20Merge%20Tools" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -790,7 +740,7 @@ Finally, we found that adapting a semistructured merge tool to resolve a particu
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://pauloborba.github.io/project/s3m/&amp;t=Semistructured%20Merge%20Tools" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=http://localhost:1313/project/s3m/&amp;t=Semistructured%20Merge%20Tools" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -803,7 +753,7 @@ Finally, we found that adapting a semistructured merge tool to resolve a particu
       
       
       <li>
-        <a href="mailto:?subject=Semistructured%20Merge%20Tools&amp;body=https://pauloborba.github.io/project/s3m/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Semistructured%20Merge%20Tools&amp;body=http://localhost:1313/project/s3m/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -816,7 +766,7 @@ Finally, we found that adapting a semistructured merge tool to resolve a particu
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://pauloborba.github.io/project/s3m/&amp;title=Semistructured%20Merge%20Tools" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=http://localhost:1313/project/s3m/&amp;title=Semistructured%20Merge%20Tools" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -829,7 +779,7 @@ Finally, we found that adapting a semistructured merge tool to resolve a particu
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Semistructured%20Merge%20Tools%20https://pauloborba.github.io/project/s3m/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Semistructured%20Merge%20Tools%20http://localhost:1313/project/s3m/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -842,7 +792,7 @@ Finally, we found that adapting a semistructured merge tool to resolve a particu
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://pauloborba.github.io/project/s3m/&amp;title=Semistructured%20Merge%20Tools" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=http://localhost:1313/project/s3m/&amp;title=Semistructured%20Merge%20Tools" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -877,11 +827,11 @@ Finally, we found that adapting a semistructured merge tool to resolve a particu
   <div class="media author-card content-widget-hr">
     
       
-      <img class="portrait mr-3" src="/authors/admin/avatar_hub57017fa83a23a512feca75b91b8a2b9_480190_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
+      <img class="portrait mr-3" src="/authors/admin/avatar_hu_3cb465ea1047a588.jpg" alt="Avatar">
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="https://pauloborba.github.io/">Paulo Borba</a></h5>
+      <h5 class="card-title"><a href="http://localhost:1313/">Paulo Borba</a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1163,7 +1113,7 @@ Finally, we found that adapting a semistructured merge tool to resolve a particu
     
     
     
-    <script src="/js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
+    <script src="/js/academic.min.2aa4c034593508cdbd74f28ff6c19844.js"></script>
 
     
 
@@ -1179,7 +1129,7 @@ Finally, we found that adapting a semistructured merge tool to resolve a particu
   
 
   <p class="powered-by">
-    &copy; 2019 &middot; 
+    © 2019 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

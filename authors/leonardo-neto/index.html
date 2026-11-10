@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -31,7 +31,7 @@
   <meta name="description" content="Paulo Borba&#39;s (Paulo Henrique Monteiro Borba) home page">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://pauloborba.github.io/authors/leonardo-neto/">
+  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/authors/leonardo-neto/">
 
   
 
@@ -91,42 +91,6 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131899020-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           document.location = url;
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target);  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-131899020-1', { 'anonymize_ip': true });
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
 
@@ -138,7 +102,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://pauloborba.github.io/authors/leonardo-neto/">
+  <link rel="canonical" href="http://localhost:1313/authors/leonardo-neto/">
 
   
   
@@ -153,10 +117,10 @@
   <meta property="twitter:creator" content="@pauloborba">
   
   <meta property="og:site_name" content="Paulo Borba">
-  <meta property="og:url" content="https://pauloborba.github.io/authors/leonardo-neto/">
+  <meta property="og:url" content="http://localhost:1313/authors/leonardo-neto/">
   <meta property="og:title" content="Leonardo Neto | Paulo Borba">
-  <meta property="og:description" content="Paulo Borba&#39;s (Paulo Henrique Monteiro Borba) home page"><meta property="og:image" content="https://pauloborba.github.io/img/foto2019.jpg">
-  <meta property="twitter:image" content="https://pauloborba.github.io/img/foto2019.jpg"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Paulo Borba&#39;s (Paulo Henrique Monteiro Borba) home page"><meta property="og:image" content="http://localhost:1313/img/foto2019.jpg">
+  <meta property="twitter:image" content="http://localhost:1313/img/foto2019.jpg"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2007-01-01T00:00:00&#43;00:00">
   
@@ -662,7 +626,7 @@
     
     
     
-    <script src="/js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
+    <script src="/js/academic.min.2aa4c034593508cdbd74f28ff6c19844.js"></script>
 
     
 
@@ -678,7 +642,7 @@
   
 
   <p class="powered-by">
-    &copy; 2019 &middot; 
+    © 2019 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

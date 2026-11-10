@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Felipe Queiroz | Paulo Borba</title>
-    <link>https://pauloborba.github.io/authors/felipe-queiroz/</link>
-      <atom:link href="https://pauloborba.github.io/authors/felipe-queiroz/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/felipe-queiroz/</link>
+      <atom:link href="http://localhost:1313/authors/felipe-queiroz/index.xml" rel="self" type="application/rss+xml" />
     <description>Felipe Queiroz</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <url>http://localhost:1313/img/foto2019.jpg</url>
       <title>Felipe Queiroz</title>
-      <link>https://pauloborba.github.io/authors/felipe-queiroz/</link>
+      <link>http://localhost:1313/authors/felipe-queiroz/</link>
     </image>
     
     <item>
       <title>On the impact of feature dependencies when maintaining preprocessor-based software product lines</title>
-      <link>https://pauloborba.github.io/publication/2012on_the_impact_of_feature_dependencies_when_maintaining_preprocessor-based_software_product_lines/</link>
+      <link>http://localhost:1313/publication/2012on_the_impact_of_feature_dependencies_when_maintaining_preprocessor-based_software_product_lines/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2012on_the_impact_of_feature_dependencies_when_maintaining_preprocessor-based_software_product_lines/</guid>
+      <guid>http://localhost:1313/publication/2012on_the_impact_of_feature_dependencies_when_maintaining_preprocessor-based_software_product_lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a Better Understanding of Feature Dependencies in Preprocessor-based Systems</title>
-      <link>https://pauloborba.github.io/publication/2012towards_a_better_understanding_of_feature_dependencies_in_preprocessor-based_systems/</link>
+      <link>http://localhost:1313/publication/2012towards_a_better_understanding_of_feature_dependencies_in_preprocessor-based_systems/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2012towards_a_better_understanding_of_feature_dependencies_in_preprocessor-based_systems/</guid>
+      <guid>http://localhost:1313/publication/2012towards_a_better_understanding_of_feature_dependencies_in_preprocessor-based_systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the impact of feature dependencies when maintaining preprocessor-based software product lines</title>
-      <link>https://pauloborba.github.io/publication/2011on_the_impact_of_feature_dependencies_when_maintaining_preprocessor-based_software_product_lines/</link>
+      <link>http://localhost:1313/publication/2011on_the_impact_of_feature_dependencies_when_maintaining_preprocessor-based_software_product_lines/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2011on_the_impact_of_feature_dependencies_when_maintaining_preprocessor-based_software_product_lines/</guid>
+      <guid>http://localhost:1313/publication/2011on_the_impact_of_feature_dependencies_when_maintaining_preprocessor-based_software_product_lines/</guid>
       <description></description>
     </item>
     

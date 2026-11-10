@@ -2,1509 +2,1509 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Paulo Borba</title>
-    <link>https://pauloborba.github.io/publication_types/1/</link>
-      <atom:link href="https://pauloborba.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/1/</link>
+      <atom:link href="http://localhost:1313/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <url>http://localhost:1313/img/foto2019.jpg</url>
       <title>1</title>
-      <link>https://pauloborba.github.io/publication_types/1/</link>
+      <link>http://localhost:1313/publication_types/1/</link>
     </image>
     
     <item>
       <title>Contrastive Meta-Domain Adaptation for Robust Skin Lesion Classification Across Clinical and Acquisition Conditions</title>
-      <link>https://pauloborba.github.io/publication/2026contrastive_meta-domain_adaptation_for_robust_skin_lesion_classification_across_clinical_and_acquisition_conditions/</link>
+      <link>http://localhost:1313/publication/2026contrastive_meta-domain_adaptation_for_robust_skin_lesion_classification_across_clinical_and_acquisition_conditions/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2026contrastive_meta-domain_adaptation_for_robust_skin_lesion_classification_across_clinical_and_acquisition_conditions/</guid>
+      <guid>http://localhost:1313/publication/2026contrastive_meta-domain_adaptation_for_robust_skin_lesion_classification_across_clinical_and_acquisition_conditions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DERMAE: Improving Skin Lesion Classification Through Conditioned Latent Diffusion and MAE Distillation</title>
-      <link>https://pauloborba.github.io/publication/2026dermae__improving_skin_lesion_classification_through_conditioned_latent_diffusion_and_mae_distillation/</link>
+      <link>http://localhost:1313/publication/2026dermae__improving_skin_lesion_classification_through_conditioned_latent_diffusion_and_mae_distillation/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2026dermae__improving_skin_lesion_classification_through_conditioned_latent_diffusion_and_mae_distillation/</guid>
+      <guid>http://localhost:1313/publication/2026dermae__improving_skin_lesion_classification_through_conditioned_latent_diffusion_and_mae_distillation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DermAI: Clinical Dermatology Acquisition Through Quality-Driven Image Collection for AI Classification in Mobile</title>
-      <link>https://pauloborba.github.io/publication/2026dermai__clinical_dermatology_acquisition_through_quality-driven_image_collection_for_ai_classification_in_mobile/</link>
+      <link>http://localhost:1313/publication/2026dermai__clinical_dermatology_acquisition_through_quality-driven_image_collection_for_ai_classification_in_mobile/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2026dermai__clinical_dermatology_acquisition_through_quality-driven_image_collection_for_ai_classification_in_mobile/</guid>
+      <guid>http://localhost:1313/publication/2026dermai__clinical_dermatology_acquisition_through_quality-driven_image_collection_for_ai_classification_in_mobile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GitHub Template Repositories: Served Domains, Maintenance, and Practitioner Guidelines</title>
-      <link>https://pauloborba.github.io/publication/2026github_template_repositories__served_domains__maintenance__and_practitioner_guidelines/</link>
+      <link>http://localhost:1313/publication/2026github_template_repositories__served_domains__maintenance__and_practitioner_guidelines/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2026github_template_repositories__served_domains__maintenance__and_practitioner_guidelines/</guid>
+      <guid>http://localhost:1313/publication/2026github_template_repositories__served_domains__maintenance__and_practitioner_guidelines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Choosing the Right GitWorkflow: A Comparative Analysis of Trunk-based vs. Branch-based Approaches</title>
-      <link>https://pauloborba.github.io/publication/2025choosing_the_right_gitworkflow__a_comparative_analysis_of_trunk-based_vs._branch-based_approaches/</link>
+      <link>http://localhost:1313/publication/2025choosing_the_right_gitworkflow__a_comparative_analysis_of_trunk-based_vs._branch-based_approaches/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2025choosing_the_right_gitworkflow__a_comparative_analysis_of_trunk-based_vs._branch-based_approaches/</guid>
+      <guid>http://localhost:1313/publication/2025choosing_the_right_gitworkflow__a_comparative_analysis_of_trunk-based_vs._branch-based_approaches/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detecção de Conflitos Semânticos com Testes Gerados por LLM</title>
-      <link>https://pauloborba.github.io/publication/2025deteccao_de_conflitos_semanticos_com_testes_gerados_por_llm/</link>
+      <link>http://localhost:1313/publication/2025deteccao_de_conflitos_semanticos_com_testes_gerados_por_llm/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2025deteccao_de_conflitos_semanticos_com_testes_gerados_por_llm/</guid>
+      <guid>http://localhost:1313/publication/2025deteccao_de_conflitos_semanticos_com_testes_gerados_por_llm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explorando a detecção de conflitos semânticos nas integrações de código em múltiplos métodos</title>
-      <link>https://pauloborba.github.io/publication/2024explorando_a_deteccao_de_conflitos_semanticos_nas_integracoes_de_codigo_em_multiplos_metodos/</link>
+      <link>http://localhost:1313/publication/2024explorando_a_deteccao_de_conflitos_semanticos_nas_integracoes_de_codigo_em_multiplos_metodos/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2024explorando_a_deteccao_de_conflitos_semanticos_nas_integracoes_de_codigo_em_multiplos_metodos/</guid>
+      <guid>http://localhost:1313/publication/2024explorando_a_deteccao_de_conflitos_semanticos_nas_integracoes_de_codigo_em_multiplos_metodos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lightweight Semantic Conflict Detection with Static Analysis</title>
-      <link>https://pauloborba.github.io/publication/2024lightweight_semantic_conflict_detection_with_static_analysis/</link>
+      <link>http://localhost:1313/publication/2024lightweight_semantic_conflict_detection_with_static_analysis/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2024lightweight_semantic_conflict_detection_with_static_analysis/</guid>
+      <guid>http://localhost:1313/publication/2024lightweight_semantic_conflict_detection_with_static_analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Refinando a Precisão da Detecção de Conflitos: Uma Análise do CSDiff com Abordagem Focalizada</title>
-      <link>https://pauloborba.github.io/publication/2024refinando_a_precisao_da_deteccao_de_conflitos__uma_analise_do_csdiff_com_abordagem_focalizada/</link>
+      <link>http://localhost:1313/publication/2024refinando_a_precisao_da_deteccao_de_conflitos__uma_analise_do_csdiff_com_abordagem_focalizada/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2024refinando_a_precisao_da_deteccao_de_conflitos__uma_analise_do_csdiff_com_abordagem_focalizada/</guid>
+      <guid>http://localhost:1313/publication/2024refinando_a_precisao_da_deteccao_de_conflitos__uma_analise_do_csdiff_com_abordagem_focalizada/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantic conflict detection via dynamic analysis</title>
-      <link>https://pauloborba.github.io/publication/2024semantic_conflict_detection_via_dynamic_analysis/</link>
+      <link>http://localhost:1313/publication/2024semantic_conflict_detection_via_dynamic_analysis/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2024semantic_conflict_detection_via_dynamic_analysis/</guid>
+      <guid>http://localhost:1313/publication/2024semantic_conflict_detection_via_dynamic_analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semistructured Merge with Language-Specific Syntactic Separators</title>
-      <link>https://pauloborba.github.io/publication/2024semistructured_merge_with_language-specific_syntactic_separators/</link>
+      <link>http://localhost:1313/publication/2024semistructured_merge_with_language-specific_syntactic_separators/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2024semistructured_merge_with_language-specific_syntactic_separators/</guid>
+      <guid>http://localhost:1313/publication/2024semistructured_merge_with_language-specific_syntactic_separators/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantic conflict detection with overriding assignment analysis</title>
-      <link>https://pauloborba.github.io/publication/2022semantic_conflict_detection_with_overriding_assignment_analysis/</link>
+      <link>http://localhost:1313/publication/2022semantic_conflict_detection_with_overriding_assignment_analysis/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2022semantic_conflict_detection_with_overriding_assignment_analysis/</guid>
+      <guid>http://localhost:1313/publication/2022semantic_conflict_detection_with_overriding_assignment_analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Private Life of Merge Conflicts</title>
-      <link>https://pauloborba.github.io/publication/2022the_private_life_of_merge_conflicts/</link>
+      <link>http://localhost:1313/publication/2022the_private_life_of_merge_conflicts/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2022the_private_life_of_merge_conflicts/</guid>
+      <guid>http://localhost:1313/publication/2022the_private_life_of_merge_conflicts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lazy Clone - A Pattern to Improve Performance and Maintainability of Object Cloning</title>
-      <link>https://pauloborba.github.io/publication/2021lazy_clone_-_a_pattern_to_improve_performance_and_maintainability_of_object_cloning/</link>
+      <link>http://localhost:1313/publication/2021lazy_clone_-_a_pattern_to_improve_performance_and_maintainability_of_object_cloning/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2021lazy_clone_-_a_pattern_to_improve_performance_and_maintainability_of_object_cloning/</guid>
+      <guid>http://localhost:1313/publication/2021lazy_clone_-_a_pattern_to_improve_performance_and_maintainability_of_object_cloning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semi-Automated Test-Case Propagation in Fork Ecosystems</title>
-      <link>https://pauloborba.github.io/publication/2021semi-automated_test-case_propagation_in_fork_ecosystems/</link>
+      <link>http://localhost:1313/publication/2021semi-automated_test-case_propagation_in_fork_ecosystems/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2021semi-automated_test-case_propagation_in_fork_ecosystems/</guid>
+      <guid>http://localhost:1313/publication/2021semi-automated_test-case_propagation_in_fork_ecosystems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Textual merge based on language-specific syntactic separators</title>
-      <link>https://pauloborba.github.io/publication/2021textual_merge_based_on_language-specific_syntactic_separators/</link>
+      <link>http://localhost:1313/publication/2021textual_merge_based_on_language-specific_syntactic_separators/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2021textual_merge_based_on_language-specific_syntactic_separators/</guid>
+      <guid>http://localhost:1313/publication/2021textual_merge_based_on_language-specific_syntactic_separators/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detecting Semantic Conflicts via Automated Behavior Change Detection</title>
-      <link>https://pauloborba.github.io/publication/2020detecting_semantic_conflicts_via_automated_behavior_change_detection/</link>
+      <link>http://localhost:1313/publication/2020detecting_semantic_conflicts_via_automated_behavior_change_detection/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2020detecting_semantic_conflicts_via_automated_behavior_change_detection/</guid>
+      <guid>http://localhost:1313/publication/2020detecting_semantic_conflicts_via_automated_behavior_change_detection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Safe Evolution of Product Lines Using Configuration Knowledge Laws</title>
-      <link>https://pauloborba.github.io/publication/2020safe_evolution_of_product_lines_using_configuration_knowledge_laws/</link>
+      <link>http://localhost:1313/publication/2020safe_evolution_of_product_lines_using_configuration_knowledge_laws/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2020safe_evolution_of_product_lines_using_configuration_knowledge_laws/</guid>
+      <guid>http://localhost:1313/publication/2020safe_evolution_of_product_lines_using_configuration_knowledge_laws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving the prediction of files changed by programming tasks</title>
-      <link>https://pauloborba.github.io/publication/2019improving_the_prediction_of_files_changed_by_programming_tasks/</link>
+      <link>http://localhost:1313/publication/2019improving_the_prediction_of_files_changed_by_programming_tasks/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2019improving_the_prediction_of_files_changed_by_programming_tasks/</guid>
+      <guid>http://localhost:1313/publication/2019improving_the_prediction_of_files_changed_by_programming_tasks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semistructured Merge in JavaScript Systems</title>
-      <link>https://pauloborba.github.io/publication/2019semistructured_merge_in_javascript_systems/</link>
+      <link>http://localhost:1313/publication/2019semistructured_merge_in_javascript_systems/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2019semistructured_merge_in_javascript_systems/</guid>
+      <guid>http://localhost:1313/publication/2019semistructured_merge_in_javascript_systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Impact of Structure on Software Merging: Semistructured versus Structured Merge</title>
-      <link>https://pauloborba.github.io/publication/2019the_impact_of_structure_on_software_merging__semistructured_versus_structured_merge/</link>
+      <link>http://localhost:1313/publication/2019the_impact_of_structure_on_software_merging__semistructured_versus_structured_merge/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2019the_impact_of_structure_on_software_merging__semistructured_versus_structured_merge/</guid>
+      <guid>http://localhost:1313/publication/2019the_impact_of_structure_on_software_merging__semistructured_versus_structured_merge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analyzing Conflict Predictors in Open-Source Java Projects from GitHub and Travis CI</title>
-      <link>https://pauloborba.github.io/publication/2018analyzing_conflict_predictors_in_open-source_java_projects_from_github_and_travis_ci/</link>
+      <link>http://localhost:1313/publication/2018analyzing_conflict_predictors_in_open-source_java_projects_from_github_and_travis_ci/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2018analyzing_conflict_predictors_in_open-source_java_projects_from_github_and_travis_ci/</guid>
+      <guid>http://localhost:1313/publication/2018analyzing_conflict_predictors_in_open-source_java_projects_from_github_and_travis_ci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating and Improving Semistructured Merge</title>
-      <link>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</link>
+      <link>http://localhost:1313/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</guid>
+      <guid>http://localhost:1313/publication/2017evaluating_and_improving_semistructured_merge_double_entry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Products go Green: Worst-Case Energy Consumption in Software Product Lines</title>
-      <link>https://pauloborba.github.io/publication/2017products_go_green__worst-case_energy_consumption_in_software_product_lines/</link>
+      <link>http://localhost:1313/publication/2017products_go_green__worst-case_energy_consumption_in_software_product_lines/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2017products_go_green__worst-case_energy_consumption_in_software_product_lines/</guid>
+      <guid>http://localhost:1313/publication/2017products_go_green__worst-case_energy_consumption_in_software_product_lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Should We Replace Our Merge Tools?</title>
-      <link>https://pauloborba.github.io/publication/2017should_we_replace_our_merge_tools_/</link>
+      <link>http://localhost:1313/publication/2017should_we_replace_our_merge_tools_/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2017should_we_replace_our_merge_tools_/</guid>
+      <guid>http://localhost:1313/publication/2017should_we_replace_our_merge_tools_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Partially Safe Evolution of Software Product Lines</title>
-      <link>https://pauloborba.github.io/publication/2016partially_safe_evolution_of_software_product_lines/</link>
+      <link>http://localhost:1313/publication/2016partially_safe_evolution_of_software_product_lines/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2016partially_safe_evolution_of_software_product_lines/</guid>
+      <guid>http://localhost:1313/publication/2016partially_safe_evolution_of_software_product_lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming the Universe: The First Commandment of Software Engineering for all Varieties of Information Systems</title>
-      <link>https://pauloborba.github.io/publication/2016programming_the_universe__the_first_commandment_of_software_engineering_for_all_varieties_of_information_systems/</link>
+      <link>http://localhost:1313/publication/2016programming_the_universe__the_first_commandment_of_software_engineering_for_all_varieties_of_information_systems/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2016programming_the_universe__the_first_commandment_of_software_engineering_for_all_varieties_of_information_systems/</guid>
+      <guid>http://localhost:1313/publication/2016programming_the_universe__the_first_commandment_of_software_engineering_for_all_varieties_of_information_systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Safe Evolution of Software Product Lines: Feature Extraction Scenarios</title>
-      <link>https://pauloborba.github.io/publication/2016safe_evolution_of_software_product_lines__feature_extraction_scenarios/</link>
+      <link>http://localhost:1313/publication/2016safe_evolution_of_software_product_lines__feature_extraction_scenarios/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2016safe_evolution_of_software_product_lines__feature_extraction_scenarios/</guid>
+      <guid>http://localhost:1313/publication/2016safe_evolution_of_software_product_lines__feature_extraction_scenarios/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Product Line of Theories for Reasoning about Safe Evolution of Product Lines</title>
-      <link>https://pauloborba.github.io/publication/2015a_product_line_of_theories_for_reasoning_about_safe_evolution_of_product_lines/</link>
+      <link>http://localhost:1313/publication/2015a_product_line_of_theories_for_reasoning_about_safe_evolution_of_product_lines/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2015a_product_line_of_theories_for_reasoning_about_safe_evolution_of_product_lines/</guid>
+      <guid>http://localhost:1313/publication/2015a_product_line_of_theories_for_reasoning_about_safe_evolution_of_product_lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessing Semistructured Merge in Version Control Systems: A Replicated Experiment</title>
-      <link>https://pauloborba.github.io/publication/2015assessing_semistructured_merge_in_version_control_systems__a_replicated_experiment/</link>
+      <link>http://localhost:1313/publication/2015assessing_semistructured_merge_in_version_control_systems__a_replicated_experiment/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2015assessing_semistructured_merge_in_version_control_systems__a_replicated_experiment/</guid>
+      <guid>http://localhost:1313/publication/2015assessing_semistructured_merge_in_version_control_systems__a_replicated_experiment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Performance and Maintainability of ObjectCloning with Lazy Clones: An Empirical Evaluation</title>
-      <link>https://pauloborba.github.io/publication/2015improving_performance_and_maintainability_of_objectcloning_with_lazy_clones__an_empirical_evaluation/</link>
+      <link>http://localhost:1313/publication/2015improving_performance_and_maintainability_of_objectcloning_with_lazy_clones__an_empirical_evaluation/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2015improving_performance_and_maintainability_of_objectcloning_with_lazy_clones__an_empirical_evaluation/</guid>
+      <guid>http://localhost:1313/publication/2015improving_performance_and_maintainability_of_objectcloning_with_lazy_clones__an_empirical_evaluation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Safe Evolution of Product Populations and Multi Product Lines</title>
-      <link>https://pauloborba.github.io/publication/2015safe_evolution_of_product_populations_and_multi_product_lines/</link>
+      <link>http://localhost:1313/publication/2015safe_evolution_of_product_populations_and_multi_product_lines/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2015safe_evolution_of_product_populations_and_multi_product_lines/</guid>
+      <guid>http://localhost:1313/publication/2015safe_evolution_of_product_populations_and_multi_product_lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feature Maintenance with Emergent Interfaces</title>
-      <link>https://pauloborba.github.io/publication/2014feature_maintenance_with_emergent_interfaces/</link>
+      <link>http://localhost:1313/publication/2014feature_maintenance_with_emergent_interfaces/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2014feature_maintenance_with_emergent_interfaces/</guid>
+      <guid>http://localhost:1313/publication/2014feature_maintenance_with_emergent_interfaces/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semistructured Merge on Git: An Assessment</title>
-      <link>https://pauloborba.github.io/publication/2014semistructured_merge_on_git__an_assessment/</link>
+      <link>http://localhost:1313/publication/2014semistructured_merge_on_git__an_assessment/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2014semistructured_merge_on_git__an_assessment/</guid>
+      <guid>http://localhost:1313/publication/2014semistructured_merge_on_git__an_assessment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SPLLIFT- Statically analyzing software product lines in minutes instead of years</title>
-      <link>https://pauloborba.github.io/publication/2014spllift-_statically_analyzing_software_product_lines_in_minutes_instead_of_years/</link>
+      <link>http://localhost:1313/publication/2014spllift-_statically_analyzing_software_product_lines_in_minutes_instead_of_years/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2014spllift-_statically_analyzing_software_product_lines_in_minutes_instead_of_years/</guid>
+      <guid>http://localhost:1313/publication/2014spllift-_statically_analyzing_software_product_lines_in_minutes_instead_of_years/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Model-Driven Approach to Specifying and Monitoring Controlled Experiments in Software Engineering</title>
-      <link>https://pauloborba.github.io/publication/2013a_model-driven_approach_to_specifying_and_monitoring_controlled_experiments_in_software_engineering/</link>
+      <link>http://localhost:1313/publication/2013a_model-driven_approach_to_specifying_and_monitoring_controlled_experiments_in_software_engineering/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2013a_model-driven_approach_to_specifying_and_monitoring_controlled_experiments_in_software_engineering/</guid>
+      <guid>http://localhost:1313/publication/2013a_model-driven_approach_to_specifying_and_monitoring_controlled_experiments_in_software_engineering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AspectJ-based Idioms for Flexible Feature Binding</title>
-      <link>https://pauloborba.github.io/publication/2013aspectj-based_idioms_for_flexible_feature_binding/</link>
+      <link>http://localhost:1313/publication/2013aspectj-based_idioms_for_flexible_feature_binding/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2013aspectj-based_idioms_for_flexible_feature_binding/</guid>
+      <guid>http://localhost:1313/publication/2013aspectj-based_idioms_for_flexible_feature_binding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coevolution of Variability Models and Related Artifacts: A Case Study from the Linux Kernel</title>
-      <link>https://pauloborba.github.io/publication/2013coevolution_of_variability_models_and_related_artifacts__a_case_study_from_the_linux_kernel/</link>
+      <link>http://localhost:1313/publication/2013coevolution_of_variability_models_and_related_artifacts__a_case_study_from_the_linux_kernel/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2013coevolution_of_variability_models_and_related_artifacts__a_case_study_from_the_linux_kernel/</guid>
+      <guid>http://localhost:1313/publication/2013coevolution_of_variability_models_and_related_artifacts__a_case_study_from_the_linux_kernel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving modular reasoning on preprocessor-based systems</title>
-      <link>https://pauloborba.github.io/publication/2013improving_modular_reasoning_on_preprocessor-based_systems/</link>
+      <link>http://localhost:1313/publication/2013improving_modular_reasoning_on_preprocessor-based_systems/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2013improving_modular_reasoning_on_preprocessor-based_systems/</guid>
+      <guid>http://localhost:1313/publication/2013improving_modular_reasoning_on_preprocessor-based_systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modular Aspect-Oriented Design Rule Enforcement with XPIDRs</title>
-      <link>https://pauloborba.github.io/publication/2013modular_aspect-oriented_design_rule_enforcement_with_xpidrs/</link>
+      <link>http://localhost:1313/publication/2013modular_aspect-oriented_design_rule_enforcement_with_xpidrs/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2013modular_aspect-oriented_design_rule_enforcement_with_xpidrs/</guid>
+      <guid>http://localhost:1313/publication/2013modular_aspect-oriented_design_rule_enforcement_with_xpidrs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SPLlift ? Transparent and Efficient Reuse of IFDS-based Static Program Analyses for Software Product Lines</title>
-      <link>https://pauloborba.github.io/publication/2013spllift___transparent_and_efficient_reuse_of_ifds-based_static_program_analyses_for_software_product_lines/</link>
+      <link>http://localhost:1313/publication/2013spllift___transparent_and_efficient_reuse_of_ifds-based_static_program_analyses_for_software_product_lines/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2013spllift___transparent_and_efficient_reuse_of_ifds-based_static_program_analyses_for_software_product_lines/</guid>
+      <guid>http://localhost:1313/publication/2013spllift___transparent_and_efficient_reuse_of_ifds-based_static_program_analyses_for_software_product_lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparing Two Black-box Testing Strategies for Software Product Lines</title>
-      <link>https://pauloborba.github.io/publication/2012comparing_two_black-box_testing_strategies_for_software_product_lines/</link>
+      <link>http://localhost:1313/publication/2012comparing_two_black-box_testing_strategies_for_software_product_lines/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2012comparing_two_black-box_testing_strategies_for_software_product_lines/</guid>
+      <guid>http://localhost:1313/publication/2012comparing_two_black-box_testing_strategies_for_software_product_lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emergo: a tool for improving maintainability of preprocessor-based product lines</title>
-      <link>https://pauloborba.github.io/publication/2012emergo__a_tool_for_improving_maintainability_of_preprocessor-based_product_lines/</link>
+      <link>http://localhost:1313/publication/2012emergo__a_tool_for_improving_maintainability_of_preprocessor-based_product_lines/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2012emergo__a_tool_for_improving_maintainability_of_preprocessor-based_product_lines/</guid>
+      <guid>http://localhost:1313/publication/2012emergo__a_tool_for_improving_maintainability_of_preprocessor-based_product_lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intraprocedural Dataflow Analysis for Software Product Lines</title>
-      <link>https://pauloborba.github.io/publication/2012intraprocedural_dataflow_analysis_for_software_product_lines/</link>
+      <link>http://localhost:1313/publication/2012intraprocedural_dataflow_analysis_for_software_product_lines/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2012intraprocedural_dataflow_analysis_for_software_product_lines/</guid>
+      <guid>http://localhost:1313/publication/2012intraprocedural_dataflow_analysis_for_software_product_lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Making Software Product Line Evolution Safer</title>
-      <link>https://pauloborba.github.io/publication/2012making_software_product_line_evolution_safer/</link>
+      <link>http://localhost:1313/publication/2012making_software_product_line_evolution_safer/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2012making_software_product_line_evolution_safer/</guid>
+      <guid>http://localhost:1313/publication/2012making_software_product_line_evolution_safer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a Better Understanding of Feature Dependencies in Preprocessor-based Systems</title>
-      <link>https://pauloborba.github.io/publication/2012towards_a_better_understanding_of_feature_dependencies_in_preprocessor-based_systems/</link>
+      <link>http://localhost:1313/publication/2012towards_a_better_understanding_of_feature_dependencies_in_preprocessor-based_systems/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2012towards_a_better_understanding_of_feature_dependencies_in_preprocessor-based_systems/</guid>
+      <guid>http://localhost:1313/publication/2012towards_a_better_understanding_of_feature_dependencies_in_preprocessor-based_systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A tool for improving maintainabiliy of preprocessor-based product lines</title>
-      <link>https://pauloborba.github.io/publication/2011a_tool_for_improving_maintainabiliy_of_preprocessor-based_product_lines/</link>
+      <link>http://localhost:1313/publication/2011a_tool_for_improving_maintainabiliy_of_preprocessor-based_product_lines/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2011a_tool_for_improving_maintainabiliy_of_preprocessor-based_product_lines/</guid>
+      <guid>http://localhost:1313/publication/2011a_tool_for_improving_maintainabiliy_of_preprocessor-based_product_lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessing Idioms for Implementing Features with Flexible Binding Times</title>
-      <link>https://pauloborba.github.io/publication/2011assessing_idioms_for_implementing_features_with_flexible_binding_times/</link>
+      <link>http://localhost:1313/publication/2011assessing_idioms_for_implementing_features_with_flexible_binding_times/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2011assessing_idioms_for_implementing_features_with_flexible_binding_times/</guid>
+      <guid>http://localhost:1313/publication/2011assessing_idioms_for_implementing_features_with_flexible_binding_times/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrating Product Line Refactoring and Derivation Tools: Challenges and Potential Solutions</title>
-      <link>https://pauloborba.github.io/publication/2011integrating_product_line_refactoring_and_derivation_tools__challenges_and_potential_solutions/</link>
+      <link>http://localhost:1313/publication/2011integrating_product_line_refactoring_and_derivation_tools__challenges_and_potential_solutions/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2011integrating_product_line_refactoring_and_derivation_tools__challenges_and_potential_solutions/</guid>
+      <guid>http://localhost:1313/publication/2011integrating_product_line_refactoring_and_derivation_tools__challenges_and_potential_solutions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating the safe evolution of software product lines</title>
-      <link>https://pauloborba.github.io/publication/2011investigating_the_safe_evolution_of_software_product_lines/</link>
+      <link>http://localhost:1313/publication/2011investigating_the_safe_evolution_of_software_product_lines/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2011investigating_the_safe_evolution_of_software_product_lines/</guid>
+      <guid>http://localhost:1313/publication/2011investigating_the_safe_evolution_of_software_product_lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the impact of feature dependencies when maintaining preprocessor-based software product lines</title>
-      <link>https://pauloborba.github.io/publication/2011on_the_impact_of_feature_dependencies_when_maintaining_preprocessor-based_software_product_lines/</link>
+      <link>http://localhost:1313/publication/2011on_the_impact_of_feature_dependencies_when_maintaining_preprocessor-based_software_product_lines/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2011on_the_impact_of_feature_dependencies_when_maintaining_preprocessor-based_software_product_lines/</guid>
+      <guid>http://localhost:1313/publication/2011on_the_impact_of_feature_dependencies_when_maintaining_preprocessor-based_software_product_lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PBL no ensino de testes de software: uma experiência prática</title>
-      <link>https://pauloborba.github.io/publication/2011pbl_no_ensino_de_testes_de_software__uma_experiencia_pratica/</link>
+      <link>http://localhost:1313/publication/2011pbl_no_ensino_de_testes_de_software__uma_experiencia_pratica/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2011pbl_no_ensino_de_testes_de_software__uma_experiencia_pratica/</guid>
+      <guid>http://localhost:1313/publication/2011pbl_no_ensino_de_testes_de_software__uma_experiencia_pratica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Safe composition of configuration knowledge-based software product lines</title>
-      <link>https://pauloborba.github.io/publication/2011safe_composition_of_configuration_knowledge-based_software_product_lines/</link>
+      <link>http://localhost:1313/publication/2011safe_composition_of_configuration_knowledge-based_software_product_lines/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2011safe_composition_of_configuration_knowledge-based_software_product_lines/</guid>
+      <guid>http://localhost:1313/publication/2011safe_composition_of_configuration_knowledge-based_software_product_lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synchronizing Model and Program Refactoring</title>
-      <link>https://pauloborba.github.io/publication/2011synchronizing_model_and_program_refactoring/</link>
+      <link>http://localhost:1313/publication/2011synchronizing_model_and_program_refactoring/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2011synchronizing_model_and_program_refactoring/</guid>
+      <guid>http://localhost:1313/publication/2011synchronizing_model_and_program_refactoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The AOSD Research Community in Brazil and Its Crosscutting Impact</title>
-      <link>https://pauloborba.github.io/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</link>
+      <link>http://localhost:1313/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</guid>
+      <guid>http://localhost:1313/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using PBL to Develop Software Test Engineers</title>
-      <link>https://pauloborba.github.io/publication/2011using_pbl_to_develop_software_test_engineers/</link>
+      <link>http://localhost:1313/publication/2011using_pbl_to_develop_software_test_engineers/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2011using_pbl_to_develop_software_test_engineers/</guid>
+      <guid>http://localhost:1313/publication/2011using_pbl_to_develop_software_test_engineers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Theory of Software Product Line Refinement</title>
-      <link>https://pauloborba.github.io/publication/2010a_theory_of_software_product_line_refinement/</link>
+      <link>http://localhost:1313/publication/2010a_theory_of_software_product_line_refinement/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2010a_theory_of_software_product_line_refinement/</guid>
+      <guid>http://localhost:1313/publication/2010a_theory_of_software_product_line_refinement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessment of Product Derivation Tools in the Evolution of Software Product Lines: An Empirical Study</title>
-      <link>https://pauloborba.github.io/publication/2010assessment_of_product_derivation_tools_in_the_evolution_of_software_product_lines__an_empirical_study/</link>
+      <link>http://localhost:1313/publication/2010assessment_of_product_derivation_tools_in_the_evolution_of_software_product_lines__an_empirical_study/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2010assessment_of_product_derivation_tools_in_the_evolution_of_software_product_lines__an_empirical_study/</guid>
+      <guid>http://localhost:1313/publication/2010assessment_of_product_derivation_tools_in_the_evolution_of_software_product_lines__an_empirical_study/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emergent Feature Modularization</title>
-      <link>https://pauloborba.github.io/publication/2010emergent_feature_modularization/</link>
+      <link>http://localhost:1313/publication/2010emergent_feature_modularization/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2010emergent_feature_modularization/</guid>
+      <guid>http://localhost:1313/publication/2010emergent_feature_modularization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estudo Comparativo de Ferramentas de Derivação Dirigidas por Modelos: Resultados Preliminares</title>
-      <link>https://pauloborba.github.io/publication/2010estudo_comparativo_de_ferramentas_de_derivacao_dirigidas_por_modelos__resultados_preliminares/</link>
+      <link>http://localhost:1313/publication/2010estudo_comparativo_de_ferramentas_de_derivacao_dirigidas_por_modelos__resultados_preliminares/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2010estudo_comparativo_de_ferramentas_de_derivacao_dirigidas_por_modelos__resultados_preliminares/</guid>
+      <guid>http://localhost:1313/publication/2010estudo_comparativo_de_ferramentas_de_derivacao_dirigidas_por_modelos__resultados_preliminares/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modularity Analysis of Use Case Implementations</title>
-      <link>https://pauloborba.github.io/publication/2010modularity_analysis_of_use_case_implementations/</link>
+      <link>http://localhost:1313/publication/2010modularity_analysis_of_use_case_implementations/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2010modularity_analysis_of_use_case_implementations/</guid>
+      <guid>http://localhost:1313/publication/2010modularity_analysis_of_use_case_implementations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synchronizing Model and Program Refactoring</title>
-      <link>https://pauloborba.github.io/publication/2010synchronizing_model_and_program_refactoring/</link>
+      <link>http://localhost:1313/publication/2010synchronizing_model_and_program_refactoring/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2010synchronizing_model_and_program_refactoring/</guid>
+      <guid>http://localhost:1313/publication/2010synchronizing_model_and_program_refactoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TaRGeT: a Model Based Product Line Testing Tool</title>
-      <link>https://pauloborba.github.io/publication/2010target__a_model_based_product_line_testing_tool/</link>
+      <link>http://localhost:1313/publication/2010target__a_model_based_product_line_testing_tool/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2010target__a_model_based_product_line_testing_tool/</guid>
+      <guid>http://localhost:1313/publication/2010target__a_model_based_product_line_testing_tool/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards feature modularization</title>
-      <link>https://pauloborba.github.io/publication/2010towards_feature_modularization/</link>
+      <link>http://localhost:1313/publication/2010towards_feature_modularization/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2010towards_feature_modularization/</guid>
+      <guid>http://localhost:1313/publication/2010towards_feature_modularization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A complete set of object modeling laws for Alloy</title>
-      <link>https://pauloborba.github.io/publication/2009a_complete_set_of_object_modeling_laws_for_alloy/</link>
+      <link>http://localhost:1313/publication/2009a_complete_set_of_object_modeling_laws_for_alloy/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2009a_complete_set_of_object_modeling_laws_for_alloy/</guid>
+      <guid>http://localhost:1313/publication/2009a_complete_set_of_object_modeling_laws_for_alloy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A design rule language for aspect-oriented programming</title>
-      <link>https://pauloborba.github.io/publication/2009a_design_rule_language_for_aspect-oriented_programming/</link>
+      <link>http://localhost:1313/publication/2009a_design_rule_language_for_aspect-oriented_programming/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2009a_design_rule_language_for_aspect-oriented_programming/</guid>
+      <guid>http://localhost:1313/publication/2009a_design_rule_language_for_aspect-oriented_programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Does AspectJ Provide Modularity when Implementing Features with Flexible Binding Times?</title>
-      <link>https://pauloborba.github.io/publication/2009does_aspectj_provide_modularity_when_implementing_features_with_flexible_binding_times_/</link>
+      <link>http://localhost:1313/publication/2009does_aspectj_provide_modularity_when_implementing_features_with_flexible_binding_times_/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2009does_aspectj_provide_modularity_when_implementing_features_with_flexible_binding_times_/</guid>
+      <guid>http://localhost:1313/publication/2009does_aspectj_provide_modularity_when_implementing_features_with_flexible_binding_times_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hephaestus: A tool for managing SPL variabilities</title>
-      <link>https://pauloborba.github.io/publication/2009hephaestus__a_tool_for_managing_spl_variabilities/</link>
+      <link>http://localhost:1313/publication/2009hephaestus__a_tool_for_managing_spl_variabilities/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2009hephaestus__a_tool_for_managing_spl_variabilities/</guid>
+      <guid>http://localhost:1313/publication/2009hephaestus__a_tool_for_managing_spl_variabilities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving guidance when restructuring variabilities in software product lines</title>
-      <link>https://pauloborba.github.io/publication/2009improving_guidance_when_restructuring_variabilities_in_software_product_lines/</link>
+      <link>http://localhost:1313/publication/2009improving_guidance_when_restructuring_variabilities_in_software_product_lines/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2009improving_guidance_when_restructuring_variabilities_in_software_product_lines/</guid>
+      <guid>http://localhost:1313/publication/2009improving_guidance_when_restructuring_variabilities_in_software_product_lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling scenario variability as crosscutting mechanisms</title>
-      <link>https://pauloborba.github.io/publication/2009modeling_scenario_variability_as_crosscutting_mechanisms/</link>
+      <link>http://localhost:1313/publication/2009modeling_scenario_variability_as_crosscutting_mechanisms/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2009modeling_scenario_variability_as_crosscutting_mechanisms/</guid>
+      <guid>http://localhost:1313/publication/2009modeling_scenario_variability_as_crosscutting_mechanisms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modularity analysis of use case implementations</title>
-      <link>https://pauloborba.github.io/publication/2009modularity_analysis_of_use_case_implementations/</link>
+      <link>http://localhost:1313/publication/2009modularity_analysis_of_use_case_implementations/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2009modularity_analysis_of_use_case_implementations/</guid>
+      <guid>http://localhost:1313/publication/2009modularity_analysis_of_use_case_implementations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modularizing variabilities with CaesarJ collaboration interfaces</title>
-      <link>https://pauloborba.github.io/publication/2009modularizing_variabilities_with_caesarj_collaboration_interfaces/</link>
+      <link>http://localhost:1313/publication/2009modularizing_variabilities_with_caesarj_collaboration_interfaces/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2009modularizing_variabilities_with_caesarj_collaboration_interfaces/</guid>
+      <guid>http://localhost:1313/publication/2009modularizing_variabilities_with_caesarj_collaboration_interfaces/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A complete and minimal set of algebraic laws for feature models</title>
-      <link>https://pauloborba.github.io/publication/2008a_complete_and_minimal_set_of_algebraic_laws_for_feature_models/</link>
+      <link>http://localhost:1313/publication/2008a_complete_and_minimal_set_of_algebraic_laws_for_feature_models/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2008a_complete_and_minimal_set_of_algebraic_laws_for_feature_models/</guid>
+      <guid>http://localhost:1313/publication/2008a_complete_and_minimal_set_of_algebraic_laws_for_feature_models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A decision model for implementing product lines variabilities</title>
-      <link>https://pauloborba.github.io/publication/2008a_decision_model_for_implementing_product_lines_variabilities/</link>
+      <link>http://localhost:1313/publication/2008a_decision_model_for_implementing_product_lines_variabilities/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2008a_decision_model_for_implementing_product_lines_variabilities/</guid>
+      <guid>http://localhost:1313/publication/2008a_decision_model_for_implementing_product_lines_variabilities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated Test Execution Effort Estimation based on Functional Test Specifications</title>
-      <link>https://pauloborba.github.io/publication/2008automated_test_execution_effort_estimation_based_on_functional_test_specifications/</link>
+      <link>http://localhost:1313/publication/2008automated_test_execution_effort_estimation_based_on_functional_test_specifications/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2008automated_test_execution_effort_estimation_based_on_functional_test_specifications/</guid>
+      <guid>http://localhost:1313/publication/2008automated_test_execution_effort_estimation_based_on_functional_test_specifications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FLiP: Managing Software Product Line Extraction and Reaction with Aspects</title>
-      <link>https://pauloborba.github.io/publication/2008flip__managing_software_product_line_extraction_and_reaction_with_aspects/</link>
+      <link>http://localhost:1313/publication/2008flip__managing_software_product_line_extraction_and_reaction_with_aspects/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2008flip__managing_software_product_line_extraction_and_reaction_with_aspects/</guid>
+      <guid>http://localhost:1313/publication/2008flip__managing_software_product_line_extraction_and_reaction_with_aspects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FLiP: Product Line DerivationTool</title>
-      <link>https://pauloborba.github.io/publication/2008flip__product_line_derivationtool/</link>
+      <link>http://localhost:1313/publication/2008flip__product_line_derivationtool/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2008flip__product_line_derivationtool/</guid>
+      <guid>http://localhost:1313/publication/2008flip__product_line_derivationtool/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Formal Model-Driven Program Refactoring</title>
-      <link>https://pauloborba.github.io/publication/2008formal_model-driven_program_refactoring/</link>
+      <link>http://localhost:1313/publication/2008formal_model-driven_program_refactoring/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2008formal_model-driven_program_refactoring/</guid>
+      <guid>http://localhost:1313/publication/2008formal_model-driven_program_refactoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JML and Aspects: The benefits of instrumenting JML features with AspectJ</title>
-      <link>https://pauloborba.github.io/publication/2008jml_and_aspects__the_benefits_of_instrumenting_jml_features_with_aspectj/</link>
+      <link>http://localhost:1313/publication/2008jml_and_aspects__the_benefits_of_instrumenting_jml_features_with_aspectj/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2008jml_and_aspects__the_benefits_of_instrumenting_jml_features_with_aspectj/</guid>
+      <guid>http://localhost:1313/publication/2008jml_and_aspects__the_benefits_of_instrumenting_jml_features_with_aspectj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Manualtest: Improving collection of manual test execution data in empirical studies</title>
-      <link>https://pauloborba.github.io/publication/2008manualtest__improving_collection_of_manual_test_execution_data_in_empirical_studies/</link>
+      <link>http://localhost:1313/publication/2008manualtest__improving_collection_of_manual_test_execution_data_in_empirical_studies/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2008manualtest__improving_collection_of_manual_test_execution_data_in_empirical_studies/</guid>
+      <guid>http://localhost:1313/publication/2008manualtest__improving_collection_of_manual_test_execution_data_in_empirical_studies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the benefits of variability management as crosscutting</title>
-      <link>https://pauloborba.github.io/publication/2008on_the_benefits_of_variability_management_as_crosscutting/</link>
+      <link>http://localhost:1313/publication/2008on_the_benefits_of_variability_management_as_crosscutting/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2008on_the_benefits_of_variability_management_as_crosscutting/</guid>
+      <guid>http://localhost:1313/publication/2008on_the_benefits_of_variability_management_as_crosscutting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recommending refactorings when restructuring variabilities in software product lines</title>
-      <link>https://pauloborba.github.io/publication/2008recommending_refactorings_when_restructuring_variabilities_in_software_product_lines/</link>
+      <link>http://localhost:1313/publication/2008recommending_refactorings_when_restructuring_variabilities_in_software_product_lines/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2008recommending_refactorings_when_restructuring_variabilities_in_software_product_lines/</guid>
+      <guid>http://localhost:1313/publication/2008recommending_refactorings_when_restructuring_variabilities_in_software_product_lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Supporting Software Product Lines Development: FLiP - Product Line Derivation Tool</title>
-      <link>https://pauloborba.github.io/publication/2008supporting_software_product_lines_development__flip_-_product_line_derivation_tool/</link>
+      <link>http://localhost:1313/publication/2008supporting_software_product_lines_development__flip_-_product_line_derivation_tool/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2008supporting_software_product_lines_development__flip_-_product_line_derivation_tool/</guid>
+      <guid>http://localhost:1313/publication/2008supporting_software_product_lines_development__flip_-_product_line_derivation_tool/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Process Simulation to Assess the Test Design Effort Reduction of a Model-Based Testing Approach</title>
-      <link>https://pauloborba.github.io/publication/2008using_process_simulation_to_assess_the_test_design_effort_reduction_of_a_model-based_testing_approach/</link>
+      <link>http://localhost:1313/publication/2008using_process_simulation_to_assess_the_test_design_effort_reduction_of_a_model-based_testing_approach/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2008using_process_simulation_to_assess_the_test_design_effort_reduction_of_a_model-based_testing_approach/</guid>
+      <guid>http://localhost:1313/publication/2008using_process_simulation_to_assess_the_test_design_effort_reduction_of_a_model-based_testing_approach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AJaTS - AspectJ Transformation System: Tool Support for Aspect-Oriented Development and Refactoring</title>
-      <link>https://pauloborba.github.io/publication/2007ajats_-_aspectj_transformation_system__tool_support_for_aspect-oriented_development_and_refactoring/</link>
+      <link>http://localhost:1313/publication/2007ajats_-_aspectj_transformation_system__tool_support_for_aspect-oriented_development_and_refactoring/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2007ajats_-_aspectj_transformation_system__tool_support_for_aspect-oriented_development_and_refactoring/</guid>
+      <guid>http://localhost:1313/publication/2007ajats_-_aspectj_transformation_system__tool_support_for_aspect-oriented_development_and_refactoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AJaTS: AspectJ Transformation System</title>
-      <link>https://pauloborba.github.io/publication/2007ajats__aspectj_transformation_system/</link>
+      <link>http://localhost:1313/publication/2007ajats__aspectj_transformation_system/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2007ajats__aspectj_transformation_system/</guid>
+      <guid>http://localhost:1313/publication/2007ajats__aspectj_transformation_system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Estimation Model for Test Execution Effort</title>
-      <link>https://pauloborba.github.io/publication/2007an_estimation_model_for_test_execution_effort/</link>
+      <link>http://localhost:1313/publication/2007an_estimation_model_for_test_execution_effort/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2007an_estimation_model_for_test_execution_effort/</guid>
+      <guid>http://localhost:1313/publication/2007an_estimation_model_for_test_execution_effort/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analyzing Class and Crosscutting Modularity with Design Structure Matrixes</title>
-      <link>https://pauloborba.github.io/publication/2007analyzing_class_and_crosscutting_modularity_with_design_structure_matrixes/</link>
+      <link>http://localhost:1313/publication/2007analyzing_class_and_crosscutting_modularity_with_design_structure_matrixes/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2007analyzing_class_and_crosscutting_modularity_with_design_structure_matrixes/</guid>
+      <guid>http://localhost:1313/publication/2007analyzing_class_and_crosscutting_modularity_with_design_structure_matrixes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brazil test center research group</title>
-      <link>https://pauloborba.github.io/publication/2007brazil_test_center_research_group/</link>
+      <link>http://localhost:1313/publication/2007brazil_test_center_research_group/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2007brazil_test_center_research_group/</guid>
+      <guid>http://localhost:1313/publication/2007brazil_test_center_research_group/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Concurrency Control Modularization with Aspect-Oriented Programming</title>
-      <link>https://pauloborba.github.io/publication/2007concurrency_control_modularization_with_aspect-oriented_programming/</link>
+      <link>http://localhost:1313/publication/2007concurrency_control_modularization_with_aspect-oriented_programming/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2007concurrency_control_modularization_with_aspect-oriented_programming/</guid>
+      <guid>http://localhost:1313/publication/2007concurrency_control_modularization_with_aspect-oriented_programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Empirical Studies of Test Execution Effort Estimation Based on Test Characteristics and Risk Factors</title>
-      <link>https://pauloborba.github.io/publication/2007empirical_studies_of_test_execution_effort_estimation_based_on_test_characteristics_and_risk_factors/</link>
+      <link>http://localhost:1313/publication/2007empirical_studies_of_test_execution_effort_estimation_based_on_test_characteristics_and_risk_factors/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2007empirical_studies_of_test_execution_effort_estimation_based_on_test_characteristics_and_risk_factors/</guid>
+      <guid>http://localhost:1313/publication/2007empirical_studies_of_test_execution_effort_estimation_based_on_test_characteristics_and_risk_factors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Formally Introducing Alloy Idioms</title>
-      <link>https://pauloborba.github.io/publication/2007formally_introducing_alloy_idioms/</link>
+      <link>http://localhost:1313/publication/2007formally_introducing_alloy_idioms/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2007formally_introducing_alloy_idioms/</guid>
+      <guid>http://localhost:1313/publication/2007formally_introducing_alloy_idioms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapping Features to Aspects: A Model-Based Generative Approach</title>
-      <link>https://pauloborba.github.io/publication/2007mapping_features_to_aspects__a_model-based_generative_approach/</link>
+      <link>http://localhost:1313/publication/2007mapping_features_to_aspects__a_model-based_generative_approach/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2007mapping_features_to_aspects__a_model-based_generative_approach/</guid>
+      <guid>http://localhost:1313/publication/2007mapping_features_to_aspects__a_model-based_generative_approach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Contributions of an End-to-End AOSD Testbed</title>
-      <link>https://pauloborba.github.io/publication/2007on_the_contributions_of_an_end-to-end_aosd_testbed/</link>
+      <link>http://localhost:1313/publication/2007on_the_contributions_of_an_end-to-end_aosd_testbed/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2007on_the_contributions_of_an_end-to-end_aosd_testbed/</guid>
+      <guid>http://localhost:1313/publication/2007on_the_contributions_of_an_end-to-end_aosd_testbed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On The Design of an End-to-End AOSD Testbed for Software Stability</title>
-      <link>https://pauloborba.github.io/publication/2007on_the_design_of_an_end-to-end_aosd_testbed_for_software_stability/</link>
+      <link>http://localhost:1313/publication/2007on_the_design_of_an_end-to-end_aosd_testbed_for_software_stability/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2007on_the_design_of_an_end-to-end_aosd_testbed_for_software_stability/</guid>
+      <guid>http://localhost:1313/publication/2007on_the_design_of_an_end-to-end_aosd_testbed_for_software_stability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Impact of Aspectual Decompositions on Design Stability: An Empirical Study</title>
-      <link>https://pauloborba.github.io/publication/2007on_the_impact_of_aspectual_decompositions_on_design_stability__an_empirical_study/</link>
+      <link>http://localhost:1313/publication/2007on_the_impact_of_aspectual_decompositions_on_design_stability__an_empirical_study/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2007on_the_impact_of_aspectual_decompositions_on_design_stability__an_empirical_study/</guid>
+      <guid>http://localhost:1313/publication/2007on_the_impact_of_aspectual_decompositions_on_design_stability__an_empirical_study/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Modularity of Aspect-Oriented and other Techniques for Implementing Product Lines Variabilities</title>
-      <link>https://pauloborba.github.io/publication/2007on_the_modularity_of_aspect-oriented_and_other_techniques_for_implementing_product_lines_variabilities/</link>
+      <link>http://localhost:1313/publication/2007on_the_modularity_of_aspect-oriented_and_other_techniques_for_implementing_product_lines_variabilities/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2007on_the_modularity_of_aspect-oriented_and_other_techniques_for_implementing_product_lines_variabilities/</guid>
+      <guid>http://localhost:1313/publication/2007on_the_modularity_of_aspect-oriented_and_other_techniques_for_implementing_product_lines_variabilities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Product Line Variability Refactoring Tool</title>
-      <link>https://pauloborba.github.io/publication/2007product_line_variability_refactoring_tool/</link>
+      <link>http://localhost:1313/publication/2007product_line_variability_refactoring_tool/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2007product_line_variability_refactoring_tool/</guid>
+      <guid>http://localhost:1313/publication/2007product_line_variability_refactoring_tool/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantic Dependencies and Modularity of Aspect-Oriented Software</title>
-      <link>https://pauloborba.github.io/publication/2007semantic_dependencies_and_modularity_of_aspect-oriented_software/</link>
+      <link>http://localhost:1313/publication/2007semantic_dependencies_and_modularity_of_aspect-oriented_software/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2007semantic_dependencies_and_modularity_of_aspect-oriented_software/</guid>
+      <guid>http://localhost:1313/publication/2007semantic_dependencies_and_modularity_of_aspect-oriented_software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sizing system tests for estimating test execution effort</title>
-      <link>https://pauloborba.github.io/publication/2007sizing_system_tests_for_estimating_test_execution_effort/</link>
+      <link>http://localhost:1313/publication/2007sizing_system_tests_for_estimating_test_execution_effort/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2007sizing_system_tests_for_estimating_test_execution_effort/</guid>
+      <guid>http://localhost:1313/publication/2007sizing_system_tests_for_estimating_test_execution_effort/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Specifying design rules in aspect-oriented systems</title>
-      <link>https://pauloborba.github.io/publication/2007specifying_design_rules_in_aspect-oriented_systems/</link>
+      <link>http://localhost:1313/publication/2007specifying_design_rules_in_aspect-oriented_systems/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2007specifying_design_rules_in_aspect-oriented_systems/</guid>
+      <guid>http://localhost:1313/publication/2007specifying_design_rules_in_aspect-oriented_systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test Effort Estimation Models Based on Test Specifications</title>
-      <link>https://pauloborba.github.io/publication/2007test_effort_estimation_models_based_on_test_specifications/</link>
+      <link>http://localhost:1313/publication/2007test_effort_estimation_models_based_on_test_specifications/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2007test_effort_estimation_models_based_on_test_specifications/</guid>
+      <guid>http://localhost:1313/publication/2007test_effort_estimation_models_based_on_test_specifications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Reusable and Modular Aspect-Oriented Concurrency Control</title>
-      <link>https://pauloborba.github.io/publication/2007towards_reusable_and_modular_aspect-oriented_concurrency_control/</link>
+      <link>http://localhost:1313/publication/2007towards_reusable_and_modular_aspect-oriented_concurrency_control/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2007towards_reusable_and_modular_aspect-oriented_concurrency_control/</guid>
+      <guid>http://localhost:1313/publication/2007towards_reusable_and_modular_aspect-oriented_concurrency_control/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Design Structure Matrices to Assess Modularity in Aspect-Oriented Software Product Lines</title>
-      <link>https://pauloborba.github.io/publication/2007using_design_structure_matrices_to_assess_modularity_in_aspect-oriented_software_product_lines/</link>
+      <link>http://localhost:1313/publication/2007using_design_structure_matrices_to_assess_modularity_in_aspect-oriented_software_product_lines/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2007using_design_structure_matrices_to_assess_modularity_in_aspect-oriented_software_product_lines/</guid>
+      <guid>http://localhost:1313/publication/2007using_design_structure_matrices_to_assess_modularity_in_aspect-oriented_software_product_lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Formal Framework for Establishing Conformance between Object Models and Object-Oriented Programs</title>
-      <link>https://pauloborba.github.io/publication/2006a_formal_framework_for_establishing_conformance_between_object_models_and_object-oriented_programs/</link>
+      <link>http://localhost:1313/publication/2006a_formal_framework_for_establishing_conformance_between_object_models_and_object-oriented_programs/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2006a_formal_framework_for_establishing_conformance_between_object_models_and_object-oriented_programs/</guid>
+      <guid>http://localhost:1313/publication/2006a_formal_framework_for_establishing_conformance_between_object_models_and_object-oriented_programs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Theory for Feature Models in Alloy</title>
-      <link>https://pauloborba.github.io/publication/2006a_theory_for_feature_models_in_alloy/</link>
+      <link>http://localhost:1313/publication/2006a_theory_for_feature_models_in_alloy/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2006a_theory_for_feature_models_in_alloy/</guid>
+      <guid>http://localhost:1313/publication/2006a_theory_for_feature_models_in_alloy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Verification Approach for Crosscutting Features Based on Extension Join Points</title>
-      <link>https://pauloborba.github.io/publication/2006a_verification_approach_for_crosscutting_features_based_on_extension_join_points/</link>
+      <link>http://localhost:1313/publication/2006a_verification_approach_for_crosscutting_features_based_on_extension_join_points/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2006a_verification_approach_for_crosscutting_features_based_on_extension_join_points/</guid>
+      <guid>http://localhost:1313/publication/2006a_verification_approach_for_crosscutting_features_based_on_extension_join_points/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Approach to Invariant-based Program Refactoring</title>
-      <link>https://pauloborba.github.io/publication/2006an_approach_to_invariant-based_program_refactoring_double_entry/</link>
+      <link>http://localhost:1313/publication/2006an_approach_to_invariant-based_program_refactoring_double_entry/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2006an_approach_to_invariant-based_program_refactoring_double_entry/</guid>
+      <guid>http://localhost:1313/publication/2006an_approach_to_invariant-based_program_refactoring_double_entry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beyond Code: Handling Variability in Art Artifacts in Mobile Game Product Lines</title>
-      <link>https://pauloborba.github.io/publication/2006beyond_code__handling_variability_in_art_artifacts_in_mobile_game_product_lines/</link>
+      <link>http://localhost:1313/publication/2006beyond_code__handling_variability_in_art_artifacts_in_mobile_game_product_lines/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2006beyond_code__handling_variability_in_art_artifacts_in_mobile_game_product_lines/</guid>
+      <guid>http://localhost:1313/publication/2006beyond_code__handling_variability_in_art_artifacts_in_mobile_game_product_lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contextos de Primeira Classe em Transformações de Programas</title>
-      <link>https://pauloborba.github.io/publication/2006contextos_de_primeira_classe_em_transformacoes_de_programas/</link>
+      <link>http://localhost:1313/publication/2006contextos_de_primeira_classe_em_transformacoes_de_programas/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2006contextos_de_primeira_classe_em_transformacoes_de_programas/</guid>
+      <guid>http://localhost:1313/publication/2006contextos_de_primeira_classe_em_transformacoes_de_programas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Declaring Static Crosscutting Dependencies in AspectJ</title>
-      <link>https://pauloborba.github.io/publication/2006declaring_static_crosscutting_dependencies_in_aspectj/</link>
+      <link>http://localhost:1313/publication/2006declaring_static_crosscutting_dependencies_in_aspectj/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2006declaring_static_crosscutting_dependencies_in_aspectj/</guid>
+      <guid>http://localhost:1313/publication/2006declaring_static_crosscutting_dependencies_in_aspectj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From Conditional Compilation to Aspects: A Case Study in Software Product Lines Migration</title>
-      <link>https://pauloborba.github.io/publication/2006from_conditional_compilation_to_aspects__a_case_study_in_software_product_lines_migration/</link>
+      <link>http://localhost:1313/publication/2006from_conditional_compilation_to_aspects__a_case_study_in_software_product_lines_migration/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2006from_conditional_compilation_to_aspects__a_case_study_in_software_product_lines_migration/</guid>
+      <guid>http://localhost:1313/publication/2006from_conditional_compilation_to_aspects__a_case_study_in_software_product_lines_migration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implementing Framework Crosscutting Extensions with EJPs and AspectJ</title>
-      <link>https://pauloborba.github.io/publication/2006implementing_framework_crosscutting_extensions_with_ejps_and_aspectj/</link>
+      <link>http://localhost:1313/publication/2006implementing_framework_crosscutting_extensions_with_ejps_and_aspectj/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2006implementing_framework_crosscutting_extensions_with_ejps_and_aspectj/</guid>
+      <guid>http://localhost:1313/publication/2006implementing_framework_crosscutting_extensions_with_ejps_and_aspectj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving extensibility of object-oriented frameworks with aspect-oriented programming</title>
-      <link>https://pauloborba.github.io/publication/2006improving_extensibility_of_object-oriented_frameworks_with_aspect-oriented_programming/</link>
+      <link>http://localhost:1313/publication/2006improving_extensibility_of_object-oriented_frameworks_with_aspect-oriented_programming/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2006improving_extensibility_of_object-oriented_frameworks_with_aspect-oriented_programming/</guid>
+      <guid>http://localhost:1313/publication/2006improving_extensibility_of_object-oriented_frameworks_with_aspect-oriented_programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Refactoring product lines</title>
-      <link>https://pauloborba.github.io/publication/2006refactoring_product_lines/</link>
+      <link>http://localhost:1313/publication/2006refactoring_product_lines/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2006refactoring_product_lines/</guid>
+      <guid>http://localhost:1313/publication/2006refactoring_product_lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sound Object Model Refactorings</title>
-      <link>https://pauloborba.github.io/publication/2006sound_object_model_refactorings/</link>
+      <link>http://localhost:1313/publication/2006sound_object_model_refactorings/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2006sound_object_model_refactorings/</guid>
+      <guid>http://localhost:1313/publication/2006sound_object_model_refactorings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Suporte a Refatorações em um Sistema de Transformação de Propósito Geral</title>
-      <link>https://pauloborba.github.io/publication/2006suporte_a_refatoracoes_em_um_sistema_de_transformacao_de_proposito_geral/</link>
+      <link>http://localhost:1313/publication/2006suporte_a_refatoracoes_em_um_sistema_de_transformacao_de_proposito_geral/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2006suporte_a_refatoracoes_em_um_sistema_de_transformacao_de_proposito_geral/</guid>
+      <guid>http://localhost:1313/publication/2006suporte_a_refatoracoes_em_um_sistema_de_transformacao_de_proposito_geral/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Model-driven Approach to Formal Refactoring</title>
-      <link>https://pauloborba.github.io/publication/2005a_model-driven_approach_to_formal_refactoring/</link>
+      <link>http://localhost:1313/publication/2005a_model-driven_approach_to_formal_refactoring/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2005a_model-driven_approach_to_formal_refactoring/</guid>
+      <guid>http://localhost:1313/publication/2005a_model-driven_approach_to_formal_refactoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Rigorous Approach for Proving Model Refactorings</title>
-      <link>https://pauloborba.github.io/publication/2005a_rigorous_approach_for_proving_model_refactorings/</link>
+      <link>http://localhost:1313/publication/2005a_rigorous_approach_for_proving_model_refactorings/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2005a_rigorous_approach_for_proving_model_refactorings/</guid>
+      <guid>http://localhost:1313/publication/2005a_rigorous_approach_for_proving_model_refactorings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparative Analysis of Porting Strategies in Mobile Device Games</title>
-      <link>https://pauloborba.github.io/publication/2005comparative_analysis_of_porting_strategies_in_mobile_device_games/</link>
+      <link>http://localhost:1313/publication/2005comparative_analysis_of_porting_strategies_in_mobile_device_games/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2005comparative_analysis_of_porting_strategies_in_mobile_device_games/</guid>
+      <guid>http://localhost:1313/publication/2005comparative_analysis_of_porting_strategies_in_mobile_device_games/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deriving refactorings for AspectJ</title>
-      <link>https://pauloborba.github.io/publication/2005deriving_refactorings_for_aspectj/</link>
+      <link>http://localhost:1313/publication/2005deriving_refactorings_for_aspectj/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2005deriving_refactorings_for_aspectj/</guid>
+      <guid>http://localhost:1313/publication/2005deriving_refactorings_for_aspectj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extracting and Evolving Mobile Games Product Lines</title>
-      <link>https://pauloborba.github.io/publication/2005extracting_and_evolving_mobile_games_product_lines/</link>
+      <link>http://localhost:1313/publication/2005extracting_and_evolving_mobile_games_product_lines/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2005extracting_and_evolving_mobile_games_product_lines/</guid>
+      <guid>http://localhost:1313/publication/2005extracting_and_evolving_mobile_games_product_lines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Formal Refactoring for UML Class Diagrams</title>
-      <link>https://pauloborba.github.io/publication/2005formal_refactoring_for_uml_class_diagrams/</link>
+      <link>http://localhost:1313/publication/2005formal_refactoring_for_uml_class_diagrams/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2005formal_refactoring_for_uml_class_diagrams/</guid>
+      <guid>http://localhost:1313/publication/2005formal_refactoring_for_uml_class_diagrams/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Formal Refactorings for Object Models</title>
-      <link>https://pauloborba.github.io/publication/2005formal_refactorings_for_object_models/</link>
+      <link>http://localhost:1313/publication/2005formal_refactorings_for_object_models/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2005formal_refactorings_for_object_models/</guid>
+      <guid>http://localhost:1313/publication/2005formal_refactorings_for_object_models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geração de Sistemas de Transformação</title>
-      <link>https://pauloborba.github.io/publication/2005geracao_de_sistemas_de_transformacao/</link>
+      <link>http://localhost:1313/publication/2005geracao_de_sistemas_de_transformacao/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2005geracao_de_sistemas_de_transformacao/</guid>
+      <guid>http://localhost:1313/publication/2005geracao_de_sistemas_de_transformacao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implementing Modular and Reusable Aspect-Oriented Concurrency Control with AspectJ</title>
-      <link>https://pauloborba.github.io/publication/2005implementing_modular_and_reusable_aspect-oriented_concurrency_control_with_aspectj/</link>
+      <link>http://localhost:1313/publication/2005implementing_modular_and_reusable_aspect-oriented_concurrency_control_with_aspectj/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2005implementing_modular_and_reusable_aspect-oriented_concurrency_control_with_aspectj/</guid>
+      <guid>http://localhost:1313/publication/2005implementing_modular_and_reusable_aspect-oriented_concurrency_control_with_aspectj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Proving aspect-oriented programming laws</title>
-      <link>https://pauloborba.github.io/publication/2005proving_aspect-oriented_programming_laws/</link>
+      <link>http://localhost:1313/publication/2005proving_aspect-oriented_programming_laws/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2005proving_aspect-oriented_programming_laws/</guid>
+      <guid>http://localhost:1313/publication/2005proving_aspect-oriented_programming_laws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Type-safe refactorings for Alloy</title>
-      <link>https://pauloborba.github.io/publication/2005type-safe_refactorings_for_alloy/</link>
+      <link>http://localhost:1313/publication/2005type-safe_refactorings_for_alloy/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2005type-safe_refactorings_for_alloy/</guid>
+      <guid>http://localhost:1313/publication/2005type-safe_refactorings_for_alloy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Um Sistema de Tipos para uma Linguagem de Transformação</title>
-      <link>https://pauloborba.github.io/publication/2005um_sistema_de_tipos_para_uma_linguagem_de_transformacao/</link>
+      <link>http://localhost:1313/publication/2005um_sistema_de_tipos_para_uma_linguagem_de_transformacao/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2005um_sistema_de_tipos_para_uma_linguagem_de_transformacao/</guid>
+      <guid>http://localhost:1313/publication/2005um_sistema_de_tipos_para_uma_linguagem_de_transformacao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A General-purpose Transformation System for Java</title>
-      <link>https://pauloborba.github.io/publication/2004a_general-purpose_transformation_system_for_java/</link>
+      <link>http://localhost:1313/publication/2004a_general-purpose_transformation_system_for_java/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2004a_general-purpose_transformation_system_for_java/</guid>
+      <guid>http://localhost:1313/publication/2004a_general-purpose_transformation_system_for_java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A UML Class Diagram Analyzer</title>
-      <link>https://pauloborba.github.io/publication/2004a_uml_class_diagram_analyzer/</link>
+      <link>http://localhost:1313/publication/2004a_uml_class_diagram_analyzer/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2004a_uml_class_diagram_analyzer/</guid>
+      <guid>http://localhost:1313/publication/2004a_uml_class_diagram_analyzer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Abstract Equivalence Notion for Object Models</title>
-      <link>https://pauloborba.github.io/publication/2004an_abstract_equivalence_notion_for_object_models/</link>
+      <link>http://localhost:1313/publication/2004an_abstract_equivalence_notion_for_object_models/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2004an_abstract_equivalence_notion_for_object_models/</guid>
+      <guid>http://localhost:1313/publication/2004an_abstract_equivalence_notion_for_object_models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Incremental Aspect-Oriented Product Line Method for J2ME Game Development</title>
-      <link>https://pauloborba.github.io/publication/2004an_incremental_aspect-oriented_product_line_method_for_j2me_game_development/</link>
+      <link>http://localhost:1313/publication/2004an_incremental_aspect-oriented_product_line_method_for_j2me_game_development/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2004an_incremental_aspect-oriented_product_line_method_for_j2me_game_development/</guid>
+      <guid>http://localhost:1313/publication/2004an_incremental_aspect-oriented_product_line_method_for_j2me_game_development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AspectH: Uma Extensão Orientada a Aspectos de Haskell</title>
-      <link>https://pauloborba.github.io/publication/2004aspecth__uma_extensao_orientada_a_aspectos_de_haskell_double_entry/</link>
+      <link>http://localhost:1313/publication/2004aspecth__uma_extensao_orientada_a_aspectos_de_haskell_double_entry/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2004aspecth__uma_extensao_orientada_a_aspectos_de_haskell_double_entry/</guid>
+      <guid>http://localhost:1313/publication/2004aspecth__uma_extensao_orientada_a_aspectos_de_haskell_double_entry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Basic Laws of Object Modeling</title>
-      <link>https://pauloborba.github.io/publication/2004basic_laws_of_object_modeling/</link>
+      <link>http://localhost:1313/publication/2004basic_laws_of_object_modeling/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2004basic_laws_of_object_modeling/</guid>
+      <guid>http://localhost:1313/publication/2004basic_laws_of_object_modeling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deriving refactorings for AspectJ</title>
-      <link>https://pauloborba.github.io/publication/2004deriving_refactorings_for_aspectj/</link>
+      <link>http://localhost:1313/publication/2004deriving_refactorings_for_aspectj/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2004deriving_refactorings_for_aspectj/</guid>
+      <guid>http://localhost:1313/publication/2004deriving_refactorings_for_aspectj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Desenvolvimento de Software Orientado a Aspectos utilizando RUP e AspectJ</title>
-      <link>https://pauloborba.github.io/publication/2004desenvolvimento_de_software_orientado_a_aspectos_utilizando_rup_e_aspectj/</link>
+      <link>http://localhost:1313/publication/2004desenvolvimento_de_software_orientado_a_aspectos_utilizando_rup_e_aspectj/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2004desenvolvimento_de_software_orientado_a_aspectos_utilizando_rup_e_aspectj/</guid>
+      <guid>http://localhost:1313/publication/2004desenvolvimento_de_software_orientado_a_aspectos_utilizando_rup_e_aspectj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Portando Jogos em J2ME: Desafios, Estudo de Caso, e Diretrizes</title>
-      <link>https://pauloborba.github.io/publication/2004portando_jogos_em_j2me__desafios__estudo_de_caso__e_diretrizes/</link>
+      <link>http://localhost:1313/publication/2004portando_jogos_em_j2me__desafios__estudo_de_caso__e_diretrizes/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2004portando_jogos_em_j2me__desafios__estudo_de_caso__e_diretrizes/</guid>
+      <guid>http://localhost:1313/publication/2004portando_jogos_em_j2me__desafios__estudo_de_caso__e_diretrizes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Separation of Crosscutting Concerns from Requirements to Design: Adapting the Use Case Driven Approach</title>
-      <link>https://pauloborba.github.io/publication/2004separation_of_crosscutting_concerns_from_requirements_to_design__adapting_the_use_case_driven_approach/</link>
+      <link>http://localhost:1313/publication/2004separation_of_crosscutting_concerns_from_requirements_to_design__adapting_the_use_case_driven_approach/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2004separation_of_crosscutting_concerns_from_requirements_to_design__adapting_the_use_case_driven_approach/</guid>
+      <guid>http://localhost:1313/publication/2004separation_of_crosscutting_concerns_from_requirements_to_design__adapting_the_use_case_driven_approach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Progressive and Non-progressive Implementation Approaches Evaluation</title>
-      <link>https://pauloborba.github.io/publication/2004towards_progressive_and_non-progressive_implementation_approaches_evaluation/</link>
+      <link>http://localhost:1313/publication/2004towards_progressive_and_non-progressive_implementation_approaches_evaluation/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2004towards_progressive_and_non-progressive_implementation_approaches_evaluation/</guid>
+      <guid>http://localhost:1313/publication/2004towards_progressive_and_non-progressive_implementation_approaches_evaluation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Aspects to Make Adaptive Object-Models Adaptable</title>
-      <link>https://pauloborba.github.io/publication/2004using_aspects_to_make_adaptive_object-models_adaptable/</link>
+      <link>http://localhost:1313/publication/2004using_aspects_to_make_adaptive_object-models_adaptable/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2004using_aspects_to_make_adaptive_object-models_adaptable/</guid>
+      <guid>http://localhost:1313/publication/2004using_aspects_to_make_adaptive_object-models_adaptable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Programming Laws to Modularize Concurrency in a Replicated Database Application</title>
-      <link>https://pauloborba.github.io/publication/2004using_programming_laws_to_modularize_concurrency_in_a_replicated_database_application/</link>
+      <link>http://localhost:1313/publication/2004using_programming_laws_to_modularize_concurrency_in_a_replicated_database_application/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2004using_programming_laws_to_modularize_concurrency_in_a_replicated_database_application/</guid>
+      <guid>http://localhost:1313/publication/2004using_programming_laws_to_modularize_concurrency_in_a_replicated_database_application/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A refinement algebra for object-oriented programming</title>
-      <link>https://pauloborba.github.io/publication/2003a_refinement_algebra_for_object-oriented_programming/</link>
+      <link>http://localhost:1313/publication/2003a_refinement_algebra_for_object-oriented_programming/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2003a_refinement_algebra_for_object-oriented_programming/</guid>
+      <guid>http://localhost:1313/publication/2003a_refinement_algebra_for_object-oriented_programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AdapPE: An architectural pattern for structuring adaptive applications with aspects</title>
-      <link>https://pauloborba.github.io/publication/2003adappe__an_architectural_pattern_for_structuring_adaptive_applications_with_aspects/</link>
+      <link>http://localhost:1313/publication/2003adappe__an_architectural_pattern_for_structuring_adaptive_applications_with_aspects/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2003adappe__an_architectural_pattern_for_structuring_adaptive_applications_with_aspects/</guid>
+      <guid>http://localhost:1313/publication/2003adappe__an_architectural_pattern_for_structuring_adaptive_applications_with_aspects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aspect-oriented implementation method: Progressive or non-progressive approach?</title>
-      <link>https://pauloborba.github.io/publication/2003aspect-oriented_implementation_method__progressive_or_non-progressive_approach_/</link>
+      <link>http://localhost:1313/publication/2003aspect-oriented_implementation_method__progressive_or_non-progressive_approach_/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2003aspect-oriented_implementation_method__progressive_or_non-progressive_approach_/</guid>
+      <guid>http://localhost:1313/publication/2003aspect-oriented_implementation_method__progressive_or_non-progressive_approach_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Developing adaptive J2ME applications using AspectJ</title>
-      <link>https://pauloborba.github.io/publication/2003developing_adaptive_j2me_applications_using_aspectj_double_entry/</link>
+      <link>http://localhost:1313/publication/2003developing_adaptive_j2me_applications_using_aspectj_double_entry/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2003developing_adaptive_j2me_applications_using_aspectj_double_entry/</guid>
+      <guid>http://localhost:1313/publication/2003developing_adaptive_j2me_applications_using_aspectj_double_entry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Refactoring Alloy specifications</title>
-      <link>https://pauloborba.github.io/publication/2003refactoring_alloy_specifications/</link>
+      <link>http://localhost:1313/publication/2003refactoring_alloy_specifications/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2003refactoring_alloy_specifications/</guid>
+      <guid>http://localhost:1313/publication/2003refactoring_alloy_specifications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using aspects to structure small devices adaptive applications</title>
-      <link>https://pauloborba.github.io/publication/2003using_aspects_to_structure_small_devices_adaptive_applications/</link>
+      <link>http://localhost:1313/publication/2003using_aspects_to_structure_small_devices_adaptive_applications/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2003using_aspects_to_structure_small_devices_adaptive_applications/</guid>
+      <guid>http://localhost:1313/publication/2003using_aspects_to_structure_small_devices_adaptive_applications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A RUP-based software process supporting progressive implementation</title>
-      <link>https://pauloborba.github.io/publication/2002a_rup-based_software_process_supporting_progressive_implementation/</link>
+      <link>http://localhost:1313/publication/2002a_rup-based_software_process_supporting_progressive_implementation/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2002a_rup-based_software_process_supporting_progressive_implementation/</guid>
+      <guid>http://localhost:1313/publication/2002a_rup-based_software_process_supporting_progressive_implementation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AspectJ, programação orientada a aspectos em Java</title>
-      <link>https://pauloborba.github.io/publication/2002aspectj__programacao_orientada_a_aspectos_em_java/</link>
+      <link>http://localhost:1313/publication/2002aspectj__programacao_orientada_a_aspectos_em_java/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2002aspectj__programacao_orientada_a_aspectos_em_java/</guid>
+      <guid>http://localhost:1313/publication/2002aspectj__programacao_orientada_a_aspectos_em_java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Concurrency control with Java and relational databases</title>
-      <link>https://pauloborba.github.io/publication/2002concurrency_control_with_java_and_relational_databases/</link>
+      <link>http://localhost:1313/publication/2002concurrency_control_with_java_and_relational_databases/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2002concurrency_control_with_java_and_relational_databases/</guid>
+      <guid>http://localhost:1313/publication/2002concurrency_control_with_java_and_relational_databases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implementing distribution and persistence aspects with aspectJ</title>
-      <link>https://pauloborba.github.io/publication/2002implementing_distribution_and_persistence_aspects_with_aspectj_double_entry/</link>
+      <link>http://localhost:1313/publication/2002implementing_distribution_and_persistence_aspects_with_aspectj_double_entry/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2002implementing_distribution_and_persistence_aspects_with_aspectj_double_entry/</guid>
+      <guid>http://localhost:1313/publication/2002implementing_distribution_and_persistence_aspects_with_aspectj_double_entry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrating code generation and refactoring</title>
-      <link>https://pauloborba.github.io/publication/2002integrating_code_generation_and_refactoring/</link>
+      <link>http://localhost:1313/publication/2002integrating_code_generation_and_refactoring/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2002integrating_code_generation_and_refactoring/</guid>
+      <guid>http://localhost:1313/publication/2002integrating_code_generation_and_refactoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mechanical abstraction of CSP-Z processes</title>
-      <link>https://pauloborba.github.io/publication/2002mechanical_abstraction_of_csp-z_processes/</link>
+      <link>http://localhost:1313/publication/2002mechanical_abstraction_of_csp-z_processes/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2002mechanical_abstraction_of_csp-z_processes/</guid>
+      <guid>http://localhost:1313/publication/2002mechanical_abstraction_of_csp-z_processes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PaDA: A Pattern for Distribution Aspects</title>
-      <link>https://pauloborba.github.io/publication/2002pada__a_pattern_for_distribution_aspects/</link>
+      <link>http://localhost:1313/publication/2002pada__a_pattern_for_distribution_aspects/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2002pada__a_pattern_for_distribution_aspects/</guid>
+      <guid>http://localhost:1313/publication/2002pada__a_pattern_for_distribution_aspects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Padrões de projeto para estruturação de aplicações distribuídas Enterprise JavaBeans</title>
-      <link>https://pauloborba.github.io/publication/2002padroes_de_projeto_para_estruturacao_de_aplicacoes_distribuidas_enterprise_javabeans/</link>
+      <link>http://localhost:1313/publication/2002padroes_de_projeto_para_estruturacao_de_aplicacoes_distribuidas_enterprise_javabeans/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2002padroes_de_projeto_para_estruturacao_de_aplicacoes_distribuidas_enterprise_javabeans/</guid>
+      <guid>http://localhost:1313/publication/2002padroes_de_projeto_para_estruturacao_de_aplicacoes_distribuidas_enterprise_javabeans/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PIP: Progressive Implementation Pattern</title>
-      <link>https://pauloborba.github.io/publication/2002pip__progressive_implementation_pattern/</link>
+      <link>http://localhost:1313/publication/2002pip__progressive_implementation_pattern/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2002pip__progressive_implementation_pattern/</guid>
+      <guid>http://localhost:1313/publication/2002pip__progressive_implementation_pattern/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Progressive implementation with aspect-oriented programming</title>
-      <link>https://pauloborba.github.io/publication/2002progressive_implementation_with_aspect-oriented_programming/</link>
+      <link>http://localhost:1313/publication/2002progressive_implementation_with_aspect-oriented_programming/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2002progressive_implementation_with_aspect-oriented_programming/</guid>
+      <guid>http://localhost:1313/publication/2002progressive_implementation_with_aspect-oriented_programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Testes e geração de código de sistemas web</title>
-      <link>https://pauloborba.github.io/publication/2002testes_e_geracao_de_codigo_de_sistemas_web/</link>
+      <link>http://localhost:1313/publication/2002testes_e_geracao_de_codigo_de_sistemas_web/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2002testes_e_geracao_de_codigo_de_sistemas_web/</guid>
+      <guid>http://localhost:1313/publication/2002testes_e_geracao_de_codigo_de_sistemas_web/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uma linguagem para testes de aceitação de sistemas web</title>
-      <link>https://pauloborba.github.io/publication/2002uma_linguagem_para_testes_de_aceitacao_de_sistemas_web/</link>
+      <link>http://localhost:1313/publication/2002uma_linguagem_para_testes_de_aceitacao_de_sistemas_web/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2002uma_linguagem_para_testes_de_aceitacao_de_sistemas_web/</guid>
+      <guid>http://localhost:1313/publication/2002uma_linguagem_para_testes_de_aceitacao_de_sistemas_web/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web systems acceptance tests and code generation</title>
-      <link>https://pauloborba.github.io/publication/2002web_systems_acceptance_tests_and_code_generation/</link>
+      <link>http://localhost:1313/publication/2002web_systems_acceptance_tests_and_code_generation/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2002web_systems_acceptance_tests_and_code_generation/</guid>
+      <guid>http://localhost:1313/publication/2002web_systems_acceptance_tests_and_code_generation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A language for specifying Java transformations</title>
-      <link>https://pauloborba.github.io/publication/2001a_language_for_specifying_java_transformations/</link>
+      <link>http://localhost:1313/publication/2001a_language_for_specifying_java_transformations/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2001a_language_for_specifying_java_transformations/</guid>
+      <guid>http://localhost:1313/publication/2001a_language_for_specifying_java_transformations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An implementation method for distributed object-oriented applications</title>
-      <link>https://pauloborba.github.io/publication/2001an_implementation_method_for_distributed_object-oriented_applications/</link>
+      <link>http://localhost:1313/publication/2001an_implementation_method_for_distributed_object-oriented_applications/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2001an_implementation_method_for_distributed_object-oriented_applications/</guid>
+      <guid>http://localhost:1313/publication/2001an_implementation_method_for_distributed_object-oriented_applications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Concurrency Manager</title>
-      <link>https://pauloborba.github.io/publication/2001concurrency_manager/</link>
+      <link>http://localhost:1313/publication/2001concurrency_manager/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2001concurrency_manager/</guid>
+      <guid>http://localhost:1313/publication/2001concurrency_manager/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Controle de concorrência com Java e bancos de dados relacionais</title>
-      <link>https://pauloborba.github.io/publication/2001controle_de_concorrencia_com_java_e_bancos_de_dados_relacionais/</link>
+      <link>http://localhost:1313/publication/2001controle_de_concorrencia_com_java_e_bancos_de_dados_relacionais/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2001controle_de_concorrencia_com_java_e_bancos_de_dados_relacionais/</guid>
+      <guid>http://localhost:1313/publication/2001controle_de_concorrencia_com_java_e_bancos_de_dados_relacionais/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributed adapters pattern: A design pattern for object-oriented distributed applications</title>
-      <link>https://pauloborba.github.io/publication/2001distributed_adapters_pattern__a_design_pattern_for_object-oriented_distributed_applications/</link>
+      <link>http://localhost:1313/publication/2001distributed_adapters_pattern__a_design_pattern_for_object-oriented_distributed_applications/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2001distributed_adapters_pattern__a_design_pattern_for_object-oriented_distributed_applications/</guid>
+      <guid>http://localhost:1313/publication/2001distributed_adapters_pattern__a_design_pattern_for_object-oriented_distributed_applications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JaTS: A Java transformation system</title>
-      <link>https://pauloborba.github.io/publication/2001jats__a_java_transformation_system/</link>
+      <link>http://localhost:1313/publication/2001jats__a_java_transformation_system/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2001jats__a_java_transformation_system/</guid>
+      <guid>http://localhost:1313/publication/2001jats__a_java_transformation_system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PDC: Persistent Data Collections Pattern</title>
-      <link>https://pauloborba.github.io/publication/2001pdc__persistent_data_collections_pattern/</link>
+      <link>http://localhost:1313/publication/2001pdc__persistent_data_collections_pattern/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2001pdc__persistent_data_collections_pattern/</guid>
+      <guid>http://localhost:1313/publication/2001pdc__persistent_data_collections_pattern/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Progressive implementation of aspects</title>
-      <link>https://pauloborba.github.io/publication/2001progressive_implementation_of_aspects/</link>
+      <link>http://localhost:1313/publication/2001progressive_implementation_of_aspects/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2001progressive_implementation_of_aspects/</guid>
+      <guid>http://localhost:1313/publication/2001progressive_implementation_of_aspects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web Handlers</title>
-      <link>https://pauloborba.github.io/publication/2001web_handlers/</link>
+      <link>http://localhost:1313/publication/2001web_handlers/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2001web_handlers/</guid>
+      <guid>http://localhost:1313/publication/2001web_handlers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A design pattern for distributed applications</title>
-      <link>https://pauloborba.github.io/publication/2000a_design_pattern_for_distributed_applications/</link>
+      <link>http://localhost:1313/publication/2000a_design_pattern_for_distributed_applications/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2000a_design_pattern_for_distributed_applications/</guid>
+      <guid>http://localhost:1313/publication/2000a_design_pattern_for_distributed_applications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Basic laws of ROOL: an object-oriented language</title>
-      <link>https://pauloborba.github.io/publication/2000basic_laws_of_rool__an_object-oriented_language_double_entry/</link>
+      <link>http://localhost:1313/publication/2000basic_laws_of_rool__an_object-oriented_language_double_entry/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2000basic_laws_of_rool__an_object-oriented_language_double_entry/</guid>
+      <guid>http://localhost:1313/publication/2000basic_laws_of_rool__an_object-oriented_language_double_entry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Structuring Mechanisms for an Object-Oriented Formal Specification Language</title>
-      <link>https://pauloborba.github.io/publication/2000structuring_mechanisms_for_an_object-oriented_formal_specification_language/</link>
+      <link>http://localhost:1313/publication/2000structuring_mechanisms_for_an_object-oriented_formal_specification_language/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2000structuring_mechanisms_for_an_object-oriented_formal_specification_language/</guid>
+      <guid>http://localhost:1313/publication/2000structuring_mechanisms_for_an_object-oriented_formal_specification_language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrando Java com Bancos de Dados Relacionais</title>
-      <link>https://pauloborba.github.io/publication/1999integrando_java_com_bancos_de_dados_relacionais/</link>
+      <link>http://localhost:1313/publication/1999integrando_java_com_bancos_de_dados_relacionais/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/1999integrando_java_com_bancos_de_dados_relacionais/</guid>
+      <guid>http://localhost:1313/publication/1999integrando_java_com_bancos_de_dados_relacionais/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Progressive implementation of distributed Java applications</title>
-      <link>https://pauloborba.github.io/publication/1999progressive_implementation_of_distributed_java_applications/</link>
+      <link>http://localhost:1313/publication/1999progressive_implementation_of_distributed_java_applications/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/1999progressive_implementation_of_distributed_java_applications/</guid>
+      <guid>http://localhost:1313/publication/1999progressive_implementation_of_distributed_java_applications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design of an Object-Oriented Formal Specification Language</title>
-      <link>https://pauloborba.github.io/publication/1998design_of_an_object-oriented_formal_specification_language/</link>
+      <link>http://localhost:1313/publication/1998design_of_an_object-oriented_formal_specification_language/</link>
       <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/1998design_of_an_object-oriented_formal_specification_language/</guid>
+      <guid>http://localhost:1313/publication/1998design_of_an_object-oriented_formal_specification_language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Where are the Laws of Objet-Oriented Programming?</title>
-      <link>https://pauloborba.github.io/publication/1998where_are_the_laws_of_objet-oriented_programming_/</link>
+      <link>http://localhost:1313/publication/1998where_are_the_laws_of_objet-oriented_programming_/</link>
       <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/1998where_are_the_laws_of_objet-oriented_programming_/</guid>
+      <guid>http://localhost:1313/publication/1998where_are_the_laws_of_objet-oriented_programming_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parameterized  Packages and Java</title>
-      <link>https://pauloborba.github.io/publication/1997parameterized__packages_and_java/</link>
+      <link>http://localhost:1313/publication/1997parameterized__packages_and_java/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/1997parameterized__packages_and_java/</guid>
+      <guid>http://localhost:1313/publication/1997parameterized__packages_and_java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Refinement Theory for Concurrent Object Oriented Languages</title>
-      <link>https://pauloborba.github.io/publication/1996a_refinement_theory_for_concurrent_object_oriented_languages/</link>
+      <link>http://localhost:1313/publication/1996a_refinement_theory_for_concurrent_object_oriented_languages/</link>
       <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/1996a_refinement_theory_for_concurrent_object_oriented_languages/</guid>
+      <guid>http://localhost:1313/publication/1996a_refinement_theory_for_concurrent_object_oriented_languages/</guid>
       <description></description>
     </item>
     
     <item>
       <title>States as Specifications</title>
-      <link>https://pauloborba.github.io/publication/1996states_as_specifications/</link>
+      <link>http://localhost:1313/publication/1996states_as_specifications/</link>
       <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/1996states_as_specifications/</guid>
+      <guid>http://localhost:1313/publication/1996states_as_specifications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Operational Semantics for FOOPS</title>
-      <link>https://pauloborba.github.io/publication/1994an_operational_semantics_for_foops/</link>
+      <link>http://localhost:1313/publication/1994an_operational_semantics_for_foops/</link>
       <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/1994an_operational_semantics_for_foops/</guid>
+      <guid>http://localhost:1313/publication/1994an_operational_semantics_for_foops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prototyping Action Semantics using Functional Languages</title>
-      <link>https://pauloborba.github.io/publication/1992prototyping_action_semantics_using_functional_languages/</link>
+      <link>http://localhost:1313/publication/1992prototyping_action_semantics_using_functional_languages/</link>
       <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/1992prototyping_action_semantics_using_functional_languages/</guid>
+      <guid>http://localhost:1313/publication/1992prototyping_action_semantics_using_functional_languages/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From Model Based Specifications to Functional Prototypes</title>
-      <link>https://pauloborba.github.io/publication/1991from_model_based_specifications_to_functional_prototypes/</link>
+      <link>http://localhost:1313/publication/1991from_model_based_specifications_to_functional_prototypes/</link>
       <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/1991from_model_based_specifications_to_functional_prototypes/</guid>
+      <guid>http://localhost:1313/publication/1991from_model_based_specifications_to_functional_prototypes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tradução de Tipos de Especificação para Protótipo</title>
-      <link>https://pauloborba.github.io/publication/1990traducao_de_tipos_de_especificacao_para_prototipo/</link>
+      <link>http://localhost:1313/publication/1990traducao_de_tipos_de_especificacao_para_prototipo/</link>
       <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/1990traducao_de_tipos_de_especificacao_para_prototipo/</guid>
+      <guid>http://localhost:1313/publication/1990traducao_de_tipos_de_especificacao_para_prototipo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Notação VDM Executável em Standard ML</title>
-      <link>https://pauloborba.github.io/publication/1989notacao_vdm_executavel_em_standard_ml/</link>
+      <link>http://localhost:1313/publication/1989notacao_vdm_executavel_em_standard_ml/</link>
       <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/1989notacao_vdm_executavel_em_standard_ml/</guid>
+      <guid>http://localhost:1313/publication/1989notacao_vdm_executavel_em_standard_ml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protótipos Funcionais a partir de Especificações Formais em VDM</title>
-      <link>https://pauloborba.github.io/publication/1989prototipos_funcionais_a_partir_de_especificacoes_formais_em_vdm/</link>
+      <link>http://localhost:1313/publication/1989prototipos_funcionais_a_partir_de_especificacoes_formais_em_vdm/</link>
       <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/1989prototipos_funcionais_a_partir_de_especificacoes_formais_em_vdm/</guid>
+      <guid>http://localhost:1313/publication/1989prototipos_funcionais_a_partir_de_especificacoes_formais_em_vdm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Acesso a um Banco de Dados através de Linguagem Natural</title>
-      <link>https://pauloborba.github.io/publication/1987acesso_a_um_banco_de_dados_atraves_de_linguagem_natural/</link>
+      <link>http://localhost:1313/publication/1987acesso_a_um_banco_de_dados_atraves_de_linguagem_natural/</link>
       <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/1987acesso_a_um_banco_de_dados_atraves_de_linguagem_natural/</guid>
+      <guid>http://localhost:1313/publication/1987acesso_a_um_banco_de_dados_atraves_de_linguagem_natural/</guid>
       <description></description>
     </item>
     

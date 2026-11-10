@@ -1,94 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>academic communication | Paulo Borba</title>
-    <link>https://pauloborba.github.io/categories/academic-communication/</link>
-      <atom:link href="https://pauloborba.github.io/categories/academic-communication/index.xml" rel="self" type="application/rss+xml" />
-    <description>academic communication</description>
+    <title>Academic communication | Paulo Borba</title>
+    <link>http://localhost:1313/categories/academic-communication/</link>
+      <atom:link href="http://localhost:1313/categories/academic-communication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic communication</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 27 Dec 2022 11:36:09 -0300</lastBuildDate>
     <image>
-      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
-      <title>academic communication</title>
-      <link>https://pauloborba.github.io/categories/academic-communication/</link>
+      <url>http://localhost:1313/img/foto2019.jpg</url>
+      <title>Academic communication</title>
+      <link>http://localhost:1313/categories/academic-communication/</link>
     </image>
     
     <item>
       <title>Escrevendo seu trabalho</title>
-      <link>https://pauloborba.github.io/post/escrevendo-seu-trabalho/</link>
+      <link>http://localhost:1313/post/escrevendo-seu-trabalho/</link>
       <pubDate>Tue, 27 Dec 2022 11:36:09 -0300</pubDate>
-      <guid>https://pauloborba.github.io/post/escrevendo-seu-trabalho/</guid>
-      <description>
-
-&lt;p&gt;Antes de tudo, você já deve ter visto &lt;a href=&#34;https://pauloborba.github.io/post/apresentando-seu-trabalho/&#34; target=&#34;_blank&#34;&gt;Apresentando seu trabalho&lt;/a&gt;, e apresentado seu trabalho pelo menos uma vez antes de começar a escrever. A apresentação é essencial para o amadurecimento das suas ideias, e a identificação de pontos que precisam ser bem explicados no artigo ou tese.&lt;/p&gt;
-
+      <guid>http://localhost:1313/post/escrevendo-seu-trabalho/</guid>
+      <description>&lt;p&gt;Antes de tudo, você já deve ter visto &lt;a href=&#34;http://localhost:1313/post/apresentando-seu-trabalho/&#34;&gt;Apresentando seu trabalho&lt;/a&gt;, e apresentado seu trabalho pelo menos uma vez antes de começar a escrever. A apresentação é essencial para o amadurecimento das suas ideias, e a identificação de pontos que precisam ser bem explicados no artigo ou tese.&lt;/p&gt;
 &lt;p&gt;A qualidade da escrita do seu trabalho é tão importante quanto a qualidade do mesmo. Capriche na preparação!&lt;/p&gt;
-
 &lt;p&gt;Considere fortemente fazer um curso sobre o assunto. Recomendo fortemente &lt;a href=&#34;https://docs.google.com/document/d/1_vBXbugoLjO171w3wovs3ugmRQI-O6EcSVFDBF7eUzE/edit#heading=h.sgfiu451dqjh&#34; target=&#34;_blank&#34;&gt;Writing and Speaking with Style&lt;/a&gt;, de Benjamin C. Pierce e Rajeev Alur.&lt;/p&gt;
-
 &lt;h4 id=&#34;preparativos-iniciais&#34;&gt;Preparativos iniciais&lt;/h4&gt;
-
 &lt;p&gt;Crie um repositório privado na área do seu grupo de pesquisa. A do SPG é &lt;a href=&#34;https://github.com/spgroup&#34; target=&#34;_blank&#34;&gt;spggroup&lt;/a&gt;. Peça para seu orientador criar, caso você não tenha permissão.&lt;/p&gt;
-
-&lt;p&gt;Use LaTeX, com hyperref. Leia &lt;a href=&#34;https://github.com/dspinellis/latex-advice&#34; target=&#34;_blank&#34;&gt;essas dicas&lt;/a&gt; para uso adequado do LaTeX. Sem saber o básico, você vai cometer muitos erros. Coisas como as seguintes: para obter um travessão em LaTeX, você tem que escrever três hífens seguidos, sem espaço entre eles; como indicação de rodapé vem sempre depois da pontuação, escreva &amp;ldquo;texto.\footnote{texto do rodapé}&amp;rdquo; ao invés de &amp;ldquo;texto\footnote{texto do rodapé}.&amp;ldquo;; para fechar aspas duplas, escreva dois ‘ seguidos, nao o carácter &amp;rdquo; de aspas duplas; para abrir aspas duplas, escreva dois ` seguidos.&lt;/p&gt;
-
+&lt;p&gt;Use LaTeX, com hyperref. Leia &lt;a href=&#34;https://github.com/dspinellis/latex-advice&#34; target=&#34;_blank&#34;&gt;essas dicas&lt;/a&gt; para uso adequado do LaTeX. Sem saber o básico, você vai cometer muitos erros. Coisas como as seguintes: para obter um travessão em LaTeX, você tem que escrever três hífens seguidos, sem espaço entre eles; como indicação de rodapé vem sempre depois da pontuação, escreva &amp;ldquo;texto.\footnote{texto do rodapé}&amp;rdquo; ao invés de &amp;ldquo;texto\footnote{texto do rodapé}.&amp;rdquo;; para fechar aspas duplas, escreva dois ‘ seguidos, nao o carácter &amp;quot; de aspas duplas; para abrir aspas duplas, escreva dois ` seguidos.&lt;/p&gt;
 &lt;p&gt;Analise pelo menos dois ou três artigos anteriores do seu orientador e colaboradores, e tente seguir práticas e padrões de estilo do seu grupo de pesquisa, ou de alguns artigos de destaque (confirme com seu orientador se eles realmente são de destaque!) que você tenha lido e tenha gostado. Imite o que é bom em termos de estilo de escrita!&lt;/p&gt;
-
 &lt;p&gt;Analise os critérios de avaliação adotados por quem normalmente vai ler ou publicar seu artigo. Os de &lt;a href=&#34;http://icse2017.gatech.edu/technical_research/reviewing_guidelines&#34; target=&#34;_blank&#34;&gt;ICSE 2017&lt;/a&gt; (&lt;i&gt;soundness, significance, verifiability, and presentation quality&lt;/i&gt;) formam um bom exemplo.&lt;/p&gt;
-
 &lt;h4 id=&#34;o-básico-do-básico&#34;&gt;O básico do básico&lt;/h4&gt;
-
 &lt;p&gt;Antes de tudo, pense na audiência. Se coloque na posição do leitor, durante toda a escrita, e pense no que seria mais interessante e fácil para ele entender. O que é fácil para você, depois de ter trabalhado naquela pesquisa por meses, normalmente não vai ser fácil e claro para o leitor do seu artigo. O mesmo vale para os termos e conceitos que você usa naturalmente, mas que precisam ser definidos e explicados assim que eles são usados no seu texto. Os conceitos e termos usados em uma seção, a menos que muito básicos e de conhecimento universal da área, devem ter sido introduzidos e explicados em seções ou parágrafos anteriores, ou no local em que ele está sendo usado pela primeira vez. Use um único termo para referenciar um conceito; não use sinônimos pois isso vai gerar confusão no leitor.&lt;/p&gt;
-
 &lt;p&gt;O seu artigo deve contar um estória como a seguinte: desenvolvedores sofrem com problema tal, sofrem dor tal no dia a dia; ferramentas e técnicas atuais não resolvem o problema por completo por causa disso e daquilo; para resolver esse problema, a gente sugere o seguinte; para avaliar se a solução funciona, a gente faz isso e aquilo; os resultados mostram isso; isso significa que tais pessoas podem se beneficiar da solução em tais situações! Essa estória deve ser interessante e fácil de ler. É importante que a estória também gire em torno de um único ponto principal, uma única descoberta principal; melhor focar em um ponto e fazê-lo bem feito.&lt;/p&gt;
-
 &lt;p&gt;Pense e elabore bem essa estória antes de começar a escrever. Você pode começar com um &lt;i&gt;elevator speech&lt;/i&gt; e ir refinando e detalhando a estória. Depois definir a estrutura do artigo: Introdução, Exemplo Motivante, Solução, Perguntas e Métodos de Pesquisa, Resultados, Discussão, Trabalhos Relacionados, e Conclusões, normalmente para um artigo que envolve a proposta de uma solução para um problema, uma ferramenta, etc.; Introdução, Perguntas e Métodos de Pesquisa, Resultados, Discussão, Trabalhos Relacionados, e Conclusões, normalmente para um estudo empírico exploratório. Depois, refinar as seções, escrevendo uma linha por seção, seguido de uma linha por cada parágrafo de cada seção, para finalmente escrever por completo cada parágrafo do artigo. Busque uma estória que seja consistente e interessante de ler, obviamente desde que reflita bem o que você fez na sua pesquisa e obteve nos seus resultados.&lt;/p&gt;
-
 &lt;p&gt;Todo o resto do artigo deve focar em explicar e mostrar evidência de que essa estória é plausível, assim mostrando  detalhes necessários para dar confiança ao leitor de que sua estória faz sentido e é justificada com base na pesquisa que você realizou. Se algum detalhe não contribui para reforçar a sua estória (como por exemplo dizer que o formato do arquivo X é Y), melhor não colocar no artigo. Colocar só vai atrapalhar, tirando o foco do que interessa. Certamente, seu texto não precisa detalhar tudo que foi feito, na ordem que foi feito, etc.&lt;/p&gt;
-
 &lt;p&gt;Inicialmente (no começo do artigo, seção, e parágrafo), dê ao leitor a &lt;i&gt;ilusão da simplicidade&lt;/i&gt;. Explique a ideia e a motivação de uma forma abstrata de forma a facilitar o entendimento superficial. Só depois disso, refine a ideia, dando mais detalhes, de forma a possibilitar  um entendimento mais aprofundado. Por simplicidade, essa explicação considerou dois níveis de abstração, mas use mais níveis se necessário.&lt;/p&gt;
-
 &lt;p&gt;Para dar fluidez a leitura, deve haver uma ligação entre uma seção e a anterior (Para responder as perguntas de pesquisa apresentadas na seção anterior, nesta seção&amp;hellip;), e entre um parágrafo e o anterior, conectando o que foi discutido no parágrafo anterior (por exemplo, se um parágrafo descreve o problema, e o seguinte analisa o impacto do problema, esse último deve começar de forma a conectar as ideias dos dois, como assim: A consequência prática desse problema é que&amp;hellip;).&lt;/p&gt;
-
 &lt;p&gt;Se uma seção traz muitas ideias ou é muito longa, quebre-a em subseções (não necessariamente numeradas).&lt;/p&gt;
-
 &lt;p&gt;Descreva com precisão &lt;i&gt;o que&lt;/i&gt; você fez, &lt;i&gt;porque&lt;/i&gt; você fez, e as  &lt;i&gt;limitações&lt;/i&gt; do que você fez. Em especial, o &lt;i&gt;porque&lt;/i&gt;, ou seja a motivação para o que você vai apresentar ou explicar, normalmente deve vir antes do que você vai explicar. Tenha muito cuidado para não dar a entender que você fez algo que, na verdade, ainda não foi feito. Para os resultados, explique não só os números, mas também como os mesmos devem ser interpretados, o significado e as implicações dos mesmos; vantagens, desvantagens, como compara com resultados de outros trabalhos.&lt;/p&gt;
-
 &lt;p&gt;Normalmente para um artigo que envolve a proposta de uma solução para um problema, uma ferramenta, etc.,  tanto o resumo quanto a introdução devem ter a seguinte estrutura: &lt;i&gt;contexto&lt;/i&gt; (o ambiente, a situação, onde o problema aparece), &lt;i&gt;problema&lt;/i&gt; (a dor sentida por um desenvolvedor), &lt;i&gt;solução&lt;/i&gt; (a ferramenta, etc.), &lt;i&gt;avaliação&lt;/i&gt; (como avaliamos se a solução resolve o problema), &lt;i&gt;principais resultados obtidos&lt;/i&gt;. No resumo, o nível de abstração é maior, então são 2-3 linhas para cada item da estrutura. Na introdução, 1-2 parágrafos para cada item.&lt;/p&gt;
-
 &lt;p&gt;A Seção de trabalhos relacionados não deve ser uma simples sequência de parágrafos de resumos de trabalhos relacionados. Tem que resumir sim, mas com a terminologia usada no seu artigo: se lá ele usa o termo X para um conceito, e você usa o termo Y para o mesmo conceito, quando resumindo o trabalho dele use Y. Além disso, principalmente, tem que contrastar, comparar, o que é feito no trabalho resumido com o que é feito no seu trabalho. Por exemplo, no texto entre aspas a seguir o que está em itálico é comparação, e o que não está é resumo: &amp;ldquo;Brun et al. [X] propose incorporating speculative analysis for early detection and prevention of conflicts. This way, they present Cristal, an assistive tool that compares remote and local individual collaborators&amp;rsquo; repositories in order to warn about possible code integration conflicts. To detect test conflicts, they evaluate their technique by analyzing three Java projects and rely on project tests, &lt;i&gt;which are often not enough for detecting interference as we explore here.
 The authors do not mitigate possible flaky tests in both studies, as we do in our study by executing the test suites multiple times.
 The failed tests are not executed on the parent and base commits of the merge scenario, as we do here, which may result in false positives, as the failed test may occur due to the changes exclusively performed by one parent.&lt;/i&gt;
 These studies have also investigated ways in which conflicts can be prevented early, thereby minimizing their impact on productivity.&amp;rdquo;&lt;/p&gt;
-
 &lt;p&gt;Se for preciso copiar alguma figura ou trecho, por menor que seja, de outro trabalho, deixe muito claro que você está fazendo isso, citando a referência e, no caso de trechos, colocando-os entre aspas. Esquecer de fazer isso é considerado  &lt;i&gt;plágio&lt;/i&gt;. Até no caso de expressar a mesma ideia de outro artigo, com palavras diferentes, merece a citação e indicação explícita. No caso de cópia dos seus próprios artigos, pode-se copiar trechos dispensando o uso das aspas. Mas mesmo assim é preciso ter cuidado para não ser caracterizado como  &lt;i&gt;auto-plágio&lt;/i&gt;: se for uma extensão de um artigo prévio, por exemplo, deixe isso claro, e explique precisamente o diferencial do novo artigo.&lt;/p&gt;
-
 &lt;p&gt;Escreva a sua filiação em Português (Centro de Informática, Universidade Federal de Pernambuco) e sem abreviações, mesmo que o artigo seja em Inglês. Isso facilita a indexação de publicações da UFPE, e consequentemente seu melhor desempenho em rankings. Além disso, isso é exigido por alguns editais da UFPE para financiamento de viagens.&lt;/p&gt;
-
 &lt;p&gt;Se certifique que você realmente não fez nenhum &lt;i&gt;p-haking&lt;/i&gt;, e coloque isto no seu texto: &lt;i&gt;We report how we determined our sample size, all data exclusions, all manipulations, and all measures in the study&lt;/i&gt; (ver a &lt;a href=&#34;http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2160588&#34; target=&#34;_blank&#34;&gt;fonte&lt;/a&gt;).&lt;/p&gt;
-
 &lt;p&gt;Use como guia a &lt;a href=&#34;https://acmsigsoft.github.io/EmpiricalStandards/tools/&#34; target=&#34;_blank&#34;&gt;lista de tópicos da ACM Sigsoft&lt;/a&gt; para ter certeza de que você vai cobrir no texto os principais pontos necessários para o tipo de estudo empírico que você está fazendo. Veja primeiro a opção de menu &lt;i&gt;Standards&lt;/i&gt; e depois a opção &lt;i&gt;Tools&lt;/i&gt;, para gerar a lista específica para o seu tipo de estudo.&lt;/p&gt;
-
 &lt;h4 id=&#34;capriche-no-estilo-de-escrita&#34;&gt;Capriche no estilo de escrita&lt;/h4&gt;
-
 &lt;p&gt;Use muitas tabelas, gráficos, figuras e exemplos de código fonte para explicar as principais ideias e resultados do seu trabalho. Uma figura ilustrando a ideia geral da sua solução, e outra ilustrando como a mesma foi avaliada, são essenciais e precisam ser extremamente caprichadas e dar uma boa ideia do que se trata seu trabalho; discuta-as bem com seu orientador.&lt;/p&gt;
-
 &lt;p&gt;Leia com cuidado, e consulte sempre, &lt;i&gt;The Elements of Style&lt;/i&gt; (&lt;a href=&#34;http://www.bartleby.com/141/&#34; target=&#34;_blank&#34;&gt;link 1&lt;/a&gt; ou &lt;a href=&#34;http://www.crockford.com/wrrrld/style.html&#34; target=&#34;_blank&#34;&gt;link 2&lt;/a&gt;). Escreva frases curtas; quebre frases longas em várias frases. Fica mais fácil de escrever e de ler.&lt;/p&gt;
-
 &lt;p&gt;Primeiro mostre o exemplo concreto, e só depois a generalização.&lt;/p&gt;
-
 &lt;p&gt;Escreva no presente: in Section X we present (instead of will present); we first filter (instead of filtered) our sample, etc. Mais importante, seja consistente.&lt;/p&gt;
-
 &lt;p&gt;Use maiúsculas para referenciar uma seção ou figura numerada (in Section X, in Figure Y), e minúsculas caso contrário (in this section, in the previously mentioned figure).&lt;/p&gt;
-
 &lt;p&gt;Leia dicas de escrita (&lt;a href=&#34;https://clairelegoues.com/posts/clg-writing-rules.html&#34; target=&#34;_blank&#34;&gt;de Claire Le Goues&lt;/a&gt;, de &lt;a href=&#34;https://philippleitner.medium.com/some-frequent-writing-tips-i-give-software-engineering-thesis-students-da2acab30381&#34; target=&#34;_blank&#34;&gt;
 Philipp Leitner&lt;/a&gt;, e &lt;a href=&#34;https://capra.cs.cornell.edu/styleguide&#34; target=&#34;_blank&#34;&gt;do grupo de pesquisa Capra&lt;/a&gt;) que casam bastante com o meu estilo (exceto a sugestão de usar &amp;ldquo;e.g.&amp;rdquo; e &amp;ldquo;i.e.&amp;rdquo;; por favor, evite).&lt;/p&gt;
-
-&lt;p&gt;Veja dicas para formatação de &lt;a href=&#34;guide-tables.pdf&#34; target=&#34;_blank&#34;&gt;tabelas&lt;/a&gt; e &lt;a href=&#34;https://johnwickerson.wordpress.com/2019/11/01/graphs-in-pl-papers/&#34; target=&#34;_blank&#34;&gt;gráficos&lt;/a&gt;. Sobre essa referência de gráficos, o resumo é o seguinte: &amp;ldquo;&lt;i&gt;normalised data should usually be plotted on a logarithmic scale, and scatter plots can be easier to understand than bar charts&lt;/i&gt;&amp;rdquo;. Use &lt;a href=&#34;https://wellcomeopenresearch.org/articles/4-63&#34; target=&#34;_blank&#34;&gt;&lt;i&gt;raincloud plots&lt;/i&gt;&lt;/a&gt; ao invés de &lt;i&gt;box plots&lt;/i&gt;, &lt;i&gt;bean plots&lt;/i&gt; ou &lt;i&gt;violin plots&lt;/i&gt;. Os &lt;a href=&#34;https://en.wikipedia.org/wiki/Sankey_diagram&#34; target=&#34;_blank&#34;&gt;diagramas de Sankey&lt;/a&gt; podem ser uma boa opção para ilustrar como uma dada medida (por exemplo, falsos positivos) são quebradas em categorias. Alternativamente, ilustre como a Figura 4 &lt;a href=&#34;https://pauloborba.github.io/publication/2020detecting_semantic_conflicts_via_automated_behavior_change_detection/&#34; target=&#34;_blank&#34;&gt;neste artigo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Use um &lt;i&gt;spell checker&lt;/i&gt;! Considere usar uma ferramenta (como &lt;a href=&#34;https://www.grammarly.com&#34; target=&#34;_blank&#34;&gt;Grammarly&lt;/a&gt; ou &lt;a href=&#34;https://openai.com/blog/chatgpt/&#34; target=&#34;_blank&#34;&gt;ChatGPT&lt;/a&gt;) para revisar o seu texto. Considere usar uma ferramenta (como &lt;a href=&#34;https://paperreview.ai&#34; target=&#34;_blank&#34;&gt;Stanford Agentic Reviewer&lt;/a&gt;) para gerar uma revisão de artigo; não assuma que tudo que ela relata é verdade! Não usando uma ferramenta dessas, use &lt;a href=&#34;http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates&#34; target=&#34;_blank&#34;&gt;scripts para melhorar a qualidade de textos em inglês&lt;/a&gt;:
+&lt;p&gt;Veja dicas para formatação de &lt;a href=&#34;guide-tables.pdf&#34;&gt;tabelas&lt;/a&gt; e &lt;a href=&#34;https://johnwickerson.wordpress.com/2019/11/01/graphs-in-pl-papers/&#34; target=&#34;_blank&#34;&gt;gráficos&lt;/a&gt;. Sobre essa referência de gráficos, o resumo é o seguinte: &amp;ldquo;&lt;i&gt;normalised data should usually be plotted on a logarithmic scale, and scatter plots can be easier to understand than bar charts&lt;/i&gt;&amp;rdquo;. Use &lt;a href=&#34;https://wellcomeopenresearch.org/articles/4-63&#34; target=&#34;_blank&#34;&gt;&lt;i&gt;raincloud plots&lt;/i&gt;&lt;/a&gt; ao invés de &lt;i&gt;box plots&lt;/i&gt;, &lt;i&gt;bean plots&lt;/i&gt; ou &lt;i&gt;violin plots&lt;/i&gt;. Os &lt;a href=&#34;https://en.wikipedia.org/wiki/Sankey_diagram&#34; target=&#34;_blank&#34;&gt;diagramas de Sankey&lt;/a&gt; podem ser uma boa opção para ilustrar como uma dada medida (por exemplo, falsos positivos) são quebradas em categorias. Alternativamente, ilustre como a Figura 4 &lt;a href=&#34;http://localhost:1313/publication/2020detecting_semantic_conflicts_via_automated_behavior_change_detection/&#34;&gt;neste artigo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Use um &lt;i&gt;spell checker&lt;/i&gt;! Considere usar uma ferramenta (como &lt;a href=&#34;https://www.grammarly.com&#34; target=&#34;_blank&#34;&gt;Grammarly&lt;/a&gt; ou &lt;a href=&#34;https://openai.com/blog/chatgpt/&#34; target=&#34;_blank&#34;&gt;ChatGPT&lt;/a&gt;) para revisar o seu texto. Considere usar uma ferramenta (como &lt;a href=&#34;https://paperreview.ai&#34; target=&#34;_blank&#34;&gt;Stanford Agentic Reviewer&lt;/a&gt;) para gerar uma revisão de artigo; não assuma que tudo que ela relata é verdade! Não usando uma ferramenta dessas, use &lt;a href=&#34;http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates&#34; target=&#34;_blank&#34;&gt;scripts para melhorar a qualidade de textos em inglês&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;script para detecção de Weasel Words&lt;/p&gt;
-
+&lt;li&gt;script para detecção de Weasel Words
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;#!/bin/bash
  
 weasels=&amp;quot;many|various|very|fairly|several|extremely\
@@ -129,9 +95,7 @@ egrep -i -n --color &amp;quot;\\b($weasels)\\b&amp;quot; $*
  
 exit $?
 &lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;li&gt;script para deteção de Voz Passiva&lt;/p&gt;
-
+&lt;li&gt;script para deteção de Voz Passiva
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;#!/bin/bash
  
 irregulars=&amp;quot;awoken|\
@@ -198,9 +162,7 @@ egrep -n -i --color \
  
 exit $?
 &lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;li&gt;script para detecção de Palavras Duplicadas&lt;/p&gt;
-
+&lt;li&gt;script para detecção de Palavras Duplicadas
 &lt;pre&gt;&lt;code class=&#34;language-perl&#34;&gt;#!/usr/bin/env perl
  
 # Finds duplicate adjacent words.
@@ -256,39 +218,22 @@ while (1) {
   close FILE ;
 }
 &lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;/ul&gt;&lt;/p&gt;
-
+&lt;/ul&gt;
 &lt;h4 id=&#34;preparando-as-referências-bibliográficas&#34;&gt;Preparando as referências bibliográficas&lt;/h4&gt;
-
 &lt;p&gt;Uniformize as referências: se colocar uma informação (como ano, número de páginas, etc.) em uma, coloque em todas; se nome abreviado (de autor, evento, etc.) é colocado em uma, abrevie o nome em todas; etc. Por exemplo, você nao deve colocar &amp;ldquo;ACM Transactions on Programming Languages and System (TOPLAS)&amp;rdquo;, com a sigla, e depois colocar &amp;ldquo;IEEE Transactions on Software Engineering&amp;rdquo; sem a sigla.&lt;/p&gt;
-
 &lt;p&gt;Minha preferência é para referências com nome e sobrenome dos autores não abreviados, nome do evento ou período não abreviado e sem sigla, e sem informações extras como editora, cidade da publicação, etc. Mas isso é uma questão de gosto. O importante é que seja seguido um padrão de forma consistente. Normalmente, discute-se esse padrão com os seus co-autores antes de começar a preparar as referências.&lt;/p&gt;
-
 &lt;p&gt;Siga as sugestões de &lt;a href=&#34;https://www.ece.ucdavis.edu/~jowens/biberrors.html?s=03&#34; target=&#34;_blank&#34;&gt;Owens&lt;/a&gt; tanto para preparar as referências quanto para citá-las.&lt;/p&gt;
-
 &lt;h4 id=&#34;revisando-o-seu-trabalho&#34;&gt;Revisando o seu trabalho&lt;/h4&gt;
-
 &lt;p&gt;Após você escrever, imprimir, ler e revisar uma primeira versão do seu artigo, envie uma segunda versão para outras pessoas (principalmente seu orientador!) revisar.&lt;/p&gt;
-
 &lt;p&gt;As anotações e comentários feitos pelo seu orientador no seu texto devem ser interpretadas não apenas como uma sugestão para melhorar um determinado trecho do texto, mas como uma lição a ser aprendida e usada em vários outros contextos (outras partes do texto, outros textos, etc.). Isso ajudará você a evitar cometer o mesmo erro de escrita ou de apresentação mais de uma vez.&lt;/p&gt;
-
 &lt;p&gt;Para facilitar a vida das pessoas (inclusive o seu orientador) que estiverem lhe ajudando com o artigo, ao fazer mudanças em uma versão lida e comentada por essas pessoas, destaque todas as mudanças realizadas utilizando um comando como &lt;i&gt;\newcommand{\rev}[1]{\textcolor{red}{#1}}&lt;/i&gt; (ver &lt;a href=&#34;https://medium.com/@xLeitix/marking-changed-text-in-journal-revisions-8583136a4738&#34; target=&#34;_blank&#34;&gt;Marking Changed Text in Journal Revisions&lt;/a&gt;). Assim, ao lerem uma próxima versão, essas pessoas poderão facilmente identificar o que foi modificado.&lt;/p&gt;
-
 &lt;p&gt;Após as pessoas terem revisado seu trabalho, e você ter feito os ajustes no texto, publique o seu artigo no &lt;a href=&#34;https://arxiv.org&#34; target=&#34;_blank&#34;&gt;arXiv&lt;/a&gt;. Em particular, tenha cuidado para referenciar corretamente os perfis dos seus co-autores no arXiv; veja &lt;a href=&#34;https://arxiv.org/abs/2310.02395&#34; target=&#34;_blank&#34;&gt;este&lt;/a&gt; exemplo. Avise aos seus co-autores.&lt;/p&gt;
-
 &lt;p&gt;Verifique com cuidado a política de publicação associada ao veículo onde você quer publicar seu artigo. Na falta de uma política clara do veículo em questão, siga a &lt;a href=&#34;https://www.acm.org/publications/policies/new-acm-policy-on-authorship&#34; target=&#34;_blank&#34;&gt;política da ACM&lt;/a&gt;.&lt;/p&gt;
-
 &lt;h4 id=&#34;agradecendo-a-quem-lhe-ajuda&#34;&gt;Agradecendo a quem lhe ajuda&lt;/h4&gt;
-
 &lt;p&gt;É fundamental dar destaque para os financiadores e colaboradores nos artigos, apresentações, posters, software e produtos em geral.&lt;/p&gt;
-
-&lt;p&gt;Nos artigos, colocar algo como &amp;ldquo;For partially supporting this work, we would like to thank INES.IA (National Institute of Science and Technology for Software Engineering Based on and for Artificial Intelligence) www.ines.org.br, and CNPq grants 408817/ 2024-0, 401032/ 2025-6 and 311292/ 2026-7.&amp;rdquo; Verificar os números atuais com seu orientador. É importante colocar também os números dos processos dos projetos do qual você obteve algum tipo de financiamento.&lt;/p&gt;
-
+&lt;p&gt;Nos artigos, colocar algo como &amp;ldquo;For partially supporting this work, we would like to thank INES.IA (National Institute of Science and Technology for Software Engineering Based on and for Artificial Intelligence) &lt;a href=&#34;https://www.ines.org.br&#34; target=&#34;_blank&#34;&gt;www.ines.org.br&lt;/a&gt;, and CNPq grants 408817/ 2024-0, 401032/ 2025-6 and 311292/ 2026-7.&amp;rdquo; Verificar os números atuais com seu orientador. É importante colocar também os números dos processos dos projetos do qual você obteve algum tipo de financiamento.&lt;/p&gt;
 &lt;p&gt;Agradecer aos membros do Software Productivity Group e, especificamente, a quem lhe ajudou (revisou seu artigo, implementou algo para você, indicou referências, fez perguntas importantes, deu uma idéia mesmo que você já tenha tido-a) ou deu dicas e sugestões para a melhoria do seu trabalho.&lt;/p&gt;
-
 &lt;h4 id=&#34;adicione-parágrafo-sobre-questões-éticas-de-pesquisa&#34;&gt;Adicione parágrafo sobre questões éticas de pesquisa&lt;/h4&gt;
-
 &lt;p&gt;Inclua no seu artigo um parágrafo explicando como a pesquisa relatada no artigo lidou com questões éticas relacionadas aos experimentos realizados ou dados utilizados. Descreva com precisão os procedimentos adotados: se houve submissão ao CEP (informando o CAAE correspondente) ou se o estudo se enquadra em alguma das dispensas previstas na legislação vigente; como foram tratados o consentimento dos participantes, a anonimização ou pseudonimização dos dados, o controle de acesso e o armazenamento seguro; e, se dados públicos foram utilizados, porque isso não dispensa cuidados éticos e como a compatibilidade do reuso respeita a LGPD.&lt;/p&gt;
 </description>
     </item>

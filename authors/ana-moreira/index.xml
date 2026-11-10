@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ana Moreira | Paulo Borba</title>
-    <link>https://pauloborba.github.io/authors/ana-moreira/</link>
-      <atom:link href="https://pauloborba.github.io/authors/ana-moreira/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/ana-moreira/</link>
+      <atom:link href="http://localhost:1313/authors/ana-moreira/index.xml" rel="self" type="application/rss+xml" />
     <description>Ana Moreira</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <url>http://localhost:1313/img/foto2019.jpg</url>
       <title>Ana Moreira</title>
-      <link>https://pauloborba.github.io/authors/ana-moreira/</link>
+      <link>http://localhost:1313/authors/ana-moreira/</link>
     </image>
     
     <item>
       <title>Evaluating scenario-based SPL requirements approaches: the case for modularity, stability and expressiveness</title>
-      <link>https://pauloborba.github.io/publication/2014evaluating_scenario-based_spl_requirements_approaches__the_case_for_modularity__stability_and_expressiveness/</link>
+      <link>http://localhost:1313/publication/2014evaluating_scenario-based_spl_requirements_approaches__the_case_for_modularity__stability_and_expressiveness/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2014evaluating_scenario-based_spl_requirements_approaches__the_case_for_modularity__stability_and_expressiveness/</guid>
+      <guid>http://localhost:1313/publication/2014evaluating_scenario-based_spl_requirements_approaches__the_case_for_modularity__stability_and_expressiveness/</guid>
       <description></description>
     </item>
     

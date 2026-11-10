@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Igor Sampaio | Paulo Borba</title>
-    <link>https://pauloborba.github.io/authors/igor-sampaio/</link>
-      <atom:link href="https://pauloborba.github.io/authors/igor-sampaio/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/igor-sampaio/</link>
+      <atom:link href="http://localhost:1313/authors/igor-sampaio/index.xml" rel="self" type="application/rss+xml" />
     <description>Igor Sampaio</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <url>http://localhost:1313/img/foto2019.jpg</url>
       <title>Igor Sampaio</title>
-      <link>https://pauloborba.github.io/authors/igor-sampaio/</link>
+      <link>http://localhost:1313/authors/igor-sampaio/</link>
     </image>
     
     <item>
       <title>Portando Jogos em J2ME: Desafios, Estudo de Caso, e Diretrizes</title>
-      <link>https://pauloborba.github.io/publication/2005portando_jogos_em_j2me__desafios__estudo_de_caso__e_diretrizes/</link>
+      <link>http://localhost:1313/publication/2005portando_jogos_em_j2me__desafios__estudo_de_caso__e_diretrizes/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2005portando_jogos_em_j2me__desafios__estudo_de_caso__e_diretrizes/</guid>
+      <guid>http://localhost:1313/publication/2005portando_jogos_em_j2me__desafios__estudo_de_caso__e_diretrizes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Portando Jogos em J2ME: Desafios, Estudo de Caso, e Diretrizes</title>
-      <link>https://pauloborba.github.io/publication/2004portando_jogos_em_j2me__desafios__estudo_de_caso__e_diretrizes/</link>
+      <link>http://localhost:1313/publication/2004portando_jogos_em_j2me__desafios__estudo_de_caso__e_diretrizes/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2004portando_jogos_em_j2me__desafios__estudo_de_caso__e_diretrizes/</guid>
+      <guid>http://localhost:1313/publication/2004portando_jogos_em_j2me__desafios__estudo_de_caso__e_diretrizes/</guid>
       <description></description>
     </item>
     

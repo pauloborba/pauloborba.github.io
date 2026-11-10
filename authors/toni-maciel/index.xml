@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Toni Maciel | Paulo Borba</title>
-    <link>https://pauloborba.github.io/authors/toni-maciel/</link>
-      <atom:link href="https://pauloborba.github.io/authors/toni-maciel/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/toni-maciel/</link>
+      <atom:link href="http://localhost:1313/authors/toni-maciel/index.xml" rel="self" type="application/rss+xml" />
     <description>Toni Maciel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <url>http://localhost:1313/img/foto2019.jpg</url>
       <title>Toni Maciel</title>
-      <link>https://pauloborba.github.io/authors/toni-maciel/</link>
+      <link>http://localhost:1313/authors/toni-maciel/</link>
     </image>
     
     <item>
       <title>Detecting semantic conflicts with unit tests</title>
-      <link>https://pauloborba.github.io/publication/2024detecting_semantic_conflicts_with_unit_tests/</link>
+      <link>http://localhost:1313/publication/2024detecting_semantic_conflicts_with_unit_tests/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2024detecting_semantic_conflicts_with_unit_tests/</guid>
+      <guid>http://localhost:1313/publication/2024detecting_semantic_conflicts_with_unit_tests/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explorando a detecção de conflitos semânticos nas integrações de código em múltiplos métodos</title>
-      <link>https://pauloborba.github.io/publication/2024explorando_a_deteccao_de_conflitos_semanticos_nas_integracoes_de_codigo_em_multiplos_metodos/</link>
+      <link>http://localhost:1313/publication/2024explorando_a_deteccao_de_conflitos_semanticos_nas_integracoes_de_codigo_em_multiplos_metodos/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2024explorando_a_deteccao_de_conflitos_semanticos_nas_integracoes_de_codigo_em_multiplos_metodos/</guid>
+      <guid>http://localhost:1313/publication/2024explorando_a_deteccao_de_conflitos_semanticos_nas_integracoes_de_codigo_em_multiplos_metodos/</guid>
       <description></description>
     </item>
     

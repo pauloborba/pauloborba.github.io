@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marília Freire | Paulo Borba</title>
-    <link>https://pauloborba.github.io/authors/marilia-freire/</link>
-      <atom:link href="https://pauloborba.github.io/authors/marilia-freire/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/marilia-freire/</link>
+      <atom:link href="http://localhost:1313/authors/marilia-freire/index.xml" rel="self" type="application/rss+xml" />
     <description>Marília Freire</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <url>http://localhost:1313/img/foto2019.jpg</url>
       <title>Marília Freire</title>
-      <link>https://pauloborba.github.io/authors/marilia-freire/</link>
+      <link>http://localhost:1313/authors/marilia-freire/</link>
     </image>
     
     <item>
       <title>A Model-Driven Approach to Specifying and Monitoring Controlled Experiments in Software Engineering</title>
-      <link>https://pauloborba.github.io/publication/2013a_model-driven_approach_to_specifying_and_monitoring_controlled_experiments_in_software_engineering/</link>
+      <link>http://localhost:1313/publication/2013a_model-driven_approach_to_specifying_and_monitoring_controlled_experiments_in_software_engineering/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2013a_model-driven_approach_to_specifying_and_monitoring_controlled_experiments_in_software_engineering/</guid>
+      <guid>http://localhost:1313/publication/2013a_model-driven_approach_to_specifying_and_monitoring_controlled_experiments_in_software_engineering/</guid>
       <description></description>
     </item>
     

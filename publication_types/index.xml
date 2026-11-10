@@ -2,31 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Paulo Borba</title>
-    <link>https://pauloborba.github.io/publication_types/</link>
-      <atom:link href="https://pauloborba.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/</link>
+      <atom:link href="http://localhost:1313/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <url>http://localhost:1313/img/foto2019.jpg</url>
       <title>Publication_types</title>
-      <link>https://pauloborba.github.io/publication_types/</link>
+      <link>http://localhost:1313/publication_types/</link>
     </image>
-    
-    <item>
-      <title>1</title>
-      <link>https://pauloborba.github.io/publication_types/1/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication_types/1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2</title>
-      <link>https://pauloborba.github.io/publication_types/2/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication_types/2/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

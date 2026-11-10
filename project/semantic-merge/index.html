@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -31,7 +31,7 @@
   <meta name="description" content="We investigate static and dynamic analysis techniques to develop semantic merge tools that detect conflicts missed by current tools.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://pauloborba.github.io/project/semantic-merge/">
+  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/project/semantic-merge/">
 
   
 
@@ -91,42 +91,6 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131899020-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           document.location = url;
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target);  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-131899020-1', { 'anonymize_ip': true });
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
 
@@ -136,7 +100,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://pauloborba.github.io/project/semantic-merge/">
+  <link rel="canonical" href="http://localhost:1313/project/semantic-merge/">
 
   
   
@@ -151,10 +115,10 @@
   <meta property="twitter:creator" content="@pauloborba">
   
   <meta property="og:site_name" content="Paulo Borba">
-  <meta property="og:url" content="https://pauloborba.github.io/project/semantic-merge/">
+  <meta property="og:url" content="http://localhost:1313/project/semantic-merge/">
   <meta property="og:title" content="Semantic Merge Tools | Paulo Borba">
-  <meta property="og:description" content="We investigate static and dynamic analysis techniques to develop semantic merge tools that detect conflicts missed by current tools."><meta property="og:image" content="https://pauloborba.github.io/project/semantic-merge/featured.png">
-  <meta property="twitter:image" content="https://pauloborba.github.io/project/semantic-merge/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="We investigate static and dynamic analysis techniques to develop semantic merge tools that detect conflicts missed by current tools."><meta property="og:image" content="http://localhost:1313/project/semantic-merge/featured.png">
+  <meta property="twitter:image" content="http://localhost:1313/project/semantic-merge/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2019-11-09T17:52:13-03:00">
@@ -183,12 +147,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://pauloborba.github.io/project/semantic-merge/"
+    "@id": "http://localhost:1313/project/semantic-merge/"
   },
   "headline": "Semantic Merge Tools",
   
   "image": [
-    "https://pauloborba.github.io/project/semantic-merge/featured.png"
+    "http://localhost:1313/project/semantic-merge/featured.png"
   ],
   
   "datePublished": "2019-11-09T17:52:13-03:00",
@@ -204,7 +168,7 @@
     "name": "Paulo Borba",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://pauloborba.github.io/img/icon-512.png"
+      "url": "http://localhost:1313/img/icon-512.png"
     }
   },
   "description": "We investigate static and dynamic analysis techniques to develop semantic merge tools that detect conflicts missed by current tools."
@@ -701,7 +665,7 @@
 
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 493px;">
   <div style="position: relative">
-    <img src="/project/semantic-merge/featured_hu9a17bfd2b11cbaa2a532f62bd1db5c50_87169_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    <img src="/project/semantic-merge/featured_hu_4f568bde064c3c50.png" alt="" class="featured-image">
     <span class="article-header-caption">Using static analyses and tests to detect interference among changes to be integrated</span>
   </div>
 </div>
@@ -711,26 +675,15 @@
   <div class="article-container">
 
     <div class="article-style">
-      
-
-<h4 id="problem">Problem</h4>
-
+      <h4 id="problem">Problem</h4>
 <p>Current merge tools are oblivious to the semantic of the code changes that they integrate. As a consequence, they might integrate conflicting changes without warning developers, like when two people independently change the behavior of dependent parts of the code.</p>
-
 <p>Such missed conflicts are hardly detected by project tests or code reviews, and end up escaping to system users, with potentially severe negative consequences. When users report such defects, developers might have a hard time to understand the underlying causes and fix the code.</p>
-
 <p>These problems compromise development productivity and software quality.</p>
-
 <h4 id="solution">Solution</h4>
-
 <p>To detect such conflicts at integration time, we are studying two techniques for building semantic merge tools. First, we are developing static analyses to detect interference among the changes to be integrated. Second, we are using  test generation tools for generating tests that reveal such interference.</p>
-
 <h4 id="results">Results</h4>
-
 <h5 id="unit-test-generation-tools-can-help-detect-semantic-conflicts">Unit-test generation tools can help detect semantic conflicts</h5>
-
-<p>In our <a href="https://pauloborba.github.io/publication/2020detecting_semantic_conflicts_via_automated_behavior_change_detection/" target="_blank">ICSME 2020</a> paper we propose and implement test execution criteria for automatically detecting semantic conflicts, and evaluate them with unit tests generated by Randoop and Evosuite. We find evidence that these tools can generate tests that reveal interference (that is, potential semantic conflicts) between developers’ changes that have to be merged. We observe no false positives, but observe a significant rate of false negatives.</p>
-
+<p>In our <a href="http://localhost:1313/publication/2020detecting_semantic_conflicts_via_automated_behavior_change_detection/">ICSME 2020</a> paper we propose and implement test execution criteria for automatically detecting semantic conflicts, and evaluate them with unit tests generated by Randoop and Evosuite. We find evidence that these tools can generate tests that reveal interference (that is, potential semantic conflicts) between developers’ changes that have to be merged. We observe no false positives, but observe a significant rate of false negatives.</p>
 <p>This suggests that semantic merge tools based on unit test generation, as we propose, can help developers to detect semantic conflicts early, avoiding them to reach end users as failures. The associated benefits are likely achieved with small false-positive costs. However, with the current limited capacity of the test generation tools, developers cannot solely rely on such semantic merge tools for detecting semantic conflicts.</p>
 
     </div>
@@ -752,7 +705,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://pauloborba.github.io/project/semantic-merge/&amp;text=Semantic%20Merge%20Tools" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=http://localhost:1313/project/semantic-merge/&amp;text=Semantic%20Merge%20Tools" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -765,7 +718,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://pauloborba.github.io/project/semantic-merge/&amp;t=Semantic%20Merge%20Tools" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=http://localhost:1313/project/semantic-merge/&amp;t=Semantic%20Merge%20Tools" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -778,7 +731,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Semantic%20Merge%20Tools&amp;body=https://pauloborba.github.io/project/semantic-merge/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Semantic%20Merge%20Tools&amp;body=http://localhost:1313/project/semantic-merge/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -791,7 +744,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://pauloborba.github.io/project/semantic-merge/&amp;title=Semantic%20Merge%20Tools" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=http://localhost:1313/project/semantic-merge/&amp;title=Semantic%20Merge%20Tools" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -804,7 +757,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Semantic%20Merge%20Tools%20https://pauloborba.github.io/project/semantic-merge/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Semantic%20Merge%20Tools%20http://localhost:1313/project/semantic-merge/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -817,7 +770,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://pauloborba.github.io/project/semantic-merge/&amp;title=Semantic%20Merge%20Tools" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=http://localhost:1313/project/semantic-merge/&amp;title=Semantic%20Merge%20Tools" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -852,11 +805,11 @@
   <div class="media author-card content-widget-hr">
     
       
-      <img class="portrait mr-3" src="/authors/admin/avatar_hub57017fa83a23a512feca75b91b8a2b9_480190_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
+      <img class="portrait mr-3" src="/authors/admin/avatar_hu_3cb465ea1047a588.jpg" alt="Avatar">
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="https://pauloborba.github.io/">Paulo Borba</a></h5>
+      <h5 class="card-title"><a href="http://localhost:1313/">Paulo Borba</a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -1138,7 +1091,7 @@
     
     
     
-    <script src="/js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
+    <script src="/js/academic.min.2aa4c034593508cdbd74f28ff6c19844.js"></script>
 
     
 
@@ -1154,7 +1107,7 @@
   
 
   <p class="powered-by">
-    &copy; 2019 &middot; 
+    © 2019 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

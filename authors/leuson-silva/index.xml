@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Léuson Silva | Paulo Borba</title>
-    <link>https://pauloborba.github.io/authors/leuson-silva/</link>
-      <atom:link href="https://pauloborba.github.io/authors/leuson-silva/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/leuson-silva/</link>
+      <atom:link href="http://localhost:1313/authors/leuson-silva/index.xml" rel="self" type="application/rss+xml" />
     <description>Léuson Silva</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <url>http://localhost:1313/img/foto2019.jpg</url>
       <title>Léuson Silva</title>
-      <link>https://pauloborba.github.io/authors/leuson-silva/</link>
+      <link>http://localhost:1313/authors/leuson-silva/</link>
     </image>
     
     <item>
       <title>Detecção de Conflitos Semânticos com Testes Gerados por LLM</title>
-      <link>https://pauloborba.github.io/publication/2025deteccao_de_conflitos_semanticos_com_testes_gerados_por_llm/</link>
+      <link>http://localhost:1313/publication/2025deteccao_de_conflitos_semanticos_com_testes_gerados_por_llm/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2025deteccao_de_conflitos_semanticos_com_testes_gerados_por_llm/</guid>
+      <guid>http://localhost:1313/publication/2025deteccao_de_conflitos_semanticos_com_testes_gerados_por_llm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analyzing Conflict Predictors in Open-Source Java Projects from GitHub and Travis CI</title>
-      <link>https://pauloborba.github.io/publication/2018analyzing_conflict_predictors_in_open-source_java_projects_from_github_and_travis_ci/</link>
+      <link>http://localhost:1313/publication/2018analyzing_conflict_predictors_in_open-source_java_projects_from_github_and_travis_ci/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2018analyzing_conflict_predictors_in_open-source_java_projects_from_github_and_travis_ci/</guid>
+      <guid>http://localhost:1313/publication/2018analyzing_conflict_predictors_in_open-source_java_projects_from_github_and_travis_ci/</guid>
       <description></description>
     </item>
     

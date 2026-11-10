@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arndt Staa | Paulo Borba</title>
-    <link>https://pauloborba.github.io/authors/arndt-staa/</link>
-      <atom:link href="https://pauloborba.github.io/authors/arndt-staa/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/arndt-staa/</link>
+      <atom:link href="http://localhost:1313/authors/arndt-staa/index.xml" rel="self" type="application/rss+xml" />
     <description>Arndt Staa</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <url>http://localhost:1313/img/foto2019.jpg</url>
       <title>Arndt Staa</title>
-      <link>https://pauloborba.github.io/authors/arndt-staa/</link>
+      <link>http://localhost:1313/authors/arndt-staa/</link>
     </image>
     
     <item>
       <title>The AOSD Research Community in Brazil and Its Crosscutting Impact</title>
-      <link>https://pauloborba.github.io/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</link>
+      <link>http://localhost:1313/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</guid>
+      <guid>http://localhost:1313/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implementing Framework Crosscutting Extensions with EJPs and AspectJ</title>
-      <link>https://pauloborba.github.io/publication/2006implementing_framework_crosscutting_extensions_with_ejps_and_aspectj/</link>
+      <link>http://localhost:1313/publication/2006implementing_framework_crosscutting_extensions_with_ejps_and_aspectj/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://pauloborba.github.io/publication/2006implementing_framework_crosscutting_extensions_with_ejps_and_aspectj/</guid>
+      <guid>http://localhost:1313/publication/2006implementing_framework_crosscutting_extensions_with_ejps_and_aspectj/</guid>
       <description></description>
     </item>
     

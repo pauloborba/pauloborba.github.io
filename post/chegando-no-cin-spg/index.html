@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -34,7 +34,7 @@ Me passe seu número de telefone e peça o meu.
 Marque um horário comigo para passar na minha sala e eu lhe mostrar o laboratório do grupo de pesquisa e te apresentar às outras pessoas do grupo.">
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/chegando-no-cin-spg/">
+  <link rel="alternate" hreflang="en-us" href="https://pauloborba.github.io/post/chegando-no-cin-spg/">
 
   
 
@@ -94,6 +94,42 @@ Marque um horário comigo para passar na minha sala e eu lhe mostrar o laborató
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131899020-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-131899020-1', { 'anonymize_ip': true });
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -103,7 +139,7 @@ Marque um horário comigo para passar na minha sala e eu lhe mostrar o laborató
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="http://localhost:1313/post/chegando-no-cin-spg/">
+  <link rel="canonical" href="https://pauloborba.github.io/post/chegando-no-cin-spg/">
 
   
   
@@ -118,13 +154,13 @@ Marque um horário comigo para passar na minha sala e eu lhe mostrar o laborató
   <meta property="twitter:creator" content="@pauloborba">
   
   <meta property="og:site_name" content="Paulo Borba">
-  <meta property="og:url" content="http://localhost:1313/post/chegando-no-cin-spg/">
+  <meta property="og:url" content="https://pauloborba.github.io/post/chegando-no-cin-spg/">
   <meta property="og:title" content="Chegando ao CIn | Paulo Borba">
   <meta property="og:description" content="Este artigo é direcionado para quem vai fazer iniciação científica, mestrado, doutorado ou pós-doutorado no CIn, especialmente no SPG, e sob a minha orientação! No entanto, algumas das informações podem servir para outras pessoas que estejam chegando ao CIn para trabalhar.
 Antes de tudo
 Me passe seu número de telefone e peça o meu.
-Marque um horário comigo para passar na minha sala e eu lhe mostrar o laboratório do grupo de pesquisa e te apresentar às outras pessoas do grupo."><meta property="og:image" content="http://localhost:1313/post/chegando-no-cin-spg/featured.png">
-  <meta property="twitter:image" content="http://localhost:1313/post/chegando-no-cin-spg/featured.png"><meta property="og:locale" content="en-us">
+Marque um horário comigo para passar na minha sala e eu lhe mostrar o laboratório do grupo de pesquisa e te apresentar às outras pessoas do grupo."><meta property="og:image" content="https://pauloborba.github.io/post/chegando-no-cin-spg/featured.png">
+  <meta property="twitter:image" content="https://pauloborba.github.io/post/chegando-no-cin-spg/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2024-01-02T10:06:19-03:00">
@@ -155,12 +191,12 @@ Marque um horário comigo para passar na minha sala e eu lhe mostrar o laborató
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/post/chegando-no-cin-spg/"
+    "@id": "https://pauloborba.github.io/post/chegando-no-cin-spg/"
   },
   "headline": "Chegando ao CIn",
   
   "image": [
-    "http://localhost:1313/post/chegando-no-cin-spg/featured.png"
+    "https://pauloborba.github.io/post/chegando-no-cin-spg/featured.png"
   ],
   
   "datePublished": "2024-01-02T10:06:19-03:00",
@@ -176,7 +212,7 @@ Marque um horário comigo para passar na minha sala e eu lhe mostrar o laborató
     "name": "Paulo Borba",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/img/icon-512.png"
+      "url": "https://pauloborba.github.io/img/icon-512.png"
     }
   },
   "description": "\u003cp\u003eEste artigo é direcionado para quem vai fazer iniciação científica, mestrado, doutorado ou pós-doutorado no \u003ca href=\"http://www.cin.ufpe.br/\" target=\"_blank\"\u003eCIn\u003c/a\u003e, especialmente no \u003ca href=\"http://www.cin.ufpe.br/spg\" target=\"_blank\"\u003eSPG\u003c/a\u003e, e sob a minha orientação! No entanto, algumas das informações podem servir para outras pessoas que estejam chegando ao CIn para trabalhar.\u003c/p\u003e\n\u003ch3 id=\"antes-de-tudo\"\u003eAntes de tudo\u003c/h3\u003e\n\u003cp\u003eMe passe seu número de telefone e peça o meu.\u003c/p\u003e\n\u003cp\u003eMarque um horário comigo para passar na minha sala e eu lhe mostrar o laboratório do grupo de pesquisa e te apresentar às outras pessoas do grupo.\u003c/p\u003e"
@@ -698,7 +734,7 @@ Marque um horário comigo para passar na minha sala e eu lhe mostrar o laborató
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http://localhost:1313/post/chegando-no-cin-spg/&amp;text=Chegando%20ao%20CIn" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://pauloborba.github.io/post/chegando-no-cin-spg/&amp;text=Chegando%20ao%20CIn" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -711,7 +747,7 @@ Marque um horário comigo para passar na minha sala e eu lhe mostrar o laborató
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http://localhost:1313/post/chegando-no-cin-spg/&amp;t=Chegando%20ao%20CIn" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://pauloborba.github.io/post/chegando-no-cin-spg/&amp;t=Chegando%20ao%20CIn" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -724,7 +760,7 @@ Marque um horário comigo para passar na minha sala e eu lhe mostrar o laborató
       
       
       <li>
-        <a href="mailto:?subject=Chegando%20ao%20CIn&amp;body=http://localhost:1313/post/chegando-no-cin-spg/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Chegando%20ao%20CIn&amp;body=https://pauloborba.github.io/post/chegando-no-cin-spg/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -737,7 +773,7 @@ Marque um horário comigo para passar na minha sala e eu lhe mostrar o laborató
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http://localhost:1313/post/chegando-no-cin-spg/&amp;title=Chegando%20ao%20CIn" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://pauloborba.github.io/post/chegando-no-cin-spg/&amp;title=Chegando%20ao%20CIn" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -750,7 +786,7 @@ Marque um horário comigo para passar na minha sala e eu lhe mostrar o laborató
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Chegando%20ao%20CIn%20http://localhost:1313/post/chegando-no-cin-spg/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Chegando%20ao%20CIn%20https://pauloborba.github.io/post/chegando-no-cin-spg/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -763,7 +799,7 @@ Marque um horário comigo para passar na minha sala e eu lhe mostrar o laborató
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http://localhost:1313/post/chegando-no-cin-spg/&amp;title=Chegando%20ao%20CIn" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://pauloborba.github.io/post/chegando-no-cin-spg/&amp;title=Chegando%20ao%20CIn" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -802,7 +838,7 @@ Marque um horário comigo para passar na minha sala e eu lhe mostrar o laborató
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="http://localhost:1313/">Paulo Borba</a></h5>
+      <h5 class="card-title"><a href="https://pauloborba.github.io/">Paulo Borba</a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">

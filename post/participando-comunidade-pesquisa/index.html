@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -32,7 +32,7 @@
 Identifique os principais eventos e periódicos da sua comunidade de pesquisa. Através de redes sociais ou listas de email, fique atento ao que está sendo publicado nos mesmos.">
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/participando-comunidade-pesquisa/">
+  <link rel="alternate" hreflang="en-us" href="https://pauloborba.github.io/post/participando-comunidade-pesquisa/">
 
   
 
@@ -92,6 +92,42 @@ Identifique os principais eventos e periódicos da sua comunidade de pesquisa. A
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131899020-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-131899020-1', { 'anonymize_ip': true });
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -101,7 +137,7 @@ Identifique os principais eventos e periódicos da sua comunidade de pesquisa. A
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="http://localhost:1313/post/participando-comunidade-pesquisa/">
+  <link rel="canonical" href="https://pauloborba.github.io/post/participando-comunidade-pesquisa/">
 
   
   
@@ -116,11 +152,11 @@ Identifique os principais eventos e periódicos da sua comunidade de pesquisa. A
   <meta property="twitter:creator" content="@pauloborba">
   
   <meta property="og:site_name" content="Paulo Borba">
-  <meta property="og:url" content="http://localhost:1313/post/participando-comunidade-pesquisa/">
+  <meta property="og:url" content="https://pauloborba.github.io/post/participando-comunidade-pesquisa/">
   <meta property="og:title" content="Participando de uma comunidade de pesquisa | Paulo Borba">
   <meta property="og:description" content="O seu trabalho de pesquisa estará inserido no contexto de uma ou mais comunidades de pesquisa. Essa inserção é essencial para que você, através de apresentações e artigos, obtenha feedback sobre o seu trabalho. Isso é muito importante para a qualidade e divulgação do trabalho. Assim, identifique tão logo quanto possível, a principal comunidade relacionada ao seu trabalho.
-Identifique os principais eventos e periódicos da sua comunidade de pesquisa. Através de redes sociais ou listas de email, fique atento ao que está sendo publicado nos mesmos."><meta property="og:image" content="http://localhost:1313/post/participando-comunidade-pesquisa/featured.png">
-  <meta property="twitter:image" content="http://localhost:1313/post/participando-comunidade-pesquisa/featured.png"><meta property="og:locale" content="en-us">
+Identifique os principais eventos e periódicos da sua comunidade de pesquisa. Através de redes sociais ou listas de email, fique atento ao que está sendo publicado nos mesmos."><meta property="og:image" content="https://pauloborba.github.io/post/participando-comunidade-pesquisa/featured.png">
+  <meta property="twitter:image" content="https://pauloborba.github.io/post/participando-comunidade-pesquisa/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2023-06-09T10:04:47-03:00">
@@ -151,12 +187,12 @@ Identifique os principais eventos e periódicos da sua comunidade de pesquisa. A
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/post/participando-comunidade-pesquisa/"
+    "@id": "https://pauloborba.github.io/post/participando-comunidade-pesquisa/"
   },
   "headline": "Participando de uma comunidade de pesquisa",
   
   "image": [
-    "http://localhost:1313/post/participando-comunidade-pesquisa/featured.png"
+    "https://pauloborba.github.io/post/participando-comunidade-pesquisa/featured.png"
   ],
   
   "datePublished": "2023-06-09T10:04:47-03:00",
@@ -172,7 +208,7 @@ Identifique os principais eventos e periódicos da sua comunidade de pesquisa. A
     "name": "Paulo Borba",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/img/icon-512.png"
+      "url": "https://pauloborba.github.io/img/icon-512.png"
     }
   },
   "description": "\u003cp\u003eO seu trabalho de pesquisa estará inserido no contexto de uma ou mais comunidades de pesquisa. Essa inserção é essencial para que você, através de apresentações e artigos, obtenha \u003ci\u003efeedback\u003c/i\u003e sobre o seu trabalho. Isso é muito importante para a qualidade e divulgação do trabalho. Assim, identifique tão logo quanto possível, a principal comunidade relacionada ao seu trabalho.\u003c/p\u003e\n\u003cp\u003eIdentifique os principais eventos e periódicos da sua comunidade de pesquisa. Através de redes sociais ou listas de email, fique atento ao que está sendo publicado nos mesmos.\u003c/p\u003e"
@@ -667,7 +703,7 @@ Identifique os principais eventos e periódicos da sua comunidade de pesquisa. A
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http://localhost:1313/post/participando-comunidade-pesquisa/&amp;text=Participando%20de%20uma%20comunidade%20de%20pesquisa" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://pauloborba.github.io/post/participando-comunidade-pesquisa/&amp;text=Participando%20de%20uma%20comunidade%20de%20pesquisa" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -680,7 +716,7 @@ Identifique os principais eventos e periódicos da sua comunidade de pesquisa. A
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http://localhost:1313/post/participando-comunidade-pesquisa/&amp;t=Participando%20de%20uma%20comunidade%20de%20pesquisa" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://pauloborba.github.io/post/participando-comunidade-pesquisa/&amp;t=Participando%20de%20uma%20comunidade%20de%20pesquisa" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -693,7 +729,7 @@ Identifique os principais eventos e periódicos da sua comunidade de pesquisa. A
       
       
       <li>
-        <a href="mailto:?subject=Participando%20de%20uma%20comunidade%20de%20pesquisa&amp;body=http://localhost:1313/post/participando-comunidade-pesquisa/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Participando%20de%20uma%20comunidade%20de%20pesquisa&amp;body=https://pauloborba.github.io/post/participando-comunidade-pesquisa/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -706,7 +742,7 @@ Identifique os principais eventos e periódicos da sua comunidade de pesquisa. A
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http://localhost:1313/post/participando-comunidade-pesquisa/&amp;title=Participando%20de%20uma%20comunidade%20de%20pesquisa" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://pauloborba.github.io/post/participando-comunidade-pesquisa/&amp;title=Participando%20de%20uma%20comunidade%20de%20pesquisa" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -719,7 +755,7 @@ Identifique os principais eventos e periódicos da sua comunidade de pesquisa. A
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Participando%20de%20uma%20comunidade%20de%20pesquisa%20http://localhost:1313/post/participando-comunidade-pesquisa/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Participando%20de%20uma%20comunidade%20de%20pesquisa%20https://pauloborba.github.io/post/participando-comunidade-pesquisa/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -732,7 +768,7 @@ Identifique os principais eventos e periódicos da sua comunidade de pesquisa. A
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http://localhost:1313/post/participando-comunidade-pesquisa/&amp;title=Participando%20de%20uma%20comunidade%20de%20pesquisa" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://pauloborba.github.io/post/participando-comunidade-pesquisa/&amp;title=Participando%20de%20uma%20comunidade%20de%20pesquisa" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -771,7 +807,7 @@ Identifique os principais eventos e periódicos da sua comunidade de pesquisa. A
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="http://localhost:1313/">Paulo Borba</a></h5>
+      <h5 class="card-title"><a href="https://pauloborba.github.io/">Paulo Borba</a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">

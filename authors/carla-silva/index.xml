@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carla Silva | Paulo Borba</title>
-    <link>http://localhost:1313/authors/carla-silva/</link>
-      <atom:link href="http://localhost:1313/authors/carla-silva/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pauloborba.github.io/authors/carla-silva/</link>
+      <atom:link href="https://pauloborba.github.io/authors/carla-silva/index.xml" rel="self" type="application/rss+xml" />
     <description>Carla Silva</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/foto2019.jpg</url>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Carla Silva</title>
-      <link>http://localhost:1313/authors/carla-silva/</link>
+      <link>https://pauloborba.github.io/authors/carla-silva/</link>
     </image>
     
     <item>
       <title>The crosscutting impact of the AOSD Brazilian research community</title>
-      <link>http://localhost:1313/publication/2013the_crosscutting_impact_of_the_aosd_brazilian_research_community/</link>
+      <link>https://pauloborba.github.io/publication/2013the_crosscutting_impact_of_the_aosd_brazilian_research_community/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2013the_crosscutting_impact_of_the_aosd_brazilian_research_community/</guid>
+      <guid>https://pauloborba.github.io/publication/2013the_crosscutting_impact_of_the_aosd_brazilian_research_community/</guid>
       <description></description>
     </item>
     

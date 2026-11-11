@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J. Winther | Paulo Borba</title>
-    <link>http://localhost:1313/authors/j.-winther/</link>
-      <atom:link href="http://localhost:1313/authors/j.-winther/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pauloborba.github.io/authors/j.-winther/</link>
+      <atom:link href="https://pauloborba.github.io/authors/j.-winther/index.xml" rel="self" type="application/rss+xml" />
     <description>J. Winther</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/foto2019.jpg</url>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>J. Winther</title>
-      <link>http://localhost:1313/authors/j.-winther/</link>
+      <link>https://pauloborba.github.io/authors/j.-winther/</link>
     </image>
     
     <item>
       <title>Emergo: a tool for improving maintainability of preprocessor-based product lines</title>
-      <link>http://localhost:1313/publication/2012emergo__a_tool_for_improving_maintainability_of_preprocessor-based_product_lines/</link>
+      <link>https://pauloborba.github.io/publication/2012emergo__a_tool_for_improving_maintainability_of_preprocessor-based_product_lines/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2012emergo__a_tool_for_improving_maintainability_of_preprocessor-based_product_lines/</guid>
+      <guid>https://pauloborba.github.io/publication/2012emergo__a_tool_for_improving_maintainability_of_preprocessor-based_product_lines/</guid>
       <description></description>
     </item>
     

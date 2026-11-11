@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jones Albuquerque | Paulo Borba</title>
-    <link>http://localhost:1313/authors/jones-albuquerque/</link>
-      <atom:link href="http://localhost:1313/authors/jones-albuquerque/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pauloborba.github.io/authors/jones-albuquerque/</link>
+      <atom:link href="https://pauloborba.github.io/authors/jones-albuquerque/index.xml" rel="self" type="application/rss+xml" />
     <description>Jones Albuquerque</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/foto2019.jpg</url>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Jones Albuquerque</title>
-      <link>http://localhost:1313/authors/jones-albuquerque/</link>
+      <link>https://pauloborba.github.io/authors/jones-albuquerque/</link>
     </image>
     
     <item>
       <title>Programming the Universe: The First Commandment of Software Engineering for all Varieties of Information Systems</title>
-      <link>http://localhost:1313/publication/2016programming_the_universe__the_first_commandment_of_software_engineering_for_all_varieties_of_information_systems/</link>
+      <link>https://pauloborba.github.io/publication/2016programming_the_universe__the_first_commandment_of_software_engineering_for_all_varieties_of_information_systems/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2016programming_the_universe__the_first_commandment_of_software_engineering_for_all_varieties_of_information_systems/</guid>
+      <guid>https://pauloborba.github.io/publication/2016programming_the_universe__the_first_commandment_of_software_engineering_for_all_varieties_of_information_systems/</guid>
       <description></description>
     </item>
     

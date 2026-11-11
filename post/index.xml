@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Paulo Borba</title>
-    <link>http://localhost:1313/post/</link>
-      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pauloborba.github.io/post/</link>
+      <atom:link href="https://pauloborba.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
     <image>
-      <url>http://localhost:1313/img/foto2019.jpg</url>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Posts</title>
-      <link>http://localhost:1313/post/</link>
+      <link>https://pauloborba.github.io/post/</link>
     </image>
     
     <item>
       <title>Acessando Servidores para Experimentos</title>
-      <link>http://localhost:1313/post/acessando-servidores-para-experimentos/</link>
+      <link>https://pauloborba.github.io/post/acessando-servidores-para-experimentos/</link>
       <pubDate>Tue, 16 Jun 2026 17:03:26 -0300</pubDate>
-      <guid>http://localhost:1313/post/acessando-servidores-para-experimentos/</guid>
+      <guid>https://pauloborba.github.io/post/acessando-servidores-para-experimentos/</guid>
       <description>&lt;p&gt;Para conectar aos servidores do INES, você deve estar conectado à rede do CIn. Para tanto, você deve usar o VPN do CIn se o acesso for de fora do CIn. Veja na &lt;a href=&#34;http://helpdesk.cin.ufpe.br/&#34; target=&#34;_blank&#34;&gt;página da gerência de sistemas&lt;/a&gt; as instruções de como configurar a VPN.&lt;/p&gt;
 &lt;p&gt;Os servidores são normalmente configurados para serem acessados com as inicias do CIn como login, mas são restritos para usuários autorizados. Para solicitar autorização, é necessário enviar email para o helpdesk do CIn, indicando que servidor (ver abaixo as opções) deseja acessar, e copiando o seu orientador (um professor associado ao INES) para ele dar o OK.&lt;/p&gt;
 &lt;p&gt;Os servidores só têm o docker instalado, então todo o seu experimento tem que ser configurado para executar num container docker. Isso é importante também por questões de replicabilidade do seu experimento.&lt;/p&gt;
@@ -100,9 +100,9 @@ Ao ter certeza que a máquina está liberada para uso, e caso precise de isolame
     
     <item>
       <title>Organizando um Workshop de um Grupo de Pesquisa</title>
-      <link>http://localhost:1313/post/organizando-um-workshop-do-grupo/</link>
+      <link>https://pauloborba.github.io/post/organizando-um-workshop-do-grupo/</link>
       <pubDate>Wed, 03 Dec 2025 18:05:08 -0300</pubDate>
-      <guid>http://localhost:1313/post/organizando-um-workshop-do-grupo/</guid>
+      <guid>https://pauloborba.github.io/post/organizando-um-workshop-do-grupo/</guid>
       <description>&lt;p&gt;Segue a lista de atividades que normalmente seguimos para organizar os workshops do grupo:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -212,11 +212,11 @@ Ao ter certeza que a máquina está liberada para uso, e caso precise de isolame
     
     <item>
       <title>Usando IA (LLMs e Agentes) para Pesquisa</title>
-      <link>http://localhost:1313/post/usando-ia-para-pesquisa/</link>
+      <link>https://pauloborba.github.io/post/usando-ia-para-pesquisa/</link>
       <pubDate>Thu, 20 Nov 2025 10:17:51 -0300</pubDate>
-      <guid>http://localhost:1313/post/usando-ia-para-pesquisa/</guid>
+      <guid>https://pauloborba.github.io/post/usando-ia-para-pesquisa/</guid>
       <description>&lt;p&gt;Os LLMs e Agentes (como o do GitHub Copilot) avançaram muito e atingiram um ponto em que podem ser úteis para algumas atividades de pesquisa, amplificando nosso potencial.&lt;/p&gt;
-&lt;p&gt;Podem ser úteis mas não sem levar a retrabalho ou problemas de qualidade, é importante estar atento para isso e não se deixar levar pelo marketing dos fornecedores de serviços de IA. Veja este &lt;a href=&#34;http://localhost:1313/talk/ia-para-es-e-es-para-ia/&#34;&gt;episódio de podcast&lt;/a&gt; ou esta &lt;a href=&#34;http://localhost:1313/talk/mitos-e-realidades-desenvolvimento-sw-ia/&#34;&gt;palestra&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Podem ser úteis mas não sem levar a retrabalho ou problemas de qualidade, é importante estar atento para isso e não se deixar levar pelo marketing dos fornecedores de serviços de IA. Veja este &lt;a href=&#34;https://pauloborba.github.io/talk/ia-para-es-e-es-para-ia/&#34;&gt;episódio de podcast&lt;/a&gt; ou esta &lt;a href=&#34;https://pauloborba.github.io/talk/mitos-e-realidades-desenvolvimento-sw-ia/&#34;&gt;palestra&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Uma atividade como a de revisão final de um artigo que está prestes a ser submetido, por exemplo, pode identificar algum detalhe que você e seu orientador deixaram passar. Este &lt;a href=&#34;https://www.linkedin.com/posts/prof-todd-austin_research-publication-aitools-activity-7397001188879036416-EeS9?utm_source=share&amp;amp;utm_medium=member_android&amp;amp;rcm=ACoAAALmP2QBSciTVA5NWvJzUHVX5vQEDIY0yew&#34; target=&#34;_blank&#34;&gt;post&lt;/a&gt;, por exemplo, sugere o seguinte &lt;i&gt;prompt&lt;/i&gt;: &amp;ldquo;Please review my near-final draft of a research paper. Please 1) proofread the paper, 2) fact check the contents, 3) perform consistency checking of terminology, Figure #&amp;rsquo;s, etc., 4) look for any logical fallacies, 5) find anywhere I should add or remove citations, 6) remove any em-dashes from the prose, and 7) list any other improvements you see as beneficial. Please list the results below as IMPORTANT or SUGGESTED changes&amp;rdquo;. Eu gosto de &amp;ldquo;em-dashes&amp;rdquo;, então eu retiraria essa parte do &lt;i&gt;prompt&lt;/i&gt;, mas a ideia do autor é só dar um exemplo do que você poderia pedir a um LLM para fazer. Depois de ajeitar os problemas reais encontrados, você pode seguir &lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145/3850128&#34; target=&#34;_blank&#34;&gt;dicas&lt;/a&gt; como pedir &amp;ldquo;act as an experienced, demanding editor of journal/conference X and suggest improvements&amp;rdquo; e, em seguida, após realizar os ajustes que fazem sentido pedir algo como &amp;ldquo;act as an experienced, strict journal/conference X reviewer and criticize this work&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Minha expectativa é que esse tipo de uso gere algumas sugestões boas e outras ruins, e talvez fazer isso para todo o arquivo de uma vez traga piores resultados do que fazendo por partes. Mas se você passa batido fácil em algum desses problemas, e não consegue ser mais atento, pode valer a pena. Isso, claro, se você, como assumido de todo pesquisador, tiver apurado &lt;b&gt;senso crítico&lt;/b&gt; para discernir o que de fato é um ponto fraco (e você e seu orientador passaram batido) do que é pura aleatoriedade da IA (LLMs, agentes, etc.). Por fim, você tem que revisar com cuidado, ponto a ponto, o que for sugerido pela IA.&lt;/p&gt;
 &lt;p&gt;Em geral, você só deve usar IA para atividades que você tenha um bom oráculo (como conhecimento sólido sobre o assunto, um compilador, uma forte suite de testes, um provador de teoremas, etc.) para avaliar se o que ela gera faz sentido, se precisa de ajuste, ou se seria melhor descartar. Se não tiver, é fortemente recomendado &lt;b&gt;não&lt;/b&gt; usar IA para essa atividade. Não seria um uso responsável.&lt;/p&gt;
@@ -229,7 +229,7 @@ Usar IA para sugerir narrativas, avaliar a sua narrativa, ou mesmo ajeitar o lay
 &lt;p&gt;Em resumo, se você não entender &lt;strong&gt;profundamente&lt;/strong&gt; algo que a IA gerou, descarte ou invista tempo suficiente para estudar e entender profundamente o que foi gerado. Quase sempre a IA é muito convincente e pode facilmente lhe induzir ao erro se você não tiver conhecimento mais sólido sobre o assunto, a formalização, a linguagem, o framework, etc. Mais importante de tudo, o seu orientador é o &lt;strong&gt;seu&lt;/strong&gt; orientador, não orientador da IA! Ele não pode investir o tempo dele para corrigir ou direcionar os trabalhos da IA.&lt;/p&gt;
 &lt;p&gt;No mundo acadêmico, esse e outros usos não responsáveis da IA podem levar a sérias consequências, com prejuízos para a sua formação, carreira e a conclusão do seu curso.&lt;/p&gt;
 &lt;p&gt;Assim, usem com ética e muito cuidado! Na dúvida, consulte seu orientador.&lt;/p&gt;
-&lt;p&gt;Por fim, em toda reunião, apresentação, entrega, etc. informe explicitamente ao seu orientador para que e como você usou LLMs e agentes.&lt;/p&gt;
+&lt;p&gt;Por fim, em toda reunião, apresentação, entrega, etc. informe explicitamente ao seu orientador para que e como você usou LLMs e agentes. Para os artigos, teses, e conjuntos de slides verifique as regras vigentes (MEC, UFPE, evento e periódico) sobre a necessidade de informar para que e como você usou LLMs e agentes. Atualmente, o MEC exige que seja informado; se formos publicar num veículo internacional que dispensa a informação sobre uso de IA, devemos colocar apenas no &lt;a href=&#34;https://pauloborba.github.io/post/divulgando-resultados-de-pesquisa/&#34;&gt;apêndice online&lt;/a&gt; (que deve conter o material necessário para replicar o estudo) do artigo.&lt;/p&gt;
 &lt;p&gt;Seguem alguns problemas que eu já tive com o uso de IA e que podem lhe ajudar a entender melhor as recomendações acima:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Um aluno repassando direto para a IA meus questionamentos e solicitações de atividades, e repassando direto para mim as respostas da IA. Tive que dizer para o aluno que isso não era ético e que eu não poderia orientar ninguém dessa forma.&lt;/li&gt;
@@ -245,9 +245,9 @@ Antes dos LLMs, quando um aluno enviava um email detalhado, trazia bastante cód
     
     <item>
       <title>Dirigindo o CIn</title>
-      <link>http://localhost:1313/post/dirigindo-o-cin/</link>
+      <link>https://pauloborba.github.io/post/dirigindo-o-cin/</link>
       <pubDate>Wed, 02 Jul 2025 10:37:07 -0300</pubDate>
-      <guid>http://localhost:1313/post/dirigindo-o-cin/</guid>
+      <guid>https://pauloborba.github.io/post/dirigindo-o-cin/</guid>
       <description>&lt;p&gt;Fui diretor do CIn de 2021 a 2025, me ausentando por 4 meses em 2022 para um período sabático curto, que era para ter acontecido em 2020 mas teve que ser adiado por causa da pandemia.
 Mesmo nesse período de 4 meses, não houve um dia em que eu não tenha feito algo pela diretoria do CIn.&lt;/p&gt;
 &lt;p&gt;Foi um grande desafio, por vários motivos (lidar com 15000 emails, e muito mais mensagens de WhatsApp, é apenas um dos motivos, mas nem de perto o maior).&lt;/p&gt;
@@ -260,21 +260,21 @@ Mesmo nesse período de 4 meses, não houve um dia em que eu não tenha feito al
     
     <item>
       <title>Participando de um painel</title>
-      <link>http://localhost:1313/post/participando-de-um-painel/</link>
+      <link>https://pauloborba.github.io/post/participando-de-um-painel/</link>
       <pubDate>Fri, 05 Jan 2024 14:15:03 -0300</pubDate>
-      <guid>http://localhost:1313/post/participando-de-um-painel/</guid>
+      <guid>https://pauloborba.github.io/post/participando-de-um-painel/</guid>
       <description>&lt;p&gt;Leia &lt;a href=&#34;https://guykawasaki.com/how_to_kick_but/&#34; target=&#34;_blank&#34;&gt;How to Kick Butt on a Panel&lt;/a&gt;, de Guy Kawasaki.&lt;/p&gt;
 &lt;p&gt;Essa é basicamente a referência que tenho seguido desde a minha primeira participação em um painel. As sugestões são bem simples, mas muito úteis para mim, que nunca tinha pensado em algumas delas: nunca responda a uma pergunta dizendo que concorda com a resposta dada por um colega; olhe para a audiência, não para o moderador; responda as perguntas diretamente, da forma mais simples possível (se necessário, por exemplo, responda Sim ou Não, e depois complemente a resposta); entretenha, não apenas informe; fale alto, aberto (microfone a uma polegada dos seus lábios).&lt;/p&gt;
 &lt;p&gt;Observe e imite bons painelistas.&lt;/p&gt;
-&lt;p&gt;Veja a Seção Dando e recebendo &lt;i&gt;feedback&lt;/i&gt;, em &lt;a href=&#34;http://localhost:1313/post/estabelecendo-rotina-de-pesquisa/&#34;&gt;Estabelecendo uma rotina de pesquisa&lt;/a&gt;, principalmente a parte de como discordar de alguém.&lt;/p&gt;
+&lt;p&gt;Veja a Seção Dando e recebendo &lt;i&gt;feedback&lt;/i&gt;, em &lt;a href=&#34;https://pauloborba.github.io/post/estabelecendo-rotina-de-pesquisa/&#34;&gt;Estabelecendo uma rotina de pesquisa&lt;/a&gt;, principalmente a parte de como discordar de alguém.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Escrevendo cartas de recomendação ou referência</title>
-      <link>http://localhost:1313/post/escrevendo-carta-referencia/</link>
+      <link>https://pauloborba.github.io/post/escrevendo-carta-referencia/</link>
       <pubDate>Thu, 04 Jan 2024 16:14:49 -0300</pubDate>
-      <guid>http://localhost:1313/post/escrevendo-carta-referencia/</guid>
+      <guid>https://pauloborba.github.io/post/escrevendo-carta-referencia/</guid>
       <description>&lt;p&gt;Antes de tudo, leia &lt;a href=&#34;https://cs.brown.edu/~sk/Memos/Grad-School-Recos/&#34; target=&#34;_blank&#34;&gt;Advice to Graduate School Recommendation Letter Writers&lt;/a&gt;, de Shriram Krishnamurthi.&lt;/p&gt;
 &lt;p&gt;Você só deve escrever cartas para pessoas que tenham trabalhado com você, ou cujo trabalho você conhece bem. Escrever cartas para pessoas em outra situação é muito ruim porque a carta vai ser fraca, e você terá que escolher as palavras com muito cuidado para não prejudicar a pessoa além do que ela já vai ser prejudicada por ter escolhido uma pessoa distante dela como referência.&lt;/p&gt;
 &lt;p&gt;Para cartas de promoção, que são tipicamente solicitadas por universidades americanas, resumo a seguir dicas de três colegas de lá que me ajudaram muito na época que tive que escrever uma carta dessa:&lt;/p&gt;
@@ -301,9 +301,9 @@ Mesmo nesse período de 4 meses, não houve um dia em que eu não tenha feito al
     
     <item>
       <title>Começando uma carreira acadêmica</title>
-      <link>http://localhost:1313/post/comecando-carreira-academica/</link>
+      <link>https://pauloborba.github.io/post/comecando-carreira-academica/</link>
       <pubDate>Thu, 04 Jan 2024 14:35:19 -0300</pubDate>
-      <guid>http://localhost:1313/post/comecando-carreira-academica/</guid>
+      <guid>https://pauloborba.github.io/post/comecando-carreira-academica/</guid>
       <description>&lt;p&gt;Leia &lt;a href=&#34;https://www.cs.virginia.edu/~evans/paradise/&#34; target=&#34;_blank&#34;&gt;How to live in paradise&lt;/a&gt;, de David Evans. Esse texto traz muitas dicas interessantes para resumir aqui, mas&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;tirar férias,&lt;/li&gt;
@@ -322,40 +322,40 @@ Mesmo nesse período de 4 meses, não houve um dia em que eu não tenha feito al
 &lt;li&gt;estabelecer padrão de qualidade e excelência&lt;/li&gt;
 &lt;li&gt;fazer perguntas difíceis&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Pense e defina a sua &lt;a href=&#34;http://localhost:1313/talk/estrategias-para-publicacoes/&#34;&gt;estratégia de publicação&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Pense e defina a sua &lt;a href=&#34;https://pauloborba.github.io/talk/estrategias-para-publicacoes/&#34;&gt;estratégia de publicação&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Para ter uma visão das vantagens e desvantagens da vida acadêmica, leia &lt;a href=&#34;https://profserious.substack.com/p/on-choosing-an-academic-career?utm_source=substack&amp;amp;publication_id=328471&amp;amp;post_id=198538368&amp;amp;utm_medium=email&amp;amp;utm_content=share&amp;amp;utm_campaign=email-share&amp;amp;triggerShare=true&amp;amp;isFreemail=true&amp;amp;r=5w67x&amp;amp;triedRedirect=true&#34; target=&#34;_blank&#34;&gt;On Choosing an Academic Career… what it takes, what it offers, and what it demands&lt;/a&gt;, de Anthony Finkelstein. Segue o resumo: &amp;ldquo;Academic careers suit a particular kind of person. You need intellectual stamina and tolerance for ambiguity. You should possess the skills and readiness to be part of a complex institution with all that entails. Success will require flexibility and an entrepreneurial edge. If you value the purposes of universities, and are committed to furthering them, it can be a very good career. If not, there are certainly easier ones.&amp;rdquo;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Disponibilizando e divulgando resultados de pesquisa</title>
-      <link>http://localhost:1313/post/divulgando-resultados-de-pesquisa/</link>
+      <link>https://pauloborba.github.io/post/divulgando-resultados-de-pesquisa/</link>
       <pubDate>Tue, 02 Jan 2024 17:29:26 -0300</pubDate>
-      <guid>http://localhost:1313/post/divulgando-resultados-de-pesquisa/</guid>
+      <guid>https://pauloborba.github.io/post/divulgando-resultados-de-pesquisa/</guid>
       <description>&lt;p&gt;Antes de tudo, leia a política da ACM sobre &lt;a href=&#34;https://www.acm.org/publications/policies/artifact-review-and-badging-current&#34; target=&#34;_blank&#34;&gt;Result and Artefact Review and Badging&lt;/a&gt;, principalmente se houver dúvidas sobre os termos repetível, reproduzível, e replicável.&lt;/p&gt;
 &lt;h4 id=&#34;disponibilização&#34;&gt;Disponibilização&lt;/h4&gt;
 &lt;p&gt;Antes de disponibilizar o material, verifique se seu estudo é repetível e reproduzível, e que todos os passos automatizáveis estão de fato automatizados.&lt;/p&gt;
-&lt;p&gt;Organize todo o material (scripts, programas, sistemas avaliados, datasets, entrevistas, etc.) e resultados em uma página ou repositório público (ver exemplos de &amp;ldquo;Replication package&amp;rdquo; na &lt;a href=&#34;http://localhost:1313/publication/&#34;&gt;minha lista de publicações&lt;/a&gt;), de forma a permitir a reprodução ou replicação dos resultados obtidos. Boa documentação desse material é essencial para que a reprodução ou replicação seja possível sem esforços desnecessários.&lt;/p&gt;
+&lt;p&gt;Organize todo o material (scripts, programas, sistemas avaliados, datasets, entrevistas, etc.) e resultados em uma página ou repositório público (ver exemplos de &amp;ldquo;Replication package&amp;rdquo; na &lt;a href=&#34;https://pauloborba.github.io/publication/&#34;&gt;minha lista de publicações&lt;/a&gt;), de forma a permitir a reprodução ou replicação dos resultados obtidos. Boa documentação desse material é essencial para que a reprodução ou replicação seja possível sem esforços desnecessários.&lt;/p&gt;
 &lt;p&gt;Crie um &lt;em&gt;container Docker&lt;/em&gt; (ou similar) com todo o material, e a possibilidade de repetir o estudo com apenas um comando. Na preparação do &lt;em&gt;container&lt;/em&gt;, importante especificar a versão exata do software (interpretadores, bibliotecas, etc.) necessário para executar o experimento, para que versões mais novas não sejam usadas no futuro e gerem resultados diferentes.&lt;/p&gt;
 &lt;p&gt;Após a submissão e aceitação do seu trabalho, coloque todo o material do artigo no &lt;a href=&#34;https://github.com/spgroup/papers&#34; target=&#34;_blank&#34;&gt;repositório de artigos&lt;/a&gt; do seu grupo de pesquisa. Avise aos seus co-autores.&lt;/p&gt;
-&lt;p&gt;Estou assumindo que o seu artigo já está armazenado em um repositório público de preprints como o &lt;a href=&#34;https://arxiv.org&#34; target=&#34;_blank&#34;&gt;arXiv&lt;/a&gt;. Isso deve ser feito imediatamente após a submissão do artigo! Veja &lt;a href=&#34;http://localhost:1313/post/escrevendo-seu-trabalho/&#34;&gt;Escrevendo seu trabalho&lt;/a&gt;, em especial a Seção &amp;ldquo;Revisando o seu trabalho&amp;rdquo;. Disponibilize a última versão publicada atualizando a entrada que você tinha criado no  &lt;a href=&#34;https://arxiv.org&#34; target=&#34;_blank&#34;&gt;arXiv&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Estou assumindo que o seu artigo já está armazenado em um repositório público de preprints como o &lt;a href=&#34;https://arxiv.org&#34; target=&#34;_blank&#34;&gt;arXiv&lt;/a&gt;. Isso deve ser feito imediatamente após a submissão do artigo! Veja &lt;a href=&#34;https://pauloborba.github.io/post/escrevendo-seu-trabalho/&#34;&gt;Escrevendo seu trabalho&lt;/a&gt;, em especial a Seção &amp;ldquo;Revisando o seu trabalho&amp;rdquo;. Disponibilize a última versão publicada atualizando a entrada que você tinha criado no  &lt;a href=&#34;https://arxiv.org&#34; target=&#34;_blank&#34;&gt;arXiv&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Atualize as páginas web relevantes: a do grupo de pesquisa, a do projeto no qual você trabalha, e a sua pessoal. Avise aos seus co-autores.&lt;/p&gt;
 &lt;p&gt;Disponibilize o material necessário para replicar o estudo publicado em alguma plataforma de ciência aberta, como neste caso do &lt;a href=&#34;https://doi.org/10.5281/zenodo.8081523&#34; target=&#34;_blank&#34;&gt;Health Watcher&lt;/a&gt;, disponibilizado via &lt;a href=&#34;https://zenodo.org&#34; target=&#34;_blank&#34;&gt;Zenodo&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Siga as dicas sobre divulgação de resultados e material de &lt;a href=&#34;http://arxiv.org/pdf/1609.00037v1.pdf&#34; target=&#34;_blank&#34;&gt;Good Enough Practices in Scientific Computing&lt;/a&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;divulgação&#34;&gt;Divulgação&lt;/h4&gt;
 &lt;p&gt;Depois de ter seguido as orientações acima, siga as orientações abaixo.&lt;/p&gt;
 &lt;p&gt;Divulgue com clareza e abrangência cada resultado (artigo, tese, ferramenta, biblioteca, dataset, etc.) de pesquisa gerado, para que mais pessoas possam ter acesso, conhecer o seu trabalho, construir em cima dele, e dar feedback.&lt;/p&gt;
-&lt;p&gt;Divulgue nas redes sociais (ver &lt;a href=&#34;http://localhost:1313/post/participando-comunidade-pesquisa/&#34;&gt;Participando de uma comunidade de pesquisa&lt;/a&gt;), e peça para o seu orientador e outros co-autores fazerem o mesmo.&lt;/p&gt;
+&lt;p&gt;Divulgue nas redes sociais (ver &lt;a href=&#34;https://pauloborba.github.io/post/participando-comunidade-pesquisa/&#34;&gt;Participando de uma comunidade de pesquisa&lt;/a&gt;), e peça para o seu orientador e outros co-autores fazerem o mesmo.&lt;/p&gt;
 &lt;p&gt;Divulgue em sites de notícias como &lt;a href=&#34;https://news.ycombinator.com/news&#34; target=&#34;_blank&#34;&gt;Hacker News&lt;/a&gt; e &lt;a href=&#34;https://www.reddit.com/&#34; target=&#34;_blank&#34;&gt;Reddit&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Envie mensagens para as listas do grupo de pesquisa (ver &lt;a href=&#34;http://localhost:1313/post/chegando-no-cin-spg/&#34;&gt;Chegando ao CIn&lt;/a&gt;), os autores dos principais trabalhos relacionados ao seu, e as pessoas que citaram seus trabalhos anteriores relacionados (no Google Scholar, basta clicar nos links &amp;ldquo;Cited by&amp;rdquo; relacionados aos seus artigos para descobrir quem citou eles).&lt;/p&gt;
+&lt;p&gt;Envie mensagens para as listas do grupo de pesquisa (ver &lt;a href=&#34;https://pauloborba.github.io/post/chegando-no-cin-spg/&#34;&gt;Chegando ao CIn&lt;/a&gt;), os autores dos principais trabalhos relacionados ao seu, e as pessoas que citaram seus trabalhos anteriores relacionados (no Google Scholar, basta clicar nos links &amp;ldquo;Cited by&amp;rdquo; relacionados aos seus artigos para descobrir quem citou eles).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Chegando ao CIn</title>
-      <link>http://localhost:1313/post/chegando-no-cin-spg/</link>
+      <link>https://pauloborba.github.io/post/chegando-no-cin-spg/</link>
       <pubDate>Tue, 02 Jan 2024 10:06:19 -0300</pubDate>
-      <guid>http://localhost:1313/post/chegando-no-cin-spg/</guid>
+      <guid>https://pauloborba.github.io/post/chegando-no-cin-spg/</guid>
       <description>&lt;p&gt;Este artigo é direcionado para quem vai fazer iniciação científica, mestrado, doutorado ou pós-doutorado no &lt;a href=&#34;http://www.cin.ufpe.br/&#34; target=&#34;_blank&#34;&gt;CIn&lt;/a&gt;, especialmente no &lt;a href=&#34;http://www.cin.ufpe.br/spg&#34; target=&#34;_blank&#34;&gt;SPG&lt;/a&gt;, e sob a minha orientação! No entanto, algumas das informações podem servir para outras pessoas que estejam chegando ao CIn para trabalhar.&lt;/p&gt;
 &lt;h3 id=&#34;antes-de-tudo&#34;&gt;Antes de tudo&lt;/h3&gt;
 &lt;p&gt;Me passe seu número de telefone e peça o meu.&lt;/p&gt;
@@ -370,7 +370,7 @@ Mesmo nesse período de 4 meses, não houve um dia em que eu não tenha feito al
 &lt;p&gt;Me envie um email indicando o seu usuário no GitHub, e solicitando inserção no &lt;a href=&#34;https://github.com/spgroup&#34; target=&#34;_blank&#34;&gt;repositório do  grupo&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Para ter acesso ao laboratório do INES com o seu crachá, envie email para o helpdesk do CIn, me copiando para eu dar o OK. Se você ainda não sabe o que é o helpdesk do CIn, veja a seguir!&lt;/p&gt;
 &lt;p&gt;Crie um &lt;i&gt;site&lt;/i&gt; pessoal minimamente organizado &lt;a href=&#34;https://helpdesk.cin.ufpe.br/servicos/dados-e-hospedagem&#34; target=&#34;_blank&#34;&gt;no domínio do CIn&lt;/a&gt;, e me passe o endereço, por favor. Pode ser bem básico, mas, pelo menos na área de computação, é essencial que autores de artigos tenham essa presença. Como você certamente estará envolvido na autoria de artigos, melhor já ter logo o seu.&lt;/p&gt;
-&lt;p&gt;Ouça &lt;a href=&#34;http://localhost:1313/talk/quero-ser-pesquisador/&#34;&gt;Quero mesmo ser Pesquisador?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ouça &lt;a href=&#34;https://pauloborba.github.io/talk/quero-ser-pesquisador/&#34;&gt;Quero mesmo ser Pesquisador?&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Faça um PR para &lt;a href=&#34;https://github.com/pauloborba/academic-kickstart/blob/master/content/home/students.md&#34; target=&#34;_blank&#34;&gt;este repositório&lt;/a&gt;,  adicionando seu nome, o ano esperado de conclusão do curso, e o &lt;i&gt;link&lt;/i&gt; para o seu &lt;i&gt;site&lt;/i&gt; pessoal.&lt;/p&gt;
 &lt;h3 id=&#34;conhecendo-o-cin&#34;&gt;Conhecendo o CIn&lt;/h3&gt;
 &lt;p&gt;Assumindo que você já se familiarizou com os sites do CIn e do SPG (ver acima!), é bom também saber os &lt;a href=&#34;https://diretoria.cin.ufpe.br/perguntas-frequentes#h.14rqvo9yjppo&#34; target=&#34;_blank&#34;&gt;sites dos vários setores do CIn&lt;/a&gt;, já que eles vão trazer informações mais operacionais e internas (incluindo FAQs) para quem estuda ou trabalha no CIn, e que podem ser difíceis de encontrar pelo site principal externo. Você vai precisar com mais frequência das FAQs dos setores de &lt;a href=&#34;http://helpdesk.cin.ufpe.br/&#34; target=&#34;_blank&#34;&gt;sistemas&lt;/a&gt; e &lt;a href=&#34;http://infraestrutura.cin.ufpe.br/&#34; target=&#34;_blank&#34;&gt;infraestrutura&lt;/a&gt;.&lt;/p&gt;
@@ -385,16 +385,16 @@ Mesmo nesse período de 4 meses, não houve um dia em que eu não tenha feito al
 &lt;li&gt;Métodos de Pesquisa Empírica ou similar&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Mas, como isso depende muito da formação e interesses do aluno, se tiver alguma outra disciplina que você tenha interesse ou necessidade em cursar, podemos discutir sem problema. É só me contactar via chat.&lt;/p&gt;
-&lt;p&gt;Em particular, é essencial que você adquira uma boa base em Engenharia de Software (assista aos vídeos de &lt;a href=&#34;http://localhost:1313/#courses&#34;&gt;Introduction to Software and Systems Engineering&lt;/a&gt;, exceto os mais tecnológicos sobre SaaS) e em Métodos de Pesquisa (veja, nos cursos de &lt;a href=&#34;https://github.com/bvasiles/empirical-methods?s=03&#34; target=&#34;_blank&#34;&gt;Bogdan Vasilescu&lt;/a&gt; e &lt;a href=&#34;https://www.youtube.com/channel/UCUeRK8nJKyj_i_Yz81eHa8g/videos&#34; target=&#34;_blank&#34;&gt;Alexander Serebrenik&lt;/a&gt;, pelo menos as aulas relacionadas aos métodos de pesquisa que você vai usar no seu trabalho).&lt;/p&gt;
+&lt;p&gt;Em particular, é essencial que você adquira uma boa base em Engenharia de Software (assista aos vídeos de &lt;a href=&#34;https://pauloborba.github.io/#courses&#34;&gt;Introduction to Software and Systems Engineering&lt;/a&gt;, exceto os mais tecnológicos sobre SaaS) e em Métodos de Pesquisa (veja, nos cursos de &lt;a href=&#34;https://github.com/bvasiles/empirical-methods?s=03&#34; target=&#34;_blank&#34;&gt;Bogdan Vasilescu&lt;/a&gt; e &lt;a href=&#34;https://www.youtube.com/channel/UCUeRK8nJKyj_i_Yz81eHa8g/videos&#34; target=&#34;_blank&#34;&gt;Alexander Serebrenik&lt;/a&gt;, pelo menos as aulas relacionadas aos métodos de pesquisa que você vai usar no seu trabalho).&lt;/p&gt;
 &lt;p&gt;Se você não tiver conhecimentos práticos sobre Linux, shells, transformação de dados, depuração e profiling, e segurança faça este curso: &lt;a href=&#34;https://missing.csail.mit.edu&#34; target=&#34;_blank&#34;&gt;The Missing Semester of Your CS Education&lt;/a&gt;. Para complementar a parte de Linux, veja os 5 primeiros tópicos do &lt;a href=&#34;https://www.cin.ufpe.br/~phmb/sysadm/programa.html&#34; target=&#34;_blank&#34;&gt;meu curso de UNIX&lt;/a&gt;, apesar de ser bem antigo!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Escrevendo uma carta de resubmissão ou refutação do seu trabalho</title>
-      <link>http://localhost:1313/post/escrevendo-uma-carta-de-resubmissao-ou-refutacao/</link>
+      <link>https://pauloborba.github.io/post/escrevendo-uma-carta-de-resubmissao-ou-refutacao/</link>
       <pubDate>Fri, 29 Dec 2023 10:55:16 -0300</pubDate>
-      <guid>http://localhost:1313/post/escrevendo-uma-carta-de-resubmissao-ou-refutacao/</guid>
+      <guid>https://pauloborba.github.io/post/escrevendo-uma-carta-de-resubmissao-ou-refutacao/</guid>
       <description>&lt;h3 id=&#34;resubmissão&#34;&gt;Resubmissão&lt;/h3&gt;
 &lt;p&gt;Antes de tudo, leia &lt;a href=&#34;https://dl.acm.org/citation.cfm?id=2904683&#34; target=&#34;_blank&#34;&gt;How to Revise a Research Paper&lt;/a&gt; e &lt;a href=&#34;https://doi.org/10.1002%2Fstvr.1604&#34; target=&#34;_blank&#34;&gt;How to Write an Effective “Response to Reviewers” Letter&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;É essencial ter empatia e facilitar a vida do revisor. Ele já leu o artigo uma vez, e provavelmente não vai ter tempo de ler o artigo todo de novo. Mesmo que ele tenha tempo, ele vai querer facilmente verificar se as mudanças solicitadas por ele foram realmente feitas. Assim é importante destacar todas as mudanças realizadas utilizando um comando como \newcommand{\rev}[1]{\textcolor{blue}{#1}} (ver &lt;a href=&#34;https://medium.com/@xLeitix/marking-changed-text-in-journal-revisions-8583136a4738&#34; target=&#34;_blank&#34;&gt;Marking Changed Text in Journal Revisions&lt;/a&gt;, que também sugere um comando para marcar figuras modificadas).&lt;/p&gt;
@@ -472,9 +472,9 @@ Mesmo nesse período de 4 meses, não houve um dia em que eu não tenha feito al
     
     <item>
       <title>Gravando vídeos</title>
-      <link>http://localhost:1313/post/gravando-videos/</link>
+      <link>https://pauloborba.github.io/post/gravando-videos/</link>
       <pubDate>Tue, 13 Jun 2023 11:47:20 -0300</pubDate>
-      <guid>http://localhost:1313/post/gravando-videos/</guid>
+      <guid>https://pauloborba.github.io/post/gravando-videos/</guid>
       <description>&lt;p&gt;Segue um resumo da minha experiência em 2020, no primeiro ano da pandemia, gravando vídeos curtos para as aulas das minhas disciplinas. Veja aqui como ficou o resultado para os vídeos do módulo de &lt;a href=&#34;https://www.youtube.com/watch?v=k3u7Ku8xzPE&amp;amp;list=PLE-5PZOOoVUhA1qY8_maXiU5Gm0UjSflf&#34; target=&#34;_blank&#34;&gt;Design and Implementation&lt;/a&gt; de uma disciplina específica de Engenharia de Software. Importante dizer que não tive muito tempo para estudo e preparação sobre gravação e edição de vídeos, e que eu tive que fazer tudo sozinho, sem apoio extra. Assim, deve haver sugestões melhores do que as a seguir, mas caso você não tenha encontrado, e esteja em contexto similar ao meu, siga em frente!&lt;/p&gt;
 &lt;p&gt;Para gravar e editar as aulas, eu uso o Camtasia. Na época em que comprei a licença, acabei escolhendo o Camtasia porque tinha boas funcionalidades de captura (de som, &lt;i&gt;desktop&lt;/i&gt;, e câmera; melhor do que o iMovie) e de edição (praticamente a mesma coisa do iMovie). Hoje, eu provavelmente teria optado por não comprar a licença do Camtasia e usaria o iMovie para edição e o OBS para captura.&lt;/p&gt;
 &lt;p&gt;Eu gravo e edito as aulas em um MacBook Air 2018, mas recomendo fortemente um computador mais potente. Eu uso uma câmera HD que tenho embutida em um monitor, e um microfone Blue Yeti (qualidade um pouco melhor do que o que tenho embutido no monitor, mas muito útil para evitar o barulho ambiente, da rua e da casa).&lt;/p&gt;
@@ -532,24 +532,24 @@ Mesmo nesse período de 4 meses, não houve um dia em que eu não tenha feito al
     
     <item>
       <title>Participando de uma comunidade de pesquisa</title>
-      <link>http://localhost:1313/post/participando-comunidade-pesquisa/</link>
+      <link>https://pauloborba.github.io/post/participando-comunidade-pesquisa/</link>
       <pubDate>Fri, 09 Jun 2023 10:04:47 -0300</pubDate>
-      <guid>http://localhost:1313/post/participando-comunidade-pesquisa/</guid>
+      <guid>https://pauloborba.github.io/post/participando-comunidade-pesquisa/</guid>
       <description>&lt;p&gt;O seu trabalho de pesquisa estará inserido no contexto de uma ou mais comunidades de pesquisa. Essa inserção é essencial para que você, através de apresentações e artigos, obtenha &lt;i&gt;feedback&lt;/i&gt; sobre o seu trabalho. Isso é muito importante para a qualidade e divulgação do trabalho. Assim, identifique tão logo quanto possível, a principal comunidade relacionada ao seu trabalho.&lt;/p&gt;
 &lt;p&gt;Identifique os principais eventos e periódicos da sua comunidade de pesquisa. Através de redes sociais ou listas de email, fique atento ao que está sendo publicado nos mesmos.&lt;/p&gt;
 &lt;p&gt;Identifique os principais pesquisadores da sua comunidade, e os pesquisadores que estão trabalhando em assuntos mais relacionados ao seu. Siga-os nas redes sociais, mesmo que você não os conheça pessoalmente. Essa é uma importante forma de estar atualizado e conectado com a sua comunidade de pesquisa.&lt;/p&gt;
 &lt;p&gt;Marque sua presença nas redes sociais. Atualmente, para a comunidade de Engenharia de Software, o &lt;a href=&#34;https://twitter.com/pauloborba&#34; target=&#34;_blank&#34;&gt;twitter&lt;/a&gt; e o &lt;a href=&#34;https://mastodon.social/@PauloBorba&#34; target=&#34;_blank&#34;&gt;mastodon&lt;/a&gt; são mais úteis. Não anuncie um novo trabalho seu sem um link para uma versão do artigo, e uma discussão mínima sobre os resultados do artigo e suas implicações. Usar as redes sociais para divulgar seu trabalho é essencial; usar as redes para simplesmente fazer seu &lt;i&gt;marketing&lt;/i&gt; pessoal não é legal.&lt;/p&gt;
 &lt;p&gt;Ajuste e mantenha atualizada sua &lt;i&gt;homepage&lt;/i&gt;! Sem isso, a sua credibilidade como pesquisador sério pode ser questionada por determinadas comunidades de pesquisa. Ajuste e mantenha atualizado seu perfil no &lt;a href=&#34;https://scholar.google.com.br/citations?user=PpRDLgcAAAAJ&amp;amp;hl=en&amp;amp;oi=ao&#34; target=&#34;_blank&#34;&gt;scholar&lt;/a&gt;, &lt;a href=&#34;http://dblp.uni-trier.de/pers/hd/b/Borba:Paulo&#34; target=&#34;_blank&#34;&gt;DBLP&lt;/a&gt;, e &lt;a href=&#34;http://lattes.cnpq.br/9395715443254344&#34; target=&#34;_blank&#34;&gt;Lattes&lt;/a&gt;. No primeiro, é interessante configurar o envio por email de citações para os seus artigos. Assim você fica sabendo quem está trabalhando em tópicos relacionados ao seu, e conhece o seu trabalho.&lt;/p&gt;
-&lt;p&gt;Se você se sentir preparado para realizar o trabalho com qualidade (veja &lt;a href=&#34;http://localhost:1313/post/avaliando-um-trabalho/&#34;&gt;Avaliando um trabalho&lt;/a&gt;), e já tiver escrito e revisado vários artigos, se ofereça como voluntário para revisar artigos de eventos e periódicos de sua área; alguns veículos têm formulários como este de &lt;a href=&#34;https://forms.gle/KewZ2FbSy1wkYyoQ8&#34; target=&#34;_blank&#34;&gt;IEEE TSE&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Se você se sentir preparado para realizar o trabalho com qualidade (veja &lt;a href=&#34;https://pauloborba.github.io/post/avaliando-um-trabalho/&#34;&gt;Avaliando um trabalho&lt;/a&gt;), e já tiver escrito e revisado vários artigos, se ofereça como voluntário para revisar artigos de eventos e periódicos de sua área; alguns veículos têm formulários como este de &lt;a href=&#34;https://forms.gle/KewZ2FbSy1wkYyoQ8&#34; target=&#34;_blank&#34;&gt;IEEE TSE&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Avaliando um trabalho</title>
-      <link>http://localhost:1313/post/avaliando-um-trabalho/</link>
+      <link>https://pauloborba.github.io/post/avaliando-um-trabalho/</link>
       <pubDate>Sat, 27 May 2023 18:24:42 -0300</pubDate>
-      <guid>http://localhost:1313/post/avaliando-um-trabalho/</guid>
-      <description>&lt;p&gt;Leia antes &lt;b&gt;Dando e recebendo feedback&lt;/b&gt;, em &lt;a href=&#34;http://localhost:1313/post/estabelecendo-rotina-de-pesquisa/&#34;&gt;Estabelecendo uma rotina de pesquisa&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://pauloborba.github.io/post/avaliando-um-trabalho/</guid>
+      <description>&lt;p&gt;Leia antes &lt;b&gt;Dando e recebendo feedback&lt;/b&gt;, em &lt;a href=&#34;https://pauloborba.github.io/post/estabelecendo-rotina-de-pesquisa/&#34;&gt;Estabelecendo uma rotina de pesquisa&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;As dicas para avaliação de trabalhos para &lt;a href=&#34;http://icse2017.gatech.edu/technical_research/reviewing_guidelines&#34; target=&#34;_blank&#34;&gt;ICSE 2017&lt;/a&gt; refletem problemas comuns em avaliações. Evite-os! Seguem os principais:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -586,9 +586,9 @@ Mesmo nesse período de 4 meses, não houve um dia em que eu não tenha feito al
     
     <item>
       <title>Estabelecendo uma rotina de pesquisa</title>
-      <link>http://localhost:1313/post/estabelecendo-rotina-de-pesquisa/</link>
+      <link>https://pauloborba.github.io/post/estabelecendo-rotina-de-pesquisa/</link>
       <pubDate>Tue, 28 Feb 2023 08:07:43 -0300</pubDate>
-      <guid>http://localhost:1313/post/estabelecendo-rotina-de-pesquisa/</guid>
+      <guid>https://pauloborba.github.io/post/estabelecendo-rotina-de-pesquisa/</guid>
       <description>&lt;p&gt;A premissa básica do que apresento a seguir é que você quer aprender a realizar pesquisa de alta qualidade, pesquisa de verdade. Se esse não é seu desejo, muito do que sugiro a seguir não vai fazer sentido para você.&lt;/p&gt;
 &lt;h4 id=&#34;o-básico-do-básico&#34;&gt;O básico do básico&lt;/h4&gt;
 &lt;p&gt;O seu foco principal deve ser na sua formação como pesquisador, nos seus valores, na qualidade e relevância da sua pesquisa, e no seu interesse em realizá-la. Em segundo plano, deve vir o foco na obtenção de resultados e reconhecimento: artigos e ferramentas publicados, participações em eventos, citações, prêmios, etc. Para isso, foque em artigos com mais conteúdo, ao invés de mais artigos incrementais.&lt;/p&gt;
@@ -604,7 +604,7 @@ Mesmo nesse período de 4 meses, não houve um dia em que eu não tenha feito al
 &lt;/p&gt;
 &lt;p&gt;Mantenha um diário de pesquisa, onde você anota todas as atividades realizadas e a realizar, dificuldades encontradas, resultados obtidos e suas limitações, etc. Você pode fazer isso de diversas formas, escolha a que achar mais apropriada. Uma alternativa interessante é fazer isso através de um conjunto de slides, que vai sendo incrementado ao longo do seu trabalho, e já serve tanto como registro do seu diário quanto como forma de apresentar o andamento do seu trabalho e discutir com seu orientador e colegas em reuniões regulares.&lt;/p&gt;
 &lt;p&gt;Leia &lt;a href=&#34;https://paulgraham.com/hamming.html&#34; target=&#34;_blank&#34;&gt;You and your research&lt;/a&gt;, de Richard Hamming. É um clássico.&lt;/p&gt;
-&lt;p&gt;Esteja preparado para os altos e baixos da vida de um pesquisador, conforme a figura a seguir. &lt;img src=&#34;http://localhost:1313/post/estabelecendo-rotina-de-pesquisa/altos-e-baixos.jpg&#34; alt=&#34;Altos e baixos da vida de um pesquisador&#34; title=&#34;Altos e baixos da vida de um pesquisador&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Esteja preparado para os altos e baixos da vida de um pesquisador, conforme a figura a seguir. &lt;img src=&#34;https://pauloborba.github.io/post/estabelecendo-rotina-de-pesquisa/altos-e-baixos.jpg&#34; alt=&#34;Altos e baixos da vida de um pesquisador&#34; title=&#34;Altos e baixos da vida de um pesquisador&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;buscando-a-excelência-e-relevância-do-seu-trabalho&#34;&gt;Buscando a excelência e relevância do seu trabalho&lt;/h4&gt;
 &lt;p&gt;Os seus resultados de pesquisa devem ser rigorosamente avaliados, para aumentar a sua confiança nos mesmos e antecipar falhas no seu processo de pesquisa. Em particular, avalie várias dimensões: corretude (soundness), efetividade (ganhos em qualidade, produtividade, precisão, etc.), usabilidade (facilidade de uso, e o potencial de aumentar a capacidade de indivíduos, equipes, e organizações), e replicabilidade.&lt;/p&gt;
 &lt;p&gt;A menos que sua pesquisa foque na busca do entendimento de questões fundamentais da área, sem considerações de uso (ver o &lt;a href=&#34;https://en.wikipedia.org/wiki/Pasteur%27s_quadrant&#34; target=&#34;_blank&#34;&gt;quadrante de Pasteur&lt;/a&gt;), mantenha contato com seus potenciais clientes e usuários para que seu trabalho de pesquisa e os resultados derivados sejam relevantes. Entreviste-os, convide-os para apresentar seminários no grupo de pesquisa, converse com eles, valide os seus resultados com eles, e participe de eventos mais práticos da comunidade profissional.&lt;/p&gt;
@@ -621,7 +621,7 @@ Mesmo nesse período de 4 meses, não houve um dia em que eu não tenha feito al
 &lt;h4 id=&#34;cuidados-éticos-e-metodológicos-essenciais&#34;&gt;Cuidados éticos e metodológicos essenciais&lt;/h4&gt;
 &lt;p&gt;Se sua pesquisa envolve a participação de pessoas (&lt;i&gt;&amp;ldquo;Research involving a living individual about whom data or biospecimens are obtained/used/studied/analyzed through interaction/intervention, or identifiable, private information is used/studied/analyzed/generated”&lt;/i&gt;), seguir rigorosamente as recomendações do &lt;a href=&#34;https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects#:~:text=ACM%20is%20committed%20to%20protecting,and%20subjects%2C%20and%20potential%20coercion&#34; target=&#34;_blank&#34;&gt;guia da ACM&lt;/a&gt; sobre o assunto.&lt;/p&gt;
 &lt;p&gt;Use como guia a &lt;a href=&#34;https://acmsigsoft.github.io/EmpiricalStandards/tools/&#34; target=&#34;_blank&#34;&gt;lista de tópicos da ACM Sigsoft&lt;/a&gt; para ter certeza de que você vai seguir principais pontos necessários para o tipo de estudo empírico que você está fazendo. Veja primeiro a opção de menu &lt;i&gt;Standards&lt;/i&gt; e depois a opção &lt;i&gt;Tools&lt;/i&gt;, para gerar a lista específica para o seu tipo de estudo.&lt;/p&gt;
-&lt;p&gt;Use também a &lt;a href=&#34;checklist.pdf&#34;&gt;lista de verificações da ACM Sigplan&lt;/a&gt; &lt;img src=&#34;http://localhost:1313/post/estabelecendo-rotina-de-pesquisa/checklist.png&#34; alt=&#34;lista de verificações da ACM Sigplan&#34; title=&#34;SIGPLAN Empirical Evaluation Checklist&#34;&gt; (&lt;a href=&#34;https://www.sigplan.org/Resources/EmpiricalEvaluation/&#34; target=&#34;_blank&#34;&gt;fonte&lt;/a&gt;) para evitar erros metodológicos ou de apresentação.&lt;/p&gt;
+&lt;p&gt;Use também a &lt;a href=&#34;checklist.pdf&#34;&gt;lista de verificações da ACM Sigplan&lt;/a&gt; &lt;img src=&#34;https://pauloborba.github.io/post/estabelecendo-rotina-de-pesquisa/checklist.png&#34; alt=&#34;lista de verificações da ACM Sigplan&#34; title=&#34;SIGPLAN Empirical Evaluation Checklist&#34;&gt; (&lt;a href=&#34;https://www.sigplan.org/Resources/EmpiricalEvaluation/&#34; target=&#34;_blank&#34;&gt;fonte&lt;/a&gt;) para evitar erros metodológicos ou de apresentação.&lt;/p&gt;
 &lt;p&gt;Certifique-se de que sua conduta de pesquisa é adequada, e que você não comete nenhum destes &lt;a href=&#34;https://researchintegrityjournal.biomedcentral.com/track/pdf/10.1186/s41073-016-0024-5?site=researchintegrityjournal.biomedcentral.com&#34; target=&#34;_blank&#34;&gt;deslizes de má conduta&lt;/a&gt;, principalmente os seguintes, que aparecem com pequenas diferenças no artigo referenciado: Selectively cite to enhance your own findings or convictions; Conceal results that contradict your earlier findings or convictions; Insufficiently report study flaws and limitations; Duplicate publication without disclosure; Re-use of previously published data without disclosure; Use unpublished phrases or ideas of others without their permission; Re-use parts of your own publications without referencing; Demand, offer or accept an authorship for which one does not qualify; Selectively cite to please editors, reviewers, or colleagues; Fabricate data; Selectively delete data, modify data or add fabricated data after performing initial data-analyses; Choose a clearly inadequate research design or using evidently unsuitable measurement instruments; Modify the results or conclusions of a study due to pressure of a sponsor (or anyone else); Unfairly review papers, grant applications or colleagues applying for promotion; Ignore substantial safety risks of the study to participants, workers, or environment; Ignore basic principles of quality assurance; Keep inadequate notes of the research process; Turn a blind eye to putative breaches of research integrity by others.&lt;/p&gt;
 &lt;p&gt;Além de responder perguntas de pesquisa e avaliar hipóteses (What? How?), associe a esses resultados teorias (Why?) que ajudem a explicá-los. Explicite a teoria em pelo menos um parágrafo do artigo.&lt;/p&gt;
 &lt;p&gt;Em estudos qualitativos, evitar entrevistas ou questionários com perguntas que retratem a percepção de uma pessoa sobre se uma dada tecnologia é útil, já que as respostas dificilmente poderão ser utilizadas para se chegar a uma conclusão. Melhor perguntar, por exemplo, que vantagens e desvantagens estão associadas ao uso da tecnologia. Mesmo assim isso reflete a percepção da pessoa, então temos que derivar conclusões com cuidado, e refletindo explicitamente esse aspecto da percepção (que obviamente pode diferir da realidade).&lt;/p&gt;
@@ -630,17 +630,17 @@ Mesmo nesse período de 4 meses, não houve um dia em que eu não tenha feito al
 &lt;p&gt;Seja positivo; evite sarcasmo; mencione primeiro os pontos positivos e só depois os negativos; fale primeiro sobre o conteúdo e só depois sobre a forma de apresentação; dê sugestões concretas de melhorias; no final reforce brevemente os principais pontos positivos.&lt;/p&gt;
 &lt;p&gt;Cobre do seu orientador e colegas &lt;i&gt;feedback&lt;/i&gt; como sugerido acima.&lt;/p&gt;
 &lt;p&gt;Quando recebendo &lt;i&gt;feedback&lt;/i&gt;, não tente ficar se defendendo, dando explicações sobre os aspectos negativos apontados. É melhor concentrar em anotar os aspectos negativos, e fazer perguntas para melhor entender o que o seu interlocutor está querendo dizer. Se houver tempo, no final, você pode dar algumas explicações.&lt;/p&gt;
-&lt;p&gt;Veja nesta figura (de &lt;a href=&#34;http://bigthink.com/paul-ratner/how-to-disagree-well-7-of-the-best-and-worst-ways-to-argue&#34; target=&#34;_blank&#34;&gt;How to disagree well: 7 of the best and worst ways to argue&lt;/a&gt;&amp;rdquo;) &lt;img src=&#34;http://localhost:1313/post/estabelecendo-rotina-de-pesquisa/how-to-disagree-well.jpg&#34; alt=&#34;How to disagree well: 7 of the best and worst ways to argue&#34; title=&#34;How to disagree well: 7 of the best and worst ways to argue&#34;&gt; as diversas formas de discordar de alguma ideia ou opinião, tanto para que você saiba discordar de forma justa e efetiva, quanto para que você consiga perceber quando outros estiverem discordando de forma injusta e apelativa.&lt;/p&gt;
-&lt;p&gt;Em discussões, pense de novo! &lt;img src=&#34;http://localhost:1313/post/estabelecendo-rotina-de-pesquisa/thinkagain.jpeg&#34; alt=&#34;Think again&#34; title=&#34;Think again&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Veja nesta figura (de &lt;a href=&#34;http://bigthink.com/paul-ratner/how-to-disagree-well-7-of-the-best-and-worst-ways-to-argue&#34; target=&#34;_blank&#34;&gt;How to disagree well: 7 of the best and worst ways to argue&lt;/a&gt;&amp;rdquo;) &lt;img src=&#34;https://pauloborba.github.io/post/estabelecendo-rotina-de-pesquisa/how-to-disagree-well.jpg&#34; alt=&#34;How to disagree well: 7 of the best and worst ways to argue&#34; title=&#34;How to disagree well: 7 of the best and worst ways to argue&#34;&gt; as diversas formas de discordar de alguma ideia ou opinião, tanto para que você saiba discordar de forma justa e efetiva, quanto para que você consiga perceber quando outros estiverem discordando de forma injusta e apelativa.&lt;/p&gt;
+&lt;p&gt;Em discussões, pense de novo! &lt;img src=&#34;https://pauloborba.github.io/post/estabelecendo-rotina-de-pesquisa/thinkagain.jpeg&#34; alt=&#34;Think again&#34; title=&#34;Think again&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Escrevendo seu trabalho</title>
-      <link>http://localhost:1313/post/escrevendo-seu-trabalho/</link>
+      <link>https://pauloborba.github.io/post/escrevendo-seu-trabalho/</link>
       <pubDate>Tue, 27 Dec 2022 11:36:09 -0300</pubDate>
-      <guid>http://localhost:1313/post/escrevendo-seu-trabalho/</guid>
-      <description>&lt;p&gt;Antes de tudo, você já deve ter visto &lt;a href=&#34;http://localhost:1313/post/apresentando-seu-trabalho/&#34;&gt;Apresentando seu trabalho&lt;/a&gt;, e apresentado seu trabalho pelo menos uma vez antes de começar a escrever. A apresentação é essencial para o amadurecimento das suas ideias, e a identificação de pontos que precisam ser bem explicados no artigo ou tese.&lt;/p&gt;
+      <guid>https://pauloborba.github.io/post/escrevendo-seu-trabalho/</guid>
+      <description>&lt;p&gt;Antes de tudo, você já deve ter visto &lt;a href=&#34;https://pauloborba.github.io/post/apresentando-seu-trabalho/&#34;&gt;Apresentando seu trabalho&lt;/a&gt;, e apresentado seu trabalho pelo menos uma vez antes de começar a escrever. A apresentação é essencial para o amadurecimento das suas ideias, e a identificação de pontos que precisam ser bem explicados no artigo ou tese.&lt;/p&gt;
 &lt;p&gt;A qualidade da escrita do seu trabalho é tão importante quanto a qualidade do mesmo. Capriche na preparação!&lt;/p&gt;
 &lt;p&gt;Considere fortemente fazer um curso sobre o assunto. Recomendo fortemente &lt;a href=&#34;https://docs.google.com/document/d/1_vBXbugoLjO171w3wovs3ugmRQI-O6EcSVFDBF7eUzE/edit#heading=h.sgfiu451dqjh&#34; target=&#34;_blank&#34;&gt;Writing and Speaking with Style&lt;/a&gt;, de Benjamin C. Pierce e Rajeev Alur.&lt;/p&gt;
 &lt;h4 id=&#34;preparativos-iniciais&#34;&gt;Preparativos iniciais&lt;/h4&gt;
@@ -674,7 +674,7 @@ These studies have also investigated ways in which conflicts can be prevented ea
 &lt;p&gt;Use maiúsculas para referenciar uma seção ou figura numerada (in Section X, in Figure Y), e minúsculas caso contrário (in this section, in the previously mentioned figure).&lt;/p&gt;
 &lt;p&gt;Leia dicas de escrita (&lt;a href=&#34;https://clairelegoues.com/posts/clg-writing-rules.html&#34; target=&#34;_blank&#34;&gt;de Claire Le Goues&lt;/a&gt;, de &lt;a href=&#34;https://philippleitner.medium.com/some-frequent-writing-tips-i-give-software-engineering-thesis-students-da2acab30381&#34; target=&#34;_blank&#34;&gt;
 Philipp Leitner&lt;/a&gt;, e &lt;a href=&#34;https://capra.cs.cornell.edu/styleguide&#34; target=&#34;_blank&#34;&gt;do grupo de pesquisa Capra&lt;/a&gt;) que casam bastante com o meu estilo (exceto a sugestão de usar &amp;ldquo;e.g.&amp;rdquo; e &amp;ldquo;i.e.&amp;rdquo;; por favor, evite).&lt;/p&gt;
-&lt;p&gt;Veja dicas para formatação de &lt;a href=&#34;guide-tables.pdf&#34;&gt;tabelas&lt;/a&gt; e &lt;a href=&#34;https://johnwickerson.wordpress.com/2019/11/01/graphs-in-pl-papers/&#34; target=&#34;_blank&#34;&gt;gráficos&lt;/a&gt;. Sobre essa referência de gráficos, o resumo é o seguinte: &amp;ldquo;&lt;i&gt;normalised data should usually be plotted on a logarithmic scale, and scatter plots can be easier to understand than bar charts&lt;/i&gt;&amp;rdquo;. Use &lt;a href=&#34;https://wellcomeopenresearch.org/articles/4-63&#34; target=&#34;_blank&#34;&gt;&lt;i&gt;raincloud plots&lt;/i&gt;&lt;/a&gt; ao invés de &lt;i&gt;box plots&lt;/i&gt;, &lt;i&gt;bean plots&lt;/i&gt; ou &lt;i&gt;violin plots&lt;/i&gt;. Os &lt;a href=&#34;https://en.wikipedia.org/wiki/Sankey_diagram&#34; target=&#34;_blank&#34;&gt;diagramas de Sankey&lt;/a&gt; podem ser uma boa opção para ilustrar como uma dada medida (por exemplo, falsos positivos) são quebradas em categorias. Alternativamente, ilustre como a Figura 4 &lt;a href=&#34;http://localhost:1313/publication/2020detecting_semantic_conflicts_via_automated_behavior_change_detection/&#34;&gt;neste artigo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Veja dicas para formatação de &lt;a href=&#34;guide-tables.pdf&#34;&gt;tabelas&lt;/a&gt; e &lt;a href=&#34;https://johnwickerson.wordpress.com/2019/11/01/graphs-in-pl-papers/&#34; target=&#34;_blank&#34;&gt;gráficos&lt;/a&gt;. Sobre essa referência de gráficos, o resumo é o seguinte: &amp;ldquo;&lt;i&gt;normalised data should usually be plotted on a logarithmic scale, and scatter plots can be easier to understand than bar charts&lt;/i&gt;&amp;rdquo;. Use &lt;a href=&#34;https://wellcomeopenresearch.org/articles/4-63&#34; target=&#34;_blank&#34;&gt;&lt;i&gt;raincloud plots&lt;/i&gt;&lt;/a&gt; ao invés de &lt;i&gt;box plots&lt;/i&gt;, &lt;i&gt;bean plots&lt;/i&gt; ou &lt;i&gt;violin plots&lt;/i&gt;. Os &lt;a href=&#34;https://en.wikipedia.org/wiki/Sankey_diagram&#34; target=&#34;_blank&#34;&gt;diagramas de Sankey&lt;/a&gt; podem ser uma boa opção para ilustrar como uma dada medida (por exemplo, falsos positivos) são quebradas em categorias. Alternativamente, ilustre como a Figura 4 &lt;a href=&#34;https://pauloborba.github.io/publication/2020detecting_semantic_conflicts_via_automated_behavior_change_detection/&#34;&gt;neste artigo&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Use um &lt;i&gt;spell checker&lt;/i&gt;! Considere usar uma ferramenta (como &lt;a href=&#34;https://www.grammarly.com&#34; target=&#34;_blank&#34;&gt;Grammarly&lt;/a&gt; ou &lt;a href=&#34;https://openai.com/blog/chatgpt/&#34; target=&#34;_blank&#34;&gt;ChatGPT&lt;/a&gt;) para revisar o seu texto. Considere usar uma ferramenta (como &lt;a href=&#34;https://paperreview.ai&#34; target=&#34;_blank&#34;&gt;Stanford Agentic Reviewer&lt;/a&gt;) para gerar uma revisão de artigo; não assuma que tudo que ela relata é verdade! Não usando uma ferramenta dessas, use &lt;a href=&#34;http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates&#34; target=&#34;_blank&#34;&gt;scripts para melhorar a qualidade de textos em inglês&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;script para detecção de Weasel Words
@@ -856,22 +856,23 @@ while (1) {
 &lt;p&gt;É fundamental dar destaque para os financiadores e colaboradores nos artigos, apresentações, posters, software e produtos em geral.&lt;/p&gt;
 &lt;p&gt;Nos artigos, colocar algo como &amp;ldquo;For partially supporting this work, we would like to thank INES.IA (National Institute of Science and Technology for Software Engineering Based on and for Artificial Intelligence) &lt;a href=&#34;https://www.ines.org.br&#34; target=&#34;_blank&#34;&gt;www.ines.org.br&lt;/a&gt;, and CNPq grants 408817/ 2024-0, 401032/ 2025-6 and 311292/ 2026-7.&amp;rdquo; Verificar os números atuais com seu orientador. É importante colocar também os números dos processos dos projetos do qual você obteve algum tipo de financiamento.&lt;/p&gt;
 &lt;p&gt;Agradecer aos membros do Software Productivity Group e, especificamente, a quem lhe ajudou (revisou seu artigo, implementou algo para você, indicou referências, fez perguntas importantes, deu uma idéia mesmo que você já tenha tido-a) ou deu dicas e sugestões para a melhoria do seu trabalho.&lt;/p&gt;
-&lt;h4 id=&#34;adicione-parágrafo-sobre-questões-éticas-de-pesquisa&#34;&gt;Adicione parágrafo sobre questões éticas de pesquisa&lt;/h4&gt;
+&lt;h4 id=&#34;adicione-parágrafo-sobre-questões-éticas-de-pesquisa-e-ia&#34;&gt;Adicione parágrafo sobre questões éticas de pesquisa e IA&lt;/h4&gt;
 &lt;p&gt;Inclua no seu artigo um parágrafo explicando como a pesquisa relatada no artigo lidou com questões éticas relacionadas aos experimentos realizados ou dados utilizados. Descreva com precisão os procedimentos adotados: se houve submissão ao CEP (informando o CAAE correspondente) ou se o estudo se enquadra em alguma das dispensas previstas na legislação vigente; como foram tratados o consentimento dos participantes, a anonimização ou pseudonimização dos dados, o controle de acesso e o armazenamento seguro; e, se dados públicos foram utilizados, porque isso não dispensa cuidados éticos e como a compatibilidade do reuso respeita a LGPD.&lt;/p&gt;
+&lt;p&gt;Verifique as regras vigentes (MEC, UFPE, evento e periódico) sobre a necessidade de informar para que e como você usou LLMs e agentes. Atualmente, o MEC exige que seja informado; se formos publicar num veículo internacional que dispensa a informação sobre uso de IA, devemos colocar apenas no &lt;a href=&#34;https://pauloborba.github.io/post/divulgando-resultados-de-pesquisa/&#34;&gt;apêndice online&lt;/a&gt; (que deve conter o material necessário para replicar o estudo) do artigo.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Apresentando seu trabalho</title>
-      <link>http://localhost:1313/post/apresentando-seu-trabalho/</link>
+      <link>https://pauloborba.github.io/post/apresentando-seu-trabalho/</link>
       <pubDate>Mon, 11 Jul 2022 14:21:14 -0400</pubDate>
-      <guid>http://localhost:1313/post/apresentando-seu-trabalho/</guid>
+      <guid>https://pauloborba.github.io/post/apresentando-seu-trabalho/</guid>
       <description>&lt;p&gt;A qualidade da apresentação do seu trabalho é tão importante quanto a qualidade do mesmo. Capriche na preparação!&lt;/p&gt;
 &lt;p&gt;Antes de tudo, estude com cuidado &lt;a href=&#34;https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/&#34; target=&#34;_blank&#34;&gt;How to give a great research talk&lt;/a&gt;, de Simon Peyton Jones. Leia &lt;a href=&#34;https://homes.cs.washington.edu/~mernst/advice/giving-talk.html&#34; target=&#34;_blank&#34;&gt;How to give a technical presentation (how to give a scientific talk)&lt;/a&gt;, de Mike Ernst.&lt;/p&gt;
 &lt;h4 id=&#34;planejando-a-apresentação&#34;&gt;Planejando a apresentação&lt;/h4&gt;
 &lt;p&gt;A sua apresentação deve contar um estória como a seguinte: desenvolvedores sofrem com problema tal, sofrem dor tal no dia a dia; ferramentas e técnicas atuais não resolvem o problema por completo por causa disso e daquilo; para resolver esse problema, a gente sugere o seguinte; para avaliar se a solução funciona, a gente faz isso e aquilo; os resultados mostram isso; isso significa que tais pessoas podem se beneficiar da solução em tais situações! Essa estória deve ser interessante e chamar a atenção da audiência. É importante que a estória também gire em torno de um único ponto principal, uma única descoberta principal; melhor focar em um ponto e fazê-lo bem feito.&lt;/p&gt;
 &lt;p&gt;Discuta esse planejamento com o seu orientador.&lt;/p&gt;
-&lt;p&gt;Veja mais dicas relacionadas a essa em &lt;a href=&#34;http://localhost:1313/post/escrevendo-seu-trabalho/&#34;&gt;Escrevendo seu trabalho&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Veja mais dicas relacionadas a essa em &lt;a href=&#34;https://pauloborba.github.io/post/escrevendo-seu-trabalho/&#34;&gt;Escrevendo seu trabalho&lt;/a&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;preparando-os-slides&#34;&gt;Preparando os slides&lt;/h4&gt;
 &lt;p&gt;Capriche na elaboração dos slides. Verifique com cuidado se eles não têm erros ortográficos e tipográficos.&lt;/p&gt;
 &lt;p&gt;O objetivo não é apresentar todos os detalhes do artigo (ou tese). A ideia é apresentar o suficiente para convencer as pessoas que você tem uma contribuição interessante, e estimulá-las a lerem o seu artigo. O foco deve ser no que você aprendeu realizando a sua pesquisa, e portanto o que elas podem aprender (para melhorar a pesquisa delas, para melhorar a forma como elas desenvolvem software, para melhorar a forma como elas ensinam, etc.). Os outros aspectos são secundários e devem ser apresentados apenas como forma de motivar as pessoas, e contribuir para que elas entendam os resultados e tenham evidência de que os mesmos são confiáveis.&lt;/p&gt;
@@ -880,7 +881,7 @@ while (1) {
 &lt;p&gt;Veja &lt;a href=&#34;https://speakerdeck.com/mseckington/the-art-of-slide-design&#34; target=&#34;_blank&#34;&gt;The art of slide design&lt;/a&gt;, que dá dicas importantes de como usar cores, fontes, etc. nos slides da sua apresentação. Aqui estão os princípios básicos extraídos dessa apresentação: maximize signal and minimize noise (one purpose per slide, don&amp;rsquo;t distract); make important information stand out (mainly using color, but also size, fonts and shapes); show AND tell (use photos, icons, shapes, and animations to support what you are saying); be consistent.&lt;/p&gt;
 &lt;p&gt;Se preocupe com a acessibilidade da sua apresentação. Adicione texto alternativo às imagens da sua apresentação (não consegui fazer isso funcionar no Keynote!). Escolha cores contrastantes para o texto e o fundo dos seus slides. Evite verde com vermelho, e azul com amarelo. Não use apenas cores para realçar informação, use a cor e bold. Evite slides sem título.&lt;/p&gt;
 &lt;p&gt;Veja também repositórios de &lt;a href=&#34;http://colorsupplyyy.com/&#34; target=&#34;_blank&#34;&gt;combinações de cores interessantes&lt;/a&gt;, &lt;a href=&#34;https://fonts.google.com/&#34; target=&#34;_blank&#34;&gt;fontes&lt;/a&gt;, &lt;a href=&#34;https://www.flickr.com/&#34; target=&#34;_blank&#34;&gt;fotos&lt;/a&gt;, &lt;a href=&#34;https://www.pexels.com/&#34; target=&#34;_blank&#34;&gt;mais fotos&lt;/a&gt;, e &lt;a href=&#34;https://thenounproject.com/&#34; target=&#34;_blank&#34;&gt;ícones&lt;/a&gt;. Eu também uso um conjunto de ícones da common craft.&lt;/p&gt;
-&lt;p&gt;Se a sua apresentação inclui um vídeo, veja antes &lt;a href=&#34;http://localhost:1313/post/gravando-videos/&#34;&gt;Gravando vídeos&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Se a sua apresentação inclui um vídeo, veja antes &lt;a href=&#34;https://pauloborba.github.io/post/gravando-videos/&#34;&gt;Gravando vídeos&lt;/a&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;ensaiando&#34;&gt;Ensaiando&lt;/h4&gt;
 &lt;p&gt;Ensaie &lt;strong&gt;bastante&lt;/strong&gt; a apresentação.&lt;/p&gt;
 &lt;p&gt;Grave pelo menos um desses ensaios para depois ouvir a apresentação e verificar vícios de linguagem a serem evitados, pontos em que você quebrou o fluxo da apresentação, engasgou em alguma palavra, etc.&lt;/p&gt;
@@ -902,9 +903,9 @@ while (1) {
     
     <item>
       <title>Academic rankings</title>
-      <link>http://localhost:1313/post/academic-rankings/</link>
+      <link>https://pauloborba.github.io/post/academic-rankings/</link>
       <pubDate>Sat, 09 Nov 2019 17:02:46 -0300</pubDate>
-      <guid>http://localhost:1313/post/academic-rankings/</guid>
+      <guid>https://pauloborba.github.io/post/academic-rankings/</guid>
       <description>&lt;p&gt;I do not like academic rankings.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://cacm.acm.org/magazines/2016/9/206263-academic-rankings-considered-harmful/fulltext#.V735Hbwc1Ck.twitter&#34; target=&#34;_blank&#34;&gt;Academic Rankings Considered Harmful!&lt;/a&gt; clearly summarises ideas I believe in: &amp;ldquo;An academic decision is typically a multi-objective optimization problem, in which the objective function is highly personal. A unidimensional ranking provides a seductively easy objective function to optimize. Yet such decision making ignores the complex interplay between individual preferences and programs&amp;rsquo; unique patterns of strengths and weaknesses. Decision making by ranking is decision making by lazy minds, I believe&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;I especially like its summary: &amp;ldquo;Academic rankings are harmful, I believe. We have a responsibility to better inform the public, by ceasing to play the ranking games and by providing the public with relevant information&amp;rdquo;.&lt;/p&gt;

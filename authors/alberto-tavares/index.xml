@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alberto Tavares | Paulo Borba</title>
-    <link>http://localhost:1313/authors/alberto-tavares/</link>
-      <atom:link href="http://localhost:1313/authors/alberto-tavares/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pauloborba.github.io/authors/alberto-tavares/</link>
+      <atom:link href="https://pauloborba.github.io/authors/alberto-tavares/index.xml" rel="self" type="application/rss+xml" />
     <description>Alberto Tavares</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/foto2019.jpg</url>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Alberto Tavares</title>
-      <link>http://localhost:1313/authors/alberto-tavares/</link>
+      <link>https://pauloborba.github.io/authors/alberto-tavares/</link>
     </image>
     
     <item>
       <title>Semistructured Merge in JavaScript Systems</title>
-      <link>http://localhost:1313/publication/2019semistructured_merge_in_javascript_systems/</link>
+      <link>https://pauloborba.github.io/publication/2019semistructured_merge_in_javascript_systems/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2019semistructured_merge_in_javascript_systems/</guid>
+      <guid>https://pauloborba.github.io/publication/2019semistructured_merge_in_javascript_systems/</guid>
       <description></description>
     </item>
     

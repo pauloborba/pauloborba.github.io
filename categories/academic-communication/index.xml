@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic communication | Paulo Borba</title>
-    <link>http://localhost:1313/categories/academic-communication/</link>
-      <atom:link href="http://localhost:1313/categories/academic-communication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pauloborba.github.io/categories/academic-communication/</link>
+      <atom:link href="https://pauloborba.github.io/categories/academic-communication/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic communication</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 27 Dec 2022 11:36:09 -0300</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/foto2019.jpg</url>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Academic communication</title>
-      <link>http://localhost:1313/categories/academic-communication/</link>
+      <link>https://pauloborba.github.io/categories/academic-communication/</link>
     </image>
     
     <item>
       <title>Escrevendo seu trabalho</title>
-      <link>http://localhost:1313/post/escrevendo-seu-trabalho/</link>
+      <link>https://pauloborba.github.io/post/escrevendo-seu-trabalho/</link>
       <pubDate>Tue, 27 Dec 2022 11:36:09 -0300</pubDate>
-      <guid>http://localhost:1313/post/escrevendo-seu-trabalho/</guid>
-      <description>&lt;p&gt;Antes de tudo, você já deve ter visto &lt;a href=&#34;http://localhost:1313/post/apresentando-seu-trabalho/&#34;&gt;Apresentando seu trabalho&lt;/a&gt;, e apresentado seu trabalho pelo menos uma vez antes de começar a escrever. A apresentação é essencial para o amadurecimento das suas ideias, e a identificação de pontos que precisam ser bem explicados no artigo ou tese.&lt;/p&gt;
+      <guid>https://pauloborba.github.io/post/escrevendo-seu-trabalho/</guid>
+      <description>&lt;p&gt;Antes de tudo, você já deve ter visto &lt;a href=&#34;https://pauloborba.github.io/post/apresentando-seu-trabalho/&#34;&gt;Apresentando seu trabalho&lt;/a&gt;, e apresentado seu trabalho pelo menos uma vez antes de começar a escrever. A apresentação é essencial para o amadurecimento das suas ideias, e a identificação de pontos que precisam ser bem explicados no artigo ou tese.&lt;/p&gt;
 &lt;p&gt;A qualidade da escrita do seu trabalho é tão importante quanto a qualidade do mesmo. Capriche na preparação!&lt;/p&gt;
 &lt;p&gt;Considere fortemente fazer um curso sobre o assunto. Recomendo fortemente &lt;a href=&#34;https://docs.google.com/document/d/1_vBXbugoLjO171w3wovs3ugmRQI-O6EcSVFDBF7eUzE/edit#heading=h.sgfiu451dqjh&#34; target=&#34;_blank&#34;&gt;Writing and Speaking with Style&lt;/a&gt;, de Benjamin C. Pierce e Rajeev Alur.&lt;/p&gt;
 &lt;h4 id=&#34;preparativos-iniciais&#34;&gt;Preparativos iniciais&lt;/h4&gt;
@@ -51,7 +51,7 @@ These studies have also investigated ways in which conflicts can be prevented ea
 &lt;p&gt;Use maiúsculas para referenciar uma seção ou figura numerada (in Section X, in Figure Y), e minúsculas caso contrário (in this section, in the previously mentioned figure).&lt;/p&gt;
 &lt;p&gt;Leia dicas de escrita (&lt;a href=&#34;https://clairelegoues.com/posts/clg-writing-rules.html&#34; target=&#34;_blank&#34;&gt;de Claire Le Goues&lt;/a&gt;, de &lt;a href=&#34;https://philippleitner.medium.com/some-frequent-writing-tips-i-give-software-engineering-thesis-students-da2acab30381&#34; target=&#34;_blank&#34;&gt;
 Philipp Leitner&lt;/a&gt;, e &lt;a href=&#34;https://capra.cs.cornell.edu/styleguide&#34; target=&#34;_blank&#34;&gt;do grupo de pesquisa Capra&lt;/a&gt;) que casam bastante com o meu estilo (exceto a sugestão de usar &amp;ldquo;e.g.&amp;rdquo; e &amp;ldquo;i.e.&amp;rdquo;; por favor, evite).&lt;/p&gt;
-&lt;p&gt;Veja dicas para formatação de &lt;a href=&#34;guide-tables.pdf&#34;&gt;tabelas&lt;/a&gt; e &lt;a href=&#34;https://johnwickerson.wordpress.com/2019/11/01/graphs-in-pl-papers/&#34; target=&#34;_blank&#34;&gt;gráficos&lt;/a&gt;. Sobre essa referência de gráficos, o resumo é o seguinte: &amp;ldquo;&lt;i&gt;normalised data should usually be plotted on a logarithmic scale, and scatter plots can be easier to understand than bar charts&lt;/i&gt;&amp;rdquo;. Use &lt;a href=&#34;https://wellcomeopenresearch.org/articles/4-63&#34; target=&#34;_blank&#34;&gt;&lt;i&gt;raincloud plots&lt;/i&gt;&lt;/a&gt; ao invés de &lt;i&gt;box plots&lt;/i&gt;, &lt;i&gt;bean plots&lt;/i&gt; ou &lt;i&gt;violin plots&lt;/i&gt;. Os &lt;a href=&#34;https://en.wikipedia.org/wiki/Sankey_diagram&#34; target=&#34;_blank&#34;&gt;diagramas de Sankey&lt;/a&gt; podem ser uma boa opção para ilustrar como uma dada medida (por exemplo, falsos positivos) são quebradas em categorias. Alternativamente, ilustre como a Figura 4 &lt;a href=&#34;http://localhost:1313/publication/2020detecting_semantic_conflicts_via_automated_behavior_change_detection/&#34;&gt;neste artigo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Veja dicas para formatação de &lt;a href=&#34;guide-tables.pdf&#34;&gt;tabelas&lt;/a&gt; e &lt;a href=&#34;https://johnwickerson.wordpress.com/2019/11/01/graphs-in-pl-papers/&#34; target=&#34;_blank&#34;&gt;gráficos&lt;/a&gt;. Sobre essa referência de gráficos, o resumo é o seguinte: &amp;ldquo;&lt;i&gt;normalised data should usually be plotted on a logarithmic scale, and scatter plots can be easier to understand than bar charts&lt;/i&gt;&amp;rdquo;. Use &lt;a href=&#34;https://wellcomeopenresearch.org/articles/4-63&#34; target=&#34;_blank&#34;&gt;&lt;i&gt;raincloud plots&lt;/i&gt;&lt;/a&gt; ao invés de &lt;i&gt;box plots&lt;/i&gt;, &lt;i&gt;bean plots&lt;/i&gt; ou &lt;i&gt;violin plots&lt;/i&gt;. Os &lt;a href=&#34;https://en.wikipedia.org/wiki/Sankey_diagram&#34; target=&#34;_blank&#34;&gt;diagramas de Sankey&lt;/a&gt; podem ser uma boa opção para ilustrar como uma dada medida (por exemplo, falsos positivos) são quebradas em categorias. Alternativamente, ilustre como a Figura 4 &lt;a href=&#34;https://pauloborba.github.io/publication/2020detecting_semantic_conflicts_via_automated_behavior_change_detection/&#34;&gt;neste artigo&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Use um &lt;i&gt;spell checker&lt;/i&gt;! Considere usar uma ferramenta (como &lt;a href=&#34;https://www.grammarly.com&#34; target=&#34;_blank&#34;&gt;Grammarly&lt;/a&gt; ou &lt;a href=&#34;https://openai.com/blog/chatgpt/&#34; target=&#34;_blank&#34;&gt;ChatGPT&lt;/a&gt;) para revisar o seu texto. Considere usar uma ferramenta (como &lt;a href=&#34;https://paperreview.ai&#34; target=&#34;_blank&#34;&gt;Stanford Agentic Reviewer&lt;/a&gt;) para gerar uma revisão de artigo; não assuma que tudo que ela relata é verdade! Não usando uma ferramenta dessas, use &lt;a href=&#34;http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates&#34; target=&#34;_blank&#34;&gt;scripts para melhorar a qualidade de textos em inglês&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;script para detecção de Weasel Words
@@ -233,8 +233,9 @@ while (1) {
 &lt;p&gt;É fundamental dar destaque para os financiadores e colaboradores nos artigos, apresentações, posters, software e produtos em geral.&lt;/p&gt;
 &lt;p&gt;Nos artigos, colocar algo como &amp;ldquo;For partially supporting this work, we would like to thank INES.IA (National Institute of Science and Technology for Software Engineering Based on and for Artificial Intelligence) &lt;a href=&#34;https://www.ines.org.br&#34; target=&#34;_blank&#34;&gt;www.ines.org.br&lt;/a&gt;, and CNPq grants 408817/ 2024-0, 401032/ 2025-6 and 311292/ 2026-7.&amp;rdquo; Verificar os números atuais com seu orientador. É importante colocar também os números dos processos dos projetos do qual você obteve algum tipo de financiamento.&lt;/p&gt;
 &lt;p&gt;Agradecer aos membros do Software Productivity Group e, especificamente, a quem lhe ajudou (revisou seu artigo, implementou algo para você, indicou referências, fez perguntas importantes, deu uma idéia mesmo que você já tenha tido-a) ou deu dicas e sugestões para a melhoria do seu trabalho.&lt;/p&gt;
-&lt;h4 id=&#34;adicione-parágrafo-sobre-questões-éticas-de-pesquisa&#34;&gt;Adicione parágrafo sobre questões éticas de pesquisa&lt;/h4&gt;
+&lt;h4 id=&#34;adicione-parágrafo-sobre-questões-éticas-de-pesquisa-e-ia&#34;&gt;Adicione parágrafo sobre questões éticas de pesquisa e IA&lt;/h4&gt;
 &lt;p&gt;Inclua no seu artigo um parágrafo explicando como a pesquisa relatada no artigo lidou com questões éticas relacionadas aos experimentos realizados ou dados utilizados. Descreva com precisão os procedimentos adotados: se houve submissão ao CEP (informando o CAAE correspondente) ou se o estudo se enquadra em alguma das dispensas previstas na legislação vigente; como foram tratados o consentimento dos participantes, a anonimização ou pseudonimização dos dados, o controle de acesso e o armazenamento seguro; e, se dados públicos foram utilizados, porque isso não dispensa cuidados éticos e como a compatibilidade do reuso respeita a LGPD.&lt;/p&gt;
+&lt;p&gt;Verifique as regras vigentes (MEC, UFPE, evento e periódico) sobre a necessidade de informar para que e como você usou LLMs e agentes. Atualmente, o MEC exige que seja informado; se formos publicar num veículo internacional que dispensa a informação sobre uso de IA, devemos colocar apenas no &lt;a href=&#34;https://pauloborba.github.io/post/divulgando-resultados-de-pesquisa/&#34;&gt;apêndice online&lt;/a&gt; (que deve conter o material necessário para replicar o estudo) do artigo.&lt;/p&gt;
 </description>
     </item>
     

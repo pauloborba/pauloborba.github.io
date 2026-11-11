@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -38,7 +38,7 @@ focar nas tarefas que lhe interessam mais (por causa do impacto, retorno, etc.) 
 são as que eu acho mais importantes e procurei fazer (e me arrependo de quando não fiz! como ter pulado algumas férias&hellip;) ao longo da minha carreira.">
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/comecando-carreira-academica/">
+  <link rel="alternate" hreflang="en-us" href="https://pauloborba.github.io/post/comecando-carreira-academica/">
 
   
 
@@ -98,6 +98,42 @@ são as que eu acho mais importantes e procurei fazer (e me arrependo de quando 
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131899020-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-131899020-1', { 'anonymize_ip': true });
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -107,7 +143,7 @@ são as que eu acho mais importantes e procurei fazer (e me arrependo de quando 
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="http://localhost:1313/post/comecando-carreira-academica/">
+  <link rel="canonical" href="https://pauloborba.github.io/post/comecando-carreira-academica/">
 
   
   
@@ -122,7 +158,7 @@ são as que eu acho mais importantes e procurei fazer (e me arrependo de quando 
   <meta property="twitter:creator" content="@pauloborba">
   
   <meta property="og:site_name" content="Paulo Borba">
-  <meta property="og:url" content="http://localhost:1313/post/comecando-carreira-academica/">
+  <meta property="og:url" content="https://pauloborba.github.io/post/comecando-carreira-academica/">
   <meta property="og:title" content="Começando uma carreira acadêmica | Paulo Borba">
   <meta property="og:description" content="Leia How to live in paradise, de David Evans. Esse texto traz muitas dicas interessantes para resumir aqui, mas
 
@@ -131,8 +167,8 @@ reservar blocos de tempo na agenda para leitura e criação,
 caprichar muito na preparação de aulas e no cuidado e atenção com os alunos, e
 focar nas tarefas que lhe interessam mais (por causa do impacto, retorno, etc.) e que você é capaz de trazer um diferencial maior (outra pessoa não poderia fazer com nível similar de qualidade)
 
-são as que eu acho mais importantes e procurei fazer (e me arrependo de quando não fiz! como ter pulado algumas férias&hellip;) ao longo da minha carreira."><meta property="og:image" content="http://localhost:1313/post/comecando-carreira-academica/featured.png">
-  <meta property="twitter:image" content="http://localhost:1313/post/comecando-carreira-academica/featured.png"><meta property="og:locale" content="en-us">
+são as que eu acho mais importantes e procurei fazer (e me arrependo de quando não fiz! como ter pulado algumas férias&hellip;) ao longo da minha carreira."><meta property="og:image" content="https://pauloborba.github.io/post/comecando-carreira-academica/featured.png">
+  <meta property="twitter:image" content="https://pauloborba.github.io/post/comecando-carreira-academica/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2024-01-04T14:35:19-03:00">
@@ -163,12 +199,12 @@ são as que eu acho mais importantes e procurei fazer (e me arrependo de quando 
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/post/comecando-carreira-academica/"
+    "@id": "https://pauloborba.github.io/post/comecando-carreira-academica/"
   },
   "headline": "Começando uma carreira acadêmica",
   
   "image": [
-    "http://localhost:1313/post/comecando-carreira-academica/featured.png"
+    "https://pauloborba.github.io/post/comecando-carreira-academica/featured.png"
   ],
   
   "datePublished": "2024-01-04T14:35:19-03:00",
@@ -184,7 +220,7 @@ são as que eu acho mais importantes e procurei fazer (e me arrependo de quando 
     "name": "Paulo Borba",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/img/icon-512.png"
+      "url": "https://pauloborba.github.io/img/icon-512.png"
     }
   },
   "description": "\u003cp\u003eLeia \u003ca href=\"https://www.cs.virginia.edu/~evans/paradise/\" target=\"_blank\"\u003eHow to live in paradise\u003c/a\u003e, de David Evans. Esse texto traz muitas dicas interessantes para resumir aqui, mas\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003etirar férias,\u003c/li\u003e\n\u003cli\u003ereservar blocos de tempo na agenda para leitura e criação,\u003c/li\u003e\n\u003cli\u003ecaprichar muito na preparação de aulas e no cuidado e atenção com os alunos, e\u003c/li\u003e\n\u003cli\u003efocar nas tarefas que lhe interessam mais (por causa do impacto, retorno, etc.) e que você é capaz de trazer um diferencial maior (outra pessoa não poderia fazer com nível similar de qualidade)\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003esão as que eu acho mais importantes e procurei fazer (e me arrependo de quando não fiz! como ter pulado algumas férias\u0026hellip;) ao longo da minha carreira.\u003c/p\u003e"
@@ -695,7 +731,7 @@ são as que eu acho mais importantes e procurei fazer (e me arrependo de quando 
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http://localhost:1313/post/comecando-carreira-academica/&amp;text=Come%c3%a7ando%20uma%20carreira%20acad%c3%aamica" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://pauloborba.github.io/post/comecando-carreira-academica/&amp;text=Come%c3%a7ando%20uma%20carreira%20acad%c3%aamica" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -708,7 +744,7 @@ são as que eu acho mais importantes e procurei fazer (e me arrependo de quando 
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http://localhost:1313/post/comecando-carreira-academica/&amp;t=Come%c3%a7ando%20uma%20carreira%20acad%c3%aamica" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://pauloborba.github.io/post/comecando-carreira-academica/&amp;t=Come%c3%a7ando%20uma%20carreira%20acad%c3%aamica" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -721,7 +757,7 @@ são as que eu acho mais importantes e procurei fazer (e me arrependo de quando 
       
       
       <li>
-        <a href="mailto:?subject=Come%c3%a7ando%20uma%20carreira%20acad%c3%aamica&amp;body=http://localhost:1313/post/comecando-carreira-academica/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Come%c3%a7ando%20uma%20carreira%20acad%c3%aamica&amp;body=https://pauloborba.github.io/post/comecando-carreira-academica/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -734,7 +770,7 @@ são as que eu acho mais importantes e procurei fazer (e me arrependo de quando 
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http://localhost:1313/post/comecando-carreira-academica/&amp;title=Come%c3%a7ando%20uma%20carreira%20acad%c3%aamica" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://pauloborba.github.io/post/comecando-carreira-academica/&amp;title=Come%c3%a7ando%20uma%20carreira%20acad%c3%aamica" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -747,7 +783,7 @@ são as que eu acho mais importantes e procurei fazer (e me arrependo de quando 
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Come%c3%a7ando%20uma%20carreira%20acad%c3%aamica%20http://localhost:1313/post/comecando-carreira-academica/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Come%c3%a7ando%20uma%20carreira%20acad%c3%aamica%20https://pauloborba.github.io/post/comecando-carreira-academica/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -760,7 +796,7 @@ são as que eu acho mais importantes e procurei fazer (e me arrependo de quando 
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http://localhost:1313/post/comecando-carreira-academica/&amp;title=Come%c3%a7ando%20uma%20carreira%20acad%c3%aamica" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://pauloborba.github.io/post/comecando-carreira-academica/&amp;title=Come%c3%a7ando%20uma%20carreira%20acad%c3%aamica" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -799,7 +835,7 @@ são as que eu acho mais importantes e procurei fazer (e me arrependo de quando 
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="http://localhost:1313/">Paulo Borba</a></h5>
+      <h5 class="card-title"><a href="https://pauloborba.github.io/">Paulo Borba</a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">

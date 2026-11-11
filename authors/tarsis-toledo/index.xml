@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Társis Tolêdo | Paulo Borba</title>
-    <link>http://localhost:1313/authors/tarsis-toledo/</link>
-      <atom:link href="http://localhost:1313/authors/tarsis-toledo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pauloborba.github.io/authors/tarsis-toledo/</link>
+      <atom:link href="https://pauloborba.github.io/authors/tarsis-toledo/index.xml" rel="self" type="application/rss+xml" />
     <description>Társis Tolêdo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/foto2019.jpg</url>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Társis Tolêdo</title>
-      <link>http://localhost:1313/authors/tarsis-toledo/</link>
+      <link>https://pauloborba.github.io/authors/tarsis-toledo/</link>
     </image>
     
     <item>
       <title>On the impact of feature dependencies when maintaining preprocessor-based software product lines</title>
-      <link>http://localhost:1313/publication/2011on_the_impact_of_feature_dependencies_when_maintaining_preprocessor-based_software_product_lines/</link>
+      <link>https://pauloborba.github.io/publication/2011on_the_impact_of_feature_dependencies_when_maintaining_preprocessor-based_software_product_lines/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2011on_the_impact_of_feature_dependencies_when_maintaining_preprocessor-based_software_product_lines/</guid>
+      <guid>https://pauloborba.github.io/publication/2011on_the_impact_of_feature_dependencies_when_maintaining_preprocessor-based_software_product_lines/</guid>
       <description></description>
     </item>
     

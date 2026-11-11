@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexandre Mota | Paulo Borba</title>
-    <link>http://localhost:1313/authors/alexandre-mota/</link>
-      <atom:link href="http://localhost:1313/authors/alexandre-mota/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pauloborba.github.io/authors/alexandre-mota/</link>
+      <atom:link href="https://pauloborba.github.io/authors/alexandre-mota/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexandre Mota</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/foto2019.jpg</url>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Alexandre Mota</title>
-      <link>http://localhost:1313/authors/alexandre-mota/</link>
+      <link>https://pauloborba.github.io/authors/alexandre-mota/</link>
     </image>
     
     <item>
       <title>Brazil test center research group</title>
-      <link>http://localhost:1313/publication/2007brazil_test_center_research_group/</link>
+      <link>https://pauloborba.github.io/publication/2007brazil_test_center_research_group/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2007brazil_test_center_research_group/</guid>
+      <guid>https://pauloborba.github.io/publication/2007brazil_test_center_research_group/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Proving aspect-oriented programming laws</title>
-      <link>http://localhost:1313/publication/2005proving_aspect-oriented_programming_laws/</link>
+      <link>https://pauloborba.github.io/publication/2005proving_aspect-oriented_programming_laws/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2005proving_aspect-oriented_programming_laws/</guid>
+      <guid>https://pauloborba.github.io/publication/2005proving_aspect-oriented_programming_laws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mechanical abstraction of CSP-Z processes</title>
-      <link>http://localhost:1313/publication/2002mechanical_abstraction_of_csp-z_processes/</link>
+      <link>https://pauloborba.github.io/publication/2002mechanical_abstraction_of_csp-z_processes/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2002mechanical_abstraction_of_csp-z_processes/</guid>
+      <guid>https://pauloborba.github.io/publication/2002mechanical_abstraction_of_csp-z_processes/</guid>
       <description></description>
     </item>
     

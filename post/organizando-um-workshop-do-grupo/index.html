@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -66,7 +66,7 @@ Organizar os horários das apresentações na planilha juntamente com o título 
 ">
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/organizando-um-workshop-do-grupo/">
+  <link rel="alternate" hreflang="en-us" href="https://pauloborba.github.io/post/organizando-um-workshop-do-grupo/">
 
   
 
@@ -126,6 +126,42 @@ Organizar os horários das apresentações na planilha juntamente com o título 
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131899020-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-131899020-1', { 'anonymize_ip': true });
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -135,7 +171,7 @@ Organizar os horários das apresentações na planilha juntamente com o título 
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="http://localhost:1313/post/organizando-um-workshop-do-grupo/">
+  <link rel="canonical" href="https://pauloborba.github.io/post/organizando-um-workshop-do-grupo/">
 
   
   
@@ -150,7 +186,7 @@ Organizar os horários das apresentações na planilha juntamente com o título 
   <meta property="twitter:creator" content="@pauloborba">
   
   <meta property="og:site_name" content="Paulo Borba">
-  <meta property="og:url" content="http://localhost:1313/post/organizando-um-workshop-do-grupo/">
+  <meta property="og:url" content="https://pauloborba.github.io/post/organizando-um-workshop-do-grupo/">
   <meta property="og:title" content="Organizando um Workshop de um Grupo de Pesquisa | Paulo Borba">
   <meta property="og:description" content="Segue a lista de atividades que normalmente seguimos para organizar os workshops do grupo:
 
@@ -187,8 +223,8 @@ Criar uma planilha com a programação do evento seguindo este modelo ou similar
 
 Organizar os horários das apresentações na planilha juntamente com o título e o líder da apresentação
 
-"><meta property="og:image" content="http://localhost:1313/post/organizando-um-workshop-do-grupo/featured.png">
-  <meta property="twitter:image" content="http://localhost:1313/post/organizando-um-workshop-do-grupo/featured.png"><meta property="og:locale" content="en-us">
+"><meta property="og:image" content="https://pauloborba.github.io/post/organizando-um-workshop-do-grupo/featured.png">
+  <meta property="twitter:image" content="https://pauloborba.github.io/post/organizando-um-workshop-do-grupo/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2025-12-03T18:05:08-03:00">
@@ -219,12 +255,12 @@ Organizar os horários das apresentações na planilha juntamente com o título 
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/post/organizando-um-workshop-do-grupo/"
+    "@id": "https://pauloborba.github.io/post/organizando-um-workshop-do-grupo/"
   },
   "headline": "Organizando um Workshop de um Grupo de Pesquisa",
   
   "image": [
-    "http://localhost:1313/post/organizando-um-workshop-do-grupo/featured.png"
+    "https://pauloborba.github.io/post/organizando-um-workshop-do-grupo/featured.png"
   ],
   
   "datePublished": "2025-12-03T18:05:08-03:00",
@@ -240,7 +276,7 @@ Organizar os horários das apresentações na planilha juntamente com o título 
     "name": "Paulo Borba",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/img/icon-512.png"
+      "url": "https://pauloborba.github.io/img/icon-512.png"
     }
   },
   "description": "\u003cp\u003eSegue a lista de atividades que normalmente seguimos para organizar os workshops do grupo:\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003ePerguntar no slack do grupo quem pode ajudar com a organização do workshop\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eDefinir um responsável por cada item desta lista\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eDefinir a data e horário do workshop\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eReservar a sala para o workshop\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eEnviar mensagem no slack do grupo perguntando quem deseja apresentar, e se há limitação de horário para a apresentação\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cul\u003e\n\u003cli\u003ePessoal, sobre o evento que iremos realizar, por favor, registrem como resposta a esta mensagem o título (tema, ferramenta, artigo, etc.) da sua apresentação e qualquer restrição de horário que você tenha para o workshop do dia X. Obrigado!\u003c/li\u003e\n\u003cli\u003eProvocar pessoas que deveriam apresentar mas não responderam\u003c/li\u003e\n\u003c/ul\u003e\n\u003col\u003e\n\u003cli\u003eEnviar mensagem no slack do grupo dando orientações sobre a participação no evento\u003c/li\u003e\n\u003c/ol\u003e\n\u003cul\u003e\n\u003cli\u003ePessoal, no dia X, a ideia é que todos participem o maior tempo possível das apresentações, não vá só lá para fazer a sua apresentação e sair, senão a gente perde o propósito principal do evento, que é a troca de ideias e a interação entre os projetos relacionados. Claro que se houver uma aula importante ou uma atividade importante do estágio e trabalho, a pessoa vai ter que dar uma fugida, mas, podendo escapar disso, melhor\u003c/li\u003e\n\u003c/ul\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eCriar uma planilha com a programação do evento seguindo este \u003ca href=\"https://docs.google.com/spreadsheets/d/1ipeb377ovh5kbMwvn6Hfio-y6-qpPVP9upxPKOKqBFQ/edit?usp=drivesdk\" target=\"_blank\"\u003emodelo\u003c/a\u003e ou similar\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eOrganizar os horários das apresentações na planilha juntamente com o título e o líder da apresentação\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ol\u003e"
@@ -833,7 +869,7 @@ Organizar os horários das apresentações na planilha juntamente com o título 
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http://localhost:1313/post/organizando-um-workshop-do-grupo/&amp;text=Organizando%20um%20Workshop%20de%20um%20Grupo%20de%20Pesquisa" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://pauloborba.github.io/post/organizando-um-workshop-do-grupo/&amp;text=Organizando%20um%20Workshop%20de%20um%20Grupo%20de%20Pesquisa" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -846,7 +882,7 @@ Organizar os horários das apresentações na planilha juntamente com o título 
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http://localhost:1313/post/organizando-um-workshop-do-grupo/&amp;t=Organizando%20um%20Workshop%20de%20um%20Grupo%20de%20Pesquisa" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://pauloborba.github.io/post/organizando-um-workshop-do-grupo/&amp;t=Organizando%20um%20Workshop%20de%20um%20Grupo%20de%20Pesquisa" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -859,7 +895,7 @@ Organizar os horários das apresentações na planilha juntamente com o título 
       
       
       <li>
-        <a href="mailto:?subject=Organizando%20um%20Workshop%20de%20um%20Grupo%20de%20Pesquisa&amp;body=http://localhost:1313/post/organizando-um-workshop-do-grupo/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Organizando%20um%20Workshop%20de%20um%20Grupo%20de%20Pesquisa&amp;body=https://pauloborba.github.io/post/organizando-um-workshop-do-grupo/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -872,7 +908,7 @@ Organizar os horários das apresentações na planilha juntamente com o título 
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http://localhost:1313/post/organizando-um-workshop-do-grupo/&amp;title=Organizando%20um%20Workshop%20de%20um%20Grupo%20de%20Pesquisa" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://pauloborba.github.io/post/organizando-um-workshop-do-grupo/&amp;title=Organizando%20um%20Workshop%20de%20um%20Grupo%20de%20Pesquisa" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -885,7 +921,7 @@ Organizar os horários das apresentações na planilha juntamente com o título 
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Organizando%20um%20Workshop%20de%20um%20Grupo%20de%20Pesquisa%20http://localhost:1313/post/organizando-um-workshop-do-grupo/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Organizando%20um%20Workshop%20de%20um%20Grupo%20de%20Pesquisa%20https://pauloborba.github.io/post/organizando-um-workshop-do-grupo/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -898,7 +934,7 @@ Organizar os horários das apresentações na planilha juntamente com o título 
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http://localhost:1313/post/organizando-um-workshop-do-grupo/&amp;title=Organizando%20um%20Workshop%20de%20um%20Grupo%20de%20Pesquisa" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://pauloborba.github.io/post/organizando-um-workshop-do-grupo/&amp;title=Organizando%20um%20Workshop%20de%20um%20Grupo%20de%20Pesquisa" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -937,7 +973,7 @@ Organizar os horários das apresentações na planilha juntamente com o título 
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="http://localhost:1313/">Paulo Borba</a></h5>
+      <h5 class="card-title"><a href="https://pauloborba.github.io/">Paulo Borba</a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">

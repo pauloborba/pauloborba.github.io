@@ -2,149 +2,149 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks and Podcasts | Paulo Borba</title>
-    <link>http://localhost:1313/talk/</link>
-      <atom:link href="http://localhost:1313/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pauloborba.github.io/talk/</link>
+      <atom:link href="https://pauloborba.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks and Podcasts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
     <image>
-      <url>http://localhost:1313/img/foto2019.jpg</url>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Talks and Podcasts</title>
-      <link>http://localhost:1313/talk/</link>
+      <link>https://pauloborba.github.io/talk/</link>
     </image>
     
     <item>
       <title>Qual o impacto da IA na Educação em Engenharia de Software?</title>
-      <link>http://localhost:1313/talk/ai-impact-on-se-education/</link>
+      <link>https://pauloborba.github.io/talk/ai-impact-on-se-education/</link>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/ai-impact-on-se-education/</guid>
+      <guid>https://pauloborba.github.io/talk/ai-impact-on-se-education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IA além do código: agencialidade, qualidade e o novo papel do desenvolvedor</title>
-      <link>http://localhost:1313/talk/ia-alem-do-codigo/</link>
+      <link>https://pauloborba.github.io/talk/ia-alem-do-codigo/</link>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/ia-alem-do-codigo/</guid>
+      <guid>https://pauloborba.github.io/talk/ia-alem-do-codigo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Silvio e o CIn como ele é...</title>
-      <link>http://localhost:1313/talk/silvio-e-o-cin-como-ele-e/</link>
+      <link>https://pauloborba.github.io/talk/silvio-e-o-cin-como-ele-e/</link>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/silvio-e-o-cin-como-ele-e/</guid>
+      <guid>https://pauloborba.github.io/talk/silvio-e-o-cin-como-ele-e/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IA para Engenharia de Software e Engenharia de Software para IA</title>
-      <link>http://localhost:1313/talk/ia-para-es-e-es-para-ia/</link>
+      <link>https://pauloborba.github.io/talk/ia-para-es-e-es-para-ia/</link>
       <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/ia-para-es-e-es-para-ia/</guid>
+      <guid>https://pauloborba.github.io/talk/ia-para-es-e-es-para-ia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mitos e Realidades no Desenvolvimento de Software com IA</title>
-      <link>http://localhost:1313/talk/mitos-e-realidades-desenvolvimento-sw-ia/</link>
+      <link>https://pauloborba.github.io/talk/mitos-e-realidades-desenvolvimento-sw-ia/</link>
       <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/mitos-e-realidades-desenvolvimento-sw-ia/</guid>
+      <guid>https://pauloborba.github.io/talk/mitos-e-realidades-desenvolvimento-sw-ia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modularidade, Componentes, Arquitetura e Reuso de Software: de Parnas aos LLMs</title>
-      <link>http://localhost:1313/talk/modularity-cars/</link>
+      <link>https://pauloborba.github.io/talk/modularity-cars/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/modularity-cars/</guid>
+      <guid>https://pauloborba.github.io/talk/modularity-cars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research and Publication Practices and Strategies</title>
-      <link>http://localhost:1313/talk/research-practices-and-strategy/</link>
+      <link>https://pauloborba.github.io/talk/research-practices-and-strategy/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/research-practices-and-strategy/</guid>
+      <guid>https://pauloborba.github.io/talk/research-practices-and-strategy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Desmistificando a IA na Medicina</title>
-      <link>http://localhost:1313/talk/ia-na-medicina/</link>
+      <link>https://pauloborba.github.io/talk/ia-na-medicina/</link>
       <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/ia-na-medicina/</guid>
+      <guid>https://pauloborba.github.io/talk/ia-na-medicina/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quero mesmo ser Pesquisador?</title>
-      <link>http://localhost:1313/talk/quero-ser-pesquisador/</link>
+      <link>https://pauloborba.github.io/talk/quero-ser-pesquisador/</link>
       <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/quero-ser-pesquisador/</guid>
+      <guid>https://pauloborba.github.io/talk/quero-ser-pesquisador/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Como uma Máquina Aprende a Conversar: Conhecendo o ChatGPT para Crianças</title>
-      <link>http://localhost:1313/talk/como-uma-maquina-aprende-a-conversar/</link>
+      <link>https://pauloborba.github.io/talk/como-uma-maquina-aprende-a-conversar/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/como-uma-maquina-aprende-a-conversar/</guid>
+      <guid>https://pauloborba.github.io/talk/como-uma-maquina-aprende-a-conversar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>É o fim da programação?</title>
-      <link>http://localhost:1313/talk/e-o-fim-da-programacao/</link>
+      <link>https://pauloborba.github.io/talk/e-o-fim-da-programacao/</link>
       <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/e-o-fim-da-programacao/</guid>
+      <guid>https://pauloborba.github.io/talk/e-o-fim-da-programacao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impactos da Inteligência Artificial na Sociedade</title>
-      <link>http://localhost:1313/talk/impactos-da-ia-na-sociedade/</link>
+      <link>https://pauloborba.github.io/talk/impactos-da-ia-na-sociedade/</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/impactos-da-ia-na-sociedade/</guid>
+      <guid>https://pauloborba.github.io/talk/impactos-da-ia-na-sociedade/</guid>
       <description></description>
     </item>
     
     <item>
       <title>O fim da programação, de novo!</title>
-      <link>http://localhost:1313/talk/o-fim-da-programacao-de-novo/</link>
+      <link>https://pauloborba.github.io/talk/o-fim-da-programacao-de-novo/</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/o-fim-da-programacao-de-novo/</guid>
+      <guid>https://pauloborba.github.io/talk/o-fim-da-programacao-de-novo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>O Fim da Programação: impactos da IA na programação</title>
-      <link>http://localhost:1313/talk/impactos-da-ia-na-programacao/</link>
+      <link>https://pauloborba.github.io/talk/impactos-da-ia-na-programacao/</link>
       <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/impactos-da-ia-na-programacao/</guid>
+      <guid>https://pauloborba.github.io/talk/impactos-da-ia-na-programacao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estratégias de Publicação</title>
-      <link>http://localhost:1313/talk/estrategias-para-publicacoes/</link>
+      <link>https://pauloborba.github.io/talk/estrategias-para-publicacoes/</link>
       <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/estrategias-para-publicacoes/</guid>
+      <guid>https://pauloborba.github.io/talk/estrategias-para-publicacoes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modularidade de Software</title>
-      <link>http://localhost:1313/talk/modularidade-de-software/</link>
+      <link>https://pauloborba.github.io/talk/modularidade-de-software/</link>
       <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/modularidade-de-software/</guid>
+      <guid>https://pauloborba.github.io/talk/modularidade-de-software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Em Busca de Maior Simplicidade e Confiabilidade no Processo de Integração de Código</title>
-      <link>http://localhost:1313/talk/simplicidade-e-confiabilidade-integracao-de-codigo/</link>
+      <link>https://pauloborba.github.io/talk/simplicidade-e-confiabilidade-integracao-de-codigo/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/simplicidade-e-confiabilidade-integracao-de-codigo/</guid>
+      <guid>https://pauloborba.github.io/talk/simplicidade-e-confiabilidade-integracao-de-codigo/</guid>
       <description></description>
     </item>
     

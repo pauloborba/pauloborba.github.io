@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -31,7 +31,7 @@
   <meta name="description" content="Paulo Borba&#39;s (Paulo Henrique Monteiro Borba) home page">
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/">
+  <link rel="alternate" hreflang="en-us" href="https://pauloborba.github.io/">
 
   
 
@@ -91,6 +91,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131899020-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-131899020-1', { 'anonymize_ip': true });
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -102,7 +138,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="http://localhost:1313/">
+  <link rel="canonical" href="https://pauloborba.github.io/">
 
   
   
@@ -117,10 +153,10 @@
   <meta property="twitter:creator" content="@pauloborba">
   
   <meta property="og:site_name" content="Paulo Borba">
-  <meta property="og:url" content="http://localhost:1313/">
+  <meta property="og:url" content="https://pauloborba.github.io/">
   <meta property="og:title" content="Paulo Borba">
-  <meta property="og:description" content="Paulo Borba&#39;s (Paulo Henrique Monteiro Borba) home page"><meta property="og:image" content="http://localhost:1313/img/foto2019.jpg">
-  <meta property="twitter:image" content="http://localhost:1313/img/foto2019.jpg"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Paulo Borba&#39;s (Paulo Henrique Monteiro Borba) home page"><meta property="og:image" content="https://pauloborba.github.io/img/foto2019.jpg">
+  <meta property="twitter:image" content="https://pauloborba.github.io/img/foto2019.jpg"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2026-09-11T00:00:00&#43;00:00">
   
@@ -133,10 +169,10 @@
   "@type": "WebSite",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "http://localhost:1313/?q={search_term_string}",
+    "target": "https://pauloborba.github.io/?q={search_term_string}",
     "query-input": "required name=search_term_string"
   },
-  "url": "http://localhost:1313/"
+  "url": "https://pauloborba.github.io/"
 }
 </script>
 
@@ -1104,7 +1140,7 @@ I co-founded <a href="http://www.qualiti.com.br" target="_blank">Qualiti Softwar
   <div class="col-12 col-lg-8">
 
     <p>Here I list my latest publications.
-The full list is available <a href="http://localhost:1313/publication/">here</a>.
+The full list is available <a href="https://pauloborba.github.io/publication/">here</a>.
 You can also check my publication lists at <a href="http://dblp.uni-trier.de/pers/hd/b/Borba:Paulo" target="_blank">DBLP</a>, <a href="https://scholar.google.com.br/citations?hl=en&amp;view_op=list_works&amp;gmla=AJsN-F5mUBqaWHkc_zcDiTPftyojsxa-Z9O8F9sehSwZmAxzR_OeiwoQIPQdgxFeG-bdh1XuHZ7ibOQlgePGyxPRl6iWLDkQ_Q&amp;user=PpRDLgcAAAAJ" target="_blank">Google Scholar</a>, <a href="https://www.semanticscholar.org/author/Paulo-Borba/144505000" target="_blank">Semantic Scholar</a>, <a href="https://orcid.org/0000-0002-0381-2843" target="_blank">ORCID</a>, <a href="https://www.scopus.com/authid/detail.uri?authorId=6603640441" target="_blank">Scopus</a> and <a href="https://www.webofscience.com/wos/author/record/C-5617-2013" target="_blank">Web of Science</a>.</p>
 
 
@@ -1829,7 +1865,7 @@ You can also check my publication lists at <a href="http://dblp.uni-trier.de/per
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    8 min read
+    9 min read
   </span>
   
 
@@ -1955,7 +1991,7 @@ You can also check my publication lists at <a href="http://dblp.uni-trier.de/per
 <p><a href="https://classroom.google.com/u/0/c/Mzc0NzYxMjU0NDNa" target="_blank">2019-2</a>
 (please email or chat for class code)</p>
 <p>An advanced undergraduate and graduate level course discussing code integration tools and techniques, including different kinds of merge tools (textual, syntactic, semantic), continuous integration and deployment, and integration conflict prediction. We discuss a number of research papers and technical blog posts, and students carry on an empirical study to either replicate one of the discussed studies or answer related research questions.</p>
-<p><a href="http://localhost:1313/courses/oldercourses/">OTHER COURSES &gt;</a></p>
+<p><a href="https://pauloborba.github.io/courses/oldercourses/">OTHER COURSES &gt;</a></p>
 
     </div>
   

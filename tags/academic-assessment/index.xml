@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic assessment | Paulo Borba</title>
-    <link>http://localhost:1313/tags/academic-assessment/</link>
-      <atom:link href="http://localhost:1313/tags/academic-assessment/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pauloborba.github.io/tags/academic-assessment/</link>
+      <atom:link href="https://pauloborba.github.io/tags/academic-assessment/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic assessment</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 09 Nov 2019 17:02:46 -0300</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/foto2019.jpg</url>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Academic assessment</title>
-      <link>http://localhost:1313/tags/academic-assessment/</link>
+      <link>https://pauloborba.github.io/tags/academic-assessment/</link>
     </image>
     
     <item>
       <title>Academic rankings</title>
-      <link>http://localhost:1313/post/academic-rankings/</link>
+      <link>https://pauloborba.github.io/post/academic-rankings/</link>
       <pubDate>Sat, 09 Nov 2019 17:02:46 -0300</pubDate>
-      <guid>http://localhost:1313/post/academic-rankings/</guid>
+      <guid>https://pauloborba.github.io/post/academic-rankings/</guid>
       <description>&lt;p&gt;I do not like academic rankings.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://cacm.acm.org/magazines/2016/9/206263-academic-rankings-considered-harmful/fulltext#.V735Hbwc1Ck.twitter&#34; target=&#34;_blank&#34;&gt;Academic Rankings Considered Harmful!&lt;/a&gt; clearly summarises ideas I believe in: &amp;ldquo;An academic decision is typically a multi-objective optimization problem, in which the objective function is highly personal. A unidimensional ranking provides a seductively easy objective function to optimize. Yet such decision making ignores the complex interplay between individual preferences and programs&amp;rsquo; unique patterns of strengths and weaknesses. Decision making by ranking is decision making by lazy minds, I believe&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;I especially like its summary: &amp;ldquo;Academic rankings are harmful, I believe. We have a responsibility to better inform the public, by ceasing to play the ranking games and by providing the public with relevant information&amp;rdquo;.&lt;/p&gt;

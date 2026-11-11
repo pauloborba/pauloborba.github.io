@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simone Santos | Paulo Borba</title>
-    <link>http://localhost:1313/authors/simone-santos/</link>
-      <atom:link href="http://localhost:1313/authors/simone-santos/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pauloborba.github.io/authors/simone-santos/</link>
+      <atom:link href="https://pauloborba.github.io/authors/simone-santos/index.xml" rel="self" type="application/rss+xml" />
     <description>Simone Santos</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/foto2019.jpg</url>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Simone Santos</title>
-      <link>http://localhost:1313/authors/simone-santos/</link>
+      <link>https://pauloborba.github.io/authors/simone-santos/</link>
     </image>
     
     <item>
       <title>PBL no ensino de testes de software: uma experiência prática</title>
-      <link>http://localhost:1313/publication/2011pbl_no_ensino_de_testes_de_software__uma_experiencia_pratica/</link>
+      <link>https://pauloborba.github.io/publication/2011pbl_no_ensino_de_testes_de_software__uma_experiencia_pratica/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2011pbl_no_ensino_de_testes_de_software__uma_experiencia_pratica/</guid>
+      <guid>https://pauloborba.github.io/publication/2011pbl_no_ensino_de_testes_de_software__uma_experiencia_pratica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using PBL to Develop Software Test Engineers</title>
-      <link>http://localhost:1313/publication/2011using_pbl_to_develop_software_test_engineers/</link>
+      <link>https://pauloborba.github.io/publication/2011using_pbl_to_develop_software_test_engineers/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2011using_pbl_to_develop_software_test_engineers/</guid>
+      <guid>https://pauloborba.github.io/publication/2011using_pbl_to_develop_software_test_engineers/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rodrigo Mendonça | Paulo Borba</title>
-    <link>http://localhost:1313/authors/rodrigo-mendonca/</link>
-      <atom:link href="http://localhost:1313/authors/rodrigo-mendonca/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pauloborba.github.io/authors/rodrigo-mendonca/</link>
+      <atom:link href="https://pauloborba.github.io/authors/rodrigo-mendonca/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo Mendonça</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/foto2019.jpg</url>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Rodrigo Mendonça</title>
-      <link>http://localhost:1313/authors/rodrigo-mendonca/</link>
+      <link>https://pauloborba.github.io/authors/rodrigo-mendonca/</link>
     </image>
     
     <item>
       <title>IA além do código: agencialidade, qualidade e o novo papel do desenvolvedor</title>
-      <link>http://localhost:1313/talk/ia-alem-do-codigo/</link>
+      <link>https://pauloborba.github.io/talk/ia-alem-do-codigo/</link>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/ia-alem-do-codigo/</guid>
+      <guid>https://pauloborba.github.io/talk/ia-alem-do-codigo/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses | Paulo Borba</title>
-    <link>http://localhost:1313/courses/</link>
-      <atom:link href="http://localhost:1313/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pauloborba.github.io/courses/</link>
+      <atom:link href="https://pauloborba.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 27 Nov 2019 16:02:46 -0300</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/foto2019.jpg</url>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Courses</title>
-      <link>http://localhost:1313/courses/</link>
+      <link>https://pauloborba.github.io/courses/</link>
     </image>
     
     <item>
       <title>Other courses</title>
-      <link>http://localhost:1313/courses/oldercourses/</link>
+      <link>https://pauloborba.github.io/courses/oldercourses/</link>
       <pubDate>Wed, 27 Nov 2019 16:02:46 -0300</pubDate>
-      <guid>http://localhost:1313/courses/oldercourses/</guid>
+      <guid>https://pauloborba.github.io/courses/oldercourses/</guid>
       <description>&lt;p&gt;Here are older courses I have taught.&lt;/p&gt;
 &lt;h5 id=&#34;introduction-to-programming&#34;&gt;&lt;a href=&#34;https://www.cin.ufpe.br/~phmb/ip/index.htm&#34; target=&#34;_blank&#34;&gt;Introduction to Programming&lt;/a&gt;&lt;/h5&gt;
 &lt;blockquote&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heitor Carmo | Paulo Borba</title>
-    <link>http://localhost:1313/authors/heitor-carmo/</link>
-      <atom:link href="http://localhost:1313/authors/heitor-carmo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pauloborba.github.io/authors/heitor-carmo/</link>
+      <atom:link href="https://pauloborba.github.io/authors/heitor-carmo/index.xml" rel="self" type="application/rss+xml" />
     <description>Heitor Carmo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/foto2019.jpg</url>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Heitor Carmo</title>
-      <link>http://localhost:1313/authors/heitor-carmo/</link>
+      <link>https://pauloborba.github.io/authors/heitor-carmo/</link>
     </image>
     
     <item>
       <title>Comparative Analysis of Porting Strategies in Mobile Device Games</title>
-      <link>http://localhost:1313/publication/2005comparative_analysis_of_porting_strategies_in_mobile_device_games/</link>
+      <link>https://pauloborba.github.io/publication/2005comparative_analysis_of_porting_strategies_in_mobile_device_games/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2005comparative_analysis_of_porting_strategies_in_mobile_device_games/</guid>
+      <guid>https://pauloborba.github.io/publication/2005comparative_analysis_of_porting_strategies_in_mobile_device_games/</guid>
       <description></description>
     </item>
     

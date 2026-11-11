@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Paulo Borba</title>
-    <link>http://localhost:1313/tags/</link>
-      <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pauloborba.github.io/tags/</link>
+      <atom:link href="https://pauloborba.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 11 Jul 2022 14:21:14 -0400</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/foto2019.jpg</url>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Tags</title>
-      <link>http://localhost:1313/tags/</link>
+      <link>https://pauloborba.github.io/tags/</link>
     </image>
     
   </channel>

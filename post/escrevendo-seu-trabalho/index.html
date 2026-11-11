@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -33,7 +33,7 @@ A qualidade da escrita do seu trabalho é tão importante quanto a qualidade do 
 Considere fortemente fazer um curso sobre o assunto. Recomendo fortemente Writing and Speaking with Style, de Benjamin C. Pierce e Rajeev Alur.">
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/escrevendo-seu-trabalho/">
+  <link rel="alternate" hreflang="en-us" href="https://pauloborba.github.io/post/escrevendo-seu-trabalho/">
 
   
 
@@ -93,6 +93,42 @@ Considere fortemente fazer um curso sobre o assunto. Recomendo fortemente Writin
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131899020-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-131899020-1', { 'anonymize_ip': true });
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -102,7 +138,7 @@ Considere fortemente fazer um curso sobre o assunto. Recomendo fortemente Writin
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="http://localhost:1313/post/escrevendo-seu-trabalho/">
+  <link rel="canonical" href="https://pauloborba.github.io/post/escrevendo-seu-trabalho/">
 
   
   
@@ -117,12 +153,12 @@ Considere fortemente fazer um curso sobre o assunto. Recomendo fortemente Writin
   <meta property="twitter:creator" content="@pauloborba">
   
   <meta property="og:site_name" content="Paulo Borba">
-  <meta property="og:url" content="http://localhost:1313/post/escrevendo-seu-trabalho/">
+  <meta property="og:url" content="https://pauloborba.github.io/post/escrevendo-seu-trabalho/">
   <meta property="og:title" content="Escrevendo seu trabalho | Paulo Borba">
   <meta property="og:description" content="Antes de tudo, você já deve ter visto Apresentando seu trabalho, e apresentado seu trabalho pelo menos uma vez antes de começar a escrever. A apresentação é essencial para o amadurecimento das suas ideias, e a identificação de pontos que precisam ser bem explicados no artigo ou tese.
 A qualidade da escrita do seu trabalho é tão importante quanto a qualidade do mesmo. Capriche na preparação!
-Considere fortemente fazer um curso sobre o assunto. Recomendo fortemente Writing and Speaking with Style, de Benjamin C. Pierce e Rajeev Alur."><meta property="og:image" content="http://localhost:1313/post/escrevendo-seu-trabalho/featured.png">
-  <meta property="twitter:image" content="http://localhost:1313/post/escrevendo-seu-trabalho/featured.png"><meta property="og:locale" content="en-us">
+Considere fortemente fazer um curso sobre o assunto. Recomendo fortemente Writing and Speaking with Style, de Benjamin C. Pierce e Rajeev Alur."><meta property="og:image" content="https://pauloborba.github.io/post/escrevendo-seu-trabalho/featured.png">
+  <meta property="twitter:image" content="https://pauloborba.github.io/post/escrevendo-seu-trabalho/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2022-12-27T11:36:09-03:00">
@@ -153,12 +189,12 @@ Considere fortemente fazer um curso sobre o assunto. Recomendo fortemente Writin
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/post/escrevendo-seu-trabalho/"
+    "@id": "https://pauloborba.github.io/post/escrevendo-seu-trabalho/"
   },
   "headline": "Escrevendo seu trabalho",
   
   "image": [
-    "http://localhost:1313/post/escrevendo-seu-trabalho/featured.png"
+    "https://pauloborba.github.io/post/escrevendo-seu-trabalho/featured.png"
   ],
   
   "datePublished": "2022-12-27T11:36:09-03:00",
@@ -174,7 +210,7 @@ Considere fortemente fazer um curso sobre o assunto. Recomendo fortemente Writin
     "name": "Paulo Borba",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/img/icon-512.png"
+      "url": "https://pauloborba.github.io/img/icon-512.png"
     }
   },
   "description": "\u003cp\u003eAntes de tudo, você já deve ter visto \u003ca href=\"/post/apresentando-seu-trabalho/\"\u003eApresentando seu trabalho\u003c/a\u003e, e apresentado seu trabalho pelo menos uma vez antes de começar a escrever. A apresentação é essencial para o amadurecimento das suas ideias, e a identificação de pontos que precisam ser bem explicados no artigo ou tese.\u003c/p\u003e\n\u003cp\u003eA qualidade da escrita do seu trabalho é tão importante quanto a qualidade do mesmo. Capriche na preparação!\u003c/p\u003e\n\u003cp\u003eConsidere fortemente fazer um curso sobre o assunto. Recomendo fortemente \u003ca href=\"https://docs.google.com/document/d/1_vBXbugoLjO171w3wovs3ugmRQI-O6EcSVFDBF7eUzE/edit#heading=h.sgfiu451dqjh\" target=\"_blank\"\u003eWriting and Speaking with Style\u003c/a\u003e, de Benjamin C. Pierce e Rajeev Alur.\u003c/p\u003e"
@@ -863,8 +899,9 @@ while (1) {
 <p>É fundamental dar destaque para os financiadores e colaboradores nos artigos, apresentações, posters, software e produtos em geral.</p>
 <p>Nos artigos, colocar algo como &ldquo;For partially supporting this work, we would like to thank INES.IA (National Institute of Science and Technology for Software Engineering Based on and for Artificial Intelligence) <a href="https://www.ines.org.br" target="_blank">www.ines.org.br</a>, and CNPq grants 408817/ 2024-0, 401032/ 2025-6 and 311292/ 2026-7.&rdquo; Verificar os números atuais com seu orientador. É importante colocar também os números dos processos dos projetos do qual você obteve algum tipo de financiamento.</p>
 <p>Agradecer aos membros do Software Productivity Group e, especificamente, a quem lhe ajudou (revisou seu artigo, implementou algo para você, indicou referências, fez perguntas importantes, deu uma idéia mesmo que você já tenha tido-a) ou deu dicas e sugestões para a melhoria do seu trabalho.</p>
-<h4 id="adicione-parágrafo-sobre-questões-éticas-de-pesquisa">Adicione parágrafo sobre questões éticas de pesquisa</h4>
+<h4 id="adicione-parágrafo-sobre-questões-éticas-de-pesquisa-e-ia">Adicione parágrafo sobre questões éticas de pesquisa e IA</h4>
 <p>Inclua no seu artigo um parágrafo explicando como a pesquisa relatada no artigo lidou com questões éticas relacionadas aos experimentos realizados ou dados utilizados. Descreva com precisão os procedimentos adotados: se houve submissão ao CEP (informando o CAAE correspondente) ou se o estudo se enquadra em alguma das dispensas previstas na legislação vigente; como foram tratados o consentimento dos participantes, a anonimização ou pseudonimização dos dados, o controle de acesso e o armazenamento seguro; e, se dados públicos foram utilizados, porque isso não dispensa cuidados éticos e como a compatibilidade do reuso respeita a LGPD.</p>
+<p>Verifique as regras vigentes (MEC, UFPE, evento e periódico) sobre a necessidade de informar para que e como você usou LLMs e agentes. Atualmente, o MEC exige que seja informado; se formos publicar num veículo internacional que dispensa a informação sobre uso de IA, devemos colocar apenas no <a href="/post/divulgando-resultados-de-pesquisa/">apêndice online</a> (que deve conter o material necessário para replicar o estudo) do artigo.</p>
 
     </div>
 
@@ -885,7 +922,7 @@ while (1) {
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http://localhost:1313/post/escrevendo-seu-trabalho/&amp;text=Escrevendo%20seu%20trabalho" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://pauloborba.github.io/post/escrevendo-seu-trabalho/&amp;text=Escrevendo%20seu%20trabalho" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -898,7 +935,7 @@ while (1) {
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http://localhost:1313/post/escrevendo-seu-trabalho/&amp;t=Escrevendo%20seu%20trabalho" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://pauloborba.github.io/post/escrevendo-seu-trabalho/&amp;t=Escrevendo%20seu%20trabalho" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -911,7 +948,7 @@ while (1) {
       
       
       <li>
-        <a href="mailto:?subject=Escrevendo%20seu%20trabalho&amp;body=http://localhost:1313/post/escrevendo-seu-trabalho/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Escrevendo%20seu%20trabalho&amp;body=https://pauloborba.github.io/post/escrevendo-seu-trabalho/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -924,7 +961,7 @@ while (1) {
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http://localhost:1313/post/escrevendo-seu-trabalho/&amp;title=Escrevendo%20seu%20trabalho" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://pauloborba.github.io/post/escrevendo-seu-trabalho/&amp;title=Escrevendo%20seu%20trabalho" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -937,7 +974,7 @@ while (1) {
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Escrevendo%20seu%20trabalho%20http://localhost:1313/post/escrevendo-seu-trabalho/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Escrevendo%20seu%20trabalho%20https://pauloborba.github.io/post/escrevendo-seu-trabalho/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -950,7 +987,7 @@ while (1) {
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http://localhost:1313/post/escrevendo-seu-trabalho/&amp;title=Escrevendo%20seu%20trabalho" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://pauloborba.github.io/post/escrevendo-seu-trabalho/&amp;title=Escrevendo%20seu%20trabalho" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -989,7 +1026,7 @@ while (1) {
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="http://localhost:1313/">Paulo Borba</a></h5>
+      <h5 class="card-title"><a href="https://pauloborba.github.io/">Paulo Borba</a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">

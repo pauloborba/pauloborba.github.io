@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marco Valente | Paulo Borba</title>
-    <link>http://localhost:1313/authors/marco-valente/</link>
-      <atom:link href="http://localhost:1313/authors/marco-valente/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pauloborba.github.io/authors/marco-valente/</link>
+      <atom:link href="https://pauloborba.github.io/authors/marco-valente/index.xml" rel="self" type="application/rss+xml" />
     <description>Marco Valente</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/foto2019.jpg</url>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Marco Valente</title>
-      <link>http://localhost:1313/authors/marco-valente/</link>
+      <link>https://pauloborba.github.io/authors/marco-valente/</link>
     </image>
     
     <item>
       <title>The AOSD Research Community in Brazil and Its Crosscutting Impact</title>
-      <link>http://localhost:1313/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</link>
+      <link>https://pauloborba.github.io/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</guid>
+      <guid>https://pauloborba.github.io/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</guid>
       <description></description>
     </item>
     

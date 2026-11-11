@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Iran Rodrigues | Paulo Borba</title>
-    <link>http://localhost:1313/authors/iran-rodrigues/</link>
-      <atom:link href="http://localhost:1313/authors/iran-rodrigues/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pauloborba.github.io/authors/iran-rodrigues/</link>
+      <atom:link href="https://pauloborba.github.io/authors/iran-rodrigues/index.xml" rel="self" type="application/rss+xml" />
     <description>Iran Rodrigues</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/foto2019.jpg</url>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Iran Rodrigues</title>
-      <link>http://localhost:1313/authors/iran-rodrigues/</link>
+      <link>https://pauloborba.github.io/authors/iran-rodrigues/</link>
     </image>
     
     <item>
       <title>Assessing fine-grained feature dependencies</title>
-      <link>http://localhost:1313/publication/2016assessing_fine-grained_feature_dependencies/</link>
+      <link>https://pauloborba.github.io/publication/2016assessing_fine-grained_feature_dependencies/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2016assessing_fine-grained_feature_dependencies/</guid>
+      <guid>https://pauloborba.github.io/publication/2016assessing_fine-grained_feature_dependencies/</guid>
       <description></description>
     </item>
     

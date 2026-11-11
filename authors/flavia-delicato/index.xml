@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Flavia Delicato | Paulo Borba</title>
-    <link>http://localhost:1313/authors/flavia-delicato/</link>
-      <atom:link href="http://localhost:1313/authors/flavia-delicato/index.xml" rel="self" type="application/rss+xml" />
-    <description>Flavia Delicato</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <title>Flávia Delicato | Paulo Borba</title>
+    <link>https://pauloborba.github.io/authors/flavia-delicato/</link>
+      <atom:link href="https://pauloborba.github.io/authors/flavia-delicato/index.xml" rel="self" type="application/rss+xml" />
+    <description>Flávia Delicato</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/foto2019.jpg</url>
-      <title>Flavia Delicato</title>
-      <link>http://localhost:1313/authors/flavia-delicato/</link>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
+      <title>Flávia Delicato</title>
+      <link>https://pauloborba.github.io/authors/flavia-delicato/</link>
     </image>
     
     <item>
-      <title>The AOSD Research Community in Brazil and Its Crosscutting Impact</title>
-      <link>http://localhost:1313/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2011the_aosd_research_community_in_brazil_and_its_crosscutting_impact/</guid>
+      <title>The crosscutting impact of the AOSD Brazilian research community</title>
+      <link>https://pauloborba.github.io/publication/2013the_crosscutting_impact_of_the_aosd_brazilian_research_community/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pauloborba.github.io/publication/2013the_crosscutting_impact_of_the_aosd_brazilian_research_community/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Awais Rashid | Paulo Borba</title>
-    <link>http://localhost:1313/authors/awais-rashid/</link>
-      <atom:link href="http://localhost:1313/authors/awais-rashid/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pauloborba.github.io/authors/awais-rashid/</link>
+      <atom:link href="https://pauloborba.github.io/authors/awais-rashid/index.xml" rel="self" type="application/rss+xml" />
     <description>Awais Rashid</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/foto2019.jpg</url>
+      <url>https://pauloborba.github.io/img/foto2019.jpg</url>
       <title>Awais Rashid</title>
-      <link>http://localhost:1313/authors/awais-rashid/</link>
+      <link>https://pauloborba.github.io/authors/awais-rashid/</link>
     </image>
     
     <item>
       <title>On the Contributions of an End-to-End AOSD Testbed</title>
-      <link>http://localhost:1313/publication/2007on_the_contributions_of_an_end-to-end_aosd_testbed/</link>
+      <link>https://pauloborba.github.io/publication/2007on_the_contributions_of_an_end-to-end_aosd_testbed/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2007on_the_contributions_of_an_end-to-end_aosd_testbed/</guid>
+      <guid>https://pauloborba.github.io/publication/2007on_the_contributions_of_an_end-to-end_aosd_testbed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On The Design of an End-to-End AOSD Testbed for Software Stability</title>
-      <link>http://localhost:1313/publication/2007on_the_design_of_an_end-to-end_aosd_testbed_for_software_stability/</link>
+      <link>https://pauloborba.github.io/publication/2007on_the_design_of_an_end-to-end_aosd_testbed_for_software_stability/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2007on_the_design_of_an_end-to-end_aosd_testbed_for_software_stability/</guid>
+      <guid>https://pauloborba.github.io/publication/2007on_the_design_of_an_end-to-end_aosd_testbed_for_software_stability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Impact of Aspectual Decompositions on Design Stability: An Empirical Study</title>
-      <link>http://localhost:1313/publication/2007on_the_impact_of_aspectual_decompositions_on_design_stability__an_empirical_study/</link>
+      <link>https://pauloborba.github.io/publication/2007on_the_impact_of_aspectual_decompositions_on_design_stability__an_empirical_study/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2007on_the_impact_of_aspectual_decompositions_on_design_stability__an_empirical_study/</guid>
+      <guid>https://pauloborba.github.io/publication/2007on_the_impact_of_aspectual_decompositions_on_design_stability__an_empirical_study/</guid>
       <description></description>
     </item>
     
